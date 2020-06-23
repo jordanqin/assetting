@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material" />
       <item value="frozen" />
       <item value="Regions" />
       <item value="* A place for everything, and everything in its place." />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
