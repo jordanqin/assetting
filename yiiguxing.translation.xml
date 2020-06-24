@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mediator" />
+      <item value="Concatenates the specified string to the end of this string." />
+      <item value="concat" />
       <item value="material" />
       <item value="frozen" />
       <item value="Regions" />
@@ -40,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
