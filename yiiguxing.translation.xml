@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Installation via USB is disabled." />
       <item value="does" />
       <item value="Mediator" />
       <item value="Concatenates the specified string to the end of this string." />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
