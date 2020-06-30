@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tagging" />
       <item value="校验" />
       <item value="check" />
       <item value="owner" />
@@ -50,7 +51,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
