@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pull" />
       <item value="Message" />
       <item value="Client" />
       <item value="see" />
@@ -50,12 +51,11 @@
       <item value="region" />
       <item value="Way" />
       <item value="Proper" />
-      <item value="temporary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
