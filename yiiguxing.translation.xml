@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blockquote" />
       <item value="Simple" />
       <item value="pull" />
       <item value="Message" />
@@ -50,12 +51,11 @@
       <item value="Circuit" />
       <item value="foundation" />
       <item value="region" />
-      <item value="Way" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
