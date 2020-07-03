@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Forbidden" />
       <item value="blockquote" />
       <item value="Simple" />
       <item value="pull" />
@@ -50,12 +51,11 @@
       <item value="Circuit Breaker Denied" />
       <item value="Circuit" />
       <item value="foundation" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
