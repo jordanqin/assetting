@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Region" />
+      <item value="User Agent" />
+      <item value="accelerate" />
+      <item value="Client configuration options such as timeout settings, protocol string, max * retry attempts, etc." />
+      <item value="Returns QCloudCredentials which the caller can use to authorize an QCloud * request. Each implementation of QCloudCredentialsProvider can chose its own * strategy for loading credentials. For example, an implementation might * load credentials from an existing key management system, or load new * credentials when credentials are rotated." />
+      <item value="Credential" />
+      <item value="Provider" />
+      <item value="Credentials" />
+      <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature." />
       <item value="Start" />
       <item value="Forbidden" />
       <item value="blockquote" />
@@ -42,20 +51,11 @@
       <item value="Back" />
       <item value="arrow" />
       <item value="slim" />
-      <item value="Quic" />
-      <item value="Slim" />
-      <item value="Credential" />
-      <item value="Signer" />
-      <item value="Traffic" />
-      <item value="Traffic Control" />
-      <item value="Retry" />
-      <item value="Circuit Breaker Denied" />
-      <item value="Circuit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
