@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set cosPath for Abort Multi upload." />
       <item value="Scope" />
       <item value="Multipart" />
       <item value="Signer" />
@@ -50,12 +51,11 @@
       <item value="download" />
       <item value="Truncated" />
       <item value="folder" />
-      <item value="选择照片" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
       </map>
