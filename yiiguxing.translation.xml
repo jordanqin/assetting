@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Copyright" />
+      <item value="According to cos feature, we modify some class，comment, field name, etc." />
+      <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;). * You may not use this file except in compliance with the License. * A copy of the License is located at * * http://aws.amazon.com/apache2.0 * * or in the &quot;license&quot; file accompanying this file. This file is distributed * on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either * express or implied. See the License for the specific language governing * permissions and limitations under the License. * According to cos feature, we modify some class，comment, field name, etc." />
       <item value="set cosPath for Abort Multi upload." />
       <item value="Scope" />
       <item value="Multipart" />
@@ -48,14 +51,11 @@
       <item value="INHERIT" />
       <item value="Transfer" />
       <item value="pattern" />
-      <item value="download" />
-      <item value="Truncated" />
-      <item value="folder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
       </map>
