@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid values: private, public-read. The default is private." />
+      <item value="Allow users to define file permissions." />
       <item value="Uin" />
       <item value="owner" />
       <item value="Account" />
@@ -49,13 +51,11 @@
       <item value="Indicator" />
       <item value="Action" />
       <item value="dashboard" />
-      <item value="annotation Processor" />
-      <item value="Injector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
