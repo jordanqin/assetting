@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multipart" />
+      <item value="Signer" />
+      <item value="credential" />
+      <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature." />
       <item value="Region" />
       <item value="User Agent" />
       <item value="accelerate" />
@@ -9,7 +13,6 @@
       <item value="Credential" />
       <item value="Provider" />
       <item value="Credentials" />
-      <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature." />
       <item value="Start" />
       <item value="Forbidden" />
       <item value="blockquote" />
@@ -48,15 +51,12 @@
       <item value="folder" />
       <item value="选择照片" />
       <item value="UPLOAD" />
-      <item value="Back" />
-      <item value="arrow" />
-      <item value="slim" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
-        <entry key="FRENCH" value="1" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
