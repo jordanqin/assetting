@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transfer" />
+      <item value="CONSTRAINED" />
       <item value="Part" />
       <item value="Input" />
       <item value="Slim" />
@@ -49,13 +51,11 @@
       <item value="Message" />
       <item value="Client" />
       <item value="see" />
-      <item value="daily" />
-      <item value="Tagging" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
