@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the offset position, measured in bytes from the * beginning of the file, at which to set the file * pointer." />
+      <item value="offset" />
       <item value="Transfer" />
       <item value="CONSTRAINED" />
       <item value="Part" />
@@ -49,13 +51,11 @@
       <item value="Simple" />
       <item value="pull" />
       <item value="Message" />
-      <item value="Client" />
-      <item value="see" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
