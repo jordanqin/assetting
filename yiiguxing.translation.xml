@@ -1,8 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Monitor" />
+      <item value="accelerate" />
       <item value="internal" />
+      <item value="new state for operating" />
+      <item value="Metrics" />
+      <item value="Listener" />
+      <item value="Safely" />
+      <item value="Monitor" />
+      <item value="division" />
+      <item value="Transform" />
       <item value="the offset position, measured in bytes from the * beginning of the file, at which to set the file * pointer." />
       <item value="offset" />
       <item value="Transfer" />
@@ -41,21 +48,14 @@
       <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature." />
       <item value="Region" />
       <item value="User Agent" />
-      <item value="accelerate" />
       <item value="Client configuration options such as timeout settings, protocol string, max * retry attempts, etc." />
       <item value="Returns QCloudCredentials which the caller can use to authorize an QCloud * request. Each implementation of QCloudCredentialsProvider can chose its own * strategy for loading credentials. For example, an implementation might * load credentials from an existing key management system, or load new * credentials when credentials are rotated." />
       <item value="Credential" />
-      <item value="Provider" />
-      <item value="Credentials" />
-      <item value="Start" />
-      <item value="Forbidden" />
-      <item value="blockquote" />
-      <item value="Simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
