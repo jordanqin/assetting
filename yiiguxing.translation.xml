@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Presigned" />
+      <item value="Builder" />
+      <item value="Client configuration options such as timeout settings, protocol string, max * retry attempts, etc" />
       <item value="An interface representing a data checksum." />
       <item value="Compression" />
       <item value="Parquet" />
@@ -48,14 +51,11 @@
       <item value="cos android sdk version information" />
       <item value="Duplicate" />
       <item value="Frequency" />
-      <item value="region" />
-      <item value="Rule" />
-      <item value="Grant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
