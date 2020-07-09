@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WEIGHT" />
+      <item value="Addition" />
+      <item value="Weight" />
+      <item value="Priority" />
       <item value="Presigned" />
       <item value="Builder" />
       <item value="Client configuration options such as timeout settings, protocol string, max * retry attempts, etc" />
@@ -47,15 +51,11 @@
       <item value="Slim" />
       <item value="Digest" />
       <item value="Date" />
-      <item value="Quietly" />
-      <item value="cos android sdk version information" />
-      <item value="Duplicate" />
-      <item value="Frequency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="4" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
