@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lifecycle" />
       <item value="passed-in" />
       <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature" />
       <item value="Raw" />
@@ -50,12 +51,11 @@
       <item value="Copyright" />
       <item value="According to cos feature, we modify some class，comment, field name, etc." />
       <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;). * You may not use this file except in compliance with the License. * A copy of the License is located at * * http://aws.amazon.com/apache2.0 * * or in the &quot;license&quot; file accompanying this file. This file is distributed * on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either * express or implied. See the License for the specific language governing * permissions and limitations under the License. * According to cos feature, we modify some class，comment, field name, etc." />
-      <item value="set cosPath for Abort Multi upload." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
