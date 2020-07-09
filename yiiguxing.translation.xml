@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Source" />
+      <item value="authorization" />
       <item value="Credentials" />
       <item value="STS" />
       <item value="Scope" />
@@ -49,13 +51,11 @@
       <item value="The action is performed if the Etag of Object is different from the given one, * otherwise error code 412 will be returned. * It can be used with x-cos-copy-source-If-Modified-Since. * Using it with other conditions can cause a conflict." />
       <item value="valid values: private, public-read. The default is private." />
       <item value="Allow users to define file permissions." />
-      <item value="Uin" />
-      <item value="owner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
