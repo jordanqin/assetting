@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identifier" />
       <item value="COMMAND" />
       <item value="Cancels the task of loading and displaying image for incoming &lt;b&gt;imageAware&lt;/b&gt;." />
       <item value="Changes the priority of this thread. * &lt;p&gt; * First the &lt;code&gt;checkAccess&lt;/code&gt; method of this thread is called * with no arguments. This may result in throwing a * &lt;code&gt;SecurityException&lt;/code&gt;. * &lt;p&gt; * Otherwise, the priority of this thread is set to the smaller of * the specified &lt;code&gt;newPriority&lt;/code&gt; and the maximum permitted * priority of the thread's thread group." />
@@ -50,13 +51,12 @@
       <item value="new state for operating" />
       <item value="Metrics" />
       <item value="Listener" />
-      <item value="Safely" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
+        <entry key="CHINESE" value="166" />
         <entry key="ENGLISH" value="166" />
-        <entry key="FRENCH" value="4" />
+        <entry key="FRENCH" value="5" />
         <entry key="LATIN" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
