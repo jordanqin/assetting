@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credential scope" />
       <item value="no" />
       <item value="Metrics" />
       <item value="helper" />
@@ -50,12 +51,11 @@
       <item value="Scope" />
       <item value="Sign the given request with the given set of credentials. Modifies the * passed-in request to apply the signature" />
       <item value="Credential" />
-      <item value="Provider" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
