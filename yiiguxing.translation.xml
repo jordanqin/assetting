@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="From" />
+      <item value="With" />
       <item value="Malformed" />
       <item value="Thumbnail" />
       <item value="A collections of methods to work with Date objects" />
@@ -49,13 +51,11 @@
       <item value="Parquet" />
       <item value="Describes how a CSV-formatted input object is formatted" />
       <item value="Operations" />
-      <item value="Source" />
-      <item value="authorization" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
