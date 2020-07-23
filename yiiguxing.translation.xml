@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="项目" />
       <item value="byte array decode failure" />
       <item value="Failure" />
       <item value="From" />
@@ -50,11 +51,10 @@
       <item value="Client configuration options such as timeout settings, protocol string, max * retry attempts, etc" />
       <item value="An interface representing a data checksum." />
       <item value="Compression" />
-      <item value="Parquet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
+        <entry key="CHINESE" value="190" />
         <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
