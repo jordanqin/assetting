@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Malformed" />
       <item value="项目" />
       <item value="byte array decode failure" />
       <item value="Failure" />
       <item value="From" />
       <item value="With" />
-      <item value="Malformed" />
       <item value="Thumbnail" />
       <item value="A collections of methods to work with Date objects" />
       <item value="Face" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
