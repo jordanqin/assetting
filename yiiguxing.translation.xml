@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Downsamples, decodes, and rotates images according to their exif orientation using {@link * BitmapFactory}." />
       <item value="Bean" />
       <item value="original" />
       <item value="原始" />
@@ -50,12 +51,11 @@
       <item value="Loading" />
       <item value="WEIGHT" />
       <item value="Addition" />
-      <item value="Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
