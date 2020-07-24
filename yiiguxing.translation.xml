@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bean" />
       <item value="original" />
       <item value="原始" />
       <item value="Denotes that a parameter, field or method return value can be null. * &lt;p&gt; * When decorating a method call parameter, this denotes that the parameter can * legitimately be null and the method will gracefully deal with it. Typically * used on optional parameters. * &lt;p&gt; * When decorating a method, this denotes the method might legitimately return * null." />
@@ -50,12 +51,11 @@
       <item value="WEIGHT" />
       <item value="Addition" />
       <item value="Weight" />
-      <item value="Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
