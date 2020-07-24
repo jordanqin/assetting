@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="original" />
+      <item value="原始" />
       <item value="Denotes that a parameter, field or method return value can be null. * &lt;p&gt; * When decorating a method call parameter, this denotes that the parameter can * legitimately be null and the method will gracefully deal with it. Typically * used on optional parameters. * &lt;p&gt; * When decorating a method, this denotes the method might legitimately return * null." />
       <item value="Denotes that the annotated method returns a result that it typically is * an error to ignore. This is usually used for methods that have no side effect, * so calling it without actually looking at the result usually means the developer * has misunderstood what the method does." />
       <item value="Weak" />
@@ -49,13 +51,11 @@
       <item value="Addition" />
       <item value="Weight" />
       <item value="Priority" />
-      <item value="Presigned" />
-      <item value="Builder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
