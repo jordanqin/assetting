@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Note that while some implementations of {@code InputStream} will return * the total number of bytes in the stream, many will not. It is * never correct to use the return value of this method to allocate * a buffer intended to hold all data in this stream." />
+      <item value="Returns an estimate of the number of bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. The next invocation * might be the same thread or another thread. A single read or skip of this * many bytes will not block, but may read or skip fewer bytes." />
+      <item value="Decoders should make a best effort attempt to quickly determine if they are likely to be * able to decode data, but should not attempt to completely read the given data. A typical * implementation would check the file headers verify they match content the decoder expects to * handle (i.e. a GIF decoder should verify that the image contains the GIF header block." />
+      <item value="Returns {@code true} if this decoder is capable of decoding the given source with the given * options, and {@code false} otherwise." />
+      <item value="A map of string keys to objects that may or may not contain options available to * this particular implementation. Implementations should not assume that any or all of their * option keys are present. However, implementations may assume that if one of their option * keys is present, it's value is non-null and is of the expected type." />
+      <item value="Note - The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
+      <item value="The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
+      <item value="The {@code source} is managed by the caller, there's no need to close it. The returned * {@link Resource} will be {@link Resource#recycle() released} when the engine sees fit." />
       <item value="Interface for an array pool that pools arrays of different types." />
       <item value="The type the resource will be decoded from (File, InputStream etc)." />
       <item value="Downsamples, decodes, and rotates images according to their exif orientation using {@link * BitmapFactory}." />
@@ -43,19 +51,11 @@
       <item value="Cancels the task of loading and displaying image for incoming &lt;b&gt;imageAware&lt;/b&gt;." />
       <item value="Changes the priority of this thread. * &lt;p&gt; * First the &lt;code&gt;checkAccess&lt;/code&gt; method of this thread is called * with no arguments. This may result in throwing a * &lt;code&gt;SecurityException&lt;/code&gt;. * &lt;p&gt; * Otherwise, the priority of this thread is set to the smaller of * the specified &lt;code&gt;newPriority&lt;/code&gt; and the maximum permitted * priority of the thread's thread group." />
       <item value="priority" />
-      <item value="snapshot" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="parallel" />
-      <item value="Round" />
-      <item value="Is called when image loading task was cancelled because View for image was reused in newer task" />
-      <item value="Is called when image is loaded successfully (and displayed in View if one was specified)" />
-      <item value="View for image" />
-      <item value="Loading" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
