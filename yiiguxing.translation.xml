@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LibraryGlideModules are called in no defined order. If LibraryGlideModules within an * application conflict, {@link AppGlideModule}s can use the {@link * com.bumptech.glide.annotation.Excludes} annotation to selectively remove one or more of the * conflicting modules." />
+      <item value="Any number of LibraryGlideModules can be contained within any library or application." />
+      <item value="Registers a set of components to use when initializing Glide within an app when Glide's * annotation processor is used." />
       <item value="Alternate" />
       <item value="The primary reason this object is exposed is for use in custom {@link * com.bumptech.glide.load.ResourceDecoder}s and {@link com.bumptech.glide.load.Transformation}s. * Use outside of these classes is not generally recommended" />
       <item value="To make effective use of the pool, any {@link android.graphics.Bitmap} removed from * the pool must eventually be re-added. Otherwise the pool will eventually empty and will not * serve any useful purpose." />
@@ -48,14 +51,11 @@
       <item value="补充" />
       <item value="初始化" />
       <item value="Denotes that a parameter, field or method return value can never be null. * &lt;p&gt; * This is a marker annotation and it has no specific attributes." />
-      <item value="Complete" />
-      <item value="evict" />
-      <item value="Invoke-customs are only supported starting with Android O" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="ITALIAN" value="1" />
