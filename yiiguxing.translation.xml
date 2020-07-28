@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="默认" />
+      <item value="No Zoom" />
+      <item value="不" />
+      <item value="Non" />
       <item value="轮廓" />
       <item value="侧面" />
       <item value="宽高" />
@@ -47,18 +51,14 @@
       <item value="A collections of methods to work with Date objects" />
       <item value="Face" />
       <item value="to" />
-      <item value="credential scope" />
-      <item value="no" />
-      <item value="Metrics" />
-      <item value="helper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="233" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
