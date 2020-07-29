@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This resource requires authentication" />
+      <item value="Unauthorized" />
       <item value="infinite" />
       <item value="bintray" />
       <item value="Sync" />
@@ -49,13 +51,11 @@
       <item value="Malformed" />
       <item value="项目" />
       <item value="byte array decode failure" />
-      <item value="Failure" />
-      <item value="From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="1" />
