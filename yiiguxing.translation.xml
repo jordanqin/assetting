@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// The drawable needs to be initialized with the correct width and height in order for a view // displaying it to end up with the right dimensions. Since our transformations may arbitrarily // modify the dimensions of our GIF, here we create a stand in for a frame and pass it to the // transformation to see what the final transformed dimensions will be so that our drawable can // report the correct intrinsic width and height." />
       <item value="abi" />
       <item value="has text relocations" />
       <item value="the tencent cloud tpg image android sdk" />
@@ -50,12 +51,11 @@
       <item value="Interface for an array pool that pools arrays of different types." />
       <item value="The type the resource will be decoded from (File, InputStream etc)." />
       <item value="Downsamples, decodes, and rotates images according to their exif orientation using {@link * BitmapFactory}." />
-      <item value="Bean" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
