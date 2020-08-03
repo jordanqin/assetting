@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="If we couldn't decode the GIF, we will end up with a frame count of 0." />
       <item value="Active color table. * Maximum size is 256, see GifHeaderParser.readColorTable" />
       <item value="advance" />
@@ -8,7 +9,6 @@
       <item value="Standard" />
       <item value="An {@link com.bumptech.glide.load.Transformation} that wraps a transformation for a {@link * Bitmap} and can apply it to every frame of any {@link * com.bumptech.glide.load.resource.gif.GifDrawable}." />
       <item value="Decodes {@link Bitmap}s from {@link GifDecoder}s representing a particular frame of a particular * GIF image." />
-      <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="A no-op Transformation that simply returns the given resource." />
       <item value="that can be * applied to each frame." />
       <item value="// The drawable needs to be initialized with the correct width and height in order for a view // displaying it to end up with the right dimensions. Since our transformations may arbitrarily // modify the dimensions of our GIF, here we create a stand in for a frame and pass it to the // transformation to see what the final transformed dimensions will be so that our drawable can // report the correct intrinsic width and height." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
