@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advance" />
+      <item value="Reads frame data from a GIF image source and decodes it into individual frames for animation * purposes. Image data can be read from either and InputStream source or a byte[]. * * &lt;p&gt;This class is optimized for running animations with the frames, there are no methods to get * individual frame images, only to decode the next frame in the animation sequence. Instead, it * lowers its memory footprint by only housing the minimum data necessary to decode the next frame * in the animation sequence. * * &lt;p&gt;The animation must be manually moved forward using {@link #advance()} before requesting the * next frame. This method must also be called before you request the first frame or an error * will occur. * * &lt;p&gt;Implementation adapted from sample code published in Lyons. (2004). &lt;em&gt;Java for * Programmers&lt;/em&gt;, republished under the MIT Open Source License" />
+      <item value="Standard" />
+      <item value="An {@link com.bumptech.glide.load.Transformation} that wraps a transformation for a {@link * Bitmap} and can apply it to every frame of any {@link * com.bumptech.glide.load.resource.gif.GifDrawable}." />
+      <item value="Decodes {@link Bitmap}s from {@link GifDecoder}s representing a particular frame of a particular * GIF image." />
       <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="A no-op Transformation that simply returns the given resource." />
       <item value="that can be * applied to each frame." />
@@ -46,16 +51,11 @@
       <item value="The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
       <item value="The {@code source} is managed by the caller, there's no need to close it. The returned * {@link Resource} will be {@link Resource#recycle() released} when the engine sees fit." />
       <item value="Returns a decoded resource from the given data or null if no resource could be decoded." />
-      <item value="Note that while some implementations of {@code InputStream} will return * the total number of bytes in the stream, many will not. It is * never correct to use the return value of this method to allocate * a buffer intended to hold all data in this stream." />
-      <item value="Returns an estimate of the number of bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. The next invocation * might be the same thread or another thread. A single read or skip of this * many bytes will not block, but may read or skip fewer bytes." />
-      <item value="Decoders should make a best effort attempt to quickly determine if they are likely to be * able to decode data, but should not attempt to completely read the given data. A typical * implementation would check the file headers verify they match content the decoder expects to * handle (i.e. a GIF decoder should verify that the image contains the GIF header block." />
-      <item value="Returns {@code true} if this decoder is capable of decoding the given source with the given * options, and {@code false} otherwise." />
-      <item value="Note - The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="254" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
