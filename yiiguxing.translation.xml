@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Active color table. * Maximum size is 256, see GifHeaderParser.readColorTable" />
       <item value="advance" />
       <item value="Reads frame data from a GIF image source and decodes it into individual frames for animation * purposes. Image data can be read from either and InputStream source or a byte[]. * * &lt;p&gt;This class is optimized for running animations with the frames, there are no methods to get * individual frame images, only to decode the next frame in the animation sequence. Instead, it * lowers its memory footprint by only housing the minimum data necessary to decode the next frame * in the animation sequence. * * &lt;p&gt;The animation must be manually moved forward using {@link #advance()} before requesting the * next frame. This method must also be called before you request the first frame or an error * will occur. * * &lt;p&gt;Implementation adapted from sample code published in Lyons. (2004). &lt;em&gt;Java for * Programmers&lt;/em&gt;, republished under the MIT Open Source License" />
       <item value="Standard" />
@@ -50,12 +51,11 @@
       <item value="A map of string keys to objects that may or may not contain options available to * this particular implementation. Implementations should not assume that any or all of their * option keys are present. However, implementations may assume that if one of their option * keys is present, it's value is non-null and is of the expected type." />
       <item value="The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
       <item value="The {@code source} is managed by the caller, there's no need to close it. The returned * {@link Resource} will be {@link Resource#recycle() released} when the engine sees fit." />
-      <item value="Returns a decoded resource from the given data or null if no resource could be decoded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
