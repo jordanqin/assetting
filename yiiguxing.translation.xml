@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A no-op Transformation that simply returns the given resource." />
+      <item value="that can be * applied to each frame." />
       <item value="// The drawable needs to be initialized with the correct width and height in order for a view // displaying it to end up with the right dimensions. Since our transformations may arbitrarily // modify the dimensions of our GIF, here we create a stand in for a frame and pass it to the // transformation to see what the final transformed dimensions will be so that our drawable can // report the correct intrinsic width and height." />
       <item value="abi" />
       <item value="has text relocations" />
@@ -49,13 +51,11 @@
       <item value="Returns {@code true} if this decoder is capable of decoding the given source with the given * options, and {@code false} otherwise." />
       <item value="Note - The {@code width} and {@code height} arguments are hints only, there is no * requirement that the decoded resource exactly match the given dimensions. A typical use case * would be to use the target dimensions to determine how much to downsample Bitmaps by to avoid * overly large allocations." />
       <item value="Interface for an array pool that pools arrays of different types." />
-      <item value="The type the resource will be decoded from (File, InputStream etc)." />
-      <item value="Downsamples, decodes, and rotates images according to their exif orientation using {@link * BitmapFactory}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
