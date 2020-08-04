@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempts to load the resource using any registered {@link * com.bumptech.glide.load.ResourceDecoder}s that can decode the given resource class or any * subclass of the given resource class." />
+      <item value="Compilation with Gradle requires the type to be specified for UnitModelLoader here." />
+      <item value="Parcel File Descriptor" />
       <item value="Returns this buffer's limit." />
       <item value="Find a way to avoid this entirely or at least downsample it (either should be possible)" />
       <item value="previous" />
@@ -48,14 +51,11 @@
       <item value="MILLISECONDS" />
       <item value="耗时" />
       <item value="The specific model that was used to load the image." />
-      <item value="LibraryGlideModules are called in no defined order. If LibraryGlideModules within an * application conflict, {@link AppGlideModule}s can use the {@link * com.bumptech.glide.annotation.Excludes} annotation to selectively remove one or more of the * conflicting modules." />
-      <item value="Any number of LibraryGlideModules can be contained within any library or application." />
-      <item value="Registers a set of components to use when initializing Glide within an app when Glide's * annotation processor is used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
