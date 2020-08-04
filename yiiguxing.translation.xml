@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="Attempts to load the resource using any registered {@link * com.bumptech.glide.load.ResourceDecoder}s that can decode the given resource class or any * subclass of the given resource class." />
       <item value="Compilation with Gradle requires the type to be specified for UnitModelLoader here." />
       <item value="Parcel File Descriptor" />
@@ -13,7 +14,6 @@
       <item value="Reads frame data from a GIF image source and decodes it into individual frames for animation * purposes. Image data can be read from either and InputStream source or a byte[]. * * &lt;p&gt;This class is optimized for running animations with the frames, there are no methods to get * individual frame images, only to decode the next frame in the animation sequence. Instead, it * lowers its memory footprint by only housing the minimum data necessary to decode the next frame * in the animation sequence. * * &lt;p&gt;The animation must be manually moved forward using {@link #advance()} before requesting the * next frame. This method must also be called before you request the first frame or an error * will occur. * * &lt;p&gt;Implementation adapted from sample code published in Lyons. (2004). &lt;em&gt;Java for * Programmers&lt;/em&gt;, republished under the MIT Open Source License" />
       <item value="Pointer" />
       <item value="Raw data read working array" />
-      <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="If we couldn't decode the GIF, we will end up with a frame count of 0." />
       <item value="Active color table. * Maximum size is 256, see GifHeaderParser.readColorTable" />
       <item value="Standard" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
