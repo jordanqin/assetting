@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PARAM" />
+      <item value="INVALID" />
       <item value="No point in specially saving an old frame if we're never going to use it." />
       <item value="A header object containing the number of frames in an animated GIF image as well as basic * metadata like width and height that can be used to decode each individual frame of the GIF. Can * be shared by one or more {@link com.bumptech.glide.gifdecoder.GifDecoder}s to play the same * animated GIF in multiple views." />
       <item value="Attempts to load the resource using any registered {@link * com.bumptech.glide.load.ResourceDecoder}s that can decode the given resource class or any * subclass of the given resource class." />
@@ -49,17 +51,15 @@
       <item value="以" />
       <item value="以什么为准" />
       <item value="缩放" />
-      <item value="MILLISECONDS" />
-      <item value="耗时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="273" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
