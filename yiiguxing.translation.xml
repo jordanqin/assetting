@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to fully decode the current frame" />
+      <item value="File read status: Unable to open source" />
+      <item value="The total iteration count which means repeat forever" />
       <item value="loop count if one was specified, * else -1 ({@link GifHeader#NETSCAPE_LOOP_COUNT_DOES_NOT_EXIST})." />
       <item value="This method cannot distinguish whether the loop count is 1 or doesn't exist" />
       <item value="loop count if one was specified, else 1" />
@@ -48,14 +51,11 @@
       <item value="infinite" />
       <item value="bintray" />
       <item value="Sync" />
-      <item value="同步" />
-      <item value="Param" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
