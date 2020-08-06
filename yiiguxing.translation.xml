@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applies a multiplier to the {@link com.bumptech.glide.request.target.Target}'s size before * loading the resource. Useful for loading thumbnails or trying to avoid loading huge resources * (particularly {@link Bitmap}s on devices with overly dense screens." />
       <item value="Parse the color string, and return the corresponding color-int. * If the string cannot be parsed, throws an IllegalArgumentException * exception. Supported formats are" />
       <item value="erase" />
       <item value="Recursive" />
@@ -50,12 +51,11 @@
       <item value="the tencent cloud tpg image for glide android sdk" />
       <item value="用于" />
       <item value="the tencent cloud tpg image glide android sdk" />
-      <item value="This resource requires authentication" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
