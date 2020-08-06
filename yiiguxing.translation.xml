@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="erase" />
+      <item value="Recursive" />
       <item value="We encountered an internal error. Please try again" />
       <item value="Unable to fully decode the current frame" />
       <item value="File read status: Unable to open source" />
@@ -49,13 +51,11 @@
       <item value="the tencent cloud tpg image glide android sdk" />
       <item value="This resource requires authentication" />
       <item value="Unauthorized" />
-      <item value="infinite" />
-      <item value="bintray" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
