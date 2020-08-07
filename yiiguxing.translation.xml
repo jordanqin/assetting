@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transformation" />
+      <item value="行为" />
+      <item value="操作" />
+      <item value="Option" />
+      <item value="Options" />
+      <item value="动作" />
+      <item value="zoom" />
       <item value="Transcode" />
       <item value="import" />
       <item value="引入" />
@@ -44,18 +51,11 @@
       <item value="Standard" />
       <item value="An {@link com.bumptech.glide.load.Transformation} that wraps a transformation for a {@link * Bitmap} and can apply it to every frame of any {@link * com.bumptech.glide.load.resource.gif.GifDrawable}." />
       <item value="Decodes {@link Bitmap}s from {@link GifDecoder}s representing a particular frame of a particular * GIF image." />
-      <item value="A no-op Transformation that simply returns the given resource." />
-      <item value="that can be * applied to each frame." />
-      <item value="// The drawable needs to be initialized with the correct width and height in order for a view // displaying it to end up with the right dimensions. Since our transformations may arbitrarily // modify the dimensions of our GIF, here we create a stand in for a frame and pass it to the // transformation to see what the final transformed dimensions will be so that our drawable can // report the correct intrinsic width and height." />
-      <item value="abi" />
-      <item value="has text relocations" />
-      <item value="the tencent cloud tpg image android sdk" />
-      <item value="the tencent cloud tpg image for aaa android sdk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
