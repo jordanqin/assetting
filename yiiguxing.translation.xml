@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transcode" />
       <item value="import" />
       <item value="引入" />
       <item value="ave" />
@@ -50,12 +51,11 @@
       <item value="has text relocations" />
       <item value="the tencent cloud tpg image android sdk" />
       <item value="the tencent cloud tpg image for aaa android sdk" />
-      <item value="for" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
