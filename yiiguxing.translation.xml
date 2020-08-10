@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Optimization" />
+      <item value="优化" />
       <item value="crop By Width" />
       <item value="east" />
       <item value="west" />
@@ -49,13 +51,11 @@
       <item value="Make sure sample size is a power of 2." />
       <item value="highest One Bit" />
       <item value="downsampled" />
-      <item value="LZW decoder working arrays." />
-      <item value="interface using file path as input" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
