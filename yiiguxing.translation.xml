@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Customer" />
+      <item value="自定义" />
+      <item value="Mogr" />
+      <item value="通用" />
+      <item value="common" />
       <item value="actions" />
       <item value="Transformation" />
       <item value="行为" />
@@ -46,17 +51,13 @@
       <item value="advance" />
       <item value="Reads frame data from a GIF image source and decodes it into individual frames for animation * purposes. Image data can be read from either and InputStream source or a byte[]. * * &lt;p&gt;This class is optimized for running animations with the frames, there are no methods to get * individual frame images, only to decode the next frame in the animation sequence. Instead, it * lowers its memory footprint by only housing the minimum data necessary to decode the next frame * in the animation sequence. * * &lt;p&gt;The animation must be manually moved forward using {@link #advance()} before requesting the * next frame. This method must also be called before you request the first frame or an error * will occur. * * &lt;p&gt;Implementation adapted from sample code published in Lyons. (2004). &lt;em&gt;Java for * Programmers&lt;/em&gt;, republished under the MIT Open Source License" />
       <item value="Pointer" />
-      <item value="Raw data read working array" />
-      <item value="If we couldn't decode the GIF, we will end up with a frame count of 0." />
-      <item value="Active color table. * Maximum size is 256, see GifHeaderParser.readColorTable" />
-      <item value="Standard" />
-      <item value="An {@link com.bumptech.glide.load.Transformation} that wraps a transformation for a {@link * Bitmap} and can apply it to every frame of any {@link * com.bumptech.glide.load.resource.gif.GifDrawable}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
         <entry key="PORTUGUESE" value="2" />
