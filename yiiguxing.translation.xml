@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actions" />
       <item value="Transformation" />
       <item value="行为" />
       <item value="操作" />
@@ -50,12 +51,11 @@
       <item value="Active color table. * Maximum size is 256, see GifHeaderParser.readColorTable" />
       <item value="Standard" />
       <item value="An {@link com.bumptech.glide.load.Transformation} that wraps a transformation for a {@link * Bitmap} and can apply it to every frame of any {@link * com.bumptech.glide.load.resource.gif.GifDrawable}." />
-      <item value="Decodes {@link Bitmap}s from {@link GifDecoder}s representing a particular frame of a particular * GIF image." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
