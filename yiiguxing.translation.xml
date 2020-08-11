@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Encoder flag bit to omit all line terminators (i.e., the output * will be on one long line)." />
+      <item value="Encoder flag bit to omit the padding '=' characters at the end * of the output (if any)." />
       <item value="Transform" />
       <item value="Transformation" />
       <item value="操作" />
@@ -49,13 +51,11 @@
       <item value="erase" />
       <item value="Recursive" />
       <item value="We encountered an internal error. Please try again" />
-      <item value="Unable to fully decode the current frame" />
-      <item value="File read status: Unable to open source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
