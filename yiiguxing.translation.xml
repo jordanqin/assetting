@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preload" />
       <item value="Symbol" />
       <item value="Transform" />
       <item value="Transformation" />
@@ -50,12 +51,11 @@
       <item value="等比缩放" />
       <item value="area" />
       <item value="enumm" />
-      <item value="Customer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
