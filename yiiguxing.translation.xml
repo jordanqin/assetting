@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Degree" />
+      <item value="open" />
+      <item value="open Batch" />
+      <item value="打开" />
+      <item value="on" />
+      <item value="on Batch" />
+      <item value="开启" />
+      <item value="batch" />
       <item value="Illegal" />
       <item value="argument" />
       <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
@@ -15,7 +23,6 @@
       <item value="操作" />
       <item value="动作" />
       <item value="Action" />
-      <item value="batch" />
       <item value="Sharpen" />
       <item value="lowest" />
       <item value="最低质量" />
@@ -44,18 +51,11 @@
       <item value="Mogr" />
       <item value="通用" />
       <item value="common" />
-      <item value="actions" />
-      <item value="行为" />
-      <item value="Option" />
-      <item value="Options" />
-      <item value="zoom" />
-      <item value="Transcode" />
-      <item value="import" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
