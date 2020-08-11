@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sharpen" />
       <item value="lowest" />
       <item value="最低质量" />
       <item value="relatively" />
@@ -50,12 +51,11 @@
       <item value="File read status: Unable to open source" />
       <item value="The total iteration count which means repeat forever" />
       <item value="loop count if one was specified, * else -1 ({@link GifHeader#NETSCAPE_LOOP_COUNT_DOES_NOT_EXIST})." />
-      <item value="This method cannot distinguish whether the loop count is 1 or doesn't exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
