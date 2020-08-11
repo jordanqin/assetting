@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lowest" />
+      <item value="最低质量" />
+      <item value="relatively" />
+      <item value="relative" />
       <item value="Action" />
       <item value="To" />
       <item value="Optimization" />
@@ -47,15 +51,11 @@
       <item value="The total iteration count which means repeat forever" />
       <item value="loop count if one was specified, * else -1 ({@link GifHeader#NETSCAPE_LOOP_COUNT_DOES_NOT_EXIST})." />
       <item value="This method cannot distinguish whether the loop count is 1 or doesn't exist" />
-      <item value="loop count if one was specified, else 1" />
-      <item value="Gets the &quot;Netscape&quot; loop count, if any. A count of 0 means repeat indefinitely." />
-      <item value="Indicates that this header has no &quot;Netscape&quot; loop count." />
-      <item value="Make sure sample size is a power of 2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
