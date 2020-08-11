@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Action" />
       <item value="To" />
       <item value="Optimization" />
       <item value="优化" />
@@ -50,12 +51,11 @@
       <item value="Gets the &quot;Netscape&quot; loop count, if any. A count of 0 means repeat indefinitely." />
       <item value="Indicates that this header has no &quot;Netscape&quot; loop count." />
       <item value="Make sure sample size is a power of 2." />
-      <item value="highest One Bit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
