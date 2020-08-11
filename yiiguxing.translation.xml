@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal" />
+      <item value="argument" />
+      <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
       <item value="Blogo" />
       <item value="distance" />
       <item value="安全" />
@@ -48,14 +51,11 @@
       <item value="zoom" />
       <item value="Transcode" />
       <item value="import" />
-      <item value="引入" />
-      <item value="ave" />
-      <item value="Applies a multiplier to the {@link com.bumptech.glide.request.target.Target}'s size before * loading the resource. Useful for loading thumbnails or trying to avoid loading huge resources * (particularly {@link Bitmap}s on devices with overly dense screens." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
