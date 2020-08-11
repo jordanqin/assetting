@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Symbol" />
+      <item value="Transform" />
+      <item value="Transformation" />
       <item value="argument" />
       <item value="Illegal Argument Exception" />
       <item value="Argument" />
@@ -21,8 +24,6 @@
       <item value="If the named charset is not supported" />
       <item value="Encoder flag bit to omit all line terminators (i.e., the output * will be on one long line)." />
       <item value="Encoder flag bit to omit the padding '=' characters at the end * of the output (if any)." />
-      <item value="Transform" />
-      <item value="Transformation" />
       <item value="操作" />
       <item value="动作" />
       <item value="Action" />
@@ -50,12 +51,11 @@
       <item value="area" />
       <item value="enumm" />
       <item value="Customer" />
-      <item value="自定义" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
