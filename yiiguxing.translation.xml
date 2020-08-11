@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Blogo" />
+      <item value="distance" />
       <item value="安全" />
       <item value="If the named charset is not supported" />
       <item value="Encoder flag bit to omit all line terminators (i.e., the output * will be on one long line)." />
@@ -49,18 +51,17 @@
       <item value="引入" />
       <item value="ave" />
       <item value="Applies a multiplier to the {@link com.bumptech.glide.request.target.Target}'s size before * loading the resource. Useful for loading thumbnails or trying to avoid loading huge resources * (particularly {@link Bitmap}s on devices with overly dense screens." />
-      <item value="Parse the color string, and return the corresponding color-int. * If the string cannot be parsed, throws an IllegalArgumentException * exception. Supported formats are" />
-      <item value="erase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="340" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="6" />
         <entry key="LATIN" value="1" />
+        <entry key="LITHUANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
