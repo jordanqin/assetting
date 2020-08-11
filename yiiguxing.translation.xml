@@ -1,13 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
+      <item value="动作" />
+      <item value="Action" />
       <item value="batch" />
       <item value="Sharpen" />
       <item value="lowest" />
       <item value="最低质量" />
       <item value="relatively" />
       <item value="relative" />
-      <item value="Action" />
       <item value="To" />
       <item value="Optimization" />
       <item value="优化" />
@@ -34,10 +36,8 @@
       <item value="actions" />
       <item value="Transformation" />
       <item value="行为" />
-      <item value="操作" />
       <item value="Option" />
       <item value="Options" />
-      <item value="动作" />
       <item value="zoom" />
       <item value="Transcode" />
       <item value="import" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="332" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
