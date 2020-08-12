@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modifies this buffer's byte order." />
+      <item value="* Constant denoting little-endian byte order. In this order, the bytes of * a multibyte value are ordered from least significant to most * significant." />
+      <item value="interface using file path as input" />
       <item value="Clear missing pixels." />
       <item value="Allocate new pixel array." />
       <item value="First frame was drawed before optimized, so skip!" />
@@ -48,14 +51,11 @@
       <item value="Thrown to indicate that a method has been passed an illegal or * inappropriate argument." />
       <item value="Blogo" />
       <item value="distance" />
-      <item value="安全" />
-      <item value="If the named charset is not supported" />
-      <item value="Encoder flag bit to omit all line terminators (i.e., the output * will be on one long line)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="386" />
+        <entry key="ENGLISH" value="387" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
