@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Recycled" />
       <item value="Cannot pool recycled bitmap" />
       <item value="remaining" />
       <item value="More than one file was found with OS independent path 'lib/x86/libTPGDecoder.so'. If you are using jniLibs and CMake IMPORTED targets," />
@@ -50,12 +51,11 @@
       <item value="Degree" />
       <item value="open" />
       <item value="open Batch" />
-      <item value="打开" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="398" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
