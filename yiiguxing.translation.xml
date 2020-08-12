@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="More than one file was found with OS independent path 'lib/x86/libTPGDecoder.so'. If you are using jniLibs and CMake IMPORTED targets," />
       <item value="Reads 16k chunks from the native buffer for processing, to greatly reduce JNI overhead." />
       <item value="Temporary buffer for block reading." />
       <item value="Reads next variable length block from input. * * @return number of bytes stored in &quot;buffer&quot;." />
@@ -50,12 +51,11 @@
       <item value="open Batch" />
       <item value="打开" />
       <item value="on" />
-      <item value="on Batch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
