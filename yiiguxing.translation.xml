@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Outgoing transactions from this process must be FLAG_ONEWAY" />
+      <item value="Calling a method in the system process without a qualified user" />
+      <item value="Force finishing activity" />
       <item value="Parse" />
       <item value="Parser" />
       <item value="preload" />
@@ -48,14 +51,11 @@
       <item value="scale Height" />
       <item value="By" />
       <item value="thumbnail By Pixel" />
-      <item value="Thumbnail" />
-      <item value="图片压缩" />
-      <item value="等比缩放" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
