@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot pool recycled bitmap" />
       <item value="remaining" />
       <item value="More than one file was found with OS independent path 'lib/x86/libTPGDecoder.so'. If you are using jniLibs and CMake IMPORTED targets," />
       <item value="Reads 16k chunks from the native buffer for processing, to greatly reduce JNI overhead." />
@@ -32,7 +33,6 @@
       <item value="Dirty" />
       <item value="get Dirty" />
       <item value="Cannot obtain size for recycled Bitmap" />
-      <item value="Cannot pool recycled bitmap" />
       <item value="Interface for an array pool that pools arrays of different types." />
       <item value="Outgoing transactions from this process must be FLAG_ONEWAY" />
       <item value="Calling a method in the system process without a qualified user" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
