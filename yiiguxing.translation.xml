@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clear missing pixels." />
+      <item value="Allocate new pixel array." />
       <item value="First frame was drawed before optimized, so skip!" />
       <item value="Copy pixels into previous image" />
       <item value="We should check and see if all individual pixels are replaced. If they are, the // first frame isn't actually transparent. For now, it's simpler and safer to assume // drawing a transparent background means the GIF contains transparency." />
@@ -49,13 +51,11 @@
       <item value="安全" />
       <item value="If the named charset is not supported" />
       <item value="Encoder flag bit to omit all line terminators (i.e., the output * will be on one long line)." />
-      <item value="Encoder flag bit to omit the padding '=' characters at the end * of the output (if any)." />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
