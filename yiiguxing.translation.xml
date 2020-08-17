@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="百分比" />
       <item value="Quality" />
       <item value="format" />
       <item value="consume" />
@@ -50,11 +51,10 @@
       <item value="Interface for an array pool that pools arrays of different types." />
       <item value="Outgoing transactions from this process must be FLAG_ONEWAY" />
       <item value="Calling a method in the system process without a qualified user" />
-      <item value="Force finishing activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
+        <entry key="CHINESE" value="410" />
         <entry key="ENGLISH" value="410" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
