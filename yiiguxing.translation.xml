@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="format" />
+      <item value="consume" />
       <item value="Responsive" />
       <item value="Tries to intelligently choose a strategy based on the data source of the {@link * com.bumptech.glide.load.data.DataFetcher} and the {@link * com.bumptech.glide.load.EncodeStrategy} of the {@link com.bumptech.glide.load.ResourceEncoder} * (if an {@link com.bumptech.glide.load.ResourceEncoder} is available)" />
       <item value="Writes resources to disk after they've been decoded" />
@@ -8,7 +10,6 @@
       <item value="Saves no data to cache." />
       <item value="Caches remote data with both {@link #DATA} and {@link #RESOURCE}, and local data with {@link * #RESOURCE} only." />
       <item value="original" />
-      <item value="consume" />
       <item value="Called getWidth() on a recycle()'d bitmap! This is undefined behavior!" />
       <item value="limit" />
       <item value="Gets the Object mapped from the specified key, or &lt;code&gt;null&lt;/code&gt; * if no such mapping has been made." />
@@ -50,12 +51,11 @@
       <item value="Calling a method in the system process without a qualified user" />
       <item value="Force finishing activity" />
       <item value="Parse" />
-      <item value="Parser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
