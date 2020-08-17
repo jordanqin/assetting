@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Responsive" />
       <item value="Tries to intelligently choose a strategy based on the data source of the {@link * com.bumptech.glide.load.data.DataFetcher} and the {@link * com.bumptech.glide.load.EncodeStrategy} of the {@link com.bumptech.glide.load.ResourceEncoder} * (if an {@link com.bumptech.glide.load.ResourceEncoder} is available)" />
       <item value="Writes resources to disk after they've been decoded" />
       <item value="Writes retrieved data directly to the disk cache before it's decoded" />
@@ -50,12 +51,11 @@
       <item value="Force finishing activity" />
       <item value="Parse" />
       <item value="Parser" />
-      <item value="preload" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
