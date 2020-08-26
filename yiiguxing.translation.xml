@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="import" />
+      <item value="集成" />
       <item value="Animated" />
       <item value="SECONDS" />
       <item value="Transcoder" />
@@ -49,13 +51,11 @@
       <item value="Creates new frame image from current data (and previous frames as specified by their * disposition codes)." />
       <item value="Can't call reconfigure() on a recycled bitmap" />
       <item value="Identical to {@link #get(int, int, android.graphics.Bitmap.Config)} except that any returned * {@link android.graphics.Bitmap} may &lt;em&gt;not&lt;/em&gt; have been erased and may contain random data. * * &lt;p&gt;If no Bitmap with the requested attributes is present in the pool, a new one will be * allocated. &lt;/p&gt; * * &lt;p&gt; Although this method is slightly more efficient than {@link #get(int, int, * android.graphics.Bitmap.Config)} it should be used with caution and only when the caller is * sure that they are going to erase the {@link android.graphics.Bitmap} entirely before writing * new data to it. &lt;/p&gt; * * @param width The width in pixels of the desired {@link android.graphics.Bitmap}. * @param height The height in pixels of the desired {@link android.graphics.Bitmap}. * @param config The {@link android.graphics.Bitmap.Config} of the desired {@link * android.graphics.Bitmap}. * @return A {@link android.graphics.Bitmap} with exactly the given width, height, and config * potentially containing random image data or null if no such {@link android.graphics.Bitmap} * could be obtained from the pool. * @see #get(int, int, android.graphics.Bitmap.Config)" />
-      <item value="Dirty" />
-      <item value="get Dirty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
