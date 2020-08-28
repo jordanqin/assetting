@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expand" />
       <item value="FOREVERKEY" />
       <item value="Presigned" />
       <item value="signing" />
@@ -50,12 +51,11 @@
       <item value="GIF Disposal Method meaning clear canvas to background color." />
       <item value="GIF Disposal Method meaning take no action." />
       <item value="Disposal Method." />
-      <item value="is now in focus and seems to be in full-screen mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
