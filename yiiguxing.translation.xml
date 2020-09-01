@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DESC" />
+      <item value="useless" />
       <item value="Erasable" />
       <item value="console" />
       <item value="forever" />
@@ -49,13 +51,11 @@
       <item value="Clear missing pixels." />
       <item value="Allocate new pixel array." />
       <item value="First frame was drawed before optimized, so skip!" />
-      <item value="Copy pixels into previous image" />
-      <item value="We should check and see if all individual pixels are replaced. If they are, the // first frame isn't actually transparent. For now, it's simpler and safer to assume // drawing a transparent background means the GIF contains transparency." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="426" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="CHINESE" value="428" />
+        <entry key="ENGLISH" value="429" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
