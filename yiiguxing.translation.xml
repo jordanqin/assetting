@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Load" />
+      <item value="Remote Load" />
       <item value="It is possible that the there will be a put in between these two gets. If so that shouldn't // be a problem because we will always put the same value at the same key so our input streams // will still represent the same data." />
       <item value="The default DiskCache implementation. There must be no more than one active instance for a given * directory at a time" />
       <item value="&lt;p&gt;For most applications {@link DiskCacheStrategy#RESOURCE} is ideal. Applications that use the * same resource multiple times in multiple sizes and are willing to trade off some speed and disk * space in return for lower bandwidth usage may want to consider using {@link * DiskCacheStrategy#DATA} or {@link DiskCacheStrategy#ALL}." />
@@ -49,13 +51,11 @@
       <item value="original" />
       <item value="Called getWidth() on a recycle()'d bitmap! This is undefined behavior!" />
       <item value="limit" />
-      <item value="Gets the Object mapped from the specified key, or &lt;code&gt;null&lt;/code&gt; * if no such mapping has been made." />
-      <item value="is Recycled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="451" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
