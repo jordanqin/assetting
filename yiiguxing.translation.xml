@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicates data was retrieved unmodified from the on device cache." />
+      <item value="Indicates data was probably retrieved locally from the device, although it may have been * obtained through a content provider that may have obtained the data from a remote source." />
+      <item value="Indicates data was retrieved from modified content in the on device cache." />
+      <item value="Indicates data was retrieved unmodified from the on device cache" />
       <item value="disable" />
       <item value="Returns a valid url http:// or https:// for the given model and dimensions as a string." />
       <item value="You can't start or clear loads in RequestListener or Target callbacks. If you're trying to start a fallback request when a load fails, use RequestBuilder#error(RequestBuilder). Otherwise consider posting your into() or clear() calls to the main thread using a Handler instead." />
@@ -47,15 +51,11 @@
       <item value="More than one file was found with OS independent path 'lib/x86/libTPGDecoder.so'. If you are using jniLibs and CMake IMPORTED targets," />
       <item value="Reads 16k chunks from the native buffer for processing, to greatly reduce JNI overhead." />
       <item value="Temporary buffer for block reading." />
-      <item value="Reads next variable length block from input. * * @return number of bytes stored in &quot;buffer&quot;." />
-      <item value="Reads the next chunk for the intermediate work buffer." />
-      <item value="LZW decoder working arrays." />
-      <item value="Temporary buffer for block reading. * Reads 16k chunks from the native buffer for processing, to greatly reduce JNI overhead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="438" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="CHINESE" value="443" />
+        <entry key="ENGLISH" value="444" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
