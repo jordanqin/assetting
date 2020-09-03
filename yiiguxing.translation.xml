@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;For most applications {@link DiskCacheStrategy#RESOURCE} is ideal. Applications that use the * same resource multiple times in multiple sizes and are willing to trade off some speed and disk * space in return for lower bandwidth usage may want to consider using {@link * DiskCacheStrategy#DATA} or {@link DiskCacheStrategy#ALL}." />
+      <item value="Preloads the resource into the cache using {@link Target#SIZE_ORIGINAL} as the target width and * height. Equivalent to calling {@link #preload(int, int)} with {@link Target#SIZE_ORIGINAL} as * the width and height" />
       <item value="Indicates data was retrieved from a remote source other than the device." />
       <item value="Indicates data was retrieved unmodified from the on device cache." />
       <item value="Indicates data was probably retrieved locally from the device, although it may have been * obtained through a content provider that may have obtained the data from a remote source." />
@@ -49,13 +51,11 @@
       <item value="is Recycled" />
       <item value="Cannot pool recycled bitmap" />
       <item value="remaining" />
-      <item value="More than one file was found with OS independent path 'lib/x86/libTPGDecoder.so'. If you are using jniLibs and CMake IMPORTED targets," />
-      <item value="Reads 16k chunks from the native buffer for processing, to greatly reduce JNI overhead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
