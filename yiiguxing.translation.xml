@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A simple class that returns null for all gets and ignores all writes." />
+      <item value="Use {@link #create(File, long)} to create a new cache with the specified arguments" />
+      <item value="Get a DiskCache in the given directory and size. If a disk cache has already been created with * a different directory and/or size, it will be returned instead and the new arguments will be * ignored." />
+      <item value="The default DiskCache implementation. There must be no more than one active instance for a given * directory at a time." />
+      <item value="Do not extend this class" />
       <item value="A set of {@link Option Options} to apply to in memory and disk cache keys." />
       <item value="Writes retrieved data directly to the disk cache before it's decoded" />
       <item value="Saves no data to cache" />
@@ -46,16 +51,11 @@
       <item value="Transcoder" />
       <item value="GIF Disposal Method meaning clear canvas to frame before last. * &lt;p&gt;&lt;b&gt;GIF89a&lt;/b&gt;: &lt;i&gt;Restore to previous. * The decoder is required to restore the area overwritten by the graphic * with what was there prior to rendering the graphic.&lt;/i&gt;&lt;/p&gt;" />
       <item value="previous" />
-      <item value="百分比" />
-      <item value="Quality" />
-      <item value="format" />
-      <item value="consume" />
-      <item value="Responsive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="466" />
+        <entry key="ENGLISH" value="467" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
