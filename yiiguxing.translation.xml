@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Writes retrieved data directly to the disk cache before it's decoded" />
+      <item value="Saves no data to cache" />
       <item value="Indicates data was probably retrieved locally from the device, although it may have been * obtained through a content provider that may have obtained the data from a remote source." />
       <item value="Indicates data was retrieved unmodified from the on device cache" />
       <item value="Indicates data was retrieved from modified content in the on device cache" />
-      <item value="Writes retrieved data directly to the disk cache before it's decoded" />
       <item value="Writes resources to disk after they've been decoded." />
       <item value="The application may be doing too much work on its main thread." />
       <item value="If set to true, will only load an item if found in the cache, and will not fetch from source." />
@@ -50,12 +51,11 @@
       <item value="consume" />
       <item value="Responsive" />
       <item value="Tries to intelligently choose a strategy based on the data source of the {@link * com.bumptech.glide.load.data.DataFetcher} and the {@link * com.bumptech.glide.load.EncodeStrategy} of the {@link com.bumptech.glide.load.ResourceEncoder} * (if an {@link com.bumptech.glide.load.ResourceEncoder} is available)" />
-      <item value="Writes resources to disk after they've been decoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
