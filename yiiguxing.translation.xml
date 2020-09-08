@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="n: Trust anchor for certification path not found." />
       <item value="persist" />
       <item value="Declared" />
       <item value="Generates {@link com.bumptech.glide.load.data.DataFetcher DataFetchers} from original source data * using registered {@link com.bumptech.glide.load.model.ModelLoader ModelLoaders} and the model * provided for the load. * * &lt;p&gt;Depending on the disk cache strategy, source data may first be written to disk and then loaded * from the cache file rather than returned directly." />
@@ -50,12 +51,11 @@
       <item value="KEYSTORE" />
       <item value="import" />
       <item value="集成" />
-      <item value="Animated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="472" />
+        <entry key="ENGLISH" value="473" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
