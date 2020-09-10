@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not map the xml element with the tag name &lt;Owner&gt; at path '/ListAllMyBucketsResult/Owner' to java class. Have you annotated such a field in your java class to map this xml attribute? Otherwise you can turn this error message off with TikXml.Builder().exceptionOnUnreadXml(false).build()." />
       <item value="This class takes an [com.tickaroo.tikxml.processor.field.AnnotatedClass] as input" />
       <item value="Scans an [com.tickaroo.tikxml.annotation.Xml] annotated class and fulfills the [AnnotatedClass] by using [AnnotationDetector]" />
       <item value="This class holds the information of an element that has been annotated with @Xml" />
@@ -50,12 +51,11 @@
       <item value="You can't start or clear loads in RequestListener or Target callbacks. If you're trying to start a fallback request when a load fails, use RequestBuilder#error(RequestBuilder). Otherwise consider posting your into() or clear() calls to the main thread using a Handler instead." />
       <item value="build" />
       <item value="Returns a list of alternate urls for the given model, width, and height from which equivalent * data can be obtained (usually the same image with the same aspect ratio, but in a larger size) * as the primary url." />
-      <item value="Fetcher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
