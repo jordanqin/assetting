@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Describes the type of incremental annotation processing the annotated processor is capable of" />
       <item value="Failed to open zip file. Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
       <item value="A field not described by a more specific kind (like * {@code ENUM_CONSTANT})." />
       <item value="Element" />
@@ -50,12 +51,11 @@
       <item value="Indicates data was retrieved from a remote source other than the device." />
       <item value="Indicates data was retrieved unmodified from the on device cache." />
       <item value="Indicates data was retrieved from modified content in the on device cache." />
-      <item value="disable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
