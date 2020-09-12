@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inherited" />
       <item value="Creator" />
       <item value="double Erasure" />
       <item value="DECLARED" />
@@ -50,7 +51,6 @@
       <item value="Load" />
       <item value="Remote Load" />
       <item value="The default DiskCache implementation. There must be no more than one active instance for a given * directory at a time" />
-      <item value="&lt;p&gt;For most applications {@link DiskCacheStrategy#RESOURCE} is ideal. Applications that use the * same resource multiple times in multiple sizes and are willing to trade off some speed and disk * space in return for lower bandwidth usage may want to consider using {@link * DiskCacheStrategy#DATA} or {@link DiskCacheStrategy#ALL}." />
     </histories>
     <option name="languageScores">
       <map>
