@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected name of the type adapter is" />
       <item value="Variable" />
       <item value="Annotation" />
       <item value="enclosed" />
@@ -50,7 +51,6 @@
       <item value="Indicates data was probably retrieved locally from the device, although it may have been * obtained through a content provider that may have obtained the data from a remote source." />
       <item value="Indicates data was retrieved unmodified from the on device cache" />
       <item value="Indicates data was retrieved from modified content in the on device cache" />
-      <item value="Writes resources to disk after they've been decoded." />
     </histories>
     <option name="languageScores">
       <map>
