@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variable" />
+      <item value="Annotation" />
       <item value="enclosed" />
       <item value="generate" />
       <item value="Creator" />
@@ -49,13 +51,11 @@
       <item value="Indicates data was retrieved unmodified from the on device cache" />
       <item value="Indicates data was retrieved from modified content in the on device cache" />
       <item value="Writes resources to disk after they've been decoded." />
-      <item value="The application may be doing too much work on its main thread." />
-      <item value="If set to true, will only load an item if found in the cache, and will not fetch from source." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="507" />
+        <entry key="ENGLISH" value="508" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
