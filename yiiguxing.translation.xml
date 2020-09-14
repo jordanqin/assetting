@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the {@code kind} of this element." />
+      <item value="Returns the type defined by this element" />
+      <item value="Polymorphic" />
       <item value="Returns {@code true} if this kind corresponds to a primitive" />
       <item value="Returns the modifiers of this element" />
       <item value="Format specifier" />
@@ -48,14 +51,11 @@
       <item value="persist" />
       <item value="Declared" />
       <item value="Generates {@link com.bumptech.glide.load.data.DataFetcher DataFetchers} from original source data * using registered {@link com.bumptech.glide.load.model.ModelLoader ModelLoaders} and the model * provided for the load. * * &lt;p&gt;Depending on the disk cache strategy, source data may first be written to disk and then loaded * from the cache file rather than returned directly." />
-      <item value="It is possible that the there will be a put in between these two gets. If so that shouldn't // be a problem because we will always put the same value at the same key so our input streams // will still represent the same data." />
-      <item value="A cache key for downsampled and transformed resource data + any requested signature" />
-      <item value="A simple class that returns null for all gets and ignores all writes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
