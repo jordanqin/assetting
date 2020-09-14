@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the modifiers of this element" />
       <item value="Format specifier" />
       <item value="specifier" />
       <item value="原始" />
@@ -50,12 +51,11 @@
       <item value="A cache key for downsampled and transformed resource data + any requested signature" />
       <item value="A simple class that returns null for all gets and ignores all writes." />
       <item value="Use {@link #create(File, long)} to create a new cache with the specified arguments" />
-      <item value="Get a DiskCache in the given directory and size. If a disk cache has already been created with * a different directory and/or size, it will be returned instead and the new arguments will be * ignored." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
