@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始" />
+      <item value="initials" />
+      <item value="Initials" />
+      <item value="首字母" />
+      <item value="fist" />
+      <item value="Upper Case" />
       <item value="Expected name of the type adapter is" />
       <item value="Variable" />
       <item value="Annotation" />
@@ -45,17 +51,11 @@
       <item value="Get a DiskCache in the given directory and size. If a disk cache has already been created with * a different directory and/or size, it will be returned instead and the new arguments will be * ignored." />
       <item value="The default DiskCache implementation. There must be no more than one active instance for a given * directory at a time." />
       <item value="Do not extend this class" />
-      <item value="A set of {@link Option Options} to apply to in memory and disk cache keys." />
-      <item value="Writes retrieved data directly to the disk cache before it's decoded" />
-      <item value="Saves no data to cache" />
-      <item value="Indicates data was probably retrieved locally from the device, although it may have been * obtained through a content provider that may have obtained the data from a remote source." />
-      <item value="Indicates data was retrieved unmodified from the on device cache" />
-      <item value="Indicates data was retrieved from modified content in the on device cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="512" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
