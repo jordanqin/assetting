@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The name of the xml element. Default value is the name of the annotated java field." />
+      <item value="The name of the xml element" />
+      <item value="With this annotation you indicate that a xml child element maps to a certain java class." />
+      <item value="Inherited" />
       <item value="Field Spec" />
       <item value="Field" />
       <item value="Fields" />
@@ -34,7 +38,6 @@
       <item value="Creator" />
       <item value="Generator" />
       <item value="clazz" />
-      <item value="Inherited" />
       <item value="double Erasure" />
       <item value="DECLARED" />
       <item value="Inherit" />
@@ -48,14 +51,11 @@
       <item value="Could not map the xml element with the tag name &lt;Owner&gt; at path '/ListAllMyBucketsResult/Owner' to java class. Have you annotated such a field in your java class to map this xml attribute? Otherwise you can turn this error message off with TikXml.Builder().exceptionOnUnreadXml(false).build()." />
       <item value="This class takes an [com.tickaroo.tikxml.processor.field.AnnotatedClass] as input" />
       <item value="Scans an [com.tickaroo.tikxml.annotation.Xml] annotated class and fulfills the [AnnotatedClass] by using [AnnotationDetector]" />
-      <item value="Specify the namespace URI as an array of strings" />
-      <item value="Indicates whether or not we should also scan the fields from super classes all the way up in * the inheritance three of this class." />
-      <item value="ABSTRACT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="528" />
-        <entry key="ENGLISH" value="529" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
