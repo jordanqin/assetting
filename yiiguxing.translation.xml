@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Seems that you have annotated a List with more than one generic argument? How is this possible" />
+      <item value="This exception will be thrown to inform that something went wrong during annotation processing" />
+      <item value="Processing" />
       <item value="Wildcard" />
       <item value="DECLARED" />
       <item value="Element must be of type java.util.List" />
@@ -48,14 +51,11 @@
       <item value="Describes the type of incremental annotation processing the annotated processor is capable of" />
       <item value="Failed to open zip file. Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
       <item value="A field not described by a more specific kind (like * {@code ENUM_CONSTANT})." />
-      <item value="Element" />
-      <item value="* Returns the innermost element * within which this element is, loosely speaking, enclosed. * &lt;ul&gt; * &lt;li&gt; If this element is one whose declaration is lexically enclosed * immediately within the declaration of another element, that other * element is returned." />
-      <item value="This class holds the information of an element that has been annotated with @Xml" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="539" />
+        <entry key="ENGLISH" value="540" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
