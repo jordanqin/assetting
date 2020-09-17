@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="backup" />
       <item value="Gradle may disable incremental compilation as the following annotation processors are not incremental: room-compiler-2.0.0.jar (androidx.room:room-compiler:2.0.0). Consider setting the experimental feature flag android.enableSeparateAnnotationProcessing=true in the gradle.properties file to run annotation processing in a separate task and make compilation incremental." />
       <item value="The specified Android SDK Build Tools version (28.0.2) is ignored, as it is below the minimum supported version (28.0.3) for Android Gradle Plugin 3.4.1." />
       <item value="DSL element 'DexOptions.incremental' is obsolete and will be removed at the end of 2018." />
@@ -50,12 +51,11 @@
       <item value="Creator" />
       <item value="Generator" />
       <item value="clazz" />
-      <item value="double Erasure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
