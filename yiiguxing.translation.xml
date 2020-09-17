@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="xml parser for android core" />
+      <item value="xml parser for android annoation" />
+      <item value="xml parser for android" />
       <item value="Project with path ':xmlAnnoation' could not be found in project ':cosxml'." />
       <item value="Make Android Great Again" />
       <item value="Failed resolution of" />
@@ -48,14 +51,11 @@
       <item value="specifier" />
       <item value="原始" />
       <item value="initials" />
-      <item value="Initials" />
-      <item value="首字母" />
-      <item value="fist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="558" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
