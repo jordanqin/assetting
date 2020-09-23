@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place for everything, and everything in its place." />
       <item value="Valid" />
       <item value="abandon" />
       <item value="Returns true if this object has a mapping for {@code name}. The mapping * may be {@link #NULL}." />
@@ -50,12 +51,11 @@
       <item value="Unexpected token" />
       <item value="Returns the {@code kind} of this element." />
       <item value="Returns the type defined by this element" />
-      <item value="Polymorphic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
