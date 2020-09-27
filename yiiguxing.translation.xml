@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="migrate" />
       <item value="空的" />
       <item value="空" />
       <item value="刷新" />
@@ -50,12 +51,11 @@
       <item value="Field Spec" />
       <item value="Field" />
       <item value="Fields" />
-      <item value="赋值" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
