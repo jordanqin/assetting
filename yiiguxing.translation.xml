@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="图形" />
       <item value="Communicator" />
       <item value="subscribe" />
       <item value="beauty" />
@@ -50,11 +51,10 @@
       <item value="Nested" />
       <item value="The name of the xml element. Default value is the name of the annotated java field." />
       <item value="The name of the xml element" />
-      <item value="With this annotation you indicate that a xml child element maps to a certain java class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
+        <entry key="CHINESE" value="580" />
         <entry key="ENGLISH" value="580" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
