@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联调" />
+      <item value="Skipped due to earlier error" />
       <item value="Metrics" />
       <item value="节点" />
       <item value="Failure" />
@@ -49,13 +51,11 @@
       <item value="You can have an empty constructor or a constructor whose parameters match the fields (by name and type)" />
       <item value="Entities and Pojos must have a usable public constructor" />
       <item value="Gradle may disable incremental compilation as the following annotation processors are not incremental" />
-      <item value="Gradle may disable incremental compilation as the following annotation processors are not incremental: room-compiler-2.0.0.jar (androidx.room:room-compiler:2.0.0). Consider setting the experimental feature flag android.enableSeparateAnnotationProcessing=true in the gradle.properties file to run annotation processing in a separate task and make compilation incremental." />
-      <item value="backup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="592" />
-        <entry key="ENGLISH" value="593" />
+        <entry key="CHINESE" value="594" />
+        <entry key="ENGLISH" value="594" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
