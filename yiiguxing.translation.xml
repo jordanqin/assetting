@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Repository" />
       <item value="need" />
       <item value="Credentials" />
       <item value="Returns a hint as to whether it makes sense to retry upon this exception." />
@@ -50,12 +51,11 @@
       <item value="xml parser for android" />
       <item value="Project with path ':xmlAnnoation' could not be found in project ':cosxml'." />
       <item value="Make Android Great Again" />
-      <item value="Failed resolution of" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="600" />
-        <entry key="ENGLISH" value="601" />
+        <entry key="CHINESE" value="601" />
+        <entry key="ENGLISH" value="602" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
