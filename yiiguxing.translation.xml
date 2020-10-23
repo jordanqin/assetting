@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Speed" />
+      <item value="speed" />
       <item value="Existed" />
       <item value="completed" />
       <item value="This state represents a transfer that has been resumed and queued for * execution, but has not started to actively transfer data." />
@@ -49,13 +51,11 @@
       <item value="hidden" />
       <item value="Auth" />
       <item value="失败" />
-      <item value="成功" />
-      <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="614" />
+        <entry key="ENGLISH" value="615" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
