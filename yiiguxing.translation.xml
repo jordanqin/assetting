@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stat" />
       <item value="common" />
       <item value="公共" />
       <item value="metrics" />
@@ -50,11 +51,10 @@
       <item value="migrate" />
       <item value="空的" />
       <item value="空" />
-      <item value="刷新" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
+        <entry key="CHINESE" value="619" />
         <entry key="ENGLISH" value="619" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
@@ -62,6 +62,7 @@
         <entry key="FRENCH" value="8" />
         <entry key="LATIN" value="1" />
         <entry key="LITHUANIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
         <entry key="ITALIAN" value="2" />
