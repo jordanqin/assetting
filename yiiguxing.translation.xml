@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No cached version listing for com.google.dagger:dagger:2.+ available for offline mode." />
       <item value="current collect imei be refused! isCollect Imei" />
       <item value="Tunnel" />
       <item value="Stat" />
@@ -50,12 +51,11 @@
       <item value="subscribe" />
       <item value="beauty" />
       <item value="Modified Since" />
-      <item value="migrate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="621" />
+        <entry key="ENGLISH" value="622" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
