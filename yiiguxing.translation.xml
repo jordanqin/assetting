@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Skipped due to earlier error" />
       <item value="No cached version listing for com.google.dagger:dagger:2.+ available for offline mode." />
       <item value="current collect imei be refused! isCollect Imei" />
       <item value="Tunnel" />
@@ -31,7 +32,6 @@
       <item value="INVALID" />
       <item value="LACK" />
       <item value="联调" />
-      <item value="Skipped due to earlier error" />
       <item value="Metrics" />
       <item value="节点" />
       <item value="Failure" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
