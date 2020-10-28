@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current collect imei be refused! isCollect Imei" />
       <item value="Tunnel" />
       <item value="Stat" />
       <item value="common" />
@@ -50,12 +51,11 @@
       <item value="beauty" />
       <item value="Modified Since" />
       <item value="migrate" />
-      <item value="空的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="619" />
-        <entry key="ENGLISH" value="620" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
