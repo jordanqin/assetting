@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tidy" />
       <item value="APN" />
       <item value="encry" />
       <item value="Manufacture" />
@@ -50,12 +51,11 @@
       <item value="Cost" />
       <item value="accelerate" />
       <item value="throttle" />
-      <item value="Took Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="ENGLISH" value="628" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
