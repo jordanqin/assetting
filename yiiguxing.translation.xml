@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="POOR" />
       <item value="min" />
       <item value="lite" />
       <item value="reserved" />
@@ -50,7 +51,6 @@
       <item value="server" />
       <item value="客户端" />
       <item value="_base service" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
