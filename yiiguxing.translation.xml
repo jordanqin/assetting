@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Report" />
       <item value="Cause" />
       <item value="subdivision" />
       <item value="细分" />
@@ -50,12 +51,11 @@
       <item value="Returns a hint as to whether it makes sense to retry upon this exception." />
       <item value="Pattern" />
       <item value="INVALID" />
-      <item value="LACK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
