@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thrown to indicate that the IP address of a host could not be determined." />
+      <item value="POOR" />
+      <item value="Unknown" />
       <item value="Signals that an error occurred while attempting to connect a * socket to a remote address and port. Typically, the remote * host cannot be reached because of an intervening firewall, or * if an intermediate router is down." />
       <item value="avoid useless retry" />
-      <item value="POOR" />
       <item value="min" />
       <item value="lite" />
       <item value="reserved" />
@@ -49,13 +51,11 @@
       <item value="联调" />
       <item value="Metrics" />
       <item value="节点" />
-      <item value="Failure" />
-      <item value="server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="629" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
