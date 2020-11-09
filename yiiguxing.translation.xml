@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="Resolution" />
       <item value="is Report" />
       <item value="Report" />
@@ -50,12 +51,11 @@
       <item value="Repository" />
       <item value="need" />
       <item value="Credentials" />
-      <item value="Returns a hint as to whether it makes sense to retry upon this exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="638" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
