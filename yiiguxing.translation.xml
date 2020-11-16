@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COUNTED" />
       <item value="Flexible" />
       <item value="The specified bucket does not exist." />
       <item value="The requested bucket has already existed in other region" />
@@ -50,12 +51,11 @@
       <item value="metrics" />
       <item value="complete" />
       <item value="Speed" />
-      <item value="speed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
