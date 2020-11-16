@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The specified bucket does not exist." />
       <item value="The requested bucket has already existed in other region" />
       <item value="Bucket format should be" />
       <item value="Missing required header for this request" />
@@ -50,12 +51,11 @@
       <item value="Speed" />
       <item value="speed" />
       <item value="Existed" />
-      <item value="completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
