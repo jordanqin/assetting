@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variants" />
       <item value="Gate" />
       <item value="light" />
       <item value="Transformations" />
@@ -50,12 +51,11 @@
       <item value="Tunnel" />
       <item value="Stat" />
       <item value="common" />
-      <item value="公共" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="656" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
