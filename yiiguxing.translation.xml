@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a {@code PriorityBlockingQueue} with the default * initial capacity (11) that orders its elements according to * their {@linkplain Comparable natural ordering}." />
       <item value="Reducing the number of considered missed Gc histogram windows from 512 to 100" />
       <item value="variants" />
       <item value="Gate" />
@@ -50,12 +51,11 @@
       <item value="No cached version listing for com.google.dagger:dagger:2.+ available for offline mode." />
       <item value="current collect imei be refused! isCollect Imei" />
       <item value="Tunnel" />
-      <item value="Stat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="659" />
+        <entry key="CHINESE" value="659" />
+        <entry key="ENGLISH" value="660" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
