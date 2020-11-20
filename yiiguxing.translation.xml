@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the previous value associated with {@code key}, or * {@code null} if there was no mapping for {@code key}." />
+      <item value="Removes the mapping for a key from this map if it is present * (optional operation). More formally, if this map contains a mapping * from key {@code k} to value {@code v} such that * {@code Objects.equals(key, k)}, that mapping * is removed. (The map can contain at most one such mapping.)" />
       <item value="Atomically decrements by one the current value." />
       <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
       <item value="Atomic" />
@@ -49,13 +51,11 @@
       <item value="Manufacture" />
       <item value="legal" />
       <item value="prevent" />
-      <item value="apn" />
-      <item value="Automatically generated file. DO NOT MODIFY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
