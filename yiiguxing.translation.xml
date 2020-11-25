@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
       <item value="Inserts the specified element at the tail of this queue, waiting if * necessary for space to become available." />
       <item value="Inserts the specified element into this priority queue. * As the queue is unbounded, this method will never return {@code false}." />
       <item value="offset" />
@@ -50,12 +51,11 @@
       <item value="Cause" />
       <item value="subdivision" />
       <item value="细分" />
-      <item value="Thrown to indicate that the IP address of a host could not be determined." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
