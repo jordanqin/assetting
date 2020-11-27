@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Snapshot" />
+      <item value="Communicator" />
+      <item value="allow" />
       <item value="Async" />
       <item value="Installation failed due to: 'null'" />
       <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
@@ -48,14 +51,11 @@
       <item value="Can't create ViewModelProvider for detached fragment" />
       <item value="transitive" />
       <item value="LACK" />
-      <item value="exclude" />
-      <item value="Resolution" />
-      <item value="is Report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="688" />
+        <entry key="ENGLISH" value="689" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
