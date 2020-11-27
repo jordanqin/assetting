@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Async" />
       <item value="Installation failed due to: 'null'" />
       <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
       <item value="Generate by auto" />
@@ -40,7 +41,6 @@
       <item value="Missing required header for this request" />
       <item value="PERSIST" />
       <item value="Installation did not succeed. The application could not be installed." />
-      <item value="Async" />
       <item value="Weak" />
       <item value="Credentials" />
       <item value="Constants" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="684" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
