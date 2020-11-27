@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Installation failed due to: 'null'" />
       <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
       <item value="Generate by auto" />
       <item value="deep Archive" />
@@ -50,12 +51,11 @@
       <item value="exclude" />
       <item value="Resolution" />
       <item value="is Report" />
-      <item value="Report" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
