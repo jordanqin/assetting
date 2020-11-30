@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PERSIST" />
       <item value="Project 'mtaUtils' not found in root project 'QCloudCosXml'. Some candidates are: 'logUtils'." />
       <item value="Snapshot" />
       <item value="Communicator" />
@@ -43,7 +44,6 @@
       <item value="The requested bucket has already existed in other region" />
       <item value="Bucket format should be" />
       <item value="Missing required header for this request" />
-      <item value="PERSIST" />
       <item value="Installation did not succeed. The application could not be installed." />
       <item value="Weak" />
       <item value="Credentials" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="690" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
