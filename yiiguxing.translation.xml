@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to extract native libraries" />
       <item value="PERSIST" />
       <item value="Project 'mtaUtils' not found in root project 'QCloudCosXml'. Some candidates are: 'logUtils'." />
       <item value="Snapshot" />
@@ -50,12 +51,11 @@
       <item value="Constants" />
       <item value="Inject" />
       <item value="Can't create ViewModelProvider for detached fragment" />
-      <item value="transitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
