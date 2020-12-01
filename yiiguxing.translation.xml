@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="variant" />
+      <item value="variants" />
       <item value="Failed to extract native libraries" />
       <item value="PERSIST" />
       <item value="Project 'mtaUtils' not found in root project 'QCloudCosXml'. Some candidates are: 'logUtils'." />
@@ -35,7 +37,6 @@
       <item value="Creates a {@code PriorityBlockingQueue} with the default * initial capacity (11) that orders its elements according to * their {@linkplain Comparable natural ordering}." />
       <item value="capacity the capacity of this queue" />
       <item value="Reducing the number of considered missed Gc histogram windows from 512 to 100" />
-      <item value="variants" />
       <item value="Gate" />
       <item value="light" />
       <item value="Transformations" />
@@ -50,12 +51,11 @@
       <item value="Credentials" />
       <item value="Constants" />
       <item value="Inject" />
-      <item value="Can't create ViewModelProvider for detached fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="691" />
-        <entry key="ENGLISH" value="692" />
+        <entry key="CHINESE" value="693" />
+        <entry key="ENGLISH" value="694" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
