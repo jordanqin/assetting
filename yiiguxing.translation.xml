@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AWS Device Farm Plugin version 1.3" />
       <item value="uses-sdk:minSdkVersion 9 cannot be smaller than version 14 declared in library" />
       <item value="eventstreaming" />
       <item value="variant" />
@@ -50,12 +51,11 @@
       <item value="Missing required header for this request" />
       <item value="Installation did not succeed. The application could not be installed." />
       <item value="Weak" />
-      <item value="Credentials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="696" />
+        <entry key="ENGLISH" value="697" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
