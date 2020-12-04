@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="browser" />
       <item value="parameter" />
       <item value="参数" />
       <item value="Failed to open zip file. Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.)" />
@@ -50,12 +51,11 @@
       <item value="Flexible" />
       <item value="The specified bucket does not exist." />
       <item value="The requested bucket has already existed in other region" />
-      <item value="Bucket format should be" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="701" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
