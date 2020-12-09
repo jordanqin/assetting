@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Idle" />
+      <item value="Scroll" />
       <item value="Scroll Id" />
       <item value="Starts to listen the given {@code source} LiveData, {@code onChanged} observer will be called * when {@code source} value was changed." />
       <item value="Directories" />
@@ -50,12 +51,11 @@
       <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
       <item value="Atomic" />
       <item value="Sets the policy governing whether core threads may time out and * terminate if no tasks arrive within the keep-alive time, being * replaced if needed when new tasks arrive. When false, core * threads are never terminated due to lack of incoming * tasks. When true, the same keep-alive policy applying to * non-core threads applies also to core threads. To avoid * continual thread replacement, the keep-alive time must be * greater than zero when setting {@code true}. This method * should in general be called before the pool is actively used." />
-      <item value="Creates a {@code PriorityBlockingQueue} with the default * initial capacity (11) that orders its elements according to * their {@linkplain Comparable natural ordering}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="711" />
+        <entry key="ENGLISH" value="712" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
