@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key." />
+      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the ke" />
       <item value="Standard" />
       <item value="Iv" />
       <item value="encrypt" />
@@ -49,13 +51,11 @@
       <item value="offset" />
       <item value="max Idle Connections" />
       <item value="Background threads are used to cleanup expired connections. There will be at most a single * thread running per connection pool. The thread pool executor permits the pool itself to be * garbage collected." />
-      <item value="follow Redirects" />
-      <item value="Returns a new request body that transmits {@code content}. If {@code contentType} is non-null * and lacks a charset, this will use UTF-8." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="724" />
+        <entry key="CHINESE" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
