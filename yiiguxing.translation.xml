@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Standard" />
+      <item value="Iv" />
       <item value="encrypt" />
       <item value="Directory" />
       <item value="Extract" />
@@ -49,13 +51,11 @@
       <item value="Background threads are used to cleanup expired connections. There will be at most a single * thread running per connection pool. The thread pool executor permits the pool itself to be * garbage collected." />
       <item value="follow Redirects" />
       <item value="Returns a new request body that transmits {@code content}. If {@code contentType} is non-null * and lacks a charset, this will use UTF-8." />
-      <item value="Writes the content of this request to {@code sink}." />
-      <item value="Returns the Content-Type header for this body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
-        <entry key="ENGLISH" value="722" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="724" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
