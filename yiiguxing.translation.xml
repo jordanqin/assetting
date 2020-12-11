@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="REPLACE" />
       <item value="main Page" />
       <item value="useless" />
       <item value="Previous" />
@@ -50,12 +51,11 @@
       <item value="variants" />
       <item value="Failed to extract native libraries" />
       <item value="PERSIST" />
-      <item value="Project 'mtaUtils' not found in root project 'QCloudCosXml'. Some candidates are: 'logUtils'." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="740" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
