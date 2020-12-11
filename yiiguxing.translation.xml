@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abandon" />
+      <item value="maintain" />
+      <item value="reclaim" />
+      <item value="abandon" />
+      <item value="enable" />
       <item value="secret" />
       <item value="启用" />
-      <item value="abandon" />
       <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key." />
       <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the ke" />
       <item value="Standard" />
@@ -47,15 +51,11 @@
       <item value="Installation failed due to: 'null'" />
       <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
       <item value="Generate by auto" />
-      <item value="deep Archive" />
-      <item value="complete" />
-      <item value="Inserts the specified element at the tail of this queue, waiting if * necessary for space to become available." />
-      <item value="Inserts the specified element into this priority queue. * As the queue is unbounded, this method will never return {@code false}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="727" />
-        <entry key="ENGLISH" value="728" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
