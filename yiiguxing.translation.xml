@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Abandon" />
+      <item value="restore" />
+      <item value="恢复" />
       <item value="maintain" />
+      <item value="Abandon" />
       <item value="reclaim" />
       <item value="abandon" />
       <item value="enable" />
@@ -49,13 +51,11 @@
       <item value="allow" />
       <item value="Async" />
       <item value="Installation failed due to: 'null'" />
-      <item value="The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS" />
-      <item value="Generate by auto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="732" />
-        <entry key="ENGLISH" value="733" />
+        <entry key="CHINESE" value="735" />
+        <entry key="ENGLISH" value="736" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
