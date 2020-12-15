@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALTER" />
+      <item value="update" />
       <item value="Scheme" />
       <item value="Privacy" />
       <item value="Singleton" />
@@ -49,15 +51,14 @@
       <item value="Frozen" />
       <item value="A place for everything, and everything in its place." />
       <item value="encode" />
-      <item value="Postcard" />
-      <item value="browser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="751" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="753" />
+        <entry key="ENGLISH" value="753" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="8" />
         <entry key="LATIN" value="1" />
