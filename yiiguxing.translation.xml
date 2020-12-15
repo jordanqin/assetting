@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scheme" />
       <item value="Privacy" />
       <item value="Singleton" />
       <item value="Nullable" />
@@ -50,12 +51,11 @@
       <item value="encode" />
       <item value="Postcard" />
       <item value="browser" />
-      <item value="parameter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="750" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="CHINESE" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="RUSSIAN" value="1" />
