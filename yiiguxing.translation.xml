@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="abandon" />
       <item value="ALTER" />
       <item value="update" />
       <item value="Scheme" />
@@ -24,7 +25,6 @@
       <item value="maintain" />
       <item value="Abandon" />
       <item value="reclaim" />
-      <item value="abandon" />
       <item value="enable" />
       <item value="secret" />
       <item value="启用" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="753" />
+        <entry key="ENGLISH" value="754" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
