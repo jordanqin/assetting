@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
+      <item value="格式不正确" />
       <item value="quit" />
       <item value="file share" />
       <item value="An implementation which wraps a String URI. This URI can be opaque or * hierarchical, but we extend AbstractHierarchicalUri in case we need * the hierarchical functionality." />
@@ -49,13 +51,11 @@
       <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the ke" />
       <item value="Standard" />
       <item value="Iv" />
-      <item value="encrypt" />
-      <item value="Directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="774" />
-        <entry key="ENGLISH" value="775" />
+        <entry key="CHINESE" value="776" />
+        <entry key="ENGLISH" value="776" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
