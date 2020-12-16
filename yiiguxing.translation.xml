@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directory" />
+      <item value="目录" />
+      <item value="是" />
+      <item value="tips" />
       <item value="解析" />
       <item value="格式不正确" />
       <item value="quit" />
@@ -47,15 +51,11 @@
       <item value="enable" />
       <item value="secret" />
       <item value="启用" />
-      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the key." />
-      <item value="Returns the value to which the specified key is mapped, * or {@code null} if this map contains no mapping for the ke" />
-      <item value="Standard" />
-      <item value="Iv" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="776" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="780" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
