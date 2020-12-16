@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An implementation which wraps a String URI. This URI can be opaque or * hierarchical, but we extend AbstractHierarchicalUri in case we need * the hierarchical functionality." />
+      <item value="Creates a Uri which parses the given encoded URI string." />
+      <item value="select picture not found" />
       <item value="Change in Y coordinate to apply at the end of the * animation. This value can either be an absolute number if toYType * is ABSOLUTE, or a percentage (where 1.0 is 100%) otherwise." />
       <item value="Can be used as the start time to indicate the start time should be the current * time when {@link #getTransformation(long, Transformation)} is invoked for the * first animation frame. This can is useful for short animations." />
       <item value="The specified dimension holds a float and should be multiplied by the * height or width of the object being animated." />
@@ -48,14 +51,11 @@
       <item value="Directory" />
       <item value="Extract" />
       <item value="exceed" />
-      <item value="legal" />
-      <item value="extract" />
-      <item value="Interceptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="768" />
-        <entry key="ENGLISH" value="769" />
+        <entry key="CHINESE" value="772" />
+        <entry key="ENGLISH" value="773" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
