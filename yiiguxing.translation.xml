@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replication" />
       <item value="PERSIST" />
       <item value="unused" />
       <item value="dontwarn" />
@@ -50,7 +51,6 @@
       <item value="恢复" />
       <item value="maintain" />
       <item value="Abandon" />
-      <item value="reclaim" />
     </histories>
     <option name="languageScores">
       <map>
