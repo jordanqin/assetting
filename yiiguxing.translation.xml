@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Android Plugin for Gradle, Revision 2.0.0 or higher" />
       <item value="you must init tinker plugin first!" />
       <item value="Inventory" />
       <item value="Replication" />
@@ -50,12 +51,11 @@
       <item value="上一个" />
       <item value="has" />
       <item value="restore" />
-      <item value="恢复" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="781" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="782" />
+        <entry key="ENGLISH" value="783" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="1" />
