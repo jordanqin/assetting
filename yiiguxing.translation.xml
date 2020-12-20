@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALTER" />
       <item value="get Declared Fields" />
       <item value="The application may be doing too much work on its main thread." />
       <item value="context is not instanceof Activity or Service, disable WXStat" />
@@ -36,7 +37,6 @@
       <item value="ALBUM" />
       <item value="Scan" />
       <item value="abandon" />
-      <item value="ALTER" />
       <item value="update" />
       <item value="Scheme" />
       <item value="Privacy" />
@@ -54,11 +54,11 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
+        <entry key="CHINESE" value="788" />
         <entry key="ENGLISH" value="788" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
-        <entry key="GERMAN" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="8" />
         <entry key="LATIN" value="1" />
