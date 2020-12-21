@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Replication is not supported on intelligent-tier bucket without set StorageClass" />
       <item value="Standard" />
       <item value="destination" />
       <item value="exclude" />
@@ -50,7 +51,6 @@
       <item value="stash" />
       <item value="Pop" />
       <item value="Endpoint" />
-      <item value="batch" />
     </histories>
     <option name="languageScores">
       <map>
