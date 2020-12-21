@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Standard" />
+      <item value="destination" />
       <item value="exclude" />
       <item value="ALTER" />
       <item value="get Declared Fields" />
@@ -49,8 +51,6 @@
       <item value="Pop" />
       <item value="Endpoint" />
       <item value="batch" />
-      <item value="REPLACE" />
-      <item value="main Page" />
     </histories>
     <option name="languageScores">
       <map>
