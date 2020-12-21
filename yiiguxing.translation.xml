@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
       <item value="ALTER" />
       <item value="get Declared Fields" />
       <item value="The application may be doing too much work on its main thread." />
@@ -50,7 +51,6 @@
       <item value="batch" />
       <item value="REPLACE" />
       <item value="main Page" />
-      <item value="useless" />
     </histories>
     <option name="languageScores">
       <map>
