@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Evaluate" />
+      <item value="after" />
+      <item value="after Evaluate" />
       <item value="Concurrent" />
       <item value="文件夹" />
       <item value="Put bucket website failure because HttpErrorCodeReturnedEquals only support 4XX Errorcode." />
@@ -48,14 +51,11 @@
       <item value="Scheme" />
       <item value="Privacy" />
       <item value="Singleton" />
-      <item value="Nullable" />
-      <item value="choose" />
-      <item value="force" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="788" />
-        <entry key="ENGLISH" value="789" />
+        <entry key="CHINESE" value="791" />
+        <entry key="ENGLISH" value="792" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
