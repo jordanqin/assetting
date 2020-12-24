@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collect" />
       <item value="excludes" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0." />
       <item value="SKIPPED" />
@@ -50,12 +51,11 @@
       <item value="Change in Y coordinate to apply at the start of the * animation. This value can either be an absolute number if fromYType * is ABSOLUTE, or a percentage (where 1.0 is 100%) otherwise." />
       <item value="REVERSE" />
       <item value="Whole Screen includes StatusBar and ActionBar" />
-      <item value="Repeat the animation indefinitely." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="803" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="CHINESE" value="804" />
+        <entry key="ENGLISH" value="805" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
