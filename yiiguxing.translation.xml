@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspended" />
+      <item value="Enabled" />
       <item value="Not support modify intelligent tiering configuration" />
       <item value="来源" />
       <item value="conditions" />
@@ -49,13 +51,11 @@
       <item value="album" />
       <item value="ALBUM" />
       <item value="Scan" />
-      <item value="abandon" />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
