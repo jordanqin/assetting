@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="do First" />
+      <item value="Generate Jacoco coverage reports after running tests" />
       <item value="Suspended" />
       <item value="Enabled" />
       <item value="Not support modify intelligent tiering configuration" />
@@ -49,13 +51,11 @@
       <item value="Sets how many times the animation should be repeated. If the repeat * count is 0, the animation is never repeated. If the repeat count is * greater than 0 or {@link #INFINITE}, the repeat mode will be taken * into account. The repeat count is 0 by default." />
       <item value="flash" />
       <item value="album" />
-      <item value="ALBUM" />
-      <item value="Scan" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE" value="798" />
+        <entry key="ENGLISH" value="799" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
