@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="after" />
+      <item value="SKIPPED" />
+      <item value="Evaluate" />
       <item value="after Evaluate" />
+      <item value="after" />
       <item value="do First" />
       <item value="Generate Jacoco coverage reports after running tests" />
       <item value="Suspended" />
@@ -10,7 +12,6 @@
       <item value="Not support modify intelligent tiering configuration" />
       <item value="来源" />
       <item value="conditions" />
-      <item value="Evaluate" />
       <item value="Concurrent" />
       <item value="文件夹" />
       <item value="Put bucket website failure because HttpErrorCodeReturnedEquals only support 4XX Errorcode." />
@@ -50,12 +51,11 @@
       <item value="Repeat the animation indefinitely." />
       <item value="Sets how many times the animation should be repeated. If the repeat * count is 0, the animation is never repeated. If the repeat count is * greater than 0 or {@link #INFINITE}, the repeat mode will be taken * into account. The repeat count is 0 by default." />
       <item value="flash" />
-      <item value="album" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="800" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="802" />
+        <entry key="ENGLISH" value="803" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
