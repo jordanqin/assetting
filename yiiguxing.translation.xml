@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="来源" />
       <item value="Not support modify intelligent tiering configuration" />
+      <item value="来源" />
       <item value="conditions" />
       <item value="Evaluate" />
       <item value="after" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="794" />
+        <entry key="ENGLISH" value="795" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
