@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value used to separate individual records." />
+      <item value="Indicates whether or not all output fields should be quoted." />
       <item value="Condition" />
       <item value="Access" />
       <item value="Hex" />
@@ -49,8 +51,6 @@
       <item value="file share" />
       <item value="An implementation which wraps a String URI. This URI can be opaque or * hierarchical, but we extend AbstractHierarchicalUri in case we need * the hierarchical functionality." />
       <item value="Creates a Uri which parses the given encoded URI string." />
-      <item value="select picture not found" />
-      <item value="Change in Y coordinate to apply at the end of the * animation. This value can either be an absolute number if toYType * is ABSOLUTE, or a percentage (where 1.0 is 100%) otherwise." />
     </histories>
     <option name="languageScores">
       <map>
