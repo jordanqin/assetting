@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grant object write permission is invalid" />
+      <item value="Data Source must not be null" />
+      <item value="The Signature you specified is invalid." />
+      <item value="The Signature you specified is invalid" />
       <item value="comments must not be empty-string." />
       <item value="Value used to separate individual records." />
       <item value="Indicates whether or not all output fields should be quoted." />
@@ -47,15 +51,11 @@
       <item value="是" />
       <item value="tips" />
       <item value="解析" />
-      <item value="格式不正确" />
-      <item value="quit" />
-      <item value="file share" />
-      <item value="An implementation which wraps a String URI. This URI can be opaque or * hierarchical, but we extend AbstractHierarchicalUri in case we need * the hierarchical functionality." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="808" />
+        <entry key="CHINESE" value="811" />
+        <entry key="ENGLISH" value="812" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
