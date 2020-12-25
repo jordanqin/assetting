@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access" />
       <item value="Hex" />
       <item value="Returns an empty string if this collection is empty." />
       <item value="Returns the contents of this collection as a platform-specific path. This can be used, for example, in an Ant * &amp;lt;path&amp;gt; element." />
@@ -50,7 +51,6 @@
       <item value="select picture not found" />
       <item value="Change in Y coordinate to apply at the end of the * animation. This value can either be an absolute number if toYType * is ABSOLUTE, or a percentage (where 1.0 is 100%) otherwise." />
       <item value="Can be used as the start time to indicate the start time should be the current * time when {@link #getTransformation(long, Transformation)} is invoked for the * first animation frame. This can is useful for short animations." />
-      <item value="The specified dimension holds a float and should be multiplied by the * height or width of the object being animated." />
     </histories>
     <option name="languageScores">
       <map>
