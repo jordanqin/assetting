@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delimiter" />
       <item value="Header acl and body acl can not send in the sametime" />
       <item value="The Signature you specified is invalid" />
       <item value="grant object write permission is invalid" />
@@ -50,7 +51,6 @@
       <item value="directory" />
       <item value="目录" />
       <item value="是" />
-      <item value="tips" />
     </histories>
     <option name="languageScores">
       <map>
