@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <histories>
       <item value="grant object write permission is invalid" />
-      <item value="Data Source must not be null" />
       <item value="The Signature you specified is invalid." />
+      <item value="Data Source must not be null" />
       <item value="The Signature you specified is invalid" />
       <item value="comments must not be empty-string." />
       <item value="Value used to separate individual records." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="811" />
-        <entry key="ENGLISH" value="812" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="814" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
