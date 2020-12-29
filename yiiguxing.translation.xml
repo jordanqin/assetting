@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="build Http Request" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found" />
       <item value="Delimiter" />
       <item value="Header acl and body acl can not send in the sametime" />
@@ -50,12 +51,11 @@
       <item value="unused" />
       <item value="dontwarn" />
       <item value="directory" />
-      <item value="目录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="814" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="CHINESE" value="815" />
+        <entry key="ENGLISH" value="816" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
