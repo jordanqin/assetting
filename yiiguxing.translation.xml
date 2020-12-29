@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expose" />
       <item value="sucsess" />
       <item value="build Http Request" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found" />
@@ -50,12 +51,11 @@
       <item value="Replication" />
       <item value="PERSIST" />
       <item value="unused" />
-      <item value="dontwarn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="815" />
-        <entry key="ENGLISH" value="816" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
