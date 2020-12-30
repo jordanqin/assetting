@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not exist" />
       <item value="After" />
       <item value="actual" />
       <item value="method POST must have a request body." />
@@ -50,7 +51,6 @@
       <item value="No variants found for 'cosxml'. Check build files to ensure at least one variant exists." />
       <item value="Android Plugin for Gradle, Revision 2.0.0 or higher" />
       <item value="you must init tinker plugin first!" />
-      <item value="Inventory" />
     </histories>
     <option name="languageScores">
       <map>
