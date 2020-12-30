@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="method POST must have a request body." />
       <item value="expose" />
       <item value="sucsess" />
       <item value="build Http Request" />
@@ -50,7 +51,6 @@
       <item value="Inventory" />
       <item value="Replication" />
       <item value="PERSIST" />
-      <item value="unused" />
     </histories>
     <option name="languageScores">
       <map>
