@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the name of the service that sent this error response." />
       <item value="not exist" />
       <item value="After" />
       <item value="actual" />
@@ -50,7 +51,6 @@
       <item value="context is not instanceof Activity or Service, disable WXStat" />
       <item value="No variants found for 'cosxml'. Check build files to ensure at least one variant exists." />
       <item value="Android Plugin for Gradle, Revision 2.0.0 or higher" />
-      <item value="you must init tinker plugin first!" />
     </histories>
     <option name="languageScores">
       <map>
