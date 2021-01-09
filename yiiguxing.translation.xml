@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DISABLE" />
       <item value="Share" />
       <item value="The Content-MD5 you specified is not match" />
       <item value="One or more of the specified parts could not be found.The part might not have been uploaded, or the specified entity tag might not have matched the part's entity tag." />
@@ -50,12 +51,11 @@
       <item value="Replication is not supported on intelligent-tier bucket without set StorageClass" />
       <item value="Standard" />
       <item value="destination" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="CHINESE" value="820" />
+        <entry key="ENGLISH" value="821" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
