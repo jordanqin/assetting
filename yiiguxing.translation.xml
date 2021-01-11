@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@code RenderMode}, which paints Paints a Flutter UI provided by an {@link android.media.ImageReader} onto a {@link android.graphics.Canvas}. This mode is not as performant as {@link RenderModesurface}, but a {@code FlutterView} in this mode can handle full interactivity with a {@link io.flutter.plugin.platform.PlatformView}. Unless {@link io.flutter.plugin.platform.PlatformView}s are required developers should strongly prefer the {@link RenderModesurface} render mode." />
       <item value="{@code RenderMode}, which paints a Flutter UI to a {@link android.graphics.SurfaceTexture}. This mode is not as performant as {@link surface}, but a Flutter UI in this mode can be animated and transformed, as well as positioned in the z-index between 2+ other Android {@code Views}. Unless the special capabilities of a {@link android.graphics.SurfaceTexture} are required, developers should strongly prefer the {@link surface} render mode." />
       <item value="{@code RenderMode}, which paints a Flutter UI to a {@link android.view.SurfaceView}. This mode has the best performance, but a Flutter UI in this mode cannot be positioned between 2 other Android {@code View}s in the z-index, nor can it be animatedtransformed. Unless the special capabilities of a {@link android.graphics.SurfaceTexture} are required, developers should strongly prefer this render mode." />
       <item value="DISABLE" />
@@ -50,12 +51,11 @@
       <item value="Concurrent" />
       <item value="文件夹" />
       <item value="Put bucket website failure because HttpErrorCodeReturnedEquals only support 4XX Errorcode." />
-      <item value="Replication is not supported on intelligent-tier bucket without set StorageClass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="822" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="CHINESE" value="824" />
+        <entry key="ENGLISH" value="825" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
