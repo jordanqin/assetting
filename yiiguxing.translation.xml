@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="qrcode" />
       <item value="not Bad Web View" />
       <item value="Throwable" />
       <item value="LIBLOAD FAILED LISTING WEBVIEW PACKAGES" />
@@ -50,12 +51,11 @@
       <item value="do First" />
       <item value="Generate Jacoco coverage reports after running tests" />
       <item value="Enabled" />
-      <item value="Not support modify intelligent tiering configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="825" />
-        <entry key="ENGLISH" value="826" />
+        <entry key="CHINESE" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
