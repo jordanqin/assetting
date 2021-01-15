@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to get length of null array" />
       <item value="build" />
       <item value="Mutable" />
       <item value="slide" />
@@ -50,12 +51,11 @@
       <item value="Access" />
       <item value="Hex" />
       <item value="Returns an empty string if this collection is empty." />
-      <item value="Returns the contents of this collection as a platform-specific path. This can be used, for example, in an Ant * &amp;lt;path&amp;gt; element." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="832" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="CHINESE" value="833" />
+        <entry key="ENGLISH" value="834" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
