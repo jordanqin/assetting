@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutable" />
       <item value="slide" />
       <item value="everything behind this window will be dimmed. Use {@link dimAmount} to control the amount of dim" />
       <item value="横向" />
@@ -50,7 +51,6 @@
       <item value="Returns an empty string if this collection is empty." />
       <item value="Returns the contents of this collection as a platform-specific path. This can be used, for example, in an Ant * &amp;lt;path&amp;gt; element." />
       <item value="collect" />
-      <item value="excludes" />
     </histories>
     <option name="languageScores">
       <map>
