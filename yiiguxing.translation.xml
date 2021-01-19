@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit" />
       <item value="Strategy" />
       <item value="Track" />
       <item value="saved" />
@@ -50,7 +51,6 @@
       <item value="method POST must have a request body." />
       <item value="expose" />
       <item value="sucsess" />
-      <item value="build Http Request" />
     </histories>
     <option name="languageScores">
       <map>
