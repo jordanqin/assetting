@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Track" />
       <item value="saved" />
       <item value="长按保存" />
       <item value="自定义" />
@@ -50,7 +51,6 @@
       <item value="sucsess" />
       <item value="build Http Request" />
       <item value="java.security.cert.CertPathValidatorException: Trust anchor for certification path not found" />
-      <item value="Delimiter" />
     </histories>
     <option name="languageScores">
       <map>
