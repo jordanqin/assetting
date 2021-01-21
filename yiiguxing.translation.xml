@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="正确" />
+      <item value="正确的" />
       <item value="enter" />
       <item value="请输入链接" />
       <item value="确定" />
@@ -49,8 +51,6 @@
       <item value="Suspended" />
       <item value="Returns the name of the service that sent this error response." />
       <item value="not exist" />
-      <item value="After" />
-      <item value="actual" />
     </histories>
     <option name="languageScores">
       <map>
