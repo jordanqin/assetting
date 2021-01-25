@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Support Upload" />
       <item value="region" />
       <item value="Perf Event" />
       <item value="Enable" />
@@ -50,7 +51,6 @@
       <item value="Share" />
       <item value="The Content-MD5 you specified is not match" />
       <item value="One or more of the specified parts could not be found.The part might not have been uploaded, or the specified entity tag might not have matched the part's entity tag." />
-      <item value="Your proposed upload is smaller than the minimum allowed object size" />
     </histories>
     <option name="languageScores">
       <map>
