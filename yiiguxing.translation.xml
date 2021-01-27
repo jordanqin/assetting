@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This retrieves the primary clip and tries to coerce it to a string." />
+      <item value="Content" />
+      <item value="Clipboard" />
       <item value="region" />
       <item value="Valid" />
       <item value="argument is not url" />
@@ -48,14 +51,11 @@
       <item value="not Bad Web View" />
       <item value="Throwable" />
       <item value="LIBLOAD FAILED LISTING WEBVIEW PACKAGES" />
-      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
-      <item value="The unique qcloud identifier for the service request the caller made. The qcloud request ID can uniquely identify the qcloud request, and is used for reporting an error to qcloud support team." />
-      <item value="{@code RenderMode}, which paints Paints a Flutter UI provided by an {@link android.media.ImageReader} onto a {@link android.graphics.Canvas}. This mode is not as performant as {@link RenderModesurface}, but a {@code FlutterView} in this mode can handle full interactivity with a {@link io.flutter.plugin.platform.PlatformView}. Unless {@link io.flutter.plugin.platform.PlatformView}s are required developers should strongly prefer the {@link RenderModesurface} render mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="848" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="CHINESE" value="851" />
+        <entry key="ENGLISH" value="852" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
