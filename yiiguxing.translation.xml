@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
       <item value="Valid" />
       <item value="argument is not url" />
       <item value="Program type already present" />
@@ -8,7 +9,6 @@
       <item value="不支持" />
       <item value="Policy" />
       <item value="is Support Upload" />
-      <item value="region" />
       <item value="Perf Event" />
       <item value="Enable" />
       <item value="collect" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="848" />
+        <entry key="ENGLISH" value="849" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
