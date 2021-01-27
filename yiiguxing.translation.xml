@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index Of With Servant" />
+      <item value="also" />
+      <item value="also support" />
+      <item value="TRUNCATED" />
+      <item value="Idle" />
+      <item value="only" />
+      <item value="Frozen" />
+      <item value="intercept" />
       <item value="链接" />
       <item value="检测到" />
       <item value="检测" />
@@ -43,19 +51,11 @@
       <item value="Attempt to get length of null array" />
       <item value="build" />
       <item value="Mutable" />
-      <item value="slide" />
-      <item value="everything behind this window will be dimmed. Use {@link dimAmount} to control the amount of dim" />
-      <item value="横向" />
-      <item value="corners" />
-      <item value="oval" />
-      <item value="indicator" />
-      <item value="失效" />
-      <item value="qrcode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="854" />
-        <entry key="ENGLISH" value="854" />
+        <entry key="CHINESE" value="861" />
+        <entry key="ENGLISH" value="862" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
