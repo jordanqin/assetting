@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
       <item value="index Of With Servant" />
       <item value="also" />
       <item value="also support" />
@@ -50,7 +51,6 @@
       <item value="repeat" />
       <item value="Attempt to get length of null array" />
       <item value="build" />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
