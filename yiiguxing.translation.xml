@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="selector" />
+      <item value="Chosen" />
       <item value="Asc" />
       <item value="重置" />
       <item value="ARCHIVE" />
@@ -49,13 +51,11 @@
       <item value="有效期" />
       <item value="day" />
       <item value="hours" />
-      <item value="生成" />
-      <item value="默认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="863" />
+        <entry key="CHINESE" value="863" />
+        <entry key="ENGLISH" value="864" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
