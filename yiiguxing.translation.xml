@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="改变" />
       <item value="beauty" />
       <item value="repository" />
       <item value="Storage" />
@@ -50,11 +51,10 @@
       <item value="Strategy" />
       <item value="Track" />
       <item value="saved" />
-      <item value="长按保存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="863" />
+        <entry key="CHINESE" value="864" />
         <entry key="ENGLISH" value="864" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
