@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="beauty" />
+      <item value="repository" />
       <item value="Storage" />
       <item value="修改时间" />
       <item value="视图" />
@@ -49,8 +51,6 @@
       <item value="Track" />
       <item value="saved" />
       <item value="长按保存" />
-      <item value="自定义" />
-      <item value="管理权限" />
     </histories>
     <option name="languageScores">
       <map>
