@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Storage" />
+      <item value="修改时间" />
+      <item value="视图" />
+      <item value="Ok" />
       <item value="selector" />
       <item value="Chosen" />
       <item value="Asc" />
@@ -47,10 +51,6 @@
       <item value="长按保存" />
       <item value="自定义" />
       <item value="管理权限" />
-      <item value="valid period" />
-      <item value="有效期" />
-      <item value="day" />
-      <item value="hours" />
     </histories>
     <option name="languageScores">
       <map>
