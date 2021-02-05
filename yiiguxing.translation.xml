@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Slide" />
+      <item value="favorite" />
       <item value="Pick" />
       <item value="PICK" />
       <item value="proprietary" />
@@ -51,13 +53,11 @@
       <item value="Content" />
       <item value="Clipboard" />
       <item value="region" />
-      <item value="Valid" />
-      <item value="argument is not url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="870" />
-        <entry key="ENGLISH" value="871" />
+        <entry key="CHINESE" value="872" />
+        <entry key="ENGLISH" value="873" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
