@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="fetch credentials error happens" />
       <item value="Slide" />
       <item value="favorite" />
       <item value="Pick" />
@@ -52,12 +53,11 @@
       <item value="This retrieves the primary clip and tries to coerce it to a string." />
       <item value="Content" />
       <item value="Clipboard" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="872" />
-        <entry key="ENGLISH" value="873" />
+        <entry key="CHINESE" value="873" />
+        <entry key="ENGLISH" value="874" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
