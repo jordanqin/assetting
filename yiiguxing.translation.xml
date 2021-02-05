@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="-1492" />
+    <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Pick" />
+      <item value="PICK" />
       <item value="proprietary" />
       <item value="VIBRATE" />
       <item value="Favor" />
@@ -49,13 +53,11 @@
       <item value="region" />
       <item value="Valid" />
       <item value="argument is not url" />
-      <item value="Program type already present" />
-      <item value="Fields from build type: debug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="869" />
-        <entry key="ENGLISH" value="870" />
+        <entry key="CHINESE" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,10 +80,16 @@
     <option name="lastTrimTime" value="1612111190114" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210205000691178" />
+      </app-key>
+    </option>
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
