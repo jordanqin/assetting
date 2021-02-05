@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Portrait Stripe" />
       <item value="gallery" />
       <item value="fetch credentials error happens" />
       <item value="Slide" />
@@ -52,12 +53,11 @@
       <item value="检测到" />
       <item value="检测" />
       <item value="This retrieves the primary clip and tries to coerce it to a string." />
-      <item value="Content" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="CHINESE" value="875" />
+        <entry key="ENGLISH" value="876" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
