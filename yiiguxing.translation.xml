@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="suspend" />
       <item value="SHOULD INIT FRAGMENT" />
       <item value="A generic ordered collection of elements that supports adding and removing elements." />
       <item value="Indicates that {@link FragmentsetUserVisibleHint(boolean)} will be called when the current fragment changes." />
@@ -10,7 +11,6 @@
       <item value="determines if only current fragments are in a resumed state" />
       <item value="behavior" />
       <item value="Implementation of {@link PagerAdapter} that uses a {@link Fragment} to manage each page. This class also handles saving and restoring of fragment's state." />
-      <item value="suspend" />
       <item value="Portrait Stripe" />
       <item value="gallery" />
       <item value="fetch credentials error happens" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="883" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="CHINESE" value="884" />
+        <entry key="ENGLISH" value="885" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
