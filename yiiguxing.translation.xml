@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="go" />
       <item value="Captured" />
       <item value="The manufacturer of the recording equipment. This is the manufacturer of the DSC, scanner, video digitizer or other equipment that generated the image. When the field is left blank, it is treated as unknown" />
       <item value="FOCAL" />
@@ -52,12 +53,11 @@
       <item value="修改时间" />
       <item value="视图" />
       <item value="Ok" />
-      <item value="selector" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="895" />
-        <entry key="ENGLISH" value="896" />
+        <entry key="CHINESE" value="896" />
+        <entry key="ENGLISH" value="897" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
