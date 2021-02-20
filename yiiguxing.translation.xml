@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Set the amount of degrees the cropping image is rotated cloackwise.&lt;br&gt;" />
+      <item value="Sets whether the aspect ratio is fixed or not; true fixes the aspect ratio, while false allows it to be changed." />
+      <item value="An edge of the crop window will snap to the corresponding edge of a specified bounding box when the crop window edge is less than or equal to this distance (in pixels) away from the bounding box edge. (default: 3dp)" />
+      <item value="Snap" />
       <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt;" />
       <item value="Design assumption violated" />
       <item value="degrees" />
@@ -49,15 +53,11 @@
       <item value="Implementation of {@link PagerAdapter} that uses a {@link Fragment} to manage each page. This class also handles saving and restoring of fragment's state." />
       <item value="Portrait Stripe" />
       <item value="gallery" />
-      <item value="fetch credentials error happens" />
-      <item value="Slide" />
-      <item value="favorite" />
-      <item value="Pick" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="918" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
