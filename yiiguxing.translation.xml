@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="delta Scale" />
+      <item value="delta" />
       <item value="apply to zoom offset translate and update the crop rectangle to offset correctly" />
       <item value="scale the image to the image view, image rect transformed to know new widthheight" />
       <item value="rotate the image the required degrees from center of image" />
@@ -10,7 +12,6 @@
       <item value="scale by the current zoom level" />
       <item value="horizontal shift" />
       <item value="scale" />
-      <item value="delta" />
       <item value="This method translates current image." />
       <item value="Translate" />
       <item value="Fixed" />
@@ -52,12 +53,11 @@
       <item value="照片" />
       <item value="Captured" />
       <item value="exposed beyond app through Intent.getData()" />
-      <item value="go" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="943" />
-        <entry key="ENGLISH" value="944" />
+        <entry key="CHINESE" value="945" />
+        <entry key="ENGLISH" value="946" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
