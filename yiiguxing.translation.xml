@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Fixed" />
+      <item value="Sets whether the aspect ratio is fixed or not; true fixes the aspect ratio, while false allows it to be changed." />
+      <item value="Force degrees to be a non-zero value between 0 and 360 (inclusive)" />
+      <item value="Set the amount of degrees the cropping image is rotated cloackwise" />
       <item value="flip" />
       <item value="cannot be provided without an @Inject constructor or an @Provides-annotated method." />
       <item value="Transaction" />
@@ -10,7 +14,6 @@
       <item value="The return value includes a POJO with a @Relation" />
       <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt; Sets fixed aspect ratio to TRUE." />
       <item value="Set the amount of degrees the cropping image is rotated cloackwise.&lt;br&gt;" />
-      <item value="Sets whether the aspect ratio is fixed or not; true fixes the aspect ratio, while false allows it to be changed." />
       <item value="An edge of the crop window will snap to the corresponding edge of a specified bounding box when the crop window edge is less than or equal to this distance (in pixels) away from the bounding box edge. (default: 3dp)" />
       <item value="Snap" />
       <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt;" />
@@ -50,14 +53,11 @@
       <item value="Returns the currently selected page. If no page can sensibly be selected because there is no adapter or the adapter is empty, returns 0." />
       <item value="Brightness" />
       <item value="suspend" />
-      <item value="SHOULD INIT FRAGMENT" />
-      <item value="A generic ordered collection of elements that supports adding and removing elements." />
-      <item value="Indicates that {@link FragmentsetUserVisibleHint(boolean)} will be called when the current fragment changes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="CHINESE" value="932" />
+        <entry key="ENGLISH" value="933" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
