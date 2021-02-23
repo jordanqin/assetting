@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="scale by the current zoom level" />
+      <item value="horizontal shift" />
+      <item value="move the image to the center of the image view first so we can manipulate it from there" />
+      <item value="scale" />
       <item value="delta" />
       <item value="This method translates current image." />
       <item value="Translate" />
@@ -49,15 +53,11 @@
       <item value="The manufacturer of the recording equipment. This is the manufacturer of the DSC, scanner, video digitizer or other equipment that generated the image. When the field is left blank, it is treated as unknown" />
       <item value="FOCAL" />
       <item value="f Number" />
-      <item value="shutter Speed" />
-      <item value="resolution" />
-      <item value="设置为壁纸" />
-      <item value="indices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="935" />
-        <entry key="ENGLISH" value="936" />
+        <entry key="CHINESE" value="939" />
+        <entry key="ENGLISH" value="940" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
