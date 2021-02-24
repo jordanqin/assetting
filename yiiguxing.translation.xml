@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This method checks whether current image fills the crop bounds." />
+      <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
       <item value="true if the source should be filtered. Only applies if the matrix contains more than just translation." />
       <item value="Flips" />
       <item value="Flip" />
@@ -51,13 +53,11 @@
       <item value="Expand" />
       <item value="拓展" />
       <item value="Ext" />
-      <item value="Non Null" />
-      <item value="初始值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="957" />
+        <entry key="ENGLISH" value="958" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
