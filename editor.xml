@@ -11,4 +11,7 @@
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
