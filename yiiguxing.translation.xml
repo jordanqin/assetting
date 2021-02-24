@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Flips" />
+      <item value="Flip" />
+      <item value="Returns the absolute value of a {@code float} value." />
       <item value="Preconcats the matrix with the specified rotation. M' = M R(degrees)" />
       <item value="Preconcats" />
       <item value="This method returns Matrix value for given index." />
@@ -50,14 +53,11 @@
       <item value="Non Null" />
       <item value="初始值" />
       <item value="初始" />
-      <item value="Nullable" />
-      <item value="combine" />
-      <item value="拍摄时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="950" />
-        <entry key="ENGLISH" value="951" />
+        <entry key="CHINESE" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613720824116" />
+    <option name="lastTrimTime" value="1614152836299" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
