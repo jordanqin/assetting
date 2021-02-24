@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Preconcats the matrix with the specified rotation. M' = M R(degrees)" />
+      <item value="Preconcats" />
+      <item value="This method returns Matrix value for given index." />
       <item value="Downsize" />
       <item value="[1.0f - for original image, 2.0f - for 200% scaled image, etc.]" />
       <item value="Apply this matrix to the array of 2D points specified by src, and write the transformed points into the array of points specified by dst. The two arrays represent their &quot;points&quot; as pairs of floats [x, y]." />
@@ -50,14 +53,11 @@
       <item value="Nullable" />
       <item value="combine" />
       <item value="拍摄时间" />
-      <item value="前往该目录" />
-      <item value="shutter speed" />
-      <item value="相机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="948" />
-        <entry key="ENGLISH" value="949" />
+        <entry key="CHINESE" value="950" />
+        <entry key="ENGLISH" value="951" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
