@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Before" />
       <item value="Keeps a handle to the new media's URI in case we need to modify it" />
       <item value="UNIQUE constraint failed" />
       <item value="Pending" />
@@ -52,12 +53,11 @@
       <item value="rotation" />
       <item value="mirror" />
       <item value="水平镜像" />
-      <item value="synthetic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="965" />
-        <entry key="ENGLISH" value="966" />
+        <entry key="CHINESE" value="966" />
+        <entry key="ENGLISH" value="967" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
