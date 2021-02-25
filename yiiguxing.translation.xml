@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Resumes playback as soon as {@link getPlaybackState()} == {@link STATE_READY}. Equivalent to {@code setPlayWhenReady(true)}." />
+      <item value="When Ready" />
       <item value="destination" />
       <item value="Manual" />
       <item value="FOREIGN KEY constraint failed (code 787 SQLITE_CONSTRAINT_FOREIGNKEY)" />
@@ -51,13 +53,11 @@
       <item value="An edge of the crop window will snap to the corresponding edge of a specified bounding box when the crop window edge is less than or equal to this distance (in pixels) away from the bounding box edge. (default: 3dp)" />
       <item value="Snap" />
       <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt;" />
-      <item value="Design assumption violated" />
-      <item value="degrees" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="969" />
-        <entry key="ENGLISH" value="970" />
+        <entry key="CHINESE" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
