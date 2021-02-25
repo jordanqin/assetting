@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Pending" />
       <item value="star" />
       <item value="vector" />
       <item value="Bookmark" />
@@ -52,12 +53,11 @@
       <item value="synthetic" />
       <item value="port" />
       <item value="Wallpaper" />
-      <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity to reverse its exit Transition. When the exit Transition completes, {@link finish()} is called. If no entry Transition was used, finish() is called immediately and the Activity exit Transition is run." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="CHINESE" value="963" />
+        <entry key="ENGLISH" value="964" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
