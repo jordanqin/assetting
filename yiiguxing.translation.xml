@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="像素" />
+      <item value="横杠" />
+      <item value="exif" />
+      <item value="extract" />
       <item value="Taken" />
       <item value="shutter Speed" />
       <item value="EXPOSURE" />
@@ -49,15 +53,11 @@
       <item value="move the image to the center of the image view first so we can manipulate it from there" />
       <item value="scale by the current zoom level" />
       <item value="horizontal shift" />
-      <item value="scale" />
-      <item value="This method translates current image." />
-      <item value="Translate" />
-      <item value="Fixed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="986" />
-        <entry key="ENGLISH" value="987" />
+        <entry key="CHINESE" value="989" />
+        <entry key="ENGLISH" value="989" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
