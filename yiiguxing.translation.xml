@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Wheel" />
+      <item value="Crop" />
+      <item value="Scale" />
+      <item value="Flips" />
       <item value="allowed directories are [D" />
       <item value="Primary directory data not allowed for" />
       <item value="Available" />
@@ -23,7 +27,6 @@
       <item value="This method checks whether current image fills the crop bounds." />
       <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
       <item value="true if the source should be filtered. Only applies if the matrix contains more than just translation." />
-      <item value="Flips" />
       <item value="Flip" />
       <item value="Returns the absolute value of a {@code float} value." />
       <item value="Preconcats the matrix with the specified rotation. M' = M R(degrees)" />
@@ -50,14 +53,11 @@
       <item value="flip" />
       <item value="cannot be provided without an @Inject constructor or an @Provides-annotated method." />
       <item value="Transaction" />
-      <item value="Relation" />
-      <item value="The return value includes a POJO with a @Relation" />
-      <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt; Sets fixed aspect ratio to TRUE." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="975" />
-        <entry key="ENGLISH" value="976" />
+        <entry key="CHINESE" value="980" />
+        <entry key="ENGLISH" value="981" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
