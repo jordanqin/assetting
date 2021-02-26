@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Available" />
       <item value="Wallpaper" />
       <item value="Resumes playback as soon as {@link getPlaybackState()} == {@link STATE_READY}. Equivalent to {@code setPlayWhenReady(true)}." />
       <item value="When Ready" />
@@ -52,12 +53,11 @@
       <item value="Sets the both the X and Y values of the aspectRatio.&lt;br&gt; Sets fixed aspect ratio to TRUE." />
       <item value="Set the amount of degrees the cropping image is rotated cloackwise.&lt;br&gt;" />
       <item value="An edge of the crop window will snap to the corresponding edge of a specified bounding box when the crop window edge is less than or equal to this distance (in pixels) away from the bounding box edge. (default: 3dp)" />
-      <item value="Snap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="972" />
-        <entry key="ENGLISH" value="973" />
+        <entry key="CHINESE" value="973" />
+        <entry key="ENGLISH" value="974" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
