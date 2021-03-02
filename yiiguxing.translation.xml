@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="or a corrupted JPEG file to ExifInterface." />
+      <item value="ExifInterface supports JPEG and some RAW image formats only" />
+      <item value="ExifInterface got an unsupported image format file" />
       <item value="VIBRATE" />
       <item value="像素" />
       <item value="横杠" />
@@ -50,14 +53,11 @@
       <item value="delta" />
       <item value="apply to zoom offset translate and update the crop rectangle to offset correctly" />
       <item value="scale the image to the image view, image rect transformed to know new widthheight" />
-      <item value="rotate the image the required degrees from center of image" />
-      <item value="move the image to the center of the image view first so we can manipulate it from there" />
-      <item value="scale by the current zoom level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="990" />
+        <entry key="CHINESE" value="993" />
+        <entry key="ENGLISH" value="994" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
