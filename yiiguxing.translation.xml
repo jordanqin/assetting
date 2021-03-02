@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="VIBRATE" />
       <item value="像素" />
       <item value="横杠" />
       <item value="exif" />
@@ -52,12 +53,11 @@
       <item value="rotate the image the required degrees from center of image" />
       <item value="move the image to the center of the image view first so we can manipulate it from there" />
       <item value="scale by the current zoom level" />
-      <item value="horizontal shift" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="989" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614152836299" />
+    <option name="lastTrimTime" value="1614654475111" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
