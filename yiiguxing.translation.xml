@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Modal" />
+      <item value="round" />
+      <item value="roun" />
+      <item value="rounded" />
+      <item value="Radius" />
+      <item value="corner" />
+      <item value="corners" />
       <item value="or a corrupted JPEG file to ExifInterface." />
       <item value="ExifInterface supports JPEG and some RAW image formats only" />
       <item value="ExifInterface got an unsupported image format file" />
@@ -46,18 +53,11 @@
       <item value="Preconcats the matrix with the specified rotation. M' = M R(degrees)" />
       <item value="Preconcats" />
       <item value="This method returns Matrix value for given index." />
-      <item value="Downsize" />
-      <item value="[1.0f - for original image, 2.0f - for 200% scaled image, etc.]" />
-      <item value="Apply this matrix to the array of 2D points specified by src, and write the transformed points into the array of points specified by dst. The two arrays represent their &quot;points&quot; as pairs of floats [x, y]." />
-      <item value="delta Scale" />
-      <item value="delta" />
-      <item value="apply to zoom offset translate and update the crop rectangle to offset correctly" />
-      <item value="scale the image to the image view, image rect transformed to know new widthheight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="993" />
-        <entry key="ENGLISH" value="994" />
+        <entry key="CHINESE" value="1001" />
+        <entry key="ENGLISH" value="1002" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
