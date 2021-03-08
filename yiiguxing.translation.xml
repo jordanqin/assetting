@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="切换" />
       <item value="shuffle" />
       <item value="repeat" />
       <item value="Either the width or height is decreased to obtain the desired aspect ratio." />
@@ -52,11 +53,10 @@
       <item value="FOREIGN KEY constraint failed (code 787 SQLITE_CONSTRAINT_FOREIGNKEY)" />
       <item value="Before" />
       <item value="Keeps a handle to the new media's URI in case we need to modify it" />
-      <item value="UNIQUE constraint failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1015" />
+        <entry key="CHINESE" value="1016" />
         <entry key="ENGLISH" value="1016" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
