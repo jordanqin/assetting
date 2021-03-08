@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="PRIVACY" />
       <item value="WALLPAPER" />
       <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window." />
       <item value="share to" />
@@ -52,12 +53,11 @@
       <item value="Bookmark" />
       <item value="APPLICATION_ID is misleading in libraries. For the library package name use LIBRARY_PACKAGE_NAME" />
       <item value="This method checks whether current image fills the crop bounds." />
-      <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1007" />
-        <entry key="ENGLISH" value="1008" />
+        <entry key="CHINESE" value="1008" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614654475111" />
+    <option name="lastTrimTime" value="1615169766708" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
