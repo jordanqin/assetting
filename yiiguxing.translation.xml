@@ -3,8 +3,11 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="PRIVACY" />
+      <item value="special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
+      <item value="as long as this window is visible to the user, allow the lock screen to activate while the screen is on. This can be used independently, or in combination with" />
+      <item value="ask that the system wallpaper be shown behind your window. The window surface must be translucent to be able to actually see the wallpaper behind it; this flag just ensures that the wallpaper surface will be there if this window actually has translucent regions." />
       <item value="WALLPAPER" />
+      <item value="PRIVACY" />
       <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window." />
       <item value="share to" />
       <item value="Detach" />
@@ -50,14 +53,11 @@
       <item value="Pending" />
       <item value="star" />
       <item value="vector" />
-      <item value="Bookmark" />
-      <item value="APPLICATION_ID is misleading in libraries. For the library package name use LIBRARY_PACKAGE_NAME" />
-      <item value="This method checks whether current image fills the crop bounds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1008" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="CHINESE" value="1012" />
+        <entry key="ENGLISH" value="1013" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
