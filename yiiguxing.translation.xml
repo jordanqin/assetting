@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ORIENTATION LANDSCAPE" />
+      <item value="ORIENTATION PORTRAIT" />
+      <item value="port" />
+      <item value="land" />
+      <item value="Constant for {@link orientation}, value corresponding to the" />
+      <item value="PORTRAIT" />
       <item value="play When Ready" />
       <item value="You must supply a layout_width attribute." />
       <item value="切换" />
@@ -47,17 +53,11 @@
       <item value="allowed directories are [D" />
       <item value="Primary directory data not allowed for" />
       <item value="Available" />
-      <item value="Wallpaper" />
-      <item value="Resumes playback as soon as {@link getPlaybackState()} == {@link STATE_READY}. Equivalent to {@code setPlayWhenReady(true)}." />
-      <item value="When Ready" />
-      <item value="destination" />
-      <item value="Manual" />
-      <item value="FOREIGN KEY constraint failed (code 787 SQLITE_CONSTRAINT_FOREIGNKEY)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1017" />
-        <entry key="ENGLISH" value="1018" />
+        <entry key="CHINESE" value="1023" />
+        <entry key="ENGLISH" value="1024" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
