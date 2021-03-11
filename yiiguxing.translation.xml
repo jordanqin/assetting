@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="CYAN" />
+      <item value="Multiplier" />
+      <item value="If you want to configure how gestures work for all UCropActivity tabs" />
       <item value="Gestures" />
       <item value="SOURCE IMAGE ASPECT RATIO" />
       <item value="can" />
@@ -50,14 +53,11 @@
       <item value="EXPOSURE" />
       <item value="Resolution" />
       <item value="artist" />
-      <item value="duplicate" />
-      <item value="Wheel" />
-      <item value="Crop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1028" />
-        <entry key="ENGLISH" value="1029" />
+        <entry key="CHINESE" value="1031" />
+        <entry key="ENGLISH" value="1032" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
