@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Skipped due to earlier error" />
       <item value="LAYOUT IN DISPLAY CUTOUT MODE SHORT EDGES" />
       <item value="Parameters for seeking to the closest sync point" />
       <item value="NEVER" />
@@ -52,12 +53,11 @@
       <item value="横杠" />
       <item value="exif" />
       <item value="extract" />
-      <item value="Taken" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1035" />
-        <entry key="ENGLISH" value="1036" />
+        <entry key="CHINESE" value="1036" />
+        <entry key="ENGLISH" value="1037" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
