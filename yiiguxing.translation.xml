@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Calculate Matrix for FIT_CENTER" />
       <item value="Update our base matrix, as the bounds have changed" />
       <item value="Interface definition for a callback to be invoked when the layout bounds of a view changes due to layout processing." />
       <item value="We always pose as a Matrix scale type, though we can change to another scale type via the attacher" />
@@ -52,12 +53,11 @@
       <item value="rounded" />
       <item value="Radius" />
       <item value="corner" />
-      <item value="corners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
-        <entry key="ENGLISH" value="1046" />
+        <entry key="CHINESE" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
