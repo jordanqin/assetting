@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The order of the corners is:" />
+      <item value="This method draws dimmed area around the crop bounds." />
+      <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
+      <item value="DISABLE" />
+      <item value="PASS" />
+      <item value="THROUGH" />
+      <item value="WITH" />
+      <item value="_WITH PASS THROUGH" />
+      <item value="This view is used for drawing the overlay on top of the image. It may have frame, crop guidelines and dimmed area. This must have LAYER_TYPE_SOFTWARE to draw itself properly." />
       <item value="Calculate Matrix for FIT_CENTER" />
       <item value="Update our base matrix, as the bounds have changed" />
       <item value="Interface definition for a callback to be invoked when the layout bounds of a view changes due to layout processing." />
@@ -44,20 +53,11 @@
       <item value="PRIVACY" />
       <item value="Window flag: special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window." />
       <item value="share to" />
-      <item value="Detach" />
-      <item value="ATTACH" />
-      <item value="Design assumption violated" />
-      <item value="Modal" />
-      <item value="round" />
-      <item value="roun" />
-      <item value="rounded" />
-      <item value="Radius" />
-      <item value="corner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1046" />
-        <entry key="ENGLISH" value="1047" />
+        <entry key="CHINESE" value="1058" />
+        <entry key="ENGLISH" value="1059" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
