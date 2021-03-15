@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Album" />
+      <item value="Artist" />
+      <item value="Slow" />
+      <item value="Taken" />
       <item value="projection" />
       <item value="count" />
       <item value="Scale" />
@@ -49,15 +53,11 @@
       <item value="You must supply a layout_width attribute." />
       <item value="切换" />
       <item value="shuffle" />
-      <item value="repeat" />
-      <item value="Either the width or height is decreased to obtain the desired aspect ratio." />
-      <item value="special flag to let windows be shown when the screen is locked. This will let application windows take precedence over key guard or any other lock screens. Can be used with {@link FLAG_KEEP_SCREEN_ON} to turn screen on and display windows directly before showing the key guard window. Can be used with {@link FLAG_DISMISS_KEYGUARD} to automatically fully dismisss non-secure keyguards. This flag only applies to the top-most full-screen window. @deprecated Use {@link android.R.attrshowWhenLocked} or {@link android.app.ActivitysetShowWhenLocked(boolean)} instead to prevent an unintentional double life-cycle event." />
-      <item value="as long as this window is visible to the user, allow the lock screen to activate while the screen is on. This can be used independently, or in combination with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1064" />
-        <entry key="ENGLISH" value="1065" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1069" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615169766708" />
+    <option name="lastTrimTime" value="1615775830906" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
