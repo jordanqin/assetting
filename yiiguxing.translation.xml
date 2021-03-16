@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
       <item value="NestedScrollView is just like {@link android.widget.ScrollView}, but it supports acting as both a nested scrolling parent and child on both new and old versions of Android. Nested scrolling is enabled by default." />
       <item value="Permit" />
       <item value="Deny" />
@@ -52,12 +53,11 @@
       <item value="land" />
       <item value="Constant for {@link orientation}, value corresponding to the" />
       <item value="PORTRAIT" />
-      <item value="play When Ready" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1071" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="CHINESE" value="1072" />
+        <entry key="ENGLISH" value="1073" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
