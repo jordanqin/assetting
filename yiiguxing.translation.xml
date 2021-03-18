@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="lack" />
       <item value="Usual" />
       <item value="privacy" />
       <item value="Forever" />
@@ -52,12 +53,11 @@
       <item value="can" />
       <item value="Detect" />
       <item value="ensure" />
-      <item value="ORIENTATION LANDSCAPE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1077" />
-        <entry key="ENGLISH" value="1078" />
+        <entry key="CHINESE" value="1078" />
+        <entry key="ENGLISH" value="1079" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
