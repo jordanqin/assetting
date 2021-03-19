@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Loose Strategy" />
       <item value="提示" />
       <item value="state" />
       <item value="状态" />
@@ -52,12 +53,11 @@
       <item value="LAYOUT IN DISPLAY CUTOUT MODE SHORT EDGES" />
       <item value="Parameters for seeking to the closest sync point" />
       <item value="NEVER" />
-      <item value="Sets whether a buffering spinner is displayed when the player is in the buffering state. The buffering spinner is not displayed by default." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1085" />
-        <entry key="ENGLISH" value="1085" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
