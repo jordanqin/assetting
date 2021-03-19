@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="program" />
       <item value="intercept" />
       <item value="Loose Strategy" />
       <item value="提示" />
@@ -52,12 +53,11 @@
       <item value="PROFILE" />
       <item value="Skipped due to earlier error" />
       <item value="LAYOUT IN DISPLAY CUTOUT MODE SHORT EDGES" />
-      <item value="Parameters for seeking to the closest sync point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="CHINESE" value="1087" />
+        <entry key="ENGLISH" value="1088" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
