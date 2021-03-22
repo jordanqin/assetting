@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Track" />
       <item value="program" />
       <item value="intercept" />
       <item value="Loose Strategy" />
@@ -52,12 +53,11 @@
       <item value="IMMERSIVE" />
       <item value="PROFILE" />
       <item value="Skipped due to earlier error" />
-      <item value="LAYOUT IN DISPLAY CUTOUT MODE SHORT EDGES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1089" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615775830906" />
+    <option name="lastTrimTime" value="1616381691469" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
