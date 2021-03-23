@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="pausing or ducking depends on your app" />
       <item value="Returns the same Intent object, for chaining multiple calls into a single statement." />
       <item value="Returns the minimum number of bytes that can be used to store this bitmap's pixels." />
       <item value="Returns the size of the allocated memory used to store this bitmap's pixels." />
@@ -52,12 +53,11 @@
       <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
       <item value="DISABLE" />
       <item value="PASS" />
-      <item value="THROUGH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1102" />
-        <entry key="ENGLISH" value="1103" />
+        <entry key="CHINESE" value="1103" />
+        <entry key="ENGLISH" value="1104" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
