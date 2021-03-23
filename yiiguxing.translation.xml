@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Not supplying enough data to HAL, expected position 34116677 , only wrote 33978705" />
       <item value="null cannot be cast to non-null type" />
       <item value="Key com.yalantis.ucrop.AspectRatioX expected Float but value was a java.lang.Integer. The default value 0.0 was returned." />
       <item value="Start of user-defined activity results" />
@@ -52,12 +53,11 @@
       <item value="WITH" />
       <item value="_WITH PASS THROUGH" />
       <item value="This view is used for drawing the overlay on top of the image. It may have frame, crop guidelines and dimmed area. This must have LAYER_TYPE_SOFTWARE to draw itself properly." />
-      <item value="Calculate Matrix for FIT_CENTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1098" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="CHINESE" value="1099" />
+        <entry key="ENGLISH" value="1100" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
