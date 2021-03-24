@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="label" />
+      <item value="labe" />
       <item value="Appearance" />
       <item value="edit" />
       <item value="collect" />
@@ -51,13 +53,11 @@
       <item value="projection" />
       <item value="count" />
       <item value="Scale" />
-      <item value="This method scales image down for given value related to image center." />
-      <item value="value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1108" />
+        <entry key="CHINESE" value="1108" />
+        <entry key="ENGLISH" value="1109" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -69,7 +69,7 @@
         <entry key="BENGALI" value="4" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="SWEDISH" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="2" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
