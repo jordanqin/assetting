@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="&lt;p&gt;Set the number of pages that should be retained to either side of the currently visible page(s). Pages beyond this limit will be recreated from the adapter when needed. Set this to {@link OFFSCREEN_PAGE_LIMIT_DEFAULT} to use RecyclerView's caching strategy. The given value must either be larger than 0, or {@code OFFSCREEN_PAGE_LIMIT_DEFAULT}.&lt;p&gt; &lt;p&gt;Pages within {@code limit} pages away from the current page are created and added to the view hierarchy, even though they are not visible on the screen. Pages outside this limit will be removed from the view hierarchy, but the {@code ViewHolder}s will be recycled as usual by {@link RecyclerView}.&lt;p&gt; &lt;p&gt;This is offered as an optimization. If you know in advance the number of pages you will need to support or have lazy-loading mechanisms in place on your pages, tweaking this setting can have benefits in perceived smoothness of paging animations and interaction. If you have a small number of pages (3-4) that you can keep active all at once, less time will be spent in layout for newly created view subtrees as the user pages back and forth.&lt;p&gt; &lt;p&gt;You should keep this limit low, especially if your pages have complex layouts. By default it is set to {@code OFFSCREEN_PAGE_LIMIT_DEFAULT}.&lt;p&gt; @param limit How many pages will be kept offscreen on either side. Valid values are all values {@code &gt;= 1} and {@link OFFSCREEN_PAGE_LIMIT_DEFAULT} @throws IllegalArgumentException If the given limit is invalid" />
       <item value="' ~ Channel is unrecoverably broken and will be disposed!" />
       <item value="label" />
       <item value="labe" />
@@ -52,12 +53,11 @@
       <item value="Slow" />
       <item value="Taken" />
       <item value="projection" />
-      <item value="count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1109" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="CHINESE" value="1110" />
+        <entry key="ENGLISH" value="1111" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
