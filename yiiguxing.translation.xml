@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Return the {@link ClipData} associated with this Intent. If there is none, returns null. See {@link setClipData} for more information." />
       <item value="that satisfies the version constraints:" />
       <item value="modified" />
       <item value="The date and time when the original image data was generated. For a DSC the date and time the picture was taken are recorded. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown" />
@@ -52,12 +53,11 @@
       <item value="NestedScrollView is just like {@link android.widget.ScrollView}, but it supports acting as both a nested scrolling parent and child on both new and old versions of Android. Nested scrolling is enabled by default." />
       <item value="Permit" />
       <item value="Deny" />
-      <item value="Album" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1114" />
-        <entry key="ENGLISH" value="1115" />
+        <entry key="CHINESE" value="1115" />
+        <entry key="ENGLISH" value="1116" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616381691469" />
+    <option name="lastTrimTime" value="1616985484836" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
