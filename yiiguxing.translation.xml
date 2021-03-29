@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="orientation" />
+      <item value="smallest" />
       <item value="batch" />
       <item value="Return the {@link ClipData} associated with this Intent. If there is none, returns null. See {@link setClipData} for more information." />
       <item value="that satisfies the version constraints:" />
@@ -51,13 +53,11 @@
       <item value="Layout" />
       <item value="Tries to dismiss the dialog fragment with the bottom sheet animation. Returns true if possible, false otherwise." />
       <item value="INSTALL FAILED INSUFFICIENT STORAGE" />
-      <item value="NestedScrollView is just like {@link android.widget.ScrollView}, but it supports acting as both a nested scrolling parent and child on both new and old versions of Android. Nested scrolling is enabled by default." />
-      <item value="Permit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1117" />
-        <entry key="ENGLISH" value="1118" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
