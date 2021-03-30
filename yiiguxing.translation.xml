@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This method extracts {@link com.yalantis.ucrop.UCrop.Options optionsBundle} from incoming intent and setups Activity, {@link OverlayView} and {@link CropImageView} properly." />
       <item value="Checks if {@link mNetworkBlockSeq} is {@link INVALID_PROC_STATE_SEQ} and if so, returns immediately. Otherwise, makes a blocking call to ActivityManagerService to wait for the network rules to get updated." />
       <item value="zoom In Image" />
       <item value="Be careful: this method recreate UCropImageView instance and reattach it to layout." />
@@ -52,12 +53,11 @@
       <item value="Permission to access the camera" />
       <item value="Access to storage space" />
       <item value="turn on" />
-      <item value="lack" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1125" />
-        <entry key="ENGLISH" value="1126" />
+        <entry key="CHINESE" value="1126" />
+        <entry key="ENGLISH" value="1127" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
