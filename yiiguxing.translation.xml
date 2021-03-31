@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="COMPILATION" />
+      <item value="compilation" />
       <item value="relative" />
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
       <item value="This prevents the screen from getting dimlock" />
@@ -51,13 +53,11 @@
       <item value="ALTERNATIVE" />
       <item value="This has been removed in favor of &lt;code&gt;getParentFragmentManager()&lt;code&gt; which throws an {@link IllegalStateException} if the FragmentManager is null. Check if {@link isAdded()} returns &lt;code&gt;false&lt;code&gt; to determine if the FragmentManager is &lt;code&gt;null&lt;code&gt;." />
       <item value="If this Fragment is a child of another Fragment, the FragmentManager returned here will be the parent's" />
-      <item value="Return the FragmentManager for interacting with fragments associated with this fragment's activity. Note that this will be non-null slightly before {@link getActivity()}, during the time from when the fragment is placed in a {@link FragmentTransaction} until it is committed and attached to its activity." />
-      <item value="IllegalStateException if not associated with a transaction or host" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1141" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1143" />
+        <entry key="ENGLISH" value="1144" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
