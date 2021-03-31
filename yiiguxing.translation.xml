@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="If the media contains still images, this key retrieves the image index of the primary image." />
+      <item value="If the media contains still images, this key retrieves the number of still images." />
+      <item value="If the media contains still images, this key retrieves the rotation angle (in degrees clockwise) of the primary image. The image rotation angle must be one of 0, 90, 180, or 270 degrees." />
       <item value="COMPILATION" />
       <item value="compilation" />
       <item value="relative" />
@@ -50,14 +53,11 @@
       <item value="null cannot be cast to non-null type" />
       <item value="Key com.yalantis.ucrop.AspectRatioX expected Float but value was a java.lang.Integer. The default value 0.0 was returned." />
       <item value="Start of user-defined activity results" />
-      <item value="ALTERNATIVE" />
-      <item value="This has been removed in favor of &lt;code&gt;getParentFragmentManager()&lt;code&gt; which throws an {@link IllegalStateException} if the FragmentManager is null. Check if {@link isAdded()} returns &lt;code&gt;false&lt;code&gt; to determine if the FragmentManager is &lt;code&gt;null&lt;code&gt;." />
-      <item value="If this Fragment is a child of another Fragment, the FragmentManager returned here will be the parent's" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1143" />
-        <entry key="ENGLISH" value="1144" />
+        <entry key="CHINESE" value="1146" />
+        <entry key="ENGLISH" value="1147" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
