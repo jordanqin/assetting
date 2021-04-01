@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="原始" />
       <item value="Modified" />
       <item value="Info" />
       <item value="Media" />
@@ -52,11 +53,10 @@
       <item value="orientation" />
       <item value="smallest" />
       <item value="batch" />
-      <item value="Return the {@link ClipData} associated with this Intent. If there is none, returns null. See {@link setClipData} for more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1166" />
+        <entry key="CHINESE" value="1167" />
         <entry key="ENGLISH" value="1167" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
