@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The metadata key to retrieve the content type or genre of the data source." />
+      <item value="The metadata key to retrieve the date when the data source was created or modified." />
+      <item value="Exposure" />
+      <item value="A tag used to record fractions of seconds for {@link TAG_DATETIME}" />
+      <item value="A tag used to record the offset from UTC (the time difference from Universal Time Coordinated including daylight saving time) of the time of DateTime tag. The format when recording the offset is &quot;±HH:MM&quot;. The part of &quot;±&quot; shall be recorded as &quot;+&quot; or &quot;-&quot;. When the offsets are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. The character string length is 7 Bytes including NULL for termination. When the field is left blank, it is treated as unknown" />
+      <item value="The date and time when the image was stored as digital data. If, for example, an image was captured by DSC and at the same time the file was recorded, then {@link TAG_DATETIME_ORIGINAL} and this tag will have the same contents. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;)should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown." />
+      <item value="The date and time when the original image data was generated. For a DSC the date and time the picture was taken are recorded. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown" />
+      <item value="The date and time of image creation. In this standard it is the date and time the file was changed. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. The character string length is 20 Bytes including NULL for termination. When the field is left blank, it is treated as unknown" />
       <item value="These are standard columns for openable URIs. Providers that serve openable URIs &lt;em&gt;must&lt;em&gt; support at least these columns when queried." />
       <item value="The metadata key to retrieve the data source title." />
       <item value="If the media contains still images, this key retrieves the image index of the primary image." />
@@ -36,8 +44,6 @@
       <item value="Return the {@link ClipData} associated with this Intent. If there is none, returns null. See {@link setClipData} for more information." />
       <item value="that satisfies the version constraints:" />
       <item value="modified" />
-      <item value="The date and time when the original image data was generated. For a DSC the date and time the picture was taken are recorded. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown" />
-      <item value="The date and time of image creation. In this standard it is the date and time the file was changed. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. The character string length is 20 Bytes including NULL for termination. When the field is left blank, it is treated as unknown" />
       <item value="&lt;p&gt;Set the number of pages that should be retained to either side of the currently visible page(s). Pages beyond this limit will be recreated from the adapter when needed. Set this to {@link OFFSCREEN_PAGE_LIMIT_DEFAULT} to use RecyclerView's caching strategy. The given value must either be larger than 0, or {@code OFFSCREEN_PAGE_LIMIT_DEFAULT}.&lt;p&gt; &lt;p&gt;Pages within {@code limit} pages away from the current page are created and added to the view hierarchy, even though they are not visible on the screen. Pages outside this limit will be removed from the view hierarchy, but the {@code ViewHolder}s will be recycled as usual by {@link RecyclerView}.&lt;p&gt; &lt;p&gt;This is offered as an optimization. If you know in advance the number of pages you will need to support or have lazy-loading mechanisms in place on your pages, tweaking this setting can have benefits in perceived smoothness of paging animations and interaction. If you have a small number of pages (3-4) that you can keep active all at once, less time will be spent in layout for newly created view subtrees as the user pages back and forth.&lt;p&gt; &lt;p&gt;You should keep this limit low, especially if your pages have complex layouts. By default it is set to {@code OFFSCREEN_PAGE_LIMIT_DEFAULT}.&lt;p&gt; @param limit How many pages will be kept offscreen on either side. Valid values are all values {@code &gt;= 1} and {@link OFFSCREEN_PAGE_LIMIT_DEFAULT} @throws IllegalArgumentException If the given limit is invalid" />
       <item value="' ~ Channel is unrecoverably broken and will be disposed!" />
       <item value="label" />
@@ -47,17 +53,11 @@
       <item value="collect" />
       <item value="取消" />
       <item value="uncollect" />
-      <item value="pausing or ducking depends on your app" />
-      <item value="Returns the same Intent object, for chaining multiple calls into a single statement." />
-      <item value="Returns the minimum number of bytes that can be used to store this bitmap's pixels." />
-      <item value="Returns the size of the allocated memory used to store this bitmap's pixels." />
-      <item value="Not supplying enough data to HAL, expected position 34116677 , only wrote 33978705" />
-      <item value="null cannot be cast to non-null type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1148" />
-        <entry key="ENGLISH" value="1149" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
