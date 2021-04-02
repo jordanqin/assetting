@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="占位" />
       <item value="Need" />
       <item value="initialize" />
       <item value="After" />
@@ -52,11 +53,10 @@
       <item value="Be careful: this method recreate UCropImageView instance and reattach it to layout." />
       <item value="Method for reset state for UCropImageView such as rotation, scale, translation." />
       <item value="Nullable" />
-      <item value="should Delay Child Pressed State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1169" />
+        <entry key="CHINESE" value="1170" />
         <entry key="ENGLISH" value="1170" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
