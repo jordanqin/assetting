@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="View needs to be laid out before calling drawToBitmap()" />
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
       <item value="Called when a position discontinuity occurs without a change to the timeline. A position discontinuity occurs when the current window or period index changes (as a result of playback transitioning from one period in the timeline to the next), or when the playback position jumps within the period currently being played (as a result of a seek being performed, or when the source introduces a discontinuity internally)." />
       <item value="Seeks are processed without delay." />
@@ -52,12 +53,11 @@
       <item value="reason" />
       <item value="This Runnable is used to animate an image so it fills the crop bounds entirely." />
       <item value="This method extracts {@link com.yalantis.ucrop.UCrop.Options optionsBundle} from incoming intent and setups Activity, {@link OverlayView} and {@link CropImageView} properly." />
-      <item value="Checks if {@link mNetworkBlockSeq} is {@link INVALID_PROC_STATE_SEQ} and if so, returns immediately. Otherwise, makes a blocking call to ActivityManagerService to wait for the network rules to get updated." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1175" />
-        <entry key="ENGLISH" value="1176" />
+        <entry key="CHINESE" value="1178" />
+        <entry key="ENGLISH" value="1179" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
