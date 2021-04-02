@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The player is not able to immediately play from its current position. This state typically occurs when more data needs to be loaded." />
+      <item value="The player does not have any media to play" />
+      <item value="The player has finished playing the media" />
       <item value="占位" />
       <item value="Need" />
       <item value="initialize" />
@@ -38,7 +41,6 @@
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
       <item value="This prevents the screen from getting dimlock" />
       <item value="The player is able to immediately play from its current position. The player will be playing if {@link getPlayWhenReady()} is true, and paused otherwise." />
-      <item value="The player does not have any media to play" />
       <item value="Playback has been paused because of a loss of audio focus" />
       <item value="Playback has been started or paused by a call to {@link setPlayWhenReady(boolean)}" />
       <item value="Playback" />
@@ -51,13 +53,11 @@
       <item value="Checks if {@link mNetworkBlockSeq} is {@link INVALID_PROC_STATE_SEQ} and if so, returns immediately. Otherwise, makes a blocking call to ActivityManagerService to wait for the network rules to get updated." />
       <item value="zoom In Image" />
       <item value="Be careful: this method recreate UCropImageView instance and reattach it to layout." />
-      <item value="Method for reset state for UCropImageView such as rotation, scale, translation." />
-      <item value="Nullable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1170" />
-        <entry key="ENGLISH" value="1170" />
+        <entry key="CHINESE" value="1172" />
+        <entry key="ENGLISH" value="1173" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
