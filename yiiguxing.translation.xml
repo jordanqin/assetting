@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
+      <item value="Return true if the fragment has been hidden. By default fragments are shown. You can find out about changes to this state with {@link onHiddenChanged}. Note that the hidden state is orthogonal to other states -- that is, to be visible to the user, a fragment must be both started and not hidden." />
       <item value="View needs to be laid out before calling drawToBitmap()" />
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
       <item value="Called when a position discontinuity occurs without a change to the timeline. A position discontinuity occurs when the current window or period index changes (as a result of playback transitioning from one period in the timeline to the next), or when the playback position jumps within the period currently being played (as a result of a seek being performed, or when the source introduces a discontinuity internally)." />
@@ -51,13 +53,11 @@
       <item value="&gt;{@link onEvents(Player, Events)} will also be called to report this event along with other events that happen in the same {@link Looper} message queue iteration." />
       <item value="Called when the player starts or stops loading the source." />
       <item value="reason" />
-      <item value="This Runnable is used to animate an image so it fills the crop bounds entirely." />
-      <item value="This method extracts {@link com.yalantis.ucrop.UCrop.Options optionsBundle} from incoming intent and setups Activity, {@link OverlayView} and {@link CropImageView} properly." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1178" />
-        <entry key="ENGLISH" value="1179" />
+        <entry key="CHINESE" value="1180" />
+        <entry key="ENGLISH" value="1181" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616985484836" />
+    <option name="lastTrimTime" value="1617698346558" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
