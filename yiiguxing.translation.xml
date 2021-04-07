@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="A {@link View} can be inflated from an XML layout. For such Views this method returns the resource ID of the source layout." />
       <item value="Continuation" />
       <item value="REPLACE" />
       <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
@@ -52,12 +53,11 @@
       <item value="Playback has been started or paused by a call to {@link setPlayWhenReady(boolean)}" />
       <item value="Playback" />
       <item value="Whether the source is currently being loaded." />
-      <item value="&gt;{@link onEvents(Player, Events)} will also be called to report this event along with other events that happen in the same {@link Looper} message queue iteration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1182" />
-        <entry key="ENGLISH" value="1183" />
+        <entry key="CHINESE" value="1183" />
+        <entry key="ENGLISH" value="1184" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
