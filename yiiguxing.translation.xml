@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="External" />
+      <item value="外部" />
+      <item value="Attach" />
       <item value="Returns the default artwork to display" />
       <item value="shuffle" />
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
@@ -50,14 +53,11 @@
       <item value="If the media contains still images, this key retrieves the rotation angle (in degrees clockwise) of the primary image. The image rotation angle must be one of 0, 90, 180, or 270 degrees." />
       <item value="COMPILATION" />
       <item value="compilation" />
-      <item value="relative" />
-      <item value="This prevents the screen from getting dimlock" />
-      <item value="The player is able to immediately play from its current position. The player will be playing if {@link getPlayWhenReady()} is true, and paused otherwise." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1187" />
-        <entry key="ENGLISH" value="1188" />
+        <entry key="CHINESE" value="1189" />
+        <entry key="ENGLISH" value="1190" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
