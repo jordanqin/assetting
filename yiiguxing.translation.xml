@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="recovery" />
+      <item value="恢复" />
       <item value="A {@link View} can be inflated from an XML layout. For such Views this method returns the resource ID of the source layout." />
       <item value="Continuation" />
       <item value="REPLACE" />
@@ -51,13 +53,11 @@
       <item value="The player is able to immediately play from its current position. The player will be playing if {@link getPlayWhenReady()} is true, and paused otherwise." />
       <item value="Playback has been paused because of a loss of audio focus" />
       <item value="Playback has been started or paused by a call to {@link setPlayWhenReady(boolean)}" />
-      <item value="Playback" />
-      <item value="Whether the source is currently being loaded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1183" />
-        <entry key="ENGLISH" value="1184" />
+        <entry key="CHINESE" value="1184" />
+        <entry key="ENGLISH" value="1185" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
