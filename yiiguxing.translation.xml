@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Visible" />
+      <item value="toggle" />
+      <item value="开关" />
       <item value="Called when a frame is rendered for the first time since setting the surface, or since the renderer was reset, or since the stream being rendered was changed." />
       <item value="External" />
       <item value="外部" />
@@ -50,14 +53,11 @@
       <item value="These are standard columns for openable URIs. Providers that serve openable URIs &lt;em&gt;must&lt;em&gt; support at least these columns when queried." />
       <item value="The metadata key to retrieve the data source title." />
       <item value="If the media contains still images, this key retrieves the image index of the primary image." />
-      <item value="If the media contains still images, this key retrieves the number of still images." />
-      <item value="If the media contains still images, this key retrieves the rotation angle (in degrees clockwise) of the primary image. The image rotation angle must be one of 0, 90, 180, or 270 degrees." />
-      <item value="COMPILATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1190" />
-        <entry key="ENGLISH" value="1191" />
+        <entry key="CHINESE" value="1192" />
+        <entry key="ENGLISH" value="1193" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
