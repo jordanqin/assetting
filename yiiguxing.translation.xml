@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Called when a frame is rendered for the first time since setting the surface, or since the renderer was reset, or since the stream being rendered was changed." />
       <item value="External" />
       <item value="外部" />
       <item value="Attach" />
@@ -52,12 +53,11 @@
       <item value="If the media contains still images, this key retrieves the number of still images." />
       <item value="If the media contains still images, this key retrieves the rotation angle (in degrees clockwise) of the primary image. The image rotation angle must be one of 0, 90, 180, or 270 degrees." />
       <item value="COMPILATION" />
-      <item value="compilation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1189" />
-        <entry key="ENGLISH" value="1190" />
+        <entry key="CHINESE" value="1190" />
+        <entry key="ENGLISH" value="1191" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
