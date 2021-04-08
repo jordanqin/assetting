@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="recovery" />
       <item value="Visible" />
       <item value="toggle" />
       <item value="开关" />
@@ -13,7 +14,6 @@
       <item value="Returns the default artwork to display" />
       <item value="shuffle" />
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
-      <item value="recovery" />
       <item value="恢复" />
       <item value="A {@link View} can be inflated from an XML layout. For such Views this method returns the resource ID of the source layout." />
       <item value="Continuation" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1192" />
-        <entry key="ENGLISH" value="1193" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
