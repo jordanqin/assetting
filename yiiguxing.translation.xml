@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Authorized" />
+      <item value="playback" />
       <item value="Used to indicate a loss of audio focus of unknown duration." />
       <item value="recovery" />
       <item value="Visible" />
@@ -51,13 +53,11 @@
       <item value="The date and time when the image was stored as digital data. If, for example, an image was captured by DSC and at the same time the file was recorded, then {@link TAG_DATETIME_ORIGINAL} and this tag will have the same contents. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;)should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown." />
       <item value="The date and time when the original image data was generated. For a DSC the date and time the picture was taken are recorded. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. When the field is left blank, it is treated as unknown" />
       <item value="The date and time of image creation. In this standard it is the date and time the file was changed. The format is &quot;YYYY:MM:DD HH:MM:SS&quot; with time shown in 24-hour format, and the date and time separated by one blank character ({@code 0x20}). When the date and time are unknown, all the character spaces except colons (&quot;:&quot;) should be filled with blank characters, or else the Interoperability field should be filled with blank characters. The character string length is 20 Bytes including NULL for termination. When the field is left blank, it is treated as unknown" />
-      <item value="These are standard columns for openable URIs. Providers that serve openable URIs &lt;em&gt;must&lt;em&gt; support at least these columns when queried." />
-      <item value="The metadata key to retrieve the data source title." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1194" />
-        <entry key="ENGLISH" value="1195" />
+        <entry key="CHINESE" value="1196" />
+        <entry key="ENGLISH" value="1197" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
