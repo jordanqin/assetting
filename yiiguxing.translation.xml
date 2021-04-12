@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Start new IntentSender with options, if able, for which you would like a result when it finished." />
+      <item value="Convenience method that will show a very simple dialog populated with the details from this exception." />
+      <item value="A description of an Intent and target action to perform with it. The returned object can be handed to other applications so that they can perform the action you described on your behalf at a later time." />
       <item value="URI of the image to remove." />
       <item value="Deferred" />
       <item value="twice" />
@@ -50,14 +53,11 @@
       <item value="Exif" />
       <item value="Captured" />
       <item value="Meta" />
-      <item value="simple" />
-      <item value="fun Uri.getVideoDate(context: Context): Long? { var point = try { val retriever = MediaMetadataRetriever() retriever.setDataSource(context, this) formatMediaDate(retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_DATE)) } catch (ignored: Exception) { null } if (point == null) { try { val retriever = MediaMetadataRetriever() retriever.setDataSource(context, this) formatMediaDate(retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_DATE)) } catch (ignored: Exception) { } } return point }" />
-      <item value="The metadata key to retrieve the date when the data source was created or modified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1206" />
-        <entry key="ENGLISH" value="1207" />
+        <entry key="CHINESE" value="1209" />
+        <entry key="ENGLISH" value="1210" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
