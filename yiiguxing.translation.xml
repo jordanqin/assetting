@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="twice" />
+      <item value="Below" />
       <item value="Indicates that the ViewPager2 is in an idle, settled state. The current page is fully in view and no animation is in progress." />
       <item value="Indicates that the ViewPager2 is currently being dragged by the user, or programmatically via fake drag functionality." />
       <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
@@ -51,13 +53,11 @@
       <item value="The metadata key to retrieve the date when the data source was created or modified" />
       <item value="MODIFIED" />
       <item value="Return the filesystem path of the real file on disk that is represented by the given {@link FileDescriptor}." />
-      <item value="The metadata key to retrieve the content type or genre of the data source." />
-      <item value="The metadata key to retrieve the date when the data source was created or modified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1202" />
-        <entry key="ENGLISH" value="1203" />
+        <entry key="CHINESE" value="1204" />
+        <entry key="ENGLISH" value="1205" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617698346558" />
+    <option name="lastTrimTime" value="1618197965996" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
