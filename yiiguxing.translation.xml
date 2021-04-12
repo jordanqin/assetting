@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="URI of the image to remove." />
+      <item value="Deferred" />
       <item value="twice" />
       <item value="Below" />
       <item value="Indicates that the ViewPager2 is in an idle, settled state. The current page is fully in view and no animation is in progress." />
@@ -51,13 +53,11 @@
       <item value="simple" />
       <item value="fun Uri.getVideoDate(context: Context): Long? { var point = try { val retriever = MediaMetadataRetriever() retriever.setDataSource(context, this) formatMediaDate(retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_DATE)) } catch (ignored: Exception) { null } if (point == null) { try { val retriever = MediaMetadataRetriever() retriever.setDataSource(context, this) formatMediaDate(retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_DATE)) } catch (ignored: Exception) { } } return point }" />
       <item value="The metadata key to retrieve the date when the data source was created or modified" />
-      <item value="MODIFIED" />
-      <item value="Return the filesystem path of the real file on disk that is represented by the given {@link FileDescriptor}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1204" />
-        <entry key="ENGLISH" value="1205" />
+        <entry key="CHINESE" value="1206" />
+        <entry key="ENGLISH" value="1207" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
