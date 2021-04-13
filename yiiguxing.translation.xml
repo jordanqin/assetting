@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="override the android:maxSdkVersion=&quot;28&quot; from PhotoEditorSDK with some higher number" />
       <item value="move" />
       <item value="internal" />
       <item value="Recursively" />
@@ -52,12 +53,11 @@
       <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
       <item value="Return true if the fragment has been hidden. By default fragments are shown. You can find out about changes to this state with {@link onHiddenChanged}. Note that the hidden state is orthogonal to other states -- that is, to be visible to the user, a fragment must be both started and not hidden." />
       <item value="View needs to be laid out before calling drawToBitmap()" />
-      <item value="Called when a position discontinuity occurs without a change to the timeline. A position discontinuity occurs when the current window or period index changes (as a result of playback transitioning from one period in the timeline to the next), or when the playback position jumps within the period currently being played (as a result of a seek being performed, or when the source introduces a discontinuity internally)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1225" />
-        <entry key="ENGLISH" value="1226" />
+        <entry key="CHINESE" value="1226" />
+        <entry key="ENGLISH" value="1227" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
