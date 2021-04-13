@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Recursively" />
+      <item value="Deletion" />
       <item value="Legacy" />
       <item value="Forbidden" />
       <item value="Components" />
@@ -51,13 +53,11 @@
       <item value="The player does not have any media to play" />
       <item value="The player has finished playing the media" />
       <item value="占位" />
-      <item value="Need" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1217" />
-        <entry key="ENGLISH" value="1218" />
+        <entry key="CHINESE" value="1219" />
+        <entry key="ENGLISH" value="1220" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
