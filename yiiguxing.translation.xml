@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="type of the input required to launch" />
       <item value="Lack" />
       <item value="Permit" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: UsersjordanqinQCloudAndroidappsSMHPhotoscoolpadbuildoutputsapkdebugoutput-metadata.json" />
@@ -52,7 +53,6 @@
       <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
       <item value="恢复" />
       <item value="A {@link View} can be inflated from an XML layout. For such Views this method returns the resource ID of the source layout." />
-      <item value="Continuation" />
     </histories>
     <option name="languageScores">
       <map>
