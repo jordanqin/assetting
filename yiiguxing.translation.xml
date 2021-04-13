@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="If the content provider supports transactions, the deletion will be atomic." />
+      <item value="The number of rows deleted." />
       <item value="override the android:maxSdkVersion=&quot;28&quot; from PhotoEditorSDK with some higher number" />
       <item value="move" />
       <item value="internal" />
@@ -15,7 +17,6 @@
       <item value="Forbidden" />
       <item value="Components" />
       <item value="Injector" />
-      <item value="The number of rows deleted." />
       <item value="Remove a specific media item." />
       <item value="Trash" />
       <item value="require" />
@@ -52,12 +53,11 @@
       <item value="REPLACE" />
       <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
       <item value="Return true if the fragment has been hidden. By default fragments are shown. You can find out about changes to this state with {@link onHiddenChanged}. Note that the hidden state is orthogonal to other states -- that is, to be visible to the user, a fragment must be both started and not hidden." />
-      <item value="View needs to be laid out before calling drawToBitmap()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1226" />
-        <entry key="ENGLISH" value="1227" />
+        <entry key="CHINESE" value="1228" />
+        <entry key="ENGLISH" value="1229" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
