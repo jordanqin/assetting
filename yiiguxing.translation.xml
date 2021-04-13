@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: UsersjordanqinQCloudAndroidappsSMHPhotoscoolpadbuildoutputsapkdebugoutput-metadata.json" />
       <item value="If the content provider supports transactions, the deletion will be atomic." />
       <item value="The number of rows deleted." />
       <item value="override the android:maxSdkVersion=&quot;28&quot; from PhotoEditorSDK with some higher number" />
@@ -52,7 +53,6 @@
       <item value="Continuation" />
       <item value="REPLACE" />
       <item value="Return true if the fragment is in the resumed state. This is true for the duration of {@link onResume()} and {@link onPause()} as well." />
-      <item value="Return true if the fragment has been hidden. By default fragments are shown. You can find out about changes to this state with {@link onHiddenChanged}. Note that the hidden state is orthogonal to other states -- that is, to be visible to the user, a fragment must be both started and not hidden." />
     </histories>
     <option name="languageScores">
       <map>
