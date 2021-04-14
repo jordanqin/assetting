@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="collect" />
       <item value="photo" />
       <item value="大图" />
       <item value="Big Image" />
@@ -52,7 +53,6 @@
       <item value="toggle" />
       <item value="开关" />
       <item value="Called when a frame is rendered for the first time since setting the surface, or since the renderer was reset, or since the stream being rendered was changed." />
-      <item value="External" />
     </histories>
     <option name="languageScores">
       <map>
