@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="photo" />
+      <item value="大图" />
+      <item value="Big Image" />
+      <item value="Image" />
       <item value="Wait for the confirmed onDoubleTap() instead" />
       <item value="Fling" />
       <item value="The width in pixels to use to load the resource." />
@@ -49,10 +53,6 @@
       <item value="开关" />
       <item value="Called when a frame is rendered for the first time since setting the surface, or since the renderer was reset, or since the stream being rendered was changed." />
       <item value="External" />
-      <item value="外部" />
-      <item value="Attach" />
-      <item value="Returns the default artwork to display" />
-      <item value="shuffle" />
     </histories>
     <option name="languageScores">
       <map>
