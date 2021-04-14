@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Wait for the confirmed onDoubleTap() instead" />
+      <item value="Fling" />
       <item value="The width in pixels to use to load the resource." />
       <item value="type of the input required to launch" />
       <item value="Lack" />
@@ -51,8 +53,6 @@
       <item value="Attach" />
       <item value="Returns the default artwork to display" />
       <item value="shuffle" />
-      <item value="Called when the value returned from {@link getPlayWhenReady()} changes." />
-      <item value="恢复" />
     </histories>
     <option name="languageScores">
       <map>
