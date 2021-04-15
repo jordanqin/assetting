@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Scaling" />
+      <item value="First we check whether this function is enabled. We never want the parent to take over if we're scaling. We then check the edge we're on, and the direction of the scroll (i.e. if we're pulling against the edge, aka 'overscrolling', let the parent take over)." />
+      <item value="Here we decide whether to let the ImageView's parent to start taking over the touch event." />
+      <item value="Edge" />
       <item value="collect" />
       <item value="photo" />
       <item value="大图" />
@@ -49,10 +53,6 @@
       <item value="playback" />
       <item value="Used to indicate a loss of audio focus of unknown duration." />
       <item value="recovery" />
-      <item value="Visible" />
-      <item value="toggle" />
-      <item value="开关" />
-      <item value="Called when a frame is rendered for the first time since setting the surface, or since the renderer was reset, or since the stream being rendered was changed." />
     </histories>
     <option name="languageScores">
       <map>
