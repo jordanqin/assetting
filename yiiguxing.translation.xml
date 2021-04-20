@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="see BiometricPrompt.BuildersetDeviceCredentialAllowed(boolean)" />
+      <item value="If the Keyguard is not secure or the device is currently in a trusted state, calling this method will immediately dismiss the Keyguard without any user interaction." />
+      <item value="If the device is currently locked (see {@link isKeyguardLocked()}, requests the Keyguard to be dismissed." />
+      <item value="Nullable" />
+      <item value="Handle returned by {@link KeyguardManagernewKeyguardLock} that allows you to disable reenable the keyguard." />
       <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
       <item value="Doodl" />
       <item value="Doodles" />
@@ -48,11 +53,6 @@
       <item value="Trash" />
       <item value="require" />
       <item value="Start new IntentSender with options, if able, for which you would like a result when it finished." />
-      <item value="Convenience method that will show a very simple dialog populated with the details from this exception." />
-      <item value="A description of an Intent and target action to perform with it. The returned object can be handed to other applications so that they can perform the action you described on your behalf at a later time." />
-      <item value="URI of the image to remove." />
-      <item value="Deferred" />
-      <item value="twice" />
     </histories>
     <option name="languageScores">
       <map>
