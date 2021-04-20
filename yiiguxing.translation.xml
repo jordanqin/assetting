@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
       <item value="Doodl" />
       <item value="Doodles" />
       <item value="Doodle" />
@@ -52,7 +53,6 @@
       <item value="URI of the image to remove." />
       <item value="Deferred" />
       <item value="twice" />
-      <item value="Below" />
     </histories>
     <option name="languageScores">
       <map>
