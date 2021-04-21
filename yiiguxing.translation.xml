@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Gesture" />
       <item value="see BiometricPrompt.BuildersetDeviceCredentialAllowed(boolean)" />
       <item value="If the Keyguard is not secure or the device is currently in a trusted state, calling this method will immediately dismiss the Keyguard without any user interaction." />
       <item value="If the device is currently locked (see {@link isKeyguardLocked()}, requests the Keyguard to be dismissed." />
@@ -52,7 +53,6 @@
       <item value="Remove a specific media item." />
       <item value="Trash" />
       <item value="require" />
-      <item value="Start new IntentSender with options, if able, for which you would like a result when it finished." />
     </histories>
     <option name="languageScores">
       <map>
