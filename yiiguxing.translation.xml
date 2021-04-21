@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Unsupported" />
+      <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
       <item value="Gesture" />
       <item value="see BiometricPrompt.BuildersetDeviceCredentialAllowed(boolean)" />
       <item value="If the Keyguard is not secure or the device is currently in a trusted state, calling this method will immediately dismiss the Keyguard without any user interaction." />
@@ -51,8 +53,6 @@
       <item value="Components" />
       <item value="Injector" />
       <item value="Remove a specific media item." />
-      <item value="Trash" />
-      <item value="require" />
     </histories>
     <option name="languageScores">
       <map>
