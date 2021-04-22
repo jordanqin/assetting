@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="arch" />
       <item value="Primary" />
       <item value="Temp" />
       <item value="doodle" />
@@ -52,7 +53,6 @@
       <item value="If this file path points to a single file, then it will be copied to a file with the path [target]. If this file path points to a directory, then its children will be copied to a directory with the path [target]." />
       <item value="Copies this file with all its children to the specified destination [target] path. If some directories on the way to the destination are missing, then they will be created." />
       <item value="these functions update the mediastore instantly, MediaScannerConnection.scanFileRecursively takes some time to really get applied" />
-      <item value="Deletion" />
     </histories>
     <option name="languageScores">
       <map>
