@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="doodle" />
+      <item value="crop" />
+      <item value="text" />
       <item value="Fling" />
       <item value="the scale factor (less than 1 for zoom out, greater than 1 for zoom in)" />
       <item value="Factor" />
@@ -19,7 +22,6 @@
       <item value="Doodles" />
       <item value="Doodle" />
       <item value="Draw" />
-      <item value="doodle" />
       <item value="Sticker" />
       <item value="Constant for {@link orientation}, value corresponding to the" />
       <item value="LANDSCAPE" />
@@ -51,8 +53,6 @@
       <item value="these functions update the mediastore instantly, MediaScannerConnection.scanFileRecursively takes some time to really get applied" />
       <item value="Deletion" />
       <item value="Legacy" />
-      <item value="Forbidden" />
-      <item value="Components" />
     </histories>
     <option name="languageScores">
       <map>
