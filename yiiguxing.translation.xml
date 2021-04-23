@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Non Null" />
       <item value="Helper method for load tasks. Examines the EXIF info on the image file to determine the orientation. This will only work for external files, not assets, resources or other URIs." />
       <item value="Attempt to use EXIF information on the image to rotate it. Works for external files only" />
       <item value="arch" />
@@ -52,7 +53,6 @@
       <item value="move" />
       <item value="internal" />
       <item value="Recursively" />
-      <item value="If this file path points to a single file, then it will be copied to a file with the path [target]. If this file path points to a directory, then its children will be copied to a directory with the path [target]." />
     </histories>
     <option name="languageScores">
       <map>
