@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cannot retrieve edit media" />
+      <item value="Cannot retrieve cropped image" />
       <item value="Indicates the image is left right reversed mirror." />
       <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't contain an orientation" />
       <item value="Non Null" />
@@ -51,8 +53,6 @@
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: UsersjordanqinQCloudAndroidappsSMHPhotoscoolpadbuildoutputsapkdebugoutput-metadata.json" />
       <item value="If the content provider supports transactions, the deletion will be atomic." />
       <item value="The number of rows deleted." />
-      <item value="override the android:maxSdkVersion=&quot;28&quot; from PhotoEditorSDK with some higher number" />
-      <item value="move" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618817010643" />
+    <option name="lastTrimTime" value="1619321343765" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
