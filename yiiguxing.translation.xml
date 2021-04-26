@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="边" />
+      <item value="threshold" />
       <item value="Bottom" />
       <item value="Returns the value of the first argument raised to the power of the second argument. Special cases:" />
       <item value="Corners" />
@@ -51,8 +53,6 @@
       <item value="Draw" />
       <item value="Sticker" />
       <item value="Constant for {@link orientation}, value corresponding to the" />
-      <item value="LANDSCAPE" />
-      <item value="Cross" />
     </histories>
     <option name="languageScores">
       <map>
