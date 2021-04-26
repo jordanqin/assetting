@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="calculate" />
+      <item value="reset" />
+      <item value="This method sets aspect ratio for crop bounds." />
+      <item value="This method draws dimmed area around the crop bounds." />
+      <item value="full Overlay View" />
+      <item value="Overlay" />
+      <item value="full View" />
       <item value="THROUGH" />
       <item value="边" />
       <item value="threshold" />
@@ -46,13 +53,6 @@
       <item value="If the Keyguard is not secure or the device is currently in a trusted state, calling this method will immediately dismiss the Keyguard without any user interaction." />
       <item value="If the device is currently locked (see {@link isKeyguardLocked()}, requests the Keyguard to be dismissed." />
       <item value="Nullable" />
-      <item value="Handle returned by {@link KeyguardManagernewKeyguardLock} that allows you to disable reenable the keyguard." />
-      <item value="If image doesn't fill the crop bounds it must be translated and scaled properly to fill those." />
-      <item value="Doodl" />
-      <item value="Doodles" />
-      <item value="Doodle" />
-      <item value="Draw" />
-      <item value="Sticker" />
     </histories>
     <option name="languageScores">
       <map>
