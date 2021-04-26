@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="update" />
       <item value="完成" />
       <item value="Prepare" />
       <item value="if Room" />
@@ -52,7 +53,6 @@
       <item value="大图" />
       <item value="Big Image" />
       <item value="Image" />
-      <item value="Wait for the confirmed onDoubleTap() instead" />
     </histories>
     <option name="languageScores">
       <map>
