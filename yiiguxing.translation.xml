@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This method calculates image minimum and maximum scale values for current {@link mCropRect}." />
       <item value="calculate" />
       <item value="reset" />
       <item value="This method sets aspect ratio for crop bounds." />
@@ -52,7 +53,6 @@
       <item value="see BiometricPrompt.BuildersetDeviceCredentialAllowed(boolean)" />
       <item value="If the Keyguard is not secure or the device is currently in a trusted state, calling this method will immediately dismiss the Keyguard without any user interaction." />
       <item value="If the device is currently locked (see {@link isKeyguardLocked()}, requests the Keyguard to be dismissed." />
-      <item value="Nullable" />
     </histories>
     <option name="languageScores">
       <map>
