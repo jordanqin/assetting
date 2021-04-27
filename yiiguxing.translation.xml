@@ -3,11 +3,14 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="half Diff" />
+      <item value="half" />
+      <item value="is used to draw crop bounds - uses padding." />
+      <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
       <item value="Runnable can be terminated either vie {@link cancelAllAnimations()} method" />
       <item value="Given values are interpolated during the animation time." />
       <item value="This Runnable is used to animate an image zoom." />
       <item value="zoom In" />
-      <item value="half" />
       <item value="This method calculates image minimum and maximum scale values for current {@link mCropRect}." />
       <item value="calculate" />
       <item value="reset" />
@@ -50,9 +53,6 @@
       <item value="crop" />
       <item value="text" />
       <item value="Fling" />
-      <item value="the scale factor (less than 1 for zoom out, greater than 1 for zoom in)" />
-      <item value="Factor" />
-      <item value="Unsupported" />
     </histories>
     <option name="languageScores">
       <map>
