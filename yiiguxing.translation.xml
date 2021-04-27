@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This method checks whether current image fills the crop bounds." />
       <item value="reset By Aspect Ratio" />
       <item value="Aspect Ratio" />
       <item value="half Diff" />
@@ -52,7 +53,6 @@
       <item value="Primary" />
       <item value="Temp" />
       <item value="doodle" />
-      <item value="crop" />
     </histories>
     <option name="languageScores">
       <map>
