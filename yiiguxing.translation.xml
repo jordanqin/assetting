@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Touch" />
+      <item value="Changed" />
       <item value="This method checks whether current image fills the crop bounds." />
       <item value="reset By Aspect Ratio" />
       <item value="Aspect Ratio" />
@@ -51,8 +53,6 @@
       <item value="Attempt to use EXIF information on the image to rotate it. Works for external files only" />
       <item value="arch" />
       <item value="Primary" />
-      <item value="Temp" />
-      <item value="doodle" />
     </histories>
     <option name="languageScores">
       <map>
