@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Ensures that this value is not less than the specified [minimumValu" />
+      <item value="The duration of this window in microseconds, or {@link CTIME_UNSET} if unknown." />
       <item value="Translate" />
       <item value="delta" />
       <item value="Touch" />
@@ -51,8 +53,6 @@
       <item value="Indicates the image is left right reversed mirror." />
       <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't contain an orientation" />
       <item value="Non Null" />
-      <item value="Helper method for load tasks. Examines the EXIF info on the image file to determine the orientation. This will only work for external files, not assets, resources or other URIs." />
-      <item value="Attempt to use EXIF information on the image to rotate it. Works for external files only" />
     </histories>
     <option name="languageScores">
       <map>
