@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Fast" />
+      <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
       <item value="restore" />
       <item value="还原" />
       <item value="reset" />
@@ -51,8 +53,6 @@
       <item value="Threshold" />
       <item value="pow" />
       <item value="Corner" />
-      <item value="distance" />
-      <item value="sqrt" />
     </histories>
     <option name="languageScores">
       <map>
