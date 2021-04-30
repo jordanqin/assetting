@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="restore" />
+      <item value="还原" />
+      <item value="reset" />
       <item value="calculate" />
       <item value="Takes an array of 2D coordinates representing corners and returns the smallest rectangle containing those coordinates." />
       <item value="底部" />
@@ -35,7 +38,6 @@
       <item value="This Runnable is used to animate an image zoom." />
       <item value="zoom In" />
       <item value="This method calculates image minimum and maximum scale values for current {@link mCropRect}." />
-      <item value="reset" />
       <item value="This method sets aspect ratio for crop bounds." />
       <item value="This method draws dimmed area around the crop bounds." />
       <item value="full Overlay View" />
@@ -51,8 +53,6 @@
       <item value="Corner" />
       <item value="distance" />
       <item value="sqrt" />
-      <item value="Bit mask of the parts of the action code that are the action itself." />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
