@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="底图" />
+      <item value="This method checks whether current image fills the crop bounds." />
+      <item value="Gets a float array of two lengths representing a rectangles width and height" />
       <item value="Nullable" />
       <item value="Restricted" />
       <item value="horizontal shift" />
@@ -18,7 +21,6 @@
       <item value="delta" />
       <item value="Touch" />
       <item value="Changed" />
-      <item value="This method checks whether current image fills the crop bounds." />
       <item value="reset By Aspect Ratio" />
       <item value="Aspect Ratio" />
       <item value="half Diff" />
@@ -51,8 +53,6 @@
       <item value="update" />
       <item value="完成" />
       <item value="Prepare" />
-      <item value="if Room" />
-      <item value="Set whether an activity titlesubtitle should be displayed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619321343765" />
+    <option name="lastTrimTime" value="1619754537087" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
