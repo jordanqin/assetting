@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the bottom system window inset in pixels." />
       <item value="container" />
       <item value="容器" />
       <item value="Returns true iff obj is a Matrix and its values equal our values." />
@@ -52,7 +53,6 @@
       <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
       <item value="Runnable can be terminated either vie {@link cancelAllAnimations()} method" />
       <item value="Given values are interpolated during the animation time." />
-      <item value="This Runnable is used to animate an image zoom." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619754537087" />
+    <option name="lastTrimTime" value="1620283074791" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
