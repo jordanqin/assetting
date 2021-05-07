@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Laid Out" />
+      <item value="When image is laid out {@link mInitialImageCenter} and {@link mInitialImageCenter} must be set." />
       <item value="Set the type of zoom animation to be used for double taps. See static fields." />
       <item value="Set the scale the image will zoom in to when double tapped. This also the scale point where a double tap is interpreted as a zoom out gesture - if the scale is greater than 90% of this value, a double tap zooms out. Avoid using values greater than the max zoom." />
       <item value="average" />
@@ -40,8 +42,6 @@
       <item value="MTRANS" />
       <item value="This method logs given matrix X, Y, scale, and angle values." />
       <item value="This method logs given matrix X, Y, scale, and angle values. Can be used for debug." />
-      <item value="When image is laid out {@link mInitialImageCenter} and {@link mInitialImageCenter} must be set." />
-      <item value="Laid Out" />
       <item value="Fast" />
       <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
       <item value="restore" />
