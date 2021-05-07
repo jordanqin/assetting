@@ -3,20 +3,24 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, and tiling cannot be disabled when displaying a region of the source image." />
+      <item value="Invariants" />
+      <item value="Declare the dimensions of the image. This is only required for a full size image, when you are specifying a URI and also a preview image. When displaying a bitmap object, or not using a preview, you do not need to declare the image dimensions. Note if the declared dimensions are found to be incorrect, the view will reset." />
+      <item value="Set the pan limiting style. See static fields. Normally {@link PAN_LIMIT_INSIDE} is best, for image galleries." />
+      <item value="Density to reach before loading higher resolution tiles" />
+      <item value="overrides for the dimensions of the generated tiles" />
+      <item value="Tile" />
       <item value="We want the actual sample size that will be used, so round down to nearest power of 2." />
       <item value="Ratio" />
       <item value="Calculates sample size to fit the source image in given bounds." />
       <item value="Set a global preferred bitmap config shared by all view instances and applied to new instances initialised after the call is made. This is a hint only; the bundled {@link ImageDecoder} and {@link ImageRegionDecoder} classes all respect this (except when they were constructed with an instance-specific config) but custom decoder classes will not." />
       <item value="A global preference for bitmap format, available to decoder classes that respect it" />
       <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
-      <item value="overrides for the dimensions of the generated tiles" />
-      <item value="Tile" />
       <item value="When using tiles, on first render with no tile map ready, initialise it and kick off async base image loading." />
       <item value="Sample size used to display the whole image when fully zoomed out" />
       <item value="Uri of full size image" />
       <item value="Whether the bitmap is a preview image" />
       <item value="Eager" />
-      <item value="Set the pan limiting style. See static fields. Normally {@link PAN_LIMIT_INSIDE} is best, for image galleries." />
       <item value="intrinsic" />
       <item value="Inset" />
       <item value="Returns the bottom system window inset in pixels." />
@@ -49,10 +53,6 @@
       <item value="Nullable" />
       <item value="Restricted" />
       <item value="horizontal shift" />
-      <item value="Postconcats the matrix with the specified translation. M' = T(dx, dy) M" />
-      <item value="This method translates current image." />
-      <item value="When image is laid out it must be centered properly to fit current crop bounds." />
-      <item value="Overlay" />
     </histories>
     <option name="languageScores">
       <map>
