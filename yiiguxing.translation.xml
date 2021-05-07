@@ -3,15 +3,16 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
+      <item value="overrides for the dimensions of the generated tiles" />
+      <item value="Tile" />
+      <item value="When using tiles, on first render with no tile map ready, initialise it and kick off async base image loading." />
       <item value="Calculates sample size to fit the source image in given bounds." />
       <item value="Sample size used to display the whole image when fully zoomed out" />
       <item value="Uri of full size image" />
       <item value="Whether the bitmap is a preview image" />
-      <item value="overrides for the dimensions of the generated tiles" />
       <item value="Eager" />
       <item value="Set the pan limiting style. See static fields. Normally {@link PAN_LIMIT_INSIDE} is best, for image galleries." />
-      <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
-      <item value="Tile" />
       <item value="intrinsic" />
       <item value="Inset" />
       <item value="Returns the bottom system window inset in pixels." />
@@ -52,7 +53,6 @@
       <item value="return the value of an item previously added with putExtra(), or null if no Parcelable value was found." />
       <item value="Ensures that this value is not less than the specified [minimumValu" />
       <item value="The duration of this window in microseconds, or {@link CTIME_UNSET} if unknown." />
-      <item value="Translate" />
     </histories>
     <option name="languageScores">
       <map>
