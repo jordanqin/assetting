@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Set the type of zoom animation to be used for double taps. See static fields." />
+      <item value="Set the scale the image will zoom in to when double tapped. This also the scale point where a double tap is interpreted as a zoom out gesture - if the scale is greater than 90% of this value, a double tap zooms out. Avoid using values greater than the max zoom." />
       <item value="average" />
       <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, and tiling cannot be disabled when displaying a region of the source image." />
       <item value="Invariants" />
@@ -51,8 +53,6 @@
       <item value="底图" />
       <item value="This method checks whether current image fills the crop bounds." />
       <item value="Gets a float array of two lengths representing a rectangles width and height" />
-      <item value="Nullable" />
-      <item value="Restricted" />
     </histories>
     <option name="languageScores">
       <map>
