@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="intrinsic" />
       <item value="Inset" />
       <item value="Returns the bottom system window inset in pixels." />
       <item value="container" />
@@ -52,7 +53,6 @@
       <item value="half" />
       <item value="is used to draw crop bounds - uses padding." />
       <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
-      <item value="Runnable can be terminated either vie {@link cancelAllAnimations()} method" />
     </histories>
     <option name="languageScores">
       <map>
