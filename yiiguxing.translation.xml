@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Set a global preferred bitmap config shared by all view instances and applied to new instances initialised after the call is made. This is a hint only; the bundled {@link ImageDecoder} and {@link ImageRegionDecoder} classes all respect this (except when they were constructed with an instance-specific config) but custom decoder classes will not." />
+      <item value="A global preference for bitmap format, available to decoder classes that respect it" />
       <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
       <item value="overrides for the dimensions of the generated tiles" />
       <item value="Tile" />
@@ -51,8 +53,6 @@
       <item value="Overlay" />
       <item value="ENDED" />
       <item value="return the value of an item previously added with putExtra(), or null if no Parcelable value was found." />
-      <item value="Ensures that this value is not less than the specified [minimumValu" />
-      <item value="The duration of this window in microseconds, or {@link CTIME_UNSET} if unknown." />
     </histories>
     <option name="languageScores">
       <map>
