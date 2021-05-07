@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the number of historical points in this event. These are movements that have occurred between this event and the previous event. This only applies to ACTION_MOVE events -- all other actions will have a size of 0." />
+      <item value="Which historical value to return; must be less than" />
+      <item value="for the first pointer index (may be an arbitrary pointer identifier)." />
+      <item value="放弃" />
+      <item value="Historical" />
+      <item value="Precision" />
+      <item value="This method calculates scale value for given Matrix object" />
       <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
       <item value="Sets whether vector drawables on older platforms (&lt; API 21) can be used within" />
       <item value="Flag indicating that this Window is responsible for drawing the background for the system bars. If set, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link WindowgetStatusBarColor()} and {@link WindowgetNavigationBarColor()}." />
@@ -46,13 +53,6 @@
       <item value="This method logs given matrix X, Y, scale, and angle values." />
       <item value="This method logs given matrix X, Y, scale, and angle values. Can be used for debug." />
       <item value="Fast" />
-      <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
-      <item value="restore" />
-      <item value="还原" />
-      <item value="reset" />
-      <item value="calculate" />
-      <item value="Takes an array of 2D coordinates representing corners and returns the smallest rectangle containing those coordinates." />
-      <item value="底部" />
     </histories>
     <option name="languageScores">
       <map>
