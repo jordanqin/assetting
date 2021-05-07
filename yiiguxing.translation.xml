@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
+      <item value="Tile" />
       <item value="intrinsic" />
       <item value="Inset" />
       <item value="Returns the bottom system window inset in pixels." />
@@ -51,8 +53,6 @@
       <item value="Aspect Ratio" />
       <item value="half Diff" />
       <item value="half" />
-      <item value="is used to draw crop bounds - uses padding." />
-      <item value="This method setups crop bounds rectangles for given aspect ratio and view size." />
     </histories>
     <option name="languageScores">
       <map>
