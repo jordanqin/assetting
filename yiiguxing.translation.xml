@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="compression" />
       <item value="Compressioned" />
       <item value="Sample" />
       <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
@@ -52,7 +53,6 @@
       <item value="This method calculates initial image position so it is positioned properly. Then it sets those values to the current image matrix." />
       <item value="Affine" />
       <item value="matrix Is Change" />
-      <item value="MTRANS" />
     </histories>
     <option name="languageScores">
       <map>
