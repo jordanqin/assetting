@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Crop" />
       <item value="compression" />
       <item value="Compressioned" />
       <item value="Sample" />
@@ -52,7 +53,6 @@
       <item value="Initial" />
       <item value="This method calculates initial image position so it is positioned properly. Then it sets those values to the current image matrix." />
       <item value="Affine" />
-      <item value="matrix Is Change" />
     </histories>
     <option name="languageScores">
       <map>
