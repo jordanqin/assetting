@@ -3,9 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="compression" />
       <item value="handle" />
       <item value="Crop" />
-      <item value="compression" />
       <item value="Compressioned" />
       <item value="Sample" />
       <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
