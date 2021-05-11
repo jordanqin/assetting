@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="rect" />
       <item value="Set the dst integer Rect by rounding this rectangle's coordinates to their nearest integer values." />
       <item value="intersect" />
       <item value="Scales up the rect by the given scale." />
@@ -52,7 +53,6 @@
       <item value="容器" />
       <item value="Returns true iff obj is a Matrix and its values equal our values." />
       <item value="This method updates current image corners and center points that are stored in {@link mCurrentImageCorners} and {@link mCurrentImageCenter} arrays." />
-      <item value="is Init" />
     </histories>
     <option name="languageScores">
       <map>
