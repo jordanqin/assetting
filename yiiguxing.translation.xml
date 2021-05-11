@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Set the dst integer Rect by rounding this rectangle's coordinates to their nearest integer values." />
+      <item value="intersect" />
       <item value="Scales up the rect by the given scale." />
       <item value="compression" />
       <item value="handle" />
@@ -51,8 +53,6 @@
       <item value="Returns true iff obj is a Matrix and its values equal our values." />
       <item value="This method updates current image corners and center points that are stored in {@link mCurrentImageCorners} and {@link mCurrentImageCenter} arrays." />
       <item value="is Init" />
-      <item value="Init" />
-      <item value="Initial" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620283074791" />
+    <option name="lastTrimTime" value="1620715790568" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
