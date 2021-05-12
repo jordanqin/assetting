@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="the result of calling rectStaysRect()" />
+      <item value="Apply this matrix to the rectangle, and write the transformed rectangle back into it. This is accomplished by transforming the 4 corners of rect, and then setting it to the bounds of those points" />
       <item value="MTRANS" />
       <item value="原始" />
       <item value="rect" />
@@ -51,8 +53,6 @@
       <item value="intrinsic" />
       <item value="Inset" />
       <item value="Returns the bottom system window inset in pixels." />
-      <item value="container" />
-      <item value="容器" />
     </histories>
     <option name="languageScores">
       <map>
