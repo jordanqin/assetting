@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Translucent" />
       <item value="the float array of image indents (4 floats) - in this order [left, top, right, bottom]" />
       <item value="Indents" />
       <item value="计算" />
@@ -52,7 +53,6 @@
       <item value="Ratio" />
       <item value="Calculates sample size to fit the source image in given bounds." />
       <item value="Set a global preferred bitmap config shared by all view instances and applied to new instances initialised after the call is made. This is a hint only; the bundled {@link ImageDecoder} and {@link ImageRegionDecoder} classes all respect this (except when they were constructed with an instance-specific config) but custom decoder classes will not." />
-      <item value="A global preference for bitmap format, available to decoder classes that respect it" />
     </histories>
     <option name="languageScores">
       <map>
