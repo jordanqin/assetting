@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="the float array of image indents (4 floats) - in this order [left, top, right, bottom]" />
+      <item value="Indents" />
       <item value="计算" />
       <item value="coroutines" />
       <item value="This method scales image down for given value related to image center." />
@@ -51,8 +53,6 @@
       <item value="Calculates sample size to fit the source image in given bounds." />
       <item value="Set a global preferred bitmap config shared by all view instances and applied to new instances initialised after the call is made. This is a hint only; the bundled {@link ImageDecoder} and {@link ImageRegionDecoder} classes all respect this (except when they were constructed with an instance-specific config) but custom decoder classes will not." />
       <item value="A global preference for bitmap format, available to decoder classes that respect it" />
-      <item value="By default the View automatically calculates the optimal tile size. Set this to override this, and force an upper limit to the dimensions of the generated tiles. Passing {@link TILE_SIZE_AUTO} will re-enable the default behaviour." />
-      <item value="When using tiles, on first render with no tile map ready, initialise it and kick off async base image loading." />
     </histories>
     <option name="languageScores">
       <map>
