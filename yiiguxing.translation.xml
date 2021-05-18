@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="恢复" />
       <item value="restore" />
       <item value="toggle" />
       <item value="Translucent" />
@@ -52,7 +53,6 @@
       <item value="overrides for the dimensions of the generated tiles" />
       <item value="Tile" />
       <item value="We want the actual sample size that will be used, so round down to nearest power of 2." />
-      <item value="Ratio" />
     </histories>
     <option name="languageScores">
       <map>
