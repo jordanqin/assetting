@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the index within this string of the last occurrence of the specified character. For values of {@code ch} in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value &lt;i&gt;k&lt;i&gt; such that:" />
       <item value="If this matrix can be inverted, return true and if inverse is not null, set inverse to be the inverse of this matrix. If this matrix cannot be inverted, ignore inverse and return false" />
       <item value="ossrh Username" />
       <item value="progress" />
@@ -52,7 +53,6 @@
       <item value="average" />
       <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, and tiling cannot be disabled when displaying a region of the source image." />
       <item value="Invariants" />
-      <item value="Declare the dimensions of the image. This is only required for a full size image, when you are specifying a URI and also a preview image. When displaying a bitmap object, or not using a preview, you do not need to declare the image dimensions. Note if the declared dimensions are found to be incorrect, the view will reset." />
     </histories>
     <option name="languageScores">
       <map>
