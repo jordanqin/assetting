@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="WAITING" />
       <item value="CONSTRAINED" />
       <item value="Counting Sink" />
       <item value="Returns the index within this string of the last occurrence of the specified character. For values of {@code ch} in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value &lt;i&gt;k&lt;i&gt; such that:" />
@@ -52,7 +53,6 @@
       <item value="When image is laid out {@link mInitialImageCenter} and {@link mInitialImageCenter} must be set." />
       <item value="Set the type of zoom animation to be used for double taps. See static fields." />
       <item value="Set the scale the image will zoom in to when double tapped. This also the scale point where a double tap is interpreted as a zoom out gesture - if the scale is greater than 90% of this value, a double tap zooms out. Avoid using values greater than the max zoom." />
-      <item value="average" />
     </histories>
     <option name="languageScores">
       <map>
