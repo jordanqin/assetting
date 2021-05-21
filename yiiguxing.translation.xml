@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="CONSTRAINED" />
       <item value="Counting Sink" />
       <item value="Returns the index within this string of the last occurrence of the specified character. For values of {@code ch} in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value &lt;i&gt;k&lt;i&gt; such that:" />
       <item value="If this matrix can be inverted, return true and if inverse is not null, set inverse to be the inverse of this matrix. If this matrix cannot be inverted, ignore inverse and return false" />
@@ -52,7 +53,6 @@
       <item value="Set the type of zoom animation to be used for double taps. See static fields." />
       <item value="Set the scale the image will zoom in to when double tapped. This also the scale point where a double tap is interpreted as a zoom out gesture - if the scale is greater than 90% of this value, a double tap zooms out. Avoid using values greater than the max zoom." />
       <item value="average" />
-      <item value="Enable or disable tiling of the image. This does not apply to preview images which are always loaded as a single bitmap, and tiling cannot be disabled when displaying a region of the source image." />
     </histories>
     <option name="languageScores">
       <map>
