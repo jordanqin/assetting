@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="WAITING" />
       <item value="CONSTRAINED" />
       <item value="Counting Sink" />
@@ -52,7 +53,6 @@
       <item value="Laid Out" />
       <item value="When image is laid out {@link mInitialImageCenter} and {@link mInitialImageCenter} must be set." />
       <item value="Set the type of zoom animation to be used for double taps. See static fields." />
-      <item value="Set the scale the image will zoom in to when double tapped. This also the scale point where a double tap is interpreted as a zoom out gesture - if the scale is greater than 90% of this value, a double tap zooms out. Avoid using values greater than the max zoom." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621336564935" />
+    <option name="lastTrimTime" value="1621840293640" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
