@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Parses video tags from an FLV stream and extracts H.264 nal units." />
+      <item value="Support just H.264 encoded content." />
       <item value="gradient" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="WAITING" />
@@ -51,8 +53,6 @@
       <item value="This method sets multiplier that is used to calculate max image scale from min image scale." />
       <item value="Sets whether vector drawables on older platforms (&lt; API 21) can be used within" />
       <item value="Flag indicating that this Window is responsible for drawing the background for the system bars. If set, the system bars are drawn with a transparent background and the corresponding areas in this window are filled with the colors specified in {@link WindowgetStatusBarColor()} and {@link WindowgetNavigationBarColor()}." />
-      <item value="Laid Out" />
-      <item value="When image is laid out {@link mInitialImageCenter} and {@link mInitialImageCenter} must be set." />
     </histories>
     <option name="languageScores">
       <map>
