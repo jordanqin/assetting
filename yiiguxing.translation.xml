@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="aspect ratio for crop bounds" />
+      <item value="maximum scale value for current image and crop ratio" />
+      <item value="maximum" />
+      <item value="Degrees" />
       <item value="the resolved color for active elements" />
       <item value="activeColor the resolved color for active elements" />
       <item value="Example local unit test, which will execute on the development machine (host)." />
@@ -49,10 +53,6 @@
       <item value="Crop" />
       <item value="Compressioned" />
       <item value="Sample" />
-      <item value="This method calculates maximum size of both width and height of bitmap. It is twice the device screen diagonal for default implementation (extra quality to zoom image). Size cannot exceed max texture size." />
-      <item value="Returns the number of historical points in this event. These are movements that have occurred between this event and the previous event. This only applies to ACTION_MOVE events -- all other actions will have a size of 0." />
-      <item value="Which historical value to return; must be less than" />
-      <item value="for the first pointer index (may be an arbitrary pointer identifier)." />
     </histories>
     <option name="languageScores">
       <map>
