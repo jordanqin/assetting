@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Whether the Uri authority is MediaProvider" />
+      <item value="Whether the Uri authority is ExternalStorageProvider" />
+      <item value="util" />
+      <item value="utils" />
       <item value="aspect ratio for crop bounds" />
       <item value="maximum scale value for current image and crop ratio" />
       <item value="maximum" />
@@ -49,10 +53,6 @@
       <item value="intersect" />
       <item value="Scales up the rect by the given scale." />
       <item value="compression" />
-      <item value="handle" />
-      <item value="Crop" />
-      <item value="Compressioned" />
-      <item value="Sample" />
     </histories>
     <option name="languageScores">
       <map>
