@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't contain an orientation" />
+      <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't" />
       <item value="setup Views" />
       <item value="desired resolved color of the active and selected widget and progress wheel middle line (default is white)" />
       <item value="set desired color of crop gridguidelines" />
@@ -51,8 +53,6 @@
       <item value="This method scales image down for given value related to image center." />
       <item value="This method scales image up for given value related to image center." />
       <item value="ease Out" />
-      <item value="ease In" />
-      <item value="ease In Out" />
     </histories>
     <option name="languageScores">
       <map>
