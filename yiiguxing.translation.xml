@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="There is a cycle between the {@link Call} and {@link EventListener} that makes this awkward. This will be set after we create the call instance then create the event listener instance." />
+      <item value="Declared" />
       <item value="indices" />
       <item value="&lt;p&gt;ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
       <item value="unimplemented" />
@@ -51,8 +53,6 @@
       <item value="Translucent" />
       <item value="the float array of image indents (4 floats) - in this order [left, top, right, bottom]" />
       <item value="Indents" />
-      <item value="计算" />
-      <item value="coroutines" />
     </histories>
     <option name="languageScores">
       <map>
