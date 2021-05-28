@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="unimplemented" />
       <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't contain an orientation" />
       <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't" />
       <item value="setup Views" />
@@ -52,7 +53,6 @@
       <item value="coroutines" />
       <item value="This method scales image down for given value related to image center." />
       <item value="This method scales image up for given value related to image center." />
-      <item value="ease Out" />
     </histories>
     <option name="languageScores">
       <map>
