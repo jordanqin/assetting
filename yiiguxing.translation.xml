@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Intelligent" />
       <item value="IllegalStateException: Another SimpleCache instance uses the folder" />
       <item value="Another" />
       <item value="Snapshot" />
@@ -52,7 +53,6 @@
       <item value="Insets" />
       <item value="恢复" />
       <item value="restore" />
-      <item value="toggle" />
     </histories>
     <option name="languageScores">
       <map>
