@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="follow" />
       <item value="Completable" />
       <item value="Future" />
       <item value="Intelligent" />
@@ -52,7 +53,6 @@
       <item value="ossrh Username" />
       <item value="progress" />
       <item value="position" />
-      <item value="Insets" />
     </histories>
     <option name="languageScores">
       <map>
