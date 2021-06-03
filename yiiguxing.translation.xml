@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="deduplicate" />
       <item value="Performs maintenance on this pool, evicting the connection that has been idle the longest if either it has exceeded the keep alive limit or the idle connections limit." />
       <item value="We've found a connection to evict. Remove it from the list, then close it below (outside of the synchronized block)." />
       <item value="Access Denied" />
@@ -52,7 +53,6 @@
       <item value="if not currently associated with a context." />
       <item value="Parses video tags from an FLV stream and extracts H.264 nal units." />
       <item value="Support just H.264 encoded content." />
-      <item value="gradient" />
     </histories>
     <option name="languageScores">
       <map>
