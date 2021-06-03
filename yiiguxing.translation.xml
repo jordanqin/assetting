@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Prunes any leaked allocations and then returns the number of remaining live allocations on {@code connection}. Allocations are leaked if the connection is tracking them but the application code has abandoned them. Leak detection is imprecise and relies on garbage collection." />
+      <item value="Deque" />
       <item value="We need the network to satisfy this request. Possibly for validating a conditional GET." />
       <item value="follow" />
       <item value="Completable" />
@@ -51,8 +53,6 @@
       <item value="Counting Sink" />
       <item value="Returns the index within this string of the last occurrence of the specified character. For values of {@code ch} in the range from 0 to 0xFFFF (inclusive), the index (in Unicode code units) returned is the largest value &lt;i&gt;k&lt;i&gt; such that:" />
       <item value="If this matrix can be inverted, return true and if inverse is not null, set inverse to be the inverse of this matrix. If this matrix cannot be inverted, ignore inverse and return false" />
-      <item value="ossrh Username" />
-      <item value="progress" />
     </histories>
     <option name="languageScores">
       <map>
