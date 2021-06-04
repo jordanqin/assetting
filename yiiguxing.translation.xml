@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Forever" />
       <item value="COLLABORATOR" />
       <item value="deduplicate" />
       <item value="Performs maintenance on this pool, evicting the connection that has been idle the longest if either it has exceeded the keep alive limit or the idle connections limit." />
@@ -52,7 +53,6 @@
       <item value="unit" />
       <item value="void" />
       <item value="if not currently associated with a context." />
-      <item value="Parses video tags from an FLV stream and extracts H.264 nal units." />
     </histories>
     <option name="languageScores">
       <map>
