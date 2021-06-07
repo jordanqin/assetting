@@ -1,7 +1,9 @@
 <application>
   <component name="HttpConfigurable">
+    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="12639" />
-    <option name="PAC_URL" value="https://aliasan-conf.taijiankong.cn/duotai/pEhsau2pn.pac" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://plugins.jetbrains.com/" />
   </component>
 </application>
