@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cannot run with sound null safety, because the following dependencies don't support null safety:" />
       <item value="Forever" />
       <item value="COLLABORATOR" />
       <item value="deduplicate" />
@@ -52,7 +53,6 @@
       <item value="empty" />
       <item value="unit" />
       <item value="void" />
-      <item value="if not currently associated with a context." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622442857407" />
+    <option name="lastTrimTime" value="1623035729864" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
