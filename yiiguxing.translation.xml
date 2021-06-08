@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="re Trans" />
       <item value="Forever" />
       <item value="wait" />
       <item value="Has" />
@@ -52,7 +53,6 @@
       <item value="maximum" />
       <item value="Degrees" />
       <item value="the resolved color for active elements" />
-      <item value="activeColor the resolved color for active elements" />
     </histories>
     <option name="languageScores">
       <map>
