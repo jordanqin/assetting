@@ -3,12 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Forever" />
       <item value="wait" />
       <item value="Has" />
       <item value="Compares this {@code String} to another {@code String}, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case." />
       <item value="Erasable" />
       <item value="Cannot run with sound null safety, because the following dependencies don't support null safety:" />
-      <item value="Forever" />
       <item value="COLLABORATOR" />
       <item value="deduplicate" />
       <item value="Performs maintenance on this pool, evicting the connection that has been idle the longest if either it has exceeded the keep alive limit or the idle connections limit." />
