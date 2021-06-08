@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="wait" />
       <item value="Has" />
       <item value="Compares this {@code String} to another {@code String}, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case." />
       <item value="Erasable" />
@@ -52,7 +53,6 @@
       <item value="Degrees" />
       <item value="the resolved color for active elements" />
       <item value="activeColor the resolved color for active elements" />
-      <item value="Example local unit test, which will execute on the development machine (host)." />
     </histories>
     <option name="languageScores">
       <map>
