@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="bucket Is Maz" />
+      <item value="Intelligent" />
       <item value="re Trans" />
       <item value="Forever" />
       <item value="wait" />
@@ -24,7 +26,6 @@
       <item value="follow" />
       <item value="Completable" />
       <item value="Future" />
-      <item value="Intelligent" />
       <item value="IllegalStateException: Another SimpleCache instance uses the folder" />
       <item value="Another" />
       <item value="Snapshot" />
@@ -52,7 +53,6 @@
       <item value="maximum scale value for current image and crop ratio" />
       <item value="maximum" />
       <item value="Degrees" />
-      <item value="the resolved color for active elements" />
     </histories>
     <option name="languageScores">
       <map>
