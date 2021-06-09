@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="INTELLIGENT TIERING" />
+      <item value="Intelligent ia" />
       <item value="ARCHIVE" />
       <item value="disable" />
       <item value="Model" />
@@ -51,8 +53,6 @@
       <item value="Whether the Uri authority is MediaProvider" />
       <item value="Whether the Uri authority is ExternalStorageProvider" />
       <item value="util" />
-      <item value="utils" />
-      <item value="aspect ratio for crop bounds" />
     </histories>
     <option name="languageScores">
       <map>
