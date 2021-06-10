@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="encounter" />
       <item value="INTELLIGENT TIERING" />
       <item value="Intelligent ia" />
       <item value="ARCHIVE" />
@@ -52,7 +53,6 @@
       <item value="current image scale value" />
       <item value="Whether the Uri authority is MediaProvider" />
       <item value="Whether the Uri authority is ExternalStorageProvider" />
-      <item value="util" />
     </histories>
     <option name="languageScores">
       <map>
