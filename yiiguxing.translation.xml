@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Circular dependency between the following tasks:" />
       <item value="No results found" />
       <item value="found" />
       <item value="Empty" />
@@ -52,7 +53,6 @@
       <item value="desired width of crop frame line in pixels" />
       <item value="set it to true if you want dimmed layer to have an circle inside" />
       <item value="set desired color of dimmed area around the crop bounds" />
-      <item value="desired color of dimmed area around the crop bounds" />
     </histories>
     <option name="languageScores">
       <map>
