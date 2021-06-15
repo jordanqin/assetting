@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="widget" />
       <item value="Circular dependency between the following tasks:" />
       <item value="No results found" />
       <item value="found" />
@@ -52,7 +53,6 @@
       <item value="set desired color of crop gridguidelines" />
       <item value="desired width of crop frame line in pixels" />
       <item value="set it to true if you want dimmed layer to have an circle inside" />
-      <item value="set desired color of dimmed area around the crop bounds" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623035729864" />
+    <option name="lastTrimTime" value="1623759259922" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
