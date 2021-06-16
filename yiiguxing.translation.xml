@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Active" />
       <item value="widget" />
       <item value="Circular dependency between the following tasks:" />
       <item value="No results found" />
@@ -52,7 +53,6 @@
       <item value="desired resolved color of the active and selected widget and progress wheel middle line (default is white)" />
       <item value="set desired color of crop gridguidelines" />
       <item value="desired width of crop frame line in pixels" />
-      <item value="set it to true if you want dimmed layer to have an circle inside" />
     </histories>
     <option name="languageScores">
       <map>
