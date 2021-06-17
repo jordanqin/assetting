@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This is triggered when you call AppWidgetManager notifyAppWidgetViewDataChanged on the collection view corresponding to this factory. You can do heaving lifting in here, synchronously. For example, if you need to process an image, fetch something from the network, etc., it is ok to do it here, synchronously. The widget will remain in its current state while work is being done here, so you don't need to worry about locking up the widget." />
       <item value="A view that displays its children in a stack and allows users to discretely swipe through the children." />
       <item value="Stack" />
       <item value="method GET must not have a request body." />
@@ -52,7 +53,6 @@
       <item value="There is a cycle between the {@link Call} and {@link EventListener} that makes this awkward. This will be set after we create the call instance then create the event listener instance." />
       <item value="Declared" />
       <item value="indices" />
-      <item value="&lt;p&gt;ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
     </histories>
     <option name="languageScores">
       <map>
