@@ -3,6 +3,29 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="compared with lastmonth" />
+      <item value="compared with last month" />
+      <item value="total requests last month" />
+      <item value="上月总请求数" />
+      <item value="上月总流量" />
+      <item value="flow of" />
+      <item value="retrieval" />
+      <item value="total retrieval this month" />
+      <item value="retrieved" />
+      <item value="Amount" />
+      <item value="Amount of data retrieved this month" />
+      <item value="本月数据取回量" />
+      <item value="total flow of this month" />
+      <item value="本月总请求数" />
+      <item value="本月总流量" />
+      <item value="Compared with the same period last month" />
+      <item value="较上月同期" />
+      <item value="Compared with yesterday" />
+      <item value="较昨天" />
+      <item value="Number of objects" />
+      <item value="对象数量" />
+      <item value="capacity" />
+      <item value="存储量" />
       <item value="This is triggered when you call AppWidgetManager notifyAppWidgetViewDataChanged on the collection view corresponding to this factory. You can do heaving lifting in here, synchronously. For example, if you need to process an image, fetch something from the network, etc., it is ok to do it here, synchronously. The widget will remain in its current state while work is being done here, so you don't need to worry about locking up the widget." />
       <item value="A view that displays its children in a stack and allows users to discretely swipe through the children." />
       <item value="Stack" />
@@ -30,29 +53,6 @@
       <item value="Forever" />
       <item value="wait" />
       <item value="Has" />
-      <item value="Compares this {@code String} to another {@code String}, ignoring case considerations. Two strings are considered equal ignoring case if they are of the same length and corresponding characters in the two strings are equal ignoring case." />
-      <item value="Erasable" />
-      <item value="Cannot run with sound null safety, because the following dependencies don't support null safety:" />
-      <item value="COLLABORATOR" />
-      <item value="deduplicate" />
-      <item value="Performs maintenance on this pool, evicting the connection that has been idle the longest if either it has exceeded the keep alive limit or the idle connections limit." />
-      <item value="We've found a connection to evict. Remove it from the list, then close it below (outside of the synchronized block)." />
-      <item value="Access Denied" />
-      <item value="Pre Build Connection" />
-      <item value="pre Build Connection" />
-      <item value="Allocation" />
-      <item value="Prunes any leaked allocations and then returns the number of remaining live allocations on {@code connection}. Allocations are leaked if the connection is tracking them but the application code has abandoned them. Leak detection is imprecise and relies on garbage collection." />
-      <item value="Deque" />
-      <item value="We need the network to satisfy this request. Possibly for validating a conditional GET." />
-      <item value="follow" />
-      <item value="Completable" />
-      <item value="Future" />
-      <item value="IllegalStateException: Another SimpleCache instance uses the folder" />
-      <item value="Another" />
-      <item value="Snapshot" />
-      <item value="There is a cycle between the {@link Call} and {@link EventListener} that makes this awkward. This will be set after we create the call instance then create the event listener instance." />
-      <item value="Declared" />
-      <item value="indices" />
     </histories>
     <option name="languageScores">
       <map>
