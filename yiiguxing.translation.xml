@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="A view that displays its children in a stack and allows users to discretely swipe through the children." />
+      <item value="Stack" />
       <item value="method GET must not have a request body." />
       <item value="not selected yet" />
       <item value="select" />
@@ -51,8 +53,6 @@
       <item value="Declared" />
       <item value="indices" />
       <item value="&lt;p&gt;ExifInterface supports the HEIF format on OMR1+. Glide's {@link DefaultImageHeaderParser} doesn't currently support HEIF. In the future we should reconcile these two classes, but for now this is a simple way to ensure that HEIF files are oriented correctly on platforms where they're supported." />
-      <item value="unimplemented" />
-      <item value="The exif orientation if present or -1 if the header couldn't be parsed or doesn't contain an orientation" />
     </histories>
     <option name="languageScores">
       <map>
