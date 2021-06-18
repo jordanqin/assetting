@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Security" />
+      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
+      <item value="Encoder flag bit to indicate lines should be terminated with a CRLF pair instead of just an LF. Has no effect if {@code NO_WRAP} is specified as well." />
+      <item value="rotate" />
+      <item value="Font" />
+      <item value="Front" />
+      <item value="Fill" />
+      <item value="Watermark" />
+      <item value="Water Mark" />
+      <item value="Mark" />
       <item value="extract" />
       <item value="suffix" />
       <item value="Preview Document In Html" />
@@ -43,16 +53,6 @@
       <item value="select" />
       <item value="operation" />
       <item value="widget" />
-      <item value="configuration" />
-      <item value="Active" />
-      <item value="Circular dependency between the following tasks:" />
-      <item value="No results found" />
-      <item value="found" />
-      <item value="Empty" />
-      <item value="Condition" />
-      <item value="encounter" />
-      <item value="INTELLIGENT TIERING" />
-      <item value="Intelligent ia" />
     </histories>
     <option name="languageScores">
       <map>
