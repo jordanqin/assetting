@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Packs this color into a color long. See the documentation of this class for a description of the color long format." />
+      <item value="This is the same as saying" />
+      <item value="Return the red component of a color int" />
       <item value="Security" />
       <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
       <item value="Encoder flag bit to indicate lines should be terminated with a CRLF pair instead of just an LF. Has no effect if {@code NO_WRAP} is specified as well." />
@@ -50,9 +53,6 @@
       <item value="Stack" />
       <item value="method GET must not have a request body." />
       <item value="not selected yet" />
-      <item value="select" />
-      <item value="operation" />
-      <item value="widget" />
     </histories>
     <option name="languageScores">
       <map>
