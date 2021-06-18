@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="extract" />
+      <item value="suffix" />
       <item value="Preview Document In Html" />
       <item value="Preview Document" />
       <item value="small" />
@@ -51,8 +53,6 @@
       <item value="encounter" />
       <item value="INTELLIGENT TIERING" />
       <item value="Intelligent ia" />
-      <item value="ARCHIVE" />
-      <item value="disable" />
     </histories>
     <option name="languageScores">
       <map>
