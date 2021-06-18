@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Preview Document In Html" />
+      <item value="Preview Document" />
       <item value="small" />
       <item value="Monitor" />
       <item value="monitor" />
@@ -51,8 +53,6 @@
       <item value="Intelligent ia" />
       <item value="ARCHIVE" />
       <item value="disable" />
-      <item value="Model" />
-      <item value="bucket Is Maz" />
     </histories>
     <option name="languageScores">
       <map>
