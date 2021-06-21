@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Unexpected char 0x65e0 at" />
       <item value="不含后缀" />
       <item value="不包含" />
       <item value="Transcod" />
@@ -52,7 +53,6 @@
       <item value="retrieved" />
       <item value="Amount" />
       <item value="Amount of data retrieved this month" />
-      <item value="本月数据取回量" />
     </histories>
     <option name="languageScores">
       <map>
