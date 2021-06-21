@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cannot choose between the following variants of project" />
       <item value="设置是否获取预览链接" />
       <item value="是否获取预览链接" />
       <item value="is Get Preview Link" />
@@ -52,7 +53,6 @@
       <item value="较昨天" />
       <item value="Number of objects" />
       <item value="对象数量" />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
