@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="请选择转码格式" />
       <item value="clear" />
       <item value="Unexpected char 0x65e0 at" />
       <item value="不含后缀" />
@@ -52,7 +53,6 @@
       <item value="retrieval" />
       <item value="total retrieval this month" />
       <item value="retrieved" />
-      <item value="Amount" />
     </histories>
     <option name="languageScores">
       <map>
