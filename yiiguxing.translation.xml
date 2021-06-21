@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="设置是否获取预览链接" />
+      <item value="是否获取预览链接" />
+      <item value="is Get Preview Link" />
+      <item value="获取预览链接" />
+      <item value="office" />
+      <item value="weboffice" />
       <item value="Packs this color into a color long. See the documentation of this class for a description of the color long format." />
       <item value="This is the same as saying" />
       <item value="Return the red component of a color int" />
@@ -47,12 +53,6 @@
       <item value="Number of objects" />
       <item value="对象数量" />
       <item value="capacity" />
-      <item value="存储量" />
-      <item value="This is triggered when you call AppWidgetManager notifyAppWidgetViewDataChanged on the collection view corresponding to this factory. You can do heaving lifting in here, synchronously. For example, if you need to process an image, fetch something from the network, etc., it is ok to do it here, synchronously. The widget will remain in its current state while work is being done here, so you don't need to worry about locking up the widget." />
-      <item value="A view that displays its children in a stack and allows users to discretely swipe through the children." />
-      <item value="Stack" />
-      <item value="method GET must not have a request body." />
-      <item value="not selected yet" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623759259922" />
+    <option name="lastTrimTime" value="1624243211246" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
