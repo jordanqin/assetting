@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Nationwide" />
+      <item value="转码" />
       <item value="sign" />
       <item value="signer" />
       <item value="Cannot choose between the following variants of project" />
@@ -51,8 +53,6 @@
       <item value="本月总流量" />
       <item value="Compared with the same period last month" />
       <item value="较上月同期" />
-      <item value="Compared with yesterday" />
-      <item value="较昨天" />
     </histories>
     <option name="languageScores">
       <map>
