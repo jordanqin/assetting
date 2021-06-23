@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="tag" />
+      <item value="关键字" />
       <item value="Returns a string whose value is this string, with any leading and trailing whitespace removed." />
       <item value="Limit" />
       <item value="Domain" />
@@ -51,8 +53,6 @@
       <item value="compared with last month" />
       <item value="total requests last month" />
       <item value="上月总请求数" />
-      <item value="上月总流量" />
-      <item value="flow of" />
     </histories>
     <option name="languageScores">
       <map>
