@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="未同步" />
+      <item value="server" />
+      <item value="远端" />
+      <item value="sync" />
       <item value="convert" />
       <item value="to" />
       <item value="return a view with given ID if found, or {@code null} otherwise" />
@@ -49,10 +53,6 @@
       <item value="Preview Document" />
       <item value="small" />
       <item value="Monitor" />
-      <item value="monitor" />
-      <item value="root" />
-      <item value="The empty view is displayed when the collection has no items. It should be a sibling of the collection view." />
-      <item value="compared with lastmonth" />
     </histories>
     <option name="languageScores">
       <map>
