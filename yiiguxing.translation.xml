@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="REPLACE" />
       <item value="未同步" />
       <item value="server" />
       <item value="远端" />
@@ -52,7 +53,6 @@
       <item value="Preview Document In Html" />
       <item value="Preview Document" />
       <item value="small" />
-      <item value="Monitor" />
     </histories>
     <option name="languageScores">
       <map>
