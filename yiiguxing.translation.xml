@@ -3,10 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="recoverable" />
+      <item value="Nullable" />
+      <item value="favorites" />
+      <item value="收藏" />
       <item value="Bookmark" />
       <item value="collect" />
       <item value="是否收藏" />
-      <item value="收藏" />
       <item value="The end version of the database after this migration is applied." />
       <item value="The start version of the database." />
       <item value="客户端" />
@@ -50,9 +53,6 @@
       <item value="This is the same as saying" />
       <item value="Return the red component of a color int" />
       <item value="Security" />
-      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
-      <item value="Encoder flag bit to indicate lines should be terminated with a CRLF pair instead of just an LF. Has no effect if {@code NO_WRAP} is specified as well." />
-      <item value="rotate" />
     </histories>
     <option name="languageScores">
       <map>
