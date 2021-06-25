@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Bookmark" />
+      <item value="collect" />
+      <item value="是否收藏" />
+      <item value="收藏" />
       <item value="The end version of the database after this migration is applied." />
       <item value="The start version of the database." />
       <item value="客户端" />
@@ -49,10 +53,6 @@
       <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
       <item value="Encoder flag bit to indicate lines should be terminated with a CRLF pair instead of just an LF. Has no effect if {@code NO_WRAP} is specified as well." />
       <item value="rotate" />
-      <item value="Font" />
-      <item value="Front" />
-      <item value="Fill" />
-      <item value="Watermark" />
     </histories>
     <option name="languageScores">
       <map>
