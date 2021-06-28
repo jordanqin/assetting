@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="should" />
       <item value="完整路径" />
       <item value="Favorites" />
       <item value="Cannot invoke observeForever on a background thread" />
@@ -52,7 +53,6 @@
       <item value="Transco" />
       <item value="转码中" />
       <item value="Nationwide" />
-      <item value="转码" />
     </histories>
     <option name="languageScores">
       <map>
