@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Favorites" />
       <item value="Cannot invoke observeForever on a background thread" />
       <item value="NOT NULL constraint failed" />
       <item value="REPLACE" />
@@ -52,7 +53,6 @@
       <item value="Nationwide" />
       <item value="转码" />
       <item value="sign" />
-      <item value="signer" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624243211246" />
+    <option name="lastTrimTime" value="1624848412400" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
