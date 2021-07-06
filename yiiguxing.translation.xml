@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="当前" />
+      <item value="current" />
       <item value="Ignore" />
       <item value="trunked" />
       <item value="headers Has Unsafe Non Ascii" />
@@ -51,8 +53,6 @@
       <item value="tag" />
       <item value="关键字" />
       <item value="Returns a string whose value is this string, with any leading and trailing whitespace removed." />
-      <item value="Limit" />
-      <item value="Domain" />
     </histories>
     <option name="languageScores">
       <map>
