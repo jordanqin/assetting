@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="计算高亮" />
+      <item value="计算" />
       <item value="当前" />
       <item value="current" />
       <item value="Ignore" />
@@ -51,8 +53,6 @@
       <item value="to" />
       <item value="return a view with given ID if found, or {@code null} otherwise" />
       <item value="tag" />
-      <item value="关键字" />
-      <item value="Returns a string whose value is this string, with any leading and trailing whitespace removed." />
     </histories>
     <option name="languageScores">
       <map>
