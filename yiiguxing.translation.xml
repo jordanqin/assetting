@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Add a field with the specified value without any validation. Only appropriate for headers from the remote peer or cache." />
       <item value="Unexpected char 0x65e0 at 37 in Pic-Operations value" />
       <item value="should" />
       <item value="完整路径" />
@@ -52,7 +53,6 @@
       <item value="不包含" />
       <item value="Transcod" />
       <item value="Transco" />
-      <item value="转码中" />
     </histories>
     <option name="languageScores">
       <map>
