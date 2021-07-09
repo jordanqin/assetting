@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Describer" />
+      <item value="recoverable" />
       <item value="下载列表" />
       <item value="INTERNAL" />
       <item value="计算高亮" />
@@ -37,7 +39,6 @@
       <item value="Collection" />
       <item value="收藏" />
       <item value="favorites" />
-      <item value="recoverable" />
       <item value="Nullable" />
       <item value="Bookmark" />
       <item value="The end version of the database after this migration is applied." />
@@ -52,7 +53,6 @@
       <item value="远端" />
       <item value="sync" />
       <item value="convert" />
-      <item value="to" />
     </histories>
     <option name="languageScores">
       <map>
