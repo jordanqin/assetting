@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Usual" />
       <item value="option" />
       <item value="Describer" />
       <item value="recoverable" />
@@ -52,7 +53,6 @@
       <item value="未同步" />
       <item value="server" />
       <item value="远端" />
-      <item value="sync" />
     </histories>
     <option name="languageScores">
       <map>
