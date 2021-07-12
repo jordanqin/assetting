@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Prerequisites" />
       <item value="Usual" />
       <item value="option" />
       <item value="Describer" />
@@ -52,7 +53,6 @@
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="未同步" />
       <item value="server" />
-      <item value="远端" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625485281818" />
+    <option name="lastTrimTime" value="1626071212184" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
