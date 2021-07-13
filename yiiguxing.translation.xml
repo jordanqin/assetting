@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Storage Class" />
       <item value="CRC-64 implementation with ability to combine checksums calculated over different blocks of data." />
       <item value="Quota" />
       <item value="AVAILABLE" />
@@ -52,7 +53,6 @@
       <item value="favorites" />
       <item value="Nullable" />
       <item value="Bookmark" />
-      <item value="The end version of the database after this migration is applied." />
     </histories>
     <option name="languageScores">
       <map>
