@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Approve Privacy Notice" />
+      <item value="Valuable" />
       <item value="登录可查看近期用量" />
       <item value="login to view recent usage" />
       <item value="收藏夹为空" />
@@ -51,8 +53,6 @@
       <item value="The start version of the database." />
       <item value="客户端" />
       <item value="client" />
-      <item value="Allows Room to destructively recreate database tables if {@link Migration}s that would migrate old database schemas to the latest schema version are not found." />
-      <item value="Tests if this string ends with the specified suffix." />
     </histories>
     <option name="languageScores">
       <map>
