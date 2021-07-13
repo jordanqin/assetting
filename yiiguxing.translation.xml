@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Non Null" />
       <item value="Storage Class" />
       <item value="CRC-64 implementation with ability to combine checksums calculated over different blocks of data." />
       <item value="Quota" />
@@ -52,7 +53,6 @@
       <item value="收藏" />
       <item value="favorites" />
       <item value="Nullable" />
-      <item value="Bookmark" />
     </histories>
     <option name="languageScores">
       <map>
