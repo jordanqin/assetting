@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Received status code 403 from server: Forbidden" />
       <item value="Username must not be null!" />
       <item value="common" />
       <item value="arch" />
@@ -52,7 +53,6 @@
       <item value="Collect" />
       <item value="是否被收藏" />
       <item value="collected" />
-      <item value="是否收藏" />
     </histories>
     <option name="languageScores">
       <map>
