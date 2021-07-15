@@ -7,6 +7,7 @@
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_notify.xml" value="0.5484375" />
+        <entry key="cos_ui/src/main/res/layout/fragment_loading.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/fragment_loading2.xml" value="0.5484375" />
       </map>
     </option>
