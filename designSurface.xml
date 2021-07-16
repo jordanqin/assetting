@@ -4,8 +4,11 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5277777777777778" />
+        <entry key="app/src/main/res/drawable/splash.xml" value="0.5277777777777778" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5484375" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
         <entry key="baseui/src/main/res/drawable/bg_dialog_loading.xml" value="0.29259259259259257" />
         <entry key="baseui/src/main/res/layout/dialog_input.xml" value="0.17734611503531786" />
