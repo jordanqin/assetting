@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point." />
+      <item value="Called immediately after {@link onCreateView(LayoutInflater, ViewGroup, Bundle)} has returned, but before any saved state has been restored in to the view." />
+      <item value="Called to have the fragment instantiate its user interface view." />
       <item value="Nullable" />
       <item value="Received status code 403 from server: Forbidden" />
       <item value="Username must not be null!" />
@@ -50,9 +53,6 @@
       <item value="NOT NULL constraint failed" />
       <item value="REPLACE" />
       <item value="is It Collected" />
-      <item value="取消收藏" />
-      <item value="Collect" />
-      <item value="是否被收藏" />
     </histories>
     <option name="languageScores">
       <map>
