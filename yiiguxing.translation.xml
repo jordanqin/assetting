@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Indicator" />
       <item value="browse" />
       <item value="Collection" />
       <item value="Asset" />
@@ -52,7 +53,6 @@
       <item value="Has" />
       <item value="Unsafe Non Ascii" />
       <item value="Removes all headers on this builder and adds" />
-      <item value="Add a header with the specified name and value. Does validation of header names and values." />
     </histories>
     <option name="languageScores">
       <map>
