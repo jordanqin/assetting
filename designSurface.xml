@@ -7,7 +7,7 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5277777777777778" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.5277777777777778" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5484375" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5484375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
         <entry key="baseui/src/main/res/drawable/bg_dialog_loading.xml" value="0.29259259259259257" />
@@ -20,6 +20,7 @@
         <entry key="cos_ui/src/main/res/layout/fragment_loading2.xml" value="0.5484375" />
         <entry key="ui/src/main/res/drawable/background_dialog.xml" value="0.29259259259259257" />
         <entry key="ui/src/main/res/layout/activity_gallery.xml" value="0.2580726538849647" />
+        <entry key="ui/src/main/res/layout/activity_main.xml" value="0.2656407669021191" />
       </map>
     </option>
   </component>
