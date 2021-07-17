@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="doraemon" />
       <item value="Indicator" />
       <item value="browse" />
       <item value="Collection" />
@@ -52,7 +53,6 @@
       <item value="headers Has Unsafe Non Ascii" />
       <item value="Has" />
       <item value="Unsafe Non Ascii" />
-      <item value="Removes all headers on this builder and adds" />
     </histories>
     <option name="languageScores">
       <map>
