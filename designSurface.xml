@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
+        <entry key="base_ui/src/main/res/layout/doraemon_page_indicator.xml" value="0.24864130434782608" />
         <entry key="baseui/src/main/res/drawable/bg_dialog_loading.xml" value="0.29259259259259257" />
         <entry key="baseui/src/main/res/layout/dialog_input.xml" value="0.17734611503531786" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
