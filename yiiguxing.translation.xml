@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="TRANSPORT" />
       <item value="doraemon" />
       <item value="Indicator" />
       <item value="browse" />
@@ -52,7 +53,6 @@
       <item value="trunked" />
       <item value="headers Has Unsafe Non Ascii" />
       <item value="Has" />
-      <item value="Unsafe Non Ascii" />
     </histories>
     <option name="languageScores">
       <map>
