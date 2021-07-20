@@ -25,6 +25,8 @@
         <entry key="biz_browse_impl/src/main/res/layout/batch_fragment.xml" value="0.335" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file_list.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
+        <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.5484375" />
+        <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
