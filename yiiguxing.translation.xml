@@ -3,12 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sections" />
       <item value="Relation" />
       <item value="Embedded" />
       <item value="Returns a sequential ordered {@code IntStream} from {@code startInclusive} (inclusive) to {@code endExclusive} (exclusive) by an incremental step of {@code 1}." />
       <item value="Exclusive" />
       <item value="Inclusive" />
-      <item value="Sections" />
       <item value="ensure" />
       <item value="Flat" />
       <item value="transport" />
