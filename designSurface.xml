@@ -16,6 +16,8 @@
         <entry key="base_ui/src/main/res/drawable-night/ic_album_press.xml" value="0.29259259259259257" />
         <entry key="base_ui/src/main/res/drawable/progress_style.xml" value="0.28888888888888886" />
         <entry key="base_ui/src/main/res/layout/background_tip.xml" value="0.2427536231884058" />
+        <entry key="base_ui/src/main/res/layout/common_item_no_more.xml" value="0.18491422805247226" />
+        <entry key="base_ui/src/main/res/layout/common_item_progress.xml" value="0.2427536231884058" />
         <entry key="base_ui/src/main/res/layout/common_task_progress_tips.xml" value="0.2427536231884058" />
         <entry key="base_ui/src/main/res/layout/doraemon_fragment_loading.xml" value="0.18491422805247226" />
         <entry key="base_ui/src/main/res/layout/doraemon_page_indicator.xml" value="0.24864130434782608" />
@@ -29,6 +31,8 @@
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/bg_dialog_loading.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5120370370370371" />
