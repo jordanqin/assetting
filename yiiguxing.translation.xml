@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Parameter specified as non-null is null" />
       <item value="must be set" />
       <item value="provide" />
       <item value="compare" />
@@ -52,7 +53,6 @@
       <item value="CRC-64 implementation with ability to combine checksums calculated over different blocks of data." />
       <item value="Quota" />
       <item value="AVAILABLE" />
-      <item value="Approve Privacy Notice" />
     </histories>
     <option name="languageScores">
       <map>
