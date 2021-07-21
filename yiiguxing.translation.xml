@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="provide" />
       <item value="compare" />
       <item value="disable" />
       <item value="Sections" />
@@ -52,7 +53,6 @@
       <item value="AVAILABLE" />
       <item value="Approve Privacy Notice" />
       <item value="Valuable" />
-      <item value="登录可查看近期用量" />
     </histories>
     <option name="languageScores">
       <map>
