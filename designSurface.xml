@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/view_page_indicators.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
+        <entry key="base_common/src/main/res/drawable/pre_file.xml" value="0.5" />
         <entry key="base_common/src/main/res/layout/page_indicators.xml" value="0.18491422805247226" />
         <entry key="base_ui/src/main/res/drawable-night/ic_album_press.xml" value="0.29259259259259257" />
         <entry key="base_ui/src/main/res/drawable/progress_style.xml" value="0.28888888888888886" />
@@ -42,7 +43,7 @@
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_action.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_content2.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_indicator.xml" value="0.5484375" />
-        <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="1.0" />
+        <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="0.46153846153846156" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
