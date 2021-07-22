@@ -30,6 +30,7 @@
         <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
+        <entry key="biz_transport_impl/src/main/res/layout/fragment_download.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
