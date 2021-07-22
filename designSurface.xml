@@ -33,6 +33,7 @@
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/bg_dialog_loading.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5120370370370371" />
