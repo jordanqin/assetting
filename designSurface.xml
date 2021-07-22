@@ -32,11 +32,13 @@
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
         <entry key="biz_transfer_impl/src/main/res/layout/download_content.xml" value="0.2427536231884058" />
         <entry key="biz_transfer_impl/src/main/res/layout/fragment_transfer.xml" value="0.18491422805247226" />
+        <entry key="biz_transport_impl/src/main/res/drawable/tab_indicator.xml" value="0.5120370370370371" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_download.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
+        <entry key="cos_common/src/main/res/layout/fragment_list.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/bg_dialog_loading.xml" value="0.5324074074074074" />
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5120370370370371" />
@@ -48,10 +50,12 @@
         <entry key="cos_ui/src/main/res/layout/view_page_indicator.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/view_task_progress_tips.xml" value="0.5484375" />
         <entry key="ui/src/main/res/drawable/background_dialog.xml" value="0.29259259259259257" />
+        <entry key="ui/src/main/res/drawable/tab_indicator.xml" value="0.2898148148148148" />
         <entry key="ui/src/main/res/layout/activity_gallery.xml" value="0.2580726538849647" />
         <entry key="ui/src/main/res/layout/activity_main.xml" value="0.2656407669021191" />
         <entry key="ui/src/main/res/layout/fragment_list_albums.xml" value="0.2656407669021191" />
         <entry key="ui/src/main/res/layout/fragment_list_assets.xml" value="0.2656407669021191" />
+        <entry key="ui/src/main/res/layout/main_tab_item.xml" value="0.24456521739130435" />
       </map>
     </option>
   </component>
