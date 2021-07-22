@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="intermediate" />
       <item value="Arg" />
       <item value="Arguments" />
       <item value="font" />
@@ -52,7 +53,6 @@
       <item value="extensions" />
       <item value="total flow" />
       <item value="Unit" />
-      <item value="company" />
     </histories>
     <option name="languageScores">
       <map>
