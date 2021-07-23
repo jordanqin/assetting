@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="enable" />
+      <item value="chosen" />
       <item value="Photo thumbnail's scale compared to the View's size. It should be a float value in (0.0, 1.0]." />
       <item value="UNSPECIFIED" />
       <item value="Set the desired orientation of this activity." />
@@ -51,8 +53,6 @@
       <item value="browse" />
       <item value="Collection" />
       <item value="Asset" />
-      <item value="full Sensor" />
-      <item value="Organization" />
     </histories>
     <option name="languageScores">
       <map>
