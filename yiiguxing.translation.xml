@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Photo thumbnail's scale compared to the View's size. It should be a float value in (0.0, 1.0]." />
+      <item value="UNSPECIFIED" />
+      <item value="Set the desired orientation of this activity." />
+      <item value="restrict" />
+      <item value="Set expected size for media grid to adapt to different screen sizes. This won't necessarily be applied cause the media grid should fill the view container. The measured media grid's size will be as close to this value as possible." />
+      <item value="countable" />
       <item value="文件上传" />
       <item value="文件下载" />
       <item value="indicator" />
@@ -47,12 +53,6 @@
       <item value="Asset" />
       <item value="full Sensor" />
       <item value="Organization" />
-      <item value="sealed" />
-      <item value="Captcha" />
-      <item value="验证码" />
-      <item value="This is an internal kotlinx.coroutines API that should not be used from outside of kotlinx.coroutines. No compatibility guarantees are provided. It is recommended to report your use-case of internal API to kotlinx.coroutines issue tracker, so stable API could be provided instead" />
-      <item value="This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point." />
-      <item value="Called immediately after {@link onCreateView(LayoutInflater, ViewGroup, Bundle)} has returned, but before any saved state has been restored in to the view." />
     </histories>
     <option name="languageScores">
       <map>
