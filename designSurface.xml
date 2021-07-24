@@ -13,6 +13,8 @@
         <entry key="app/src/main/res/layout/view_page_indicators.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
         <entry key="base_common/src/main/res/drawable/pre_file.xml" value="0.5" />
+        <entry key="base_common/src/main/res/layout/bottom_options_container.xml" value="0.18491422805247226" />
+        <entry key="base_common/src/main/res/layout/bottom_options_title.xml" value="0.18491422805247226" />
         <entry key="base_common/src/main/res/layout/page_indicators.xml" value="0.18491422805247226" />
         <entry key="base_ui/src/main/res/drawable-night/ic_album_press.xml" value="0.29259259259259257" />
         <entry key="base_ui/src/main/res/drawable/progress_style.xml" value="0.28888888888888886" />
@@ -27,6 +29,8 @@
         <entry key="baseui/src/main/res/layout/dialog_input.xml" value="0.17734611503531786" />
         <entry key="biz_browse_impl/src/main/res/drawable/ic_plus.xml" value="0.5037037037037037" />
         <entry key="biz_browse_impl/src/main/res/layout/batch_fragment.xml" value="0.335" />
+        <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.5484375" />
+        <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_upload.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file_list.xml" value="0.3215216258467952" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
