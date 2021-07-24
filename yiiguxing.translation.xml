@@ -3,6 +3,17 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="修改时间" />
+      <item value="创建时间" />
+      <item value="创建者" />
+      <item value="文件路径" />
+      <item value="文件类型" />
+      <item value="文件名称" />
+      <item value="详细信息" />
+      <item value="download" />
+      <item value="移动" />
+      <item value="查看详细信息" />
+      <item value="删除" />
       <item value="日期" />
       <item value="Focus" />
       <item value="Obvious" />
@@ -42,17 +53,6 @@
       <item value="Screen Slide" />
       <item value="intermediate" />
       <item value="Arg" />
-      <item value="Arguments" />
-      <item value="font" />
-      <item value="Refresh" />
-      <item value="TRUNCATED" />
-      <item value="Scroll Idle" />
-      <item value="Parameter specified as non-null is null" />
-      <item value="must be set" />
-      <item value="provide" />
-      <item value="compare" />
-      <item value="Sections" />
-      <item value="Relation" />
     </histories>
     <option name="languageScores">
       <map>
