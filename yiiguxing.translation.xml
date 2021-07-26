@@ -3,6 +3,20 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="gray" />
+      <item value="灰色" />
+      <item value="箭头" />
+      <item value="灰色箭头" />
+      <item value="企业云盘" />
+      <item value="隐私条例" />
+      <item value="服务协议" />
+      <item value="退出登录" />
+      <item value="关于我们" />
+      <item value="For temporary data generated during use, cleaning the cache will not affect normal use" />
+      <item value="回收站" />
+      <item value="video" />
+      <item value="已用" />
+      <item value="容量" />
       <item value="根目录" />
       <item value="image" />
       <item value="文件夹" />
@@ -39,20 +53,6 @@
       <item value="enable" />
       <item value="chosen" />
       <item value="Photo thumbnail's scale compared to the View's size. It should be a float value in (0.0, 1.0]." />
-      <item value="UNSPECIFIED" />
-      <item value="Set the desired orientation of this activity." />
-      <item value="restrict" />
-      <item value="Set expected size for media grid to adapt to different screen sizes. This won't necessarily be applied cause the media grid should fill the view container. The measured media grid's size will be as close to this value as possible." />
-      <item value="countable" />
-      <item value="文件上传" />
-      <item value="文件下载" />
-      <item value="indicator" />
-      <item value="disable" />
-      <item value="Real" />
-      <item value="Start" />
-      <item value="PAUSE" />
-      <item value="PAUSED" />
-      <item value="暂停" />
     </histories>
     <option name="languageScores">
       <map>
