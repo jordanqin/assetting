@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="sub" />
       <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
       <item value="Returns a list containing only elements matching the given [pr" />
       <item value="Resume" />
@@ -52,7 +53,6 @@
       <item value="文件类型" />
       <item value="文件名称" />
       <item value="详细信息" />
-      <item value="download" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626946758701" />
+    <option name="lastTrimTime" value="1627383101147" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
