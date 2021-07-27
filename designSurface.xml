@@ -29,6 +29,7 @@
         <entry key="base_ui/src/main/res/layout/simple_indicator.xml" value="0.24864130434782608" />
         <entry key="baseui/src/main/res/drawable/bg_dialog_loading.xml" value="0.29259259259259257" />
         <entry key="baseui/src/main/res/layout/dialog_input.xml" value="0.17734611503531786" />
+        <entry key="biz_browse_impl/src/main/res/drawable/button_enable.xml" value="0.38981481481481484" />
         <entry key="biz_browse_impl/src/main/res/drawable/ic_plus.xml" value="0.5037037037037037" />
         <entry key="biz_browse_impl/src/main/res/layout/batch_fragment.xml" value="0.335" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.5484375" />
