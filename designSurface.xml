@@ -45,7 +45,12 @@
         <entry key="biz_transfer_impl/src/main/res/layout/item_transfer_action.xml" value="0.2427536231884058" />
         <entry key="biz_transfer_impl/src/main/res/layout/item_transfer_content2.xml" value="0.2427536231884058" />
         <entry key="biz_transfer_impl/src/main/res/layout/item_transfer_indicator.xml" value="0.2427536231884058" />
-        <entry key="biz_transport_impl/src/main/res/drawable/tab_indicator.xml" value="0.5120370370370371" />
+        <entry key="biz_transport_impl/src/main/res/drawable/ic_delete.xml" value="0.5677083333333334" />
+        <entry key="biz_transport_impl/src/main/res/drawable/ic_details.xml" value="0.5677083333333334" />
+        <entry key="biz_transport_impl/src/main/res/drawable/ic_pause.xml" value="0.5677083333333334" />
+        <entry key="biz_transport_impl/src/main/res/drawable/ic_resume.xml" value="0.5677083333333334" />
+        <entry key="biz_transport_impl/src/main/res/drawable/ic_start.xml" value="0.5677083333333334" />
+        <entry key="biz_transport_impl/src/main/res/drawable/tab_indicator.xml" value="0.5677083333333334" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_dialog_task_details.xml" value="0.541213768115942" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_download.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
