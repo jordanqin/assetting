@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="normal" />
       <item value="Update" />
       <item value="payloads" />
       <item value="操作器" />
@@ -52,7 +53,6 @@
       <item value="查看详细信息" />
       <item value="删除" />
       <item value="日期" />
-      <item value="Focus" />
     </histories>
     <option name="languageScores">
       <map>
