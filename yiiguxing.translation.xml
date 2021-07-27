@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="indices" />
       <item value="Visitable" />
       <item value="Sortable" />
       <item value="已完成" />
@@ -52,7 +53,6 @@
       <item value="is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
       <item value="The MIME type of the data being handled by this intent." />
       <item value="An {@link ActivityResultContract} to prompt the user to pick a piece of content, receiving a {@code content:} {@link Uri} for that content that allows you to use {@link android.content.ContentResolveropenInputStream(Uri)} to access the raw data. By default, this adds {@link IntentCATEGORY_OPENABLE} to only return content that can be represented as a stream. &lt;p&gt; The input is the mime type to filter by, e.g. {@code image}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
-      <item value="MEDIA MOUNTED" />
     </histories>
     <option name="languageScores">
       <map>
