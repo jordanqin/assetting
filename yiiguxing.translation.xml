@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Update" />
+      <item value="payloads" />
       <item value="操作器" />
       <item value="控制器" />
       <item value="indices" />
@@ -51,8 +53,6 @@
       <item value="删除" />
       <item value="日期" />
       <item value="Focus" />
-      <item value="Obvious" />
-      <item value="is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
     </histories>
     <option name="languageScores">
       <map>
