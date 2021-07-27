@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
+      <item value="Returns a list containing only elements matching the given [pr" />
       <item value="Resume" />
       <item value="resume" />
       <item value="normal" />
@@ -51,8 +53,6 @@
       <item value="文件名称" />
       <item value="详细信息" />
       <item value="download" />
-      <item value="移动" />
-      <item value="查看详细信息" />
     </histories>
     <option name="languageScores">
       <map>
