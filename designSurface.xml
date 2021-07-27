@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../.gradle/caches/transforms-2/files-2.1/035e79feac643ff23f2c9730c699e50a/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.5484375" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5277777777777778" />
@@ -47,11 +48,12 @@
         <entry key="biz_transport_impl/src/main/res/drawable/tab_indicator.xml" value="0.5120370370370371" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_download.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/fragment_transport.xml" value="0.5484375" />
+        <entry key="biz_transport_impl/src/main/res/layout/item_task.xml" value="0.541213768115942" />
         <entry key="biz_transport_impl/src/main/res/layout/item_task_group.xml" value="0.541213768115942" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_action.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_content2.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_indicator.xml" value="0.5484375" />
-        <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="0.46153846153846156" />
+        <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="0.541213768115942" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
