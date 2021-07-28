@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="计时器" />
       <item value="Quota" />
       <item value="enabled" />
       <item value="Has Been Sent" />
@@ -52,7 +53,6 @@
       <item value="服务协议" />
       <item value="退出登录" />
       <item value="关于我们" />
-      <item value="For temporary data generated during use, cleaning the cache will not affect normal use" />
     </histories>
     <option name="languageScores">
       <map>
