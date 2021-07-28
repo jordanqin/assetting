@@ -39,6 +39,7 @@
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
         <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.541213768115942" />
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
+        <entry key="biz_setting_impl/src/main/res/layout/activity_recycled.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_about.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.541213768115942" />
