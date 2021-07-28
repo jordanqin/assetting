@@ -3,13 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Quota" />
       <item value="Removes all cancelled tasks from this timer's task queue. &lt;i&gt;Calling this method has no effect on the behavior of the timer&lt;i&gt;, but eliminates the references to the cancelled tasks from the queue. If there are no external references to these tasks, they become eligible for garbage collection." />
       <item value="Terminates this timer, discarding any currently scheduled tasks. Does not interfere with a currently executing task (if it exists). Once a timer has been terminated, its execution thread terminates gracefully, and no more tasks may be scheduled on it." />
       <item value="Terminates this timer, discarding any currently scheduled tasks. Does not interfere with a currently executing task (if it exists). Once a timer has been terminated, its execution thread terminates gracefully, and no more tasks may be scheduled on it" />
       <item value="purge" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="计时器" />
-      <item value="Quota" />
       <item value="enabled" />
       <item value="Has Been Sent" />
       <item value="获取验证码" />
