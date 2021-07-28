@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="suffix" />
       <item value="m&gt;If the application is not the default IME or does not have input focus this return {@code null}.&lt;em&gt;" />
       <item value="Nullable" />
       <item value="clipboard" />
@@ -52,7 +53,6 @@
       <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
       <item value="Returns a list containing only elements matching the given [pr" />
       <item value="Resume" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
