@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="remaining" />
       <item value="Recycled" />
       <item value="Trash" />
       <item value="indeterminate" />
@@ -52,7 +53,6 @@
       <item value="paus" />
       <item value="全部清空" />
       <item value="清空" />
-      <item value="clear" />
     </histories>
     <option name="languageScores">
       <map>

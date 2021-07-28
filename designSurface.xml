@@ -37,10 +37,11 @@
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_upload.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file_list.xml" value="0.3215216258467952" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
-        <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.5" />
+        <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.541213768115942" />
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_about.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
+        <entry key="biz_setting_impl/src/main/res/layout/item_trash.xml" value="0.541213768115942" />
         <entry key="biz_transfer_impl/src/main/res/layout/download_content.xml" value="0.2427536231884058" />
         <entry key="biz_transfer_impl/src/main/res/layout/fragment_transfer.xml" value="0.18491422805247226" />
         <entry key="biz_transfer_impl/src/main/res/layout/item_transfer2.xml" value="0.2427536231884058" />
