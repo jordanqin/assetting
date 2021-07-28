@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Recycled" />
+      <item value="Trash" />
       <item value="indeterminate" />
       <item value="无需清理缓存" />
       <item value="无版本更新" />
@@ -51,8 +53,6 @@
       <item value="全部清空" />
       <item value="清空" />
       <item value="clear" />
-      <item value="Start" />
-      <item value="Privacy Regulations" />
     </histories>
     <option name="languageScores">
       <map>
