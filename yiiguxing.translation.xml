@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="removal" />
       <item value="Trash" />
       <item value="remaining" />
       <item value="Leftover" />
@@ -52,7 +53,6 @@
       <item value="上传中" />
       <item value="下载中" />
       <item value="pause" />
-      <item value="paus" />
     </histories>
     <option name="languageScores">
       <map>
