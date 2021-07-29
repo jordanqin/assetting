@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="middle" />
       <item value="Returns `true` if this string is empty or consists solely of whitespace characters." />
       <item value="已复制" />
       <item value="copied" />
@@ -52,7 +53,6 @@
       <item value="当前列表为空" />
       <item value="Empty" />
       <item value="暂无传输任务" />
-      <item value="sub" />
     </histories>
     <option name="languageScores">
       <map>
