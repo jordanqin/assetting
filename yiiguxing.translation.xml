@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Content" />
+      <item value="查看详情" />
+      <item value="状态" />
+      <item value="Tip" />
       <item value="back" />
       <item value="black" />
       <item value="middle" />
@@ -49,10 +53,6 @@
       <item value="verify" />
       <item value="验证码错误" />
       <item value="手机号码" />
-      <item value="请输入正确的手机号码" />
-      <item value="使用手机号登录" />
-      <item value="上传文件" />
-      <item value="当前列表为空" />
     </histories>
     <option name="languageScores">
       <map>
