@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="头像保存成功" />
       <item value="limit" />
       <item value="avatar" />
       <item value="头像" />
@@ -52,7 +53,6 @@
       <item value="查看详细信息" />
       <item value="restore" />
       <item value="恢复" />
-      <item value="removal" />
     </histories>
     <option name="languageScores">
       <map>
