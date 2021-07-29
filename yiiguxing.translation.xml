@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="item" />
+      <item value="项" />
+      <item value="已选择" />
+      <item value="全选" />
+      <item value="action" />
       <item value="Content" />
       <item value="查看详情" />
       <item value="状态" />
@@ -48,11 +53,6 @@
       <item value="enabled" />
       <item value="Has Been Sent" />
       <item value="获取验证码" />
-      <item value="reacquire" />
-      <item value="重新获取" />
-      <item value="verify" />
-      <item value="验证码错误" />
-      <item value="手机号码" />
     </histories>
     <option name="languageScores">
       <map>
