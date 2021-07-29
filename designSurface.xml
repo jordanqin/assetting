@@ -43,12 +43,14 @@
         <entry key="biz_setting_impl/src/main/res/drawable/ic_arrow_gray.xml" value="0.5677083333333334" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_about.xml" value="0.2656407669021191" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_recycled.xml" value="0.541213768115942" />
+        <entry key="biz_setting_impl/src/main/res/layout/activity_user_profile.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_about.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_details.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_list.xml" value="0.2656407669021191" />
+        <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_operate.xml" value="0.2656407669021191" />
         <entry key="biz_setting_impl/src/main/res/layout/item_trash.xml" value="0.541213768115942" />
         <entry key="biz_transfer_impl/src/main/res/layout/download_content.xml" value="0.2427536231884058" />
         <entry key="biz_transfer_impl/src/main/res/layout/fragment_transfer.xml" value="0.18491422805247226" />
