@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="After changing the mobile phone number, log in with the new mobile phone number next time" />
+      <item value="已重新发送" />
+      <item value="toast reacquired" />
+      <item value="toast reacquireed" />
+      <item value="已注册" />
+      <item value="identical" />
+      <item value="相同" />
+      <item value="当前手机号" />
+      <item value="modify" />
+      <item value="更换手机号" />
       <item value="Captcha" />
       <item value="禁用" />
       <item value="头像保存成功" />
@@ -43,16 +53,6 @@
       <item value="已复制" />
       <item value="copied" />
       <item value="suffix" />
-      <item value="m&gt;If the application is not the default IME or does not have input focus this return {@code null}.&lt;em&gt;" />
-      <item value="Nullable" />
-      <item value="clipboard" />
-      <item value="clipboar" />
-      <item value="Recycle Bin" />
-      <item value="删除时间" />
-      <item value="completely" />
-      <item value="recycled" />
-      <item value="彻底删除" />
-      <item value="查看详细信息" />
     </histories>
     <option name="languageScores">
       <map>
