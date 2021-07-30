@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="创建时间" />
+      <item value="更新时间" />
       <item value="Indicators" />
       <item value="curret" />
       <item value="提交" />
@@ -51,8 +53,6 @@
       <item value="状态" />
       <item value="Tip" />
       <item value="back" />
-      <item value="black" />
-      <item value="middle" />
     </histories>
     <option name="languageScores">
       <map>
