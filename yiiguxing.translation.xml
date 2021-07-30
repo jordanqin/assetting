@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Content" />
       <item value="ASC" />
       <item value="DESC" />
       <item value="创建时间" />
@@ -50,7 +51,6 @@
       <item value="项" />
       <item value="已选择" />
       <item value="action" />
-      <item value="Content" />
       <item value="查看详情" />
       <item value="状态" />
     </histories>

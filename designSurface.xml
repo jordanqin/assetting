@@ -95,6 +95,7 @@
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_notify.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/fragment_dialog_sort.xml" value="0.5357789855072463" />
+        <entry key="cos_ui/src/main/res/layout/fragment_dialog_sort_item.xml" value="0.5357789855072463" />
         <entry key="cos_ui/src/main/res/layout/fragment_loading.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/fragment_loading2.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/view_background_tip.xml" value="0.5484375" />
