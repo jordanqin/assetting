@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="curret" />
       <item value="提交" />
       <item value="下一步" />
       <item value="After changing the mobile phone number, log in with the new mobile phone number next time" />
@@ -52,7 +53,6 @@
       <item value="black" />
       <item value="middle" />
       <item value="Returns `true` if this string is empty or consists solely of whitespace characters." />
-      <item value="已复制" />
     </histories>
     <option name="languageScores">
       <map>
