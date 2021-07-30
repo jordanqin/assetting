@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ASC" />
+      <item value="DESC" />
       <item value="创建时间" />
       <item value="更新时间" />
       <item value="Indicators" />
@@ -51,8 +53,6 @@
       <item value="Content" />
       <item value="查看详情" />
       <item value="状态" />
-      <item value="Tip" />
-      <item value="back" />
     </histories>
     <option name="languageScores">
       <map>
