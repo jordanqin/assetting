@@ -43,6 +43,7 @@
         <entry key="biz_setting_impl/src/main/res/drawable/ic_arrow_gray.xml" value="0.5677083333333334" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_about.xml" value="0.2656407669021191" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_edit_nick_name.xml" value="0.541213768115942" />
+        <entry key="biz_setting_impl/src/main/res/layout/activity_edit_phone_number.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_recycled.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_user_profile.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_about.xml" value="0.541213768115942" />
