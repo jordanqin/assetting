@@ -7,7 +7,7 @@
         <entry key="../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../.gradle/caches/transforms-2/files-2.1/035e79feac643ff23f2c9730c699e50a/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.5484375" />
         <entry key="app/src/main/res/drawable/bg_btn_login.xml" value="0.5677083333333334" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5277777777777778" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5677083333333334" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.5277777777777778" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2656407669021191" />
@@ -44,6 +44,7 @@
         <entry key="biz_setting_impl/src/main/res/layout/activity_about.xml" value="0.2656407669021191" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_edit_nick_name.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_edit_phone_number.xml" value="0.541213768115942" />
+        <entry key="biz_setting_impl/src/main/res/layout/activity_login.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_recycled.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_user_profile.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_about.xml" value="0.541213768115942" />
