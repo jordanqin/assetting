@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
       <item value="when [radix] is not a valid radix for string to number conversion." />
       <item value="Parses the string as a [Long] number and returns the result." />
       <item value="radix" />
@@ -52,7 +53,6 @@
       <item value="chosen" />
       <item value="成功" />
       <item value="item" />
-      <item value="项" />
     </histories>
     <option name="languageScores">
       <map>
