@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="indicator" />
       <item value="已选择" />
       <item value="已选择1个文件" />
       <item value="移动到此处" />
@@ -52,7 +53,6 @@
       <item value="显示时长" />
       <item value="正在" />
       <item value="Execution" />
-      <item value="执行中" />
     </histories>
     <option name="languageScores">
       <map>
