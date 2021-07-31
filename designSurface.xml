@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2656407669021191" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/view_page_indicators.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/widget_monitor_small.xml" value="0.2656407669021191" />
         <entry key="base_common/src/main/res/drawable/pre_file.xml" value="0.5" />
