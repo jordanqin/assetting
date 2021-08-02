@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Current" />
       <item value="已选" />
       <item value="选择目标文件夹" />
       <item value="动作" />
@@ -52,7 +53,6 @@
       <item value="头像" />
       <item value="info" />
       <item value="个人信息" />
-      <item value="Profile" />
     </histories>
     <option name="languageScores">
       <map>
