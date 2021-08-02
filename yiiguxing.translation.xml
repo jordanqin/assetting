@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="排除" />
+      <item value="count" />
       <item value="indicator" />
       <item value="已选择" />
       <item value="已选择1个文件" />
@@ -51,8 +53,6 @@
       <item value="Simpel" />
       <item value="Found item Attrtip more than one time" />
       <item value="显示时长" />
-      <item value="正在" />
-      <item value="Execution" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627383101147" />
+    <option name="lastTrimTime" value="1627871636764" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
