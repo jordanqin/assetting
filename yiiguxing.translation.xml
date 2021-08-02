@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Extra" />
       <item value="permanent" />
       <item value="排除" />
       <item value="count" />
@@ -52,7 +53,6 @@
       <item value="传输列表" />
       <item value="Simpel" />
       <item value="Found item Attrtip more than one time" />
-      <item value="显示时长" />
     </histories>
     <option name="languageScores">
       <map>
