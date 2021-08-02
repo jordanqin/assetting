@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="permanent" />
       <item value="排除" />
       <item value="count" />
       <item value="indicator" />
@@ -12,7 +13,6 @@
       <item value="选择移动到" />
       <item value="选择器" />
       <item value="Conflict Strategy" />
-      <item value="permanent" />
       <item value="Tint" />
       <item value="indeterminate" />
       <item value="Indeterminate" />
