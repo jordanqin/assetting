@@ -34,7 +34,9 @@
         <entry key="baseui/src/main/res/layout/dialog_input.xml" value="0.17734611503531786" />
         <entry key="biz_browse_impl/src/main/res/drawable/button_enable.xml" value="0.38981481481481484" />
         <entry key="biz_browse_impl/src/main/res/drawable/ic_plus.xml" value="0.5037037037037037" />
+        <entry key="biz_browse_impl/src/main/res/drawable/selector_copy.xml" value="0.5677083333333334" />
         <entry key="biz_browse_impl/src/main/res/drawable/selector_download.xml" value="0.5677083333333334" />
+        <entry key="biz_browse_impl/src/main/res/drawable/selector_move.xml" value="0.5677083333333334" />
         <entry key="biz_browse_impl/src/main/res/layout/activity_directory_selector.xml" value="0.5357789855072463" />
         <entry key="biz_browse_impl/src/main/res/layout/batch_fragment.xml" value="0.335" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.5484375" />
@@ -46,6 +48,7 @@
         <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.541213768115942" />
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_setting_impl/src/main/res/drawable/ic_arrow_gray.xml" value="0.5677083333333334" />
+        <entry key="biz_setting_impl/src/main/res/drawable/selector_restore.xml" value="0.5677083333333334" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_about.xml" value="0.2656407669021191" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_edit_nick_name.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/activity_edit_phone_number.xml" value="0.541213768115942" />
@@ -57,7 +60,7 @@
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_details.xml" value="0.541213768115942" />
-        <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_list.xml" value="0.2656407669021191" />
+        <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_list.xml" value="0.327445652173913" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_operate.xml" value="0.5357789855072463" />
         <entry key="biz_setting_impl/src/main/res/layout/item_trash.xml" value="0.541213768115942" />
         <entry key="biz_transfer_impl/src/main/res/layout/download_content.xml" value="0.2427536231884058" />
@@ -99,6 +102,7 @@
         <entry key="cos_ui/src/main/res/drawable/ic_arrow_right.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/ic_back.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/drawable/selector_delete.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_notify.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/fragment_dialog_sort.xml" value="0.5357789855072463" />
