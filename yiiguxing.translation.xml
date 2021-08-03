@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="我已阅读并同意" />
       <item value="built" />
       <item value="删除成功" />
       <item value="失败列表" />
@@ -52,7 +53,6 @@
       <item value="curret" />
       <item value="提交" />
       <item value="下一步" />
-      <item value="After changing the mobile phone number, log in with the new mobile phone number next time" />
     </histories>
     <option name="languageScores">
       <map>
