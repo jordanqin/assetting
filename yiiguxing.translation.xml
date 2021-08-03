@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="失败列表" />
       <item value="全部重试" />
       <item value="FAIL" />
       <item value="FAILURE" />
@@ -52,7 +53,6 @@
       <item value="After changing the mobile phone number, log in with the new mobile phone number next time" />
       <item value="已重新发送" />
       <item value="toast reacquired" />
-      <item value="toast reacquireed" />
     </histories>
     <option name="languageScores">
       <map>
