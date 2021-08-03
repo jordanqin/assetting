@@ -3,10 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="clear" />
       <item value="以后再说" />
       <item value="立即更新" />
       <item value="清理缓存" />
-      <item value="clear" />
       <item value="清除" />
       <item value="删除已完成记录" />
       <item value="确认退出登录" />
