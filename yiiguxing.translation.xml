@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="FAIL" />
+      <item value="FAILURE" />
       <item value="Returns the root directory of the build. The root directory is the project directory of the root project.&lt;" />
       <item value="Batch" />
       <item value="禁用" />
@@ -51,8 +53,6 @@
       <item value="toast reacquired" />
       <item value="toast reacquireed" />
       <item value="已注册" />
-      <item value="identical" />
-      <item value="相同" />
     </histories>
     <option name="languageScores">
       <map>
