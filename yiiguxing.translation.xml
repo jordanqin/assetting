@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="authority" />
+      <item value="Incapable Cause" />
+      <item value="Against what mime types this filter applies." />
+      <item value="Invoked for filtering each item." />
+      <item value="capture" />
+      <item value="countable" />
       <item value="已添加至商场列表" />
       <item value="The associated resource identifier. Returns 0 if no such resource was found. (0 is not a valid resource ID.)" />
       <item value="原来" />
@@ -47,12 +53,6 @@
       <item value="已初始化" />
       <item value="子目录" />
       <item value="Current" />
-      <item value="已选" />
-      <item value="选择目标文件夹" />
-      <item value="动作" />
-      <item value="Extra" />
-      <item value="permanent" />
-      <item value="排除" />
     </histories>
     <option name="languageScores">
       <map>
