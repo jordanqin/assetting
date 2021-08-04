@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="失败任务未处理" />
+      <item value="查看" />
+      <item value="点击查看" />
+      <item value="忽略" />
+      <item value="覆盖确认" />
       <item value="clear" />
       <item value="以后再说" />
       <item value="立即更新" />
@@ -48,11 +53,6 @@
       <item value="Tint" />
       <item value="indeterminate" />
       <item value="Indeterminate" />
-      <item value="Returns the first element matching the given [predicate], or `null` if no such element was found." />
-      <item value="when [radix] is not a valid radix for string to number conversion." />
-      <item value="Parses the string as a [Long] number and returns the result." />
-      <item value="radix" />
-      <item value="available" />
     </histories>
     <option name="languageScores">
       <map>
