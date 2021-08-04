@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="完成" />
+      <item value="覆盖同名文件" />
+      <item value="notsupport" />
+      <item value="不支持" />
+      <item value="exists" />
+      <item value="已存在" />
+      <item value="存在" />
+      <item value="already" />
       <item value="失败任务未处理" />
       <item value="查看" />
       <item value="点击查看" />
@@ -45,14 +53,6 @@
       <item value="count" />
       <item value="indicator" />
       <item value="已选择" />
-      <item value="已选择1个文件" />
-      <item value="移动到此处" />
-      <item value="选择移动到" />
-      <item value="选择器" />
-      <item value="Conflict Strategy" />
-      <item value="Tint" />
-      <item value="indeterminate" />
-      <item value="Indeterminate" />
     </histories>
     <option name="languageScores">
       <map>
