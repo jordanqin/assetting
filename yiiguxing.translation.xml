@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="进入" />
       <item value="equals" />
       <item value="contains" />
       <item value="The payloads parameter is a merge list from [MultiTypeAdapter.notifyItemChanged] [MultiTypeAdapter.notifyItemRangeChanged]. If the payloads list is not empty, the ViewHolder is currently bound to old data and ItemViewDelegate may run an efficient partial update using the payload info. If the payload is empty, ItemViewDelegate must run a full bind. ItemViewDelegate should not assume that the payload passed in notify methods will be received by onBindViewHolder(). For example when the view is not attached to the screen, the payload in notifyItemChange() will be simply dropped." />
@@ -52,7 +53,6 @@
       <item value="FAIL" />
       <item value="FAILURE" />
       <item value="Returns the root directory of the build. The root directory is the project directory of the root project.&lt;" />
-      <item value="Batch" />
     </histories>
     <option name="languageScores">
       <map>
