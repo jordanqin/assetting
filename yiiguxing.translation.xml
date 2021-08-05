@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="The payloads parameter is a merge list from [MultiTypeAdapter.notifyItemChanged] [MultiTypeAdapter.notifyItemRangeChanged]. If the payloads list is not empty, the ViewHolder is currently bound to old data and ItemViewDelegate may run an efficient partial update using the payload info. If the payload is empty, ItemViewDelegate must run a full bind. ItemViewDelegate should not assume that the payload passed in notify methods will be received by onBindViewHolder(). For example when the view is not attached to the screen, the payload in notifyItemChange() will be simply dropped." />
+      <item value="A non-null list of merged payloads. Can be empty list if requires full update." />
       <item value="正在等待" />
       <item value="已暂停" />
       <item value="分割线" />
@@ -51,8 +53,6 @@
       <item value="Batch" />
       <item value="禁用" />
       <item value="Returns `true` if all elements match the given [predicate]." />
-      <item value="none" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
