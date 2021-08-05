@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Y velocity of the pointer as it left the screen in pixels per second." />
       <item value="Disallow" />
       <item value="Cleaned up" />
       <item value="进入" />
@@ -52,7 +53,6 @@
       <item value="删除成功" />
       <item value="失败列表" />
       <item value="全部重试" />
-      <item value="FAIL" />
     </histories>
     <option name="languageScores">
       <map>
