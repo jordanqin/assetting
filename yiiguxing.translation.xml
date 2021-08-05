@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="正在等待" />
+      <item value="已暂停" />
       <item value="分割线" />
       <item value="Division" />
       <item value="分割" />
@@ -51,8 +53,6 @@
       <item value="Returns `true` if all elements match the given [predicate]." />
       <item value="none" />
       <item value="失败" />
-      <item value="删除成功，已放入回收站" />
-      <item value="已成功移动至" />
     </histories>
     <option name="languageScores">
       <map>
