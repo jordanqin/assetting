@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="分割线" />
+      <item value="Division" />
+      <item value="分割" />
       <item value="An {@link ActivityResultContract} to {@link MediaStoreACTION_IMAGE_CAPTURE take small a picture} preview, returning it as a {@link Bitmap}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
       <item value="authority" />
       <item value="Incapable Cause" />
@@ -50,9 +53,6 @@
       <item value="失败" />
       <item value="删除成功，已放入回收站" />
       <item value="已成功移动至" />
-      <item value="已成功复制至" />
-      <item value="已初始化" />
-      <item value="子目录" />
     </histories>
     <option name="languageScores">
       <map>
