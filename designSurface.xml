@@ -8,7 +8,7 @@
         <entry key="../.gradle/caches/transforms-2/files-2.1/035e79feac643ff23f2c9730c699e50a/appcompat-1.2.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.5484375" />
         <entry key="app/src/main/res/drawable/bg_btn_login.xml" value="0.5677083333333334" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5677083333333334" />
-        <entry key="app/src/main/res/drawable/splash.xml" value="0.5277777777777778" />
+        <entry key="app/src/main/res/drawable/splash.xml" value="0.5677083333333334" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.5484375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2656407669021191" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.5484375" />
@@ -96,7 +96,7 @@
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
         <entry key="cos_common/src/main/res/layout/fragment_list.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/list_header_tip.xml" value="0.5303442028985508" />
-        <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5324074074074074" />
+        <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/bg_btn.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/bg_btn_login.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/bg_btn_sock.xml" value="0.5677083333333334" />
