@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cleaned up" />
       <item value="进入" />
       <item value="equals" />
       <item value="contains" />
@@ -52,7 +53,6 @@
       <item value="全部重试" />
       <item value="FAIL" />
       <item value="FAILURE" />
-      <item value="Returns the root directory of the build. The root directory is the project directory of the root project.&lt;" />
     </histories>
     <option name="languageScores">
       <map>
