@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="disable" />
+      <item value="去处理" />
+      <item value="处理" />
+      <item value="There are still errors pending" />
+      <item value="allow" />
+      <item value="allowed" />
+      <item value="允许覆盖" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="Returns `true` if this nullable char sequence is either `null` or empty." />
       <item value="Y velocity of the pointer as it left the screen in pixels per second." />
@@ -46,13 +53,6 @@
       <item value="立即更新" />
       <item value="清理缓存" />
       <item value="清除" />
-      <item value="删除已完成记录" />
-      <item value="确认退出登录" />
-      <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state." />
-      <item value="retain" />
-      <item value="我已阅读并同意" />
-      <item value="built" />
-      <item value="删除成功" />
     </histories>
     <option name="languageScores">
       <map>
