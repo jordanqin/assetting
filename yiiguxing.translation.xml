@@ -3,6 +3,14 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns whether the view hierarchy is currently undergoing a layout pass. This information is useful to avoid situations such as calling {@link requestLayout()} during a layout pass." />
+      <item value="Only trigger request-during-layout logic if this is the view requesting it, not the views in its parent hierarchy" />
+      <item value="Indicates whether layout was requested on this view parent." />
+      <item value="true if layout was requested, false otherwise" />
+      <item value="otherwise" />
+      <item value="Subclasses which override this method should call the superclass method to handle possible request-during-layout errors correctly" />
+      <item value="Call this when something has changed which has invalidated the layout of this view. This will schedule a layout pass of the view tree. This should not be called while the view hierarchy is currently in a layout pass ({@link isInLayout()}. If layout is happening, the request may be honored at the end of the current layout pass (and then layout will run again) or after the current frame is drawn and the next layout occurs." />
+      <item value="固定" />
       <item value="indeterminate" />
       <item value="disable" />
       <item value="去处理" />
@@ -45,14 +53,6 @@
       <item value="存在" />
       <item value="already" />
       <item value="失败任务未处理" />
-      <item value="查看" />
-      <item value="点击查看" />
-      <item value="忽略" />
-      <item value="覆盖确认" />
-      <item value="clear" />
-      <item value="以后再说" />
-      <item value="立即更新" />
-      <item value="清理缓存" />
     </histories>
     <option name="languageScores">
       <map>
