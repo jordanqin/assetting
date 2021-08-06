@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Returns `true` if this nullable char sequence is either `null` or empty." />
       <item value="Y velocity of the pointer as it left the screen in pixels per second." />
       <item value="Disallow" />
       <item value="Cleaned up" />
@@ -52,7 +53,6 @@
       <item value="built" />
       <item value="删除成功" />
       <item value="失败列表" />
-      <item value="全部重试" />
     </histories>
     <option name="languageScores">
       <map>
