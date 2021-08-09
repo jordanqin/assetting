@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Divider" />
       <item value="if the index is out of range" />
       <item value="Gets the type at the specified index." />
       <item value="Returns whether the view hierarchy is currently undergoing a layout pass. This information is useful to avoid situations such as calling {@link requestLayout()} during a layout pass." />
@@ -52,7 +53,6 @@
       <item value="不支持" />
       <item value="exists" />
       <item value="已存在" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
