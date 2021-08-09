@@ -90,6 +90,7 @@
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_content2.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_indicator.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="1.0" />
+        <entry key="cos_common/src/main/res/drawable/divider_item_decoration.xml" value="0.5677083333333334" />
         <entry key="cos_common/src/main/res/layout/activity_web.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
