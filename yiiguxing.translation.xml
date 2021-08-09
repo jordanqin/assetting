@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="if the index is out of range" />
+      <item value="Gets the type at the specified index." />
       <item value="Returns whether the view hierarchy is currently undergoing a layout pass. This information is useful to avoid situations such as calling {@link requestLayout()} during a layout pass." />
       <item value="Only trigger request-during-layout logic if this is the view requesting it, not the views in its parent hierarchy" />
       <item value="Indicates whether layout was requested on this view parent." />
@@ -51,8 +53,6 @@
       <item value="exists" />
       <item value="已存在" />
       <item value="存在" />
-      <item value="already" />
-      <item value="失败任务未处理" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627871636764" />
+    <option name="lastTrimTime" value="1628510394726" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
