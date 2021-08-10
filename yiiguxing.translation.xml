@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Terminate" />
       <item value="Not Roaming" />
       <item value="Metered" />
       <item value="Validated" />
@@ -52,7 +53,6 @@
       <item value="分割线" />
       <item value="Division" />
       <item value="分割" />
-      <item value="An {@link ActivityResultContract} to {@link MediaStoreACTION_IMAGE_CAPTURE take small a picture} preview, returning it as a {@link Bitmap}. &lt;p&gt; This can be extended to override {@link createIntent} if you wish to pass additional extras to the Intent created by {@code super.createIntent()}." />
     </histories>
     <option name="languageScores">
       <map>
