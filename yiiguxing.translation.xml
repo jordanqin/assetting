@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Meet" />
+      <item value="requirement" />
+      <item value="Permit" />
+      <item value="Requirement" />
       <item value="Determines if the network is not roaming." />
       <item value="Tracker" />
       <item value="Constraint" />
@@ -49,10 +53,6 @@
       <item value="Incapable Cause" />
       <item value="Against what mime types this filter applies." />
       <item value="Invoked for filtering each item." />
-      <item value="capture" />
-      <item value="countable" />
-      <item value="已添加至商场列表" />
-      <item value="The associated resource identifier. Returns 0 if no such resource was found. (0 is not a valid resource ID.)" />
     </histories>
     <option name="languageScores">
       <map>
