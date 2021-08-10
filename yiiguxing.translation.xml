@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Inverse" />
       <item value="Divider" />
       <item value="if the index is out of range" />
       <item value="Gets the type at the specified index." />
@@ -52,7 +53,6 @@
       <item value="notsupport" />
       <item value="不支持" />
       <item value="exists" />
-      <item value="已存在" />
     </histories>
     <option name="languageScores">
       <map>
