@@ -109,6 +109,8 @@
         <entry key="cos_ui/src/main/res/drawable/bg_iv_sort.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/ic_arrow_right.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/ic_back.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/drawable/loading_dialog_progress.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/drawable/progress.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/selector_delete.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
