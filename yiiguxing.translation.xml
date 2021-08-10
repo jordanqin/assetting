@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="coordinator" />
       <item value="Meet" />
       <item value="requirement" />
       <item value="Permit" />
@@ -52,7 +53,6 @@
       <item value="authority" />
       <item value="Incapable Cause" />
       <item value="Against what mime types this filter applies." />
-      <item value="Invoked for filtering each item." />
     </histories>
     <option name="languageScores">
       <map>
