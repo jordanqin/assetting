@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Denotes that the class, method or field has its visibility relaxed, so that it is more widely visible than otherwise necessary to make code testable." />
+      <item value="disallow Intercept" />
+      <item value="POINTER" />
+      <item value="Bit mask of the parts of the action code that are the action itself." />
       <item value="Orientation" />
       <item value="Flag indicating the motion event intersected the top edge of the screen." />
       <item value="ViewDragHelper is a utility class for writing custom ViewGroups. It offers a number of useful operations and state tracking for allowing a user to drag and reposition views within their parent ViewGroup." />
@@ -49,10 +53,6 @@
       <item value="disable" />
       <item value="去处理" />
       <item value="处理" />
-      <item value="There are still errors pending" />
-      <item value="allow" />
-      <item value="allowed" />
-      <item value="允许覆盖" />
     </histories>
     <option name="languageScores">
       <map>
