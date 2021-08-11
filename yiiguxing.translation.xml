@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Display" />
+      <item value="Dispaly" />
       <item value="The view if found or null otherwise." />
       <item value="Finds a view that was identified by the id attribute from the XML that was processed in {@link onCreate}." />
       <item value="Indicates whether the device is currently roaming on this network. When {@code true}, it suggests that use of data on this network may incur extra costs." />
@@ -51,8 +53,6 @@
       <item value="Y velocity of the pointer as it left the screen in pixels per second." />
       <item value="Disallow" />
       <item value="Cleaned up" />
-      <item value="进入" />
-      <item value="equals" />
     </histories>
     <option name="languageScores">
       <map>
