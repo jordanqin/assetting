@@ -3,13 +3,19 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="as Flow" />
-      <item value="Flow" />
-      <item value="Terminate" />
+      <item value="The view if found or null otherwise." />
+      <item value="Finds a view that was identified by the id attribute from the XML that was processed in {@link onCreate}." />
+      <item value="Indicates whether the device is currently roaming on this network. When {@code true}, it suggests that use of data on this network may incur extra costs." />
+      <item value="Returns if the currently active data network is metered. A network is classified as metered when the user is sensitive to heavy data usage on that connection due to monetary costs, data limitations or batteryperformance issues. You should check this before doing large data transfers, and warn the user or delay the operation until another network is available." />
+      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
       <item value="Not Roaming" />
       <item value="Metered" />
       <item value="Validated" />
+      <item value="Connected" />
       <item value="Tracker" />
+      <item value="as Flow" />
+      <item value="Flow" />
+      <item value="Terminate" />
       <item value="coordinator" />
       <item value="Meet" />
       <item value="requirement" />
@@ -47,12 +53,6 @@
       <item value="Cleaned up" />
       <item value="进入" />
       <item value="equals" />
-      <item value="contains" />
-      <item value="The payloads parameter is a merge list from [MultiTypeAdapter.notifyItemChanged] [MultiTypeAdapter.notifyItemRangeChanged]. If the payloads list is not empty, the ViewHolder is currently bound to old data and ItemViewDelegate may run an efficient partial update using the payload info. If the payload is empty, ItemViewDelegate must run a full bind. ItemViewDelegate should not assume that the payload passed in notify methods will be received by onBindViewHolder(). For example when the view is not attached to the screen, the payload in notifyItemChange() will be simply dropped." />
-      <item value="A non-null list of merged payloads. Can be empty list if requires full update." />
-      <item value="正在等待" />
-      <item value="已暂停" />
-      <item value="分割线" />
     </histories>
     <option name="languageScores">
       <map>
