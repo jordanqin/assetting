@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="as Flow" />
+      <item value="Flow" />
       <item value="Terminate" />
       <item value="Not Roaming" />
       <item value="Metered" />
@@ -51,8 +53,6 @@
       <item value="正在等待" />
       <item value="已暂停" />
       <item value="分割线" />
-      <item value="Division" />
-      <item value="分割" />
     </histories>
     <option name="languageScores">
       <map>
