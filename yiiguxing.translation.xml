@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Sets whether this dialog is cancelable with the" />
       <item value="Action" />
       <item value="Check if this event as provided to the parent view's onInterceptTouchEvent should cause the parent to intercept the touch event stream." />
       <item value="Animate the view &lt;code&gt;child&lt;code&gt; to the given (left, top) position. If this method returns true, the caller should invoke {@link continueSettling(boolean)} on each subsequent frame to continue the motion until it returns false. If this method returns false there is no further work to do to complete the movement." />
@@ -52,7 +53,6 @@
       <item value="sweep" />
       <item value="pivot" />
       <item value="Inverse" />
-      <item value="Divider" />
     </histories>
     <option name="languageScores">
       <map>
