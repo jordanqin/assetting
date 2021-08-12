@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Real" />
       <item value="Offset this view's horizontal location by the specified amount of pixels." />
       <item value="This view determines focusability automatically. This is the default." />
       <item value="This view does not want keystrokes." />
@@ -52,7 +53,6 @@
       <item value="true if layout was requested, false otherwise" />
       <item value="otherwise" />
       <item value="Subclasses which override this method should call the superclass method to handle possible request-during-layout errors correctly" />
-      <item value="Call this when something has changed which has invalidated the layout of this view. This will schedule a layout pass of the view tree. This should not be called while the view hierarchy is currently in a layout pass ({@link isInLayout()}. If layout is happening, the request may be honored at the end of the current layout pass (and then layout will run again) or after the current frame is drawn and the next layout occurs." />
     </histories>
     <option name="languageScores">
       <map>
