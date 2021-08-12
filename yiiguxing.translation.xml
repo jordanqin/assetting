@@ -3,8 +3,14 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
-      <item value="Real" />
+      <item value="Animate the view &lt;code&gt;child&lt;code&gt; to the given (left, top) position. If this method returns true, the caller should invoke {@link continueSettling(boolean)} on each subsequent frame to continue the motion until it returns false. If this method returns false there is no further work to do to complete the movement." />
+      <item value="Move the scrolled position of your view. This will cause a call to {@link onScrollChanged(int, int, int, int)} and the view will be" />
       <item value="Offset this view's horizontal location by the specified amount of pixels." />
+      <item value="Called when the captured view's position changes as the result of a drag or settle." />
+      <item value="handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled" />
+      <item value="obeying click sound preferences" />
+      <item value="If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior," />
+      <item value="Real" />
       <item value="This view determines focusability automatically. This is the default." />
       <item value="This view does not want keystrokes." />
       <item value="Sets whether this view can receive focus." />
@@ -47,12 +53,6 @@
       <item value="Divider" />
       <item value="if the index is out of range" />
       <item value="Gets the type at the specified index." />
-      <item value="Returns whether the view hierarchy is currently undergoing a layout pass. This information is useful to avoid situations such as calling {@link requestLayout()} during a layout pass." />
-      <item value="Only trigger request-during-layout logic if this is the view requesting it, not the views in its parent hierarchy" />
-      <item value="Indicates whether layout was requested on this view parent." />
-      <item value="true if layout was requested, false otherwise" />
-      <item value="otherwise" />
-      <item value="Subclasses which override this method should call the superclass method to handle possible request-during-layout errors correctly" />
     </histories>
     <option name="languageScores">
       <map>
