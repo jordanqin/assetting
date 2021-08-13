@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Instance" />
       <item value="extends" />
       <item value="implement" />
       <item value="可用" />
@@ -52,7 +53,6 @@
       <item value="coordinator" />
       <item value="Meet" />
       <item value="requirement" />
-      <item value="Permit" />
     </histories>
     <option name="languageScores">
       <map>
