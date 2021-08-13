@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="capacity" />
+      <item value="Space" />
       <item value="Instance" />
       <item value="extends" />
       <item value="implement" />
@@ -51,8 +53,6 @@
       <item value="Flow" />
       <item value="Terminate" />
       <item value="coordinator" />
-      <item value="Meet" />
-      <item value="requirement" />
     </histories>
     <option name="languageScores">
       <map>
