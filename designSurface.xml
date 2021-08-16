@@ -99,6 +99,7 @@
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
         <entry key="cos_common/src/main/res/layout/fragment_list.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/fragment_list_multi_select.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_stack.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/list_header_tip.xml" value="0.5303442028985508" />
         <entry key="cos_ui/src/main/res/drawable/background_dialog.xml" value="0.5677083333333334" />
