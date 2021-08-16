@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="准备" />
       <item value="Option" />
       <item value="Options" />
       <item value="1个子部门" />
@@ -52,7 +53,6 @@
       <item value="Bit mask of the parts of the action code that are the action itself." />
       <item value="Orientation" />
       <item value="Flag indicating the motion event intersected the top edge of the screen." />
-      <item value="ViewDragHelper is a utility class for writing custom ViewGroups. It offers a number of useful operations and state tracking for allowing a user to drag and reposition views within their parent ViewGroup." />
     </histories>
     <option name="languageScores">
       <map>
