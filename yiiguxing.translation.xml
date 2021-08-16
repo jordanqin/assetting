@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="图标" />
+      <item value="icon" />
+      <item value="团队" />
       <item value="冻结" />
       <item value="Footer" />
       <item value="footer" />
@@ -50,9 +53,6 @@
       <item value="Restrict the motion of the dragged child view along the vertical axis. The default implementation does not allow vertical motion; the extending class must override this method and provide the desired clamping." />
       <item value="Display" />
       <item value="Dispaly" />
-      <item value="The view if found or null otherwise." />
-      <item value="Finds a view that was identified by the id attribute from the XML that was processed in {@link onCreate}." />
-      <item value="Indicates whether the device is currently roaming on this network. When {@code true}, it suggests that use of data on this network may incur extra costs." />
     </histories>
     <option name="languageScores">
       <map>
