@@ -52,6 +52,7 @@
         <entry key="biz_common_impl/src/main/res/layout/activity_recycled.xml" value="0.5484375" />
         <entry key="biz_common_impl/src/main/res/layout/fragment_batch_task_list.xml" value="0.5484375" />
         <entry key="biz_common_impl/src/main/res/layout/item_batch_task.xml" value="0.5484375" />
+        <entry key="biz_common_impl/src/main/res/layout/item_file.xml" value="0.5484375" />
         <entry key="biz_common_impl/src/main/res/layout/item_team.xml" value="0.5484375" />
         <entry key="biz_setting_impl/src/main/res/drawable/ic_arrow_gray.xml" value="0.5677083333333334" />
         <entry key="biz_setting_impl/src/main/res/drawable/selector_restore.xml" value="0.5677083333333334" />

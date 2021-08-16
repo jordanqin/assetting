@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Option" />
+      <item value="Options" />
       <item value="1个子部门" />
       <item value="搜索" />
       <item value="图标" />
@@ -51,8 +53,6 @@
       <item value="Orientation" />
       <item value="Flag indicating the motion event intersected the top edge of the screen." />
       <item value="ViewDragHelper is a utility class for writing custom ViewGroups. It offers a number of useful operations and state tracking for allowing a user to drag and reposition views within their parent ViewGroup." />
-      <item value="Restrict the motion of the dragged child view along the horizontal axis. The default implementation does not allow horizontal motion; the extending class must override this method and provide the desired clamping." />
-      <item value="Restrict the motion of the dragged child view along the vertical axis. The default implementation does not allow vertical motion; the extending class must override this method and provide the desired clamping." />
     </histories>
     <option name="languageScores">
       <map>
