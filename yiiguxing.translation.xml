@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="build" />
       <item value="An ordered collection to hold the types, delegates and linkers" />
       <item value="Action" />
       <item value="是否开启" />
@@ -52,7 +53,6 @@
       <item value="This view determines focusability automatically. This is the default." />
       <item value="This view does not want keystrokes." />
       <item value="Sets whether this view can receive focus." />
-      <item value="Set whether this view can receive focus while in touch mode. Setting this to true will also ensure that this view is focusable." />
     </histories>
     <option name="languageScores">
       <map>
