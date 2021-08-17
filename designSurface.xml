@@ -44,7 +44,7 @@
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_upload.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_directory_selector.xml" value="0.5357789855072463" />
-        <entry key="biz_browse_impl/src/main/res/layout/fragment_file.xml" value="0.5484375" />
+        <entry key="biz_browse_impl/src/main/res/layout/fragment_file.xml" value="1.0" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file_list.xml" value="0.33" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
         <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.541213768115942" />
