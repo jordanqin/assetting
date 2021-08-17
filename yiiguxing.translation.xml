@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Option" />
+      <item value="opt" />
+      <item value="Visible" />
       <item value="首页" />
       <item value="Floating" />
       <item value="build" />
@@ -14,7 +17,6 @@
       <item value="状态修改" />
       <item value="Action Bar" />
       <item value="准备" />
-      <item value="Option" />
       <item value="Options" />
       <item value="1个子部门" />
       <item value="搜索" />
@@ -51,8 +53,6 @@
       <item value="handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled" />
       <item value="obeying click sound preferences" />
       <item value="If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior," />
-      <item value="Real" />
-      <item value="This view determines focusability automatically. This is the default." />
     </histories>
     <option name="languageScores">
       <map>
