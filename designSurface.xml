@@ -69,6 +69,7 @@
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_me.xml" value="0.5484375" />
+        <entry key="biz_setting_impl/src/main/res/layout/fragment_recycled.xml" value="0.5484375" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_details.xml" value="0.541213768115942" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_list.xml" value="0.327445652173913" />
         <entry key="biz_setting_impl/src/main/res/layout/fragment_trash_operate.xml" value="0.5357789855072463" />
@@ -96,6 +97,7 @@
         <entry key="biz_transport_impl/src/main/res/layout/item_transfer_indicator.xml" value="0.5484375" />
         <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="1.0" />
         <entry key="cos_common/src/main/res/drawable/divider_item_decoration.xml" value="0.5677083333333334" />
+        <entry key="cos_common/src/main/res/layout/activity_browser.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/activity_web.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
