@@ -39,6 +39,7 @@
         <entry key="biz_browse_impl/src/main/res/drawable/selector_move.xml" value="0.5677083333333334" />
         <entry key="biz_browse_impl/src/main/res/layout/activity_directory_selector.xml" value="0.5357789855072463" />
         <entry key="biz_browse_impl/src/main/res/layout/batch_fragment.xml" value="0.335" />
+        <entry key="biz_browse_impl/src/main/res/layout/common_floating_button_upload.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_details.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_operate.xml" value="0.5484375" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_dialog_upload.xml" value="0.5484375" />
