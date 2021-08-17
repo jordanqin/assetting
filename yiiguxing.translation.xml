@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Floating" />
       <item value="build" />
       <item value="An ordered collection to hold the types, delegates and linkers" />
       <item value="Action" />
@@ -52,7 +53,6 @@
       <item value="Real" />
       <item value="This view determines focusability automatically. This is the default." />
       <item value="This view does not want keystrokes." />
-      <item value="Sets whether this view can receive focus." />
     </histories>
     <option name="languageScores">
       <map>
