@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="SPREAD" />
       <item value="容器" />
       <item value="静态" />
       <item value="Option" />
@@ -52,7 +53,6 @@
       <item value="Move the scrolled position of your view. This will cause a call to {@link onScrollChanged(int, int, int, int)} and the view will be" />
       <item value="Offset this view's horizontal location by the specified amount of pixels." />
       <item value="Called when the captured view's position changes as the result of a drag or settle." />
-      <item value="handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled" />
     </histories>
     <option name="languageScores">
       <map>
