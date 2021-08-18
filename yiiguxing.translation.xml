@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="容器" />
+      <item value="静态" />
       <item value="Option" />
       <item value="opt" />
       <item value="Visible" />
@@ -51,8 +53,6 @@
       <item value="Offset this view's horizontal location by the specified amount of pixels." />
       <item value="Called when the captured view's position changes as the result of a drag or settle." />
       <item value="handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled" />
-      <item value="obeying click sound preferences" />
-      <item value="If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior," />
     </histories>
     <option name="languageScores">
       <map>

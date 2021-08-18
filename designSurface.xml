@@ -99,6 +99,7 @@
         <entry key="cos_common/src/main/res/drawable/divider_item_decoration.xml" value="0.5677083333333334" />
         <entry key="cos_common/src/main/res/layout/activity_browser.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/activity_web.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/common_container.xml" value="0.322463768115942" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
@@ -123,6 +124,7 @@
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/selector_delete.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/tab_indicator.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/layout/common_search_lab.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/common_tab_layout.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_notify.xml" value="0.5484375" />
