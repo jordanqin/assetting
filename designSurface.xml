@@ -47,6 +47,7 @@
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file.xml" value="1.0" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_file_list.xml" value="0.33" />
         <entry key="biz_browse_impl/src/main/res/layout/fragment_list_objects.xml" value="0.18491422805247226" />
+        <entry key="biz_browse_impl/src/main/res/layout/fragment_shared_manage.xml" value="1.0" />
         <entry key="biz_browse_impl/src/main/res/layout/item_file.xml" value="0.541213768115942" />
         <entry key="biz_browse_impl/src/main/res/layout/item_object2.xml" value="0.18491422805247226" />
         <entry key="biz_common_impl/src/main/res/layout/activity_fail_list.xml" value="0.5484375" />
@@ -98,10 +99,12 @@
         <entry key="biz_transport_impl/src/main/res/layout/item_transport.xml" value="1.0" />
         <entry key="cos_common/src/main/res/drawable/divider_item_decoration.xml" value="0.5677083333333334" />
         <entry key="cos_common/src/main/res/layout/activity_browser.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/activity_fragment.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/activity_web.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_container.xml" value="0.322463768115942" />
         <entry key="cos_common/src/main/res/layout/common_item_no_more.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/common_item_progress.xml" value="0.5484375" />
+        <entry key="cos_common/src/main/res/layout/common_list.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_file_list.xml" value="0.2656407669021191" />
         <entry key="cos_common/src/main/res/layout/fragment_list.xml" value="0.5484375" />
         <entry key="cos_common/src/main/res/layout/fragment_list_multi_select.xml" value="0.5484375" />
@@ -124,6 +127,7 @@
         <entry key="cos_ui/src/main/res/drawable/progress_style.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/selector_delete.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/tab_indicator.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/layout/activity_fragment.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/common_search_lab.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/common_tab_layout.xml" value="0.5484375" />
         <entry key="cos_ui/src/main/res/layout/dialog_input.xml" value="0.5484375" />
