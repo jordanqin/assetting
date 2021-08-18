@@ -121,6 +121,8 @@
         <entry key="cos_ui/src/main/res/drawable/bg_edittext_f5.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/bg_iv_select.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/bg_iv_sort.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/drawable/bg_tag.xml" value="0.5677083333333334" />
+        <entry key="cos_ui/src/main/res/drawable/bg_tag_accent.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/ic_arrow_right.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/ic_back.xml" value="0.5677083333333334" />
         <entry key="cos_ui/src/main/res/drawable/loading_dialog_progress.xml" value="0.5677083333333334" />
