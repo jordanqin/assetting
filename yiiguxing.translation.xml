@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="修改权限" />
       <item value="Accent" />
       <item value="tag" />
       <item value="操作者" />
@@ -52,7 +53,6 @@
       <item value="团队" />
       <item value="冻结" />
       <item value="Footer" />
-      <item value="footer" />
     </histories>
     <option name="languageScores">
       <map>
