@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Only Yourself" />
+      <item value="_description" />
       <item value="添加成员" />
       <item value="question" />
       <item value="description" />
@@ -51,8 +53,6 @@
       <item value="状态修改" />
       <item value="Action Bar" />
       <item value="准备" />
-      <item value="Options" />
-      <item value="1个子部门" />
     </histories>
     <option name="languageScores">
       <map>
