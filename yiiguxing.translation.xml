@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="collect" />
       <item value="UNSPECIFIED" />
       <item value="divider" />
       <item value="related results not found" />
@@ -52,7 +53,6 @@
       <item value="Determines the interfaces implemented by the class or interface represented by this object." />
       <item value="until" />
       <item value="LINE" />
-      <item value="DIVIDER" />
     </histories>
     <option name="languageScores">
       <map>
