@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Line" />
       <item value="Member" />
       <item value="reverse" />
       <item value="determine" />
@@ -52,7 +53,6 @@
       <item value="Sub" />
       <item value="Concrete" />
       <item value="具体的" />
-      <item value="SPREAD" />
     </histories>
     <option name="languageScores">
       <map>
