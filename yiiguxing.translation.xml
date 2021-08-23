@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="reverse" />
+      <item value="determine" />
+      <item value="确定" />
       <item value="人" />
       <item value="count" />
       <item value="人数" />
@@ -50,9 +53,6 @@
       <item value="具体的" />
       <item value="SPREAD" />
       <item value="容器" />
-      <item value="静态" />
-      <item value="Option" />
-      <item value="opt" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628996734915" />
+    <option name="lastTrimTime" value="1629692323640" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
