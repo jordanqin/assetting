@@ -3,12 +3,15 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="document" />
+      <item value="docment" />
+      <item value="文档" />
+      <item value="音频" />
       <item value="历史" />
       <item value="Validated" />
       <item value="scope" />
       <item value="Relation" />
       <item value="Embedded" />
-      <item value="文档" />
       <item value="By Type" />
       <item value="collect" />
       <item value="UNSPECIFIED" />
@@ -50,9 +53,6 @@
       <item value="观察者" />
       <item value="角色" />
       <item value="Manage" />
-      <item value="管理页面" />
-      <item value="manger" />
-      <item value="管理" />
     </histories>
     <option name="languageScores">
       <map>
