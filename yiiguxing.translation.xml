@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Root" />
       <item value="灰色" />
       <item value="absolute" />
       <item value="document" />
@@ -52,7 +53,6 @@
       <item value="上传者" />
       <item value="下载者" />
       <item value="预览者" />
-      <item value="观察者" />
     </histories>
     <option name="languageScores">
       <map>
