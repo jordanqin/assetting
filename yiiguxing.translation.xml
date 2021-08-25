@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="占位符" />
       <item value="STATICL" />
       <item value="Task already scheduled or cancelled" />
       <item value="is referenced as an interface" />
@@ -52,7 +53,6 @@
       <item value="继承" />
       <item value="修改权限" />
       <item value="Accent" />
-      <item value="tag" />
     </histories>
     <option name="languageScores">
       <map>
