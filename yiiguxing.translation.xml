@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="divider" />
       <item value="permanent" />
       <item value="ensure" />
       <item value="coerce At Most" />
@@ -27,7 +28,6 @@
       <item value="By Type" />
       <item value="collect" />
       <item value="UNSPECIFIED" />
-      <item value="divider" />
       <item value="related results not found" />
       <item value="Line" />
       <item value="Member" />
