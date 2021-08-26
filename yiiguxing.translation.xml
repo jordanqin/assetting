@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="permanent" />
       <item value="ensure" />
       <item value="coerce At Most" />
       <item value="占位符" />
@@ -52,7 +53,6 @@
       <item value="description" />
       <item value="权限说明" />
       <item value="问号" />
-      <item value="继承" />
     </histories>
     <option name="languageScores">
       <map>
