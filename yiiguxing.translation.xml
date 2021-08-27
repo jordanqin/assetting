@@ -3,10 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value=": Can't toast on a thread that has not called Looper.prepare()" />
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="Connected to process 9269 on device 'xiaomi-mix_2-e6f4aa41'." />
-      <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value="divider" />
       <item value="permanent" />
       <item value="ensure" />
