@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="related" />
+      <item value="empty" />
       <item value="Cannot access database on the main thread since it may potentially lock the UI for a long period of time." />
       <item value=": Can't toast on a thread that has not called Looper.prepare()" />
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
@@ -51,8 +53,6 @@
       <item value="手机号" />
       <item value="可编辑" />
       <item value="Only Yourself" />
-      <item value="_description" />
-      <item value="添加成员" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629692323640" />
+    <option name="lastTrimTime" value="1630292336702" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
