@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="transform" />
+      <item value="Local" />
+      <item value="本地" />
+      <item value="Loacl" />
       <item value="collect" />
       <item value="replay" />
       <item value="Flow analogue of 'publish()' is 'shareIn'" />
@@ -49,10 +53,6 @@
       <item value="UNSPECIFIED" />
       <item value="related results not found" />
       <item value="Line" />
-      <item value="Member" />
-      <item value="reverse" />
-      <item value="determine" />
-      <item value="确定" />
     </histories>
     <option name="languageScores">
       <map>
