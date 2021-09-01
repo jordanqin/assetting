@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="broken" />
       <item value="task" />
       <item value="transform" />
       <item value="Local" />
@@ -52,7 +53,6 @@
       <item value="Embedded" />
       <item value="By Type" />
       <item value="UNSPECIFIED" />
-      <item value="related results not found" />
     </histories>
     <option name="languageScores">
       <map>
