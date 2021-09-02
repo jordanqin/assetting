@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="permanent" />
       <item value="Recognition" />
       <item value="Sensitive" />
       <item value="broken" />
@@ -32,7 +33,6 @@
       <item value="Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
       <item value="Connected to process 9269 on device 'xiaomi-mix_2-e6f4aa41'." />
       <item value="divider" />
-      <item value="permanent" />
       <item value="ensure" />
       <item value="coerce At Most" />
       <item value="占位符" />
