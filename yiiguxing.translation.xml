@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="comment" />
       <item value="Summary" />
       <item value="allow Overwrite" />
       <item value="permanent" />
@@ -52,7 +53,6 @@
       <item value="音频" />
       <item value="历史" />
       <item value="Validated" />
-      <item value="scope" />
     </histories>
     <option name="languageScores">
       <map>
