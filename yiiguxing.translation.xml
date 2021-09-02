@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Inherit" />
       <item value="父路径" />
       <item value="文档预览" />
       <item value="comment" />
@@ -52,7 +53,6 @@
       <item value="document" />
       <item value="docment" />
       <item value="文档" />
-      <item value="音频" />
     </histories>
     <option name="languageScores">
       <map>
