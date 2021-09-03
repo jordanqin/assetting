@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ancestor" />
       <item value="filter" />
       <item value="筛选" />
       <item value="Inherit" />
@@ -52,7 +53,6 @@
       <item value="Root" />
       <item value="灰色" />
       <item value="absolute" />
-      <item value="document" />
     </histories>
     <option name="languageScores">
       <map>
