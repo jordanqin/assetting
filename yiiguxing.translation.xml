@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="collect" />
       <item value="修改" />
       <item value="编辑" />
       <item value="update" />
@@ -34,7 +35,6 @@
       <item value="Local" />
       <item value="本地" />
       <item value="Loacl" />
-      <item value="collect" />
       <item value="replay" />
       <item value="Flow analogue of 'publish()' is 'shareIn'" />
       <item value="retry" />
