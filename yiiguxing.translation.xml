@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="查看原图" />
+      <item value="原图" />
       <item value="Jetifier" />
       <item value="current" />
       <item value="Media" />
@@ -51,8 +53,6 @@
       <item value="收起部门" />
       <item value="department" />
       <item value="展开部门" />
-      <item value="Collapse" />
-      <item value="expand" />
     </histories>
     <option name="languageScores">
       <map>
