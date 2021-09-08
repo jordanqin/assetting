@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="无权限" />
+      <item value="authorities" />
       <item value="Archive" />
       <item value="portable" />
       <item value="rounded" />
@@ -51,8 +53,6 @@
       <item value="Loacl" />
       <item value="replay" />
       <item value="Flow analogue of 'publish()' is 'shareIn'" />
-      <item value="retry" />
-      <item value="resumeing" />
     </histories>
     <option name="languageScores">
       <map>
