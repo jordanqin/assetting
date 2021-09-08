@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="rounded" />
       <item value="Retrieve" />
       <item value="italic" />
       <item value="查看原图" />
@@ -52,7 +53,6 @@
       <item value="resumeing" />
       <item value="resume" />
       <item value="stow" />
-      <item value="收起部门" />
     </histories>
     <option name="languageScores">
       <map>
