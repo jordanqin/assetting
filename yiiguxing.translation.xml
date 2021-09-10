@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Shared" />
+      <item value="sharing" />
       <item value="共享授权" />
       <item value="图片加载失败" />
       <item value="Progression" />
@@ -51,8 +53,6 @@
       <item value="broken" />
       <item value="task" />
       <item value="transform" />
-      <item value="Local" />
-      <item value="本地" />
     </histories>
     <option name="languageScores">
       <map>
