@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="build" />
+      <item value="拼" />
+      <item value="拼接" />
       <item value="显示更多" />
       <item value="Shared" />
       <item value="sharing" />
@@ -50,9 +53,6 @@
       <item value="allow Overwrite" />
       <item value="permanent" />
       <item value="Recognition" />
-      <item value="Sensitive" />
-      <item value="broken" />
-      <item value="task" />
     </histories>
     <option name="languageScores">
       <map>
