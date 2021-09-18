@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="链接分享" />
+      <item value="取消收藏" />
       <item value="Collection" />
       <item value="我的收藏" />
       <item value="Favorite" />
@@ -51,8 +53,6 @@
       <item value="修改" />
       <item value="编辑" />
       <item value="update" />
-      <item value="Selected" />
-      <item value="A total of 1 person and 2 departments are selected" />
     </histories>
     <option name="languageScores">
       <map>
