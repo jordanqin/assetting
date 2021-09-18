@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Favorite" />
       <item value="Can we tell?" />
       <item value="fail" />
       <item value="available" />
@@ -52,7 +53,6 @@
       <item value="A total of 1 person and 2 departments are selected" />
       <item value="1 person in total" />
       <item value="共选择1人" />
-      <item value="Select 1 Department in total" />
     </histories>
     <option name="languageScores">
       <map>
