@@ -3,10 +3,32 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="turned off" />
+      <item value="turned" />
+      <item value="turned on" />
+      <item value="已开启" />
+      <item value="随机生成提取码" />
+      <item value="within" />
+      <item value="未开启历史版本功能" />
+      <item value="始终连接到最新版本" />
+      <item value="other" />
+      <item value="toast" />
+      <item value="请填写提取码" />
+      <item value="提取码" />
+      <item value="自定义到期时间" />
+      <item value="valid within_1_day" />
+      <item value="1天内有效" />
+      <item value="valid period" />
+      <item value="有效期" />
+      <item value="安全设置" />
+      <item value="download" />
+      <item value="允许预览" />
+      <item value="access rights" />
+      <item value="rights" />
+      <item value="访问权限" />
       <item value="Settings" />
       <item value="Setting" />
       <item value="Sharing" />
-      <item value="有效期" />
       <item value="链接分享" />
       <item value="取消收藏" />
       <item value="Collection" />
@@ -31,28 +53,6 @@
       <item value="build" />
       <item value="拼" />
       <item value="拼接" />
-      <item value="显示更多" />
-      <item value="Shared" />
-      <item value="sharing" />
-      <item value="共享授权" />
-      <item value="图片加载失败" />
-      <item value="Progression" />
-      <item value="无权限" />
-      <item value="authorities" />
-      <item value="Archive" />
-      <item value="portable" />
-      <item value="rounded" />
-      <item value="Retrieve" />
-      <item value="italic" />
-      <item value="查看原图" />
-      <item value="原图" />
-      <item value="Jetifier" />
-      <item value="current" />
-      <item value="Media" />
-      <item value="Validated" />
-      <item value="Roaming" />
-      <item value="Metered" />
-      <item value="Owner" />
     </histories>
     <option name="languageScores">
       <map>
