@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="分享链接" />
+      <item value="复制链接" />
       <item value="turned off" />
       <item value="turned" />
       <item value="turned on" />
@@ -51,8 +53,6 @@
       <item value="BLANK" />
       <item value="None" />
       <item value="build" />
-      <item value="拼" />
-      <item value="拼接" />
     </histories>
     <option name="languageScores">
       <map>
