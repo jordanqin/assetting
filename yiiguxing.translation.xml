@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="model" />
       <item value="系统" />
       <item value="Policy" />
       <item value="Expired" />
@@ -52,7 +53,6 @@
       <item value="deletion" />
       <item value="Complete" />
       <item value="thorough" />
-      <item value="彻底" />
     </histories>
     <option name="languageScores">
       <map>
