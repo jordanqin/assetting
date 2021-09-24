@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="ensure" />
       <item value="Identifier" />
       <item value="Locator" />
       <item value="first" />
@@ -52,7 +53,6 @@
       <item value="Favorite" />
       <item value="Can we tell?" />
       <item value="fail" />
-      <item value="available" />
     </histories>
     <option name="languageScores">
       <map>
