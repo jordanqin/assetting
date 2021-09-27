@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="favorite" />
       <item value="archive" />
       <item value="灰色" />
       <item value="ensure" />
@@ -52,7 +53,6 @@
       <item value="取消收藏" />
       <item value="Collection" />
       <item value="我的收藏" />
-      <item value="Favorite" />
     </histories>
     <option name="languageScores">
       <map>
