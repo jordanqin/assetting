@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="archive" />
+      <item value="灰色" />
       <item value="ensure" />
       <item value="Identifier" />
       <item value="Locator" />
@@ -51,8 +53,6 @@
       <item value="Collection" />
       <item value="我的收藏" />
       <item value="Favorite" />
-      <item value="Can we tell?" />
-      <item value="fail" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632277378066" />
+    <option name="lastTrimTime" value="1632724677406" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
