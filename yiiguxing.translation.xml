@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="已过期" />
+      <item value="红" />
+      <item value="红色" />
+      <item value="red" />
       <item value="Not yet implemented" />
       <item value="Authorize" />
       <item value="favorite" />
@@ -49,10 +53,6 @@
       <item value="rights" />
       <item value="访问权限" />
       <item value="Settings" />
-      <item value="Setting" />
-      <item value="Sharing" />
-      <item value="链接分享" />
-      <item value="取消收藏" />
     </histories>
     <option name="languageScores">
       <map>
