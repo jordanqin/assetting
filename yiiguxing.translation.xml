@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Disc" />
       <item value="after" />
       <item value="management" />
       <item value="链接管理" />
@@ -52,7 +53,6 @@
       <item value="有效期" />
       <item value="安全设置" />
       <item value="download" />
-      <item value="允许预览" />
     </histories>
     <option name="languageScores">
       <map>
