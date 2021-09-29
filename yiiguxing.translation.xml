@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Calendar" />
       <item value="Tick" />
       <item value="自定义" />
       <item value="对勾" />
@@ -52,7 +53,6 @@
       <item value="未开启历史版本功能" />
       <item value="始终连接到最新版本" />
       <item value="other" />
-      <item value="toast" />
     </histories>
     <option name="languageScores">
       <map>
