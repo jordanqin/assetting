@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="退出" />
+      <item value="check" />
       <item value="当前版本" />
       <item value="设为最新" />
       <item value="历史版本" />
@@ -51,8 +53,6 @@
       <item value="请填写提取码" />
       <item value="提取码" />
       <item value="自定义到期时间" />
-      <item value="valid within_1_day" />
-      <item value="1天内有效" />
     </histories>
     <option name="languageScores">
       <map>
