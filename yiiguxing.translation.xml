@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Tick" />
+      <item value="自定义" />
+      <item value="对勾" />
       <item value="退出" />
       <item value="check" />
       <item value="当前版本" />
@@ -50,9 +53,6 @@
       <item value="始终连接到最新版本" />
       <item value="other" />
       <item value="toast" />
-      <item value="请填写提取码" />
-      <item value="提取码" />
-      <item value="自定义到期时间" />
     </histories>
     <option name="languageScores">
       <map>
