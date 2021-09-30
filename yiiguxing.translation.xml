@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="asc" />
+      <item value="desc" />
+      <item value="DESC" />
+      <item value="ASC" />
       <item value="Calendar" />
       <item value="Tick" />
       <item value="自定义" />
@@ -49,10 +53,6 @@
       <item value="turned on" />
       <item value="已开启" />
       <item value="随机生成提取码" />
-      <item value="within" />
-      <item value="未开启历史版本功能" />
-      <item value="始终连接到最新版本" />
-      <item value="other" />
     </histories>
     <option name="languageScores">
       <map>
