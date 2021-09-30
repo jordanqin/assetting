@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="企业云盘" />
       <item value="are Contents The Same" />
       <item value="asc" />
       <item value="desc" />
@@ -52,7 +53,6 @@
       <item value="turned off" />
       <item value="turned" />
       <item value="turned on" />
-      <item value="已开启" />
     </histories>
     <option name="languageScores">
       <map>
