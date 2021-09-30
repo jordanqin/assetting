@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="are Contents The Same" />
       <item value="asc" />
       <item value="desc" />
       <item value="DESC" />
@@ -52,7 +53,6 @@
       <item value="turned" />
       <item value="turned on" />
       <item value="已开启" />
-      <item value="随机生成提取码" />
     </histories>
     <option name="languageScores">
       <map>
