@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="收藏时间" />
       <item value="仅分享当前版本" />
       <item value="选择路径" />
       <item value="Current" />
@@ -52,7 +53,6 @@
       <item value="Expired" />
       <item value="After" />
       <item value="请选择访问权限" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
