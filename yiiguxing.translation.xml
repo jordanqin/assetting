@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="不能" />
+      <item value="authorized no favorite" />
+      <item value="authorized" />
+      <item value="authorized not favorite" />
       <item value="收藏时间" />
       <item value="仅分享当前版本" />
       <item value="选择路径" />
@@ -49,10 +53,6 @@
       <item value="usable" />
       <item value="model" />
       <item value="系统" />
-      <item value="Policy" />
-      <item value="Expired" />
-      <item value="After" />
-      <item value="请选择访问权限" />
     </histories>
     <option name="languageScores">
       <map>
