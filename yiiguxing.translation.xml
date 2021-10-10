@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="仅分享当前版本" />
       <item value="选择路径" />
       <item value="Current" />
       <item value="默认下载路径" />
@@ -52,7 +53,6 @@
       <item value="After" />
       <item value="请选择访问权限" />
       <item value="exclude" />
-      <item value="letter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632724677406" />
+    <option name="lastTrimTime" value="1633877204879" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
