@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Approve Privacy Notice" />
       <item value="without" />
       <item value="remaining" />
       <item value="删除者" />
@@ -52,7 +53,6 @@
       <item value="Identifier" />
       <item value="Locator" />
       <item value="first" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
