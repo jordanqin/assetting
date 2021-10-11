@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="without" />
       <item value="remaining" />
       <item value="删除者" />
       <item value="创建者" />
@@ -52,7 +53,6 @@
       <item value="Locator" />
       <item value="first" />
       <item value="last" />
-      <item value="前面" />
     </histories>
     <option name="languageScores">
       <map>
