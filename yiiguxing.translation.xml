@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Additional" />
       <item value="exclude" />
       <item value="track" />
       <item value="Approve Privacy Notice" />
@@ -52,7 +53,6 @@
       <item value="archive" />
       <item value="灰色" />
       <item value="ensure" />
-      <item value="Identifier" />
     </histories>
     <option name="languageScores">
       <map>
