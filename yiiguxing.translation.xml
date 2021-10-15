@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Invocation Target" />
       <item value="Validated" />
       <item value="Contact" />
       <item value="portable" />
@@ -52,7 +53,6 @@
       <item value="管理" />
       <item value="已过期" />
       <item value="红" />
-      <item value="红色" />
     </histories>
     <option name="languageScores">
       <map>
