@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
       <item value="一样" />
       <item value="Invocation Target" />
       <item value="Validated" />
@@ -52,7 +53,6 @@
       <item value="management" />
       <item value="链接管理" />
       <item value="管理" />
-      <item value="已过期" />
     </histories>
     <option name="languageScores">
       <map>
