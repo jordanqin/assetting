@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="First" />
       <item value="Hierarchical" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
       <item value="一样" />
@@ -52,7 +53,6 @@
       <item value="Disc" />
       <item value="after" />
       <item value="management" />
-      <item value="链接管理" />
     </histories>
     <option name="languageScores">
       <map>
