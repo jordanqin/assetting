@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1492" />
     <option name="newTranslationDialogY" value="129" />
     <histories>
+      <item value="fetch credentials error happens" />
       <item value="First" />
       <item value="Hierarchical" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
@@ -52,7 +53,6 @@
       <item value="链接已复制" />
       <item value="Disc" />
       <item value="after" />
-      <item value="management" />
     </histories>
     <option name="languageScores">
       <map>
