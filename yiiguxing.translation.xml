@@ -3,9 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="stop here, re sign request and try again" />
+      <item value="Request has expired" />
       <item value="Skew" />
       <item value="clock" />
-      <item value="stop here, re sign request and try again" />
       <item value="created" />
       <item value="restore" />
       <item value="establish" />
@@ -52,7 +53,6 @@
       <item value="Calendar" />
       <item value="Tick" />
       <item value="自定义" />
-      <item value="对勾" />
     </histories>
     <option name="languageScores">
       <map>
