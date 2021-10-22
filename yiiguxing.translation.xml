@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="-1492" />
-    <option name="newTranslationDialogY" value="129" />
+    <option name="newTranslationDialogX" value="-1193" />
+    <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="created" />
+      <item value="restore" />
+      <item value="establish" />
+      <item value="创建" />
+      <item value="最新" />
       <item value="fetch credentials error happens" />
       <item value="First" />
       <item value="Hierarchical" />
@@ -48,11 +53,6 @@
       <item value="退出" />
       <item value="check" />
       <item value="当前版本" />
-      <item value="设为最新" />
-      <item value="历史版本" />
-      <item value="链接已复制" />
-      <item value="Disc" />
-      <item value="after" />
     </histories>
     <option name="languageScores">
       <map>
