@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Skew" />
+      <item value="clock" />
       <item value="stop here, re sign request and try again" />
       <item value="created" />
       <item value="restore" />
@@ -51,8 +53,6 @@
       <item value="Tick" />
       <item value="自定义" />
       <item value="对勾" />
-      <item value="退出" />
-      <item value="check" />
     </histories>
     <option name="languageScores">
       <map>
