@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Uncertain" />
       <item value="queries" />
       <item value="parent" />
       <item value="stop here, re sign request and try again" />
@@ -52,7 +53,6 @@
       <item value="desc" />
       <item value="DESC" />
       <item value="ASC" />
-      <item value="Calendar" />
     </histories>
     <option name="languageScores">
       <map>
