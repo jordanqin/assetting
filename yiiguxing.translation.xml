@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="符合" />
+      <item value="resolution" />
       <item value="Uncertain" />
       <item value="queries" />
       <item value="parent" />
@@ -51,8 +53,6 @@
       <item value="are Contents The Same" />
       <item value="asc" />
       <item value="desc" />
-      <item value="DESC" />
-      <item value="ASC" />
     </histories>
     <option name="languageScores">
       <map>
