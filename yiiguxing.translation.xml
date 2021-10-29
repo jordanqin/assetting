@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="privacy" />
+      <item value="privacy regulations" />
       <item value="限制" />
       <item value="已用" />
       <item value="available Space" />
@@ -51,8 +53,6 @@
       <item value="仅分享当前版本" />
       <item value="选择路径" />
       <item value="Current" />
-      <item value="默认下载路径" />
-      <item value="安全设置" />
     </histories>
     <option name="languageScores">
       <map>
