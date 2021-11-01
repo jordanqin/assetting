@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Metered" />
+      <item value="Validated" />
+      <item value="Capability" />
+      <item value="Roaming" />
       <item value="Need Register" />
       <item value="No persistable permission grants found for" />
       <item value="mce bogus" />
@@ -41,7 +45,6 @@
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
       <item value="一样" />
       <item value="Invocation Target" />
-      <item value="Validated" />
       <item value="Contact" />
       <item value="portable" />
       <item value="Take Picture" />
@@ -50,9 +53,6 @@
       <item value="COMPANY" />
       <item value="Additional" />
       <item value="exclude" />
-      <item value="track" />
-      <item value="Approve Privacy Notice" />
-      <item value="without" />
     </histories>
     <option name="languageScores">
       <map>
