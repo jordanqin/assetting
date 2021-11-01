@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No persistable permission grants found for" />
       <item value="mce bogus" />
       <item value="账号资料" />
       <item value="当前设备信息" />
@@ -52,7 +53,6 @@
       <item value="Approve Privacy Notice" />
       <item value="without" />
       <item value="remaining" />
-      <item value="删除者" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635132168458" />
+    <option name="lastTrimTime" value="1635751245709" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
