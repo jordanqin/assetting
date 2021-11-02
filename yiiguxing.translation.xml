@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="立即更新" />
+      <item value="忽略此版本" />
       <item value="Metered" />
       <item value="Validated" />
       <item value="Capability" />
@@ -51,8 +53,6 @@
       <item value="creation" />
       <item value="expire" />
       <item value="COMPANY" />
-      <item value="Additional" />
-      <item value="exclude" />
     </histories>
     <option name="languageScores">
       <map>
