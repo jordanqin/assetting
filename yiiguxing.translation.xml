@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="第三方" />
       <item value="close" />
       <item value="立即更新" />
       <item value="忽略此版本" />
@@ -52,7 +53,6 @@
       <item value="portable" />
       <item value="Take Picture" />
       <item value="creation" />
-      <item value="expire" />
     </histories>
     <option name="languageScores">
       <map>
