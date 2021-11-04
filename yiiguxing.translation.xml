@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Lack" />
       <item value="手动" />
       <item value="存在过" />
       <item value="Invocation" />
@@ -52,7 +53,6 @@
       <item value="First" />
       <item value="Hierarchical" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
-      <item value="一样" />
     </histories>
     <option name="languageScores">
       <map>
