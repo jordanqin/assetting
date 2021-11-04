@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Invocation" />
       <item value="auto Dismiss" />
       <item value="Tip" />
       <item value="第三方" />
@@ -52,7 +53,6 @@
       <item value="一样" />
       <item value="Invocation Target" />
       <item value="Contact" />
-      <item value="portable" />
     </histories>
     <option name="languageScores">
       <map>
