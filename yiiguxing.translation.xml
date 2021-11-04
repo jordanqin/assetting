@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="手动" />
+      <item value="存在过" />
       <item value="Invocation" />
       <item value="auto Dismiss" />
       <item value="Tip" />
@@ -51,8 +53,6 @@
       <item value="Hierarchical" />
       <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
       <item value="一样" />
-      <item value="Invocation Target" />
-      <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>
