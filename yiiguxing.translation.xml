@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="语言" />
+      <item value="屏幕分辨率" />
+      <item value="操作系统" />
+      <item value="中文" />
+      <item value="下载至" />
+      <item value="dowonload" />
+      <item value="长按" />
+      <item value="account type" />
+      <item value="client version" />
+      <item value="分辨率" />
       <item value="Lack" />
       <item value="手动" />
       <item value="存在过" />
@@ -43,16 +53,6 @@
       <item value="stop here, re sign request and try again" />
       <item value="Request has expired" />
       <item value="Skew" />
-      <item value="clock" />
-      <item value="created" />
-      <item value="restore" />
-      <item value="establish" />
-      <item value="创建" />
-      <item value="最新" />
-      <item value="fetch credentials error happens" />
-      <item value="First" />
-      <item value="Hierarchical" />
-      <item value="Optionally, specify a URI for the directory that should be opened in the system file picker when it loads." />
     </histories>
     <option name="languageScores">
       <map>
