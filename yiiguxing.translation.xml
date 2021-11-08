@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Neither user 10874 nor current process has android.permission.WRITE_EXTERNAL_STORAGE." />
       <item value="语言" />
       <item value="屏幕分辨率" />
       <item value="操作系统" />
@@ -52,7 +53,6 @@
       <item value="parent" />
       <item value="stop here, re sign request and try again" />
       <item value="Request has expired" />
-      <item value="Skew" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635751245709" />
+    <option name="lastTrimTime" value="1636355640544" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
