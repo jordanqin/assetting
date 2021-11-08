@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="第三方" />
+      <item value="个人信息清单" />
       <item value="Neither user 10874 nor current process has android.permission.WRITE_EXTERNAL_STORAGE." />
       <item value="语言" />
       <item value="屏幕分辨率" />
@@ -20,7 +22,6 @@
       <item value="Invocation" />
       <item value="auto Dismiss" />
       <item value="Tip" />
-      <item value="第三方" />
       <item value="close" />
       <item value="立即更新" />
       <item value="忽略此版本" />
@@ -52,7 +53,6 @@
       <item value="queries" />
       <item value="parent" />
       <item value="stop here, re sign request and try again" />
-      <item value="Request has expired" />
     </histories>
     <option name="languageScores">
       <map>
