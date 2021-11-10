@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The input resource provided is not found, please check if it is wrong" />
       <item value="media bucket unbinded, bucket's host is unavailable" />
       <item value="media bucket unbinded" />
       <item value="you are not authorized to perform operation" />
@@ -52,7 +53,6 @@
       <item value="限制" />
       <item value="已用" />
       <item value="available Space" />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
