@@ -3,11 +3,11 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="you are not authorized to perform operation" />
       <item value="No IXmlAdapter for class com.tencent.cos.xml.model.tag.MediaInfoResponseMediaInfoFormat found. Expected name of the xml adapter is" />
       <item value="The input resource provided is not found, please check if it is wrong" />
       <item value="media bucket unbinded, bucket's host is unavailable" />
       <item value="media bucket unbinded" />
-      <item value="you are not authorized to perform operation" />
       <item value="Non Null" />
       <item value="enabled" />
       <item value="Enabled" />
