@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The XML you provided was not well-formed or did not validate against our published schema. colum Status must be Enabled or Disabled" />
       <item value="you are not authorized to perform operation" />
       <item value="No IXmlAdapter for class com.tencent.cos.xml.model.tag.MediaInfoResponseMediaInfoFormat found. Expected name of the xml adapter is" />
       <item value="The input resource provided is not found, please check if it is wrong" />
@@ -52,7 +53,6 @@
       <item value="privacy" />
       <item value="privacy regulations" />
       <item value="限制" />
-      <item value="已用" />
     </histories>
     <option name="languageScores">
       <map>
