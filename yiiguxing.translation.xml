@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Validity" />
+      <item value="comment" />
       <item value="确认" />
       <item value="本人操作" />
       <item value="请确认是否本人操作" />
@@ -51,8 +53,6 @@
       <item value="Capability" />
       <item value="Roaming" />
       <item value="Need Register" />
-      <item value="No persistable permission grants found for" />
-      <item value="mce bogus" />
     </histories>
     <option name="languageScores">
       <map>
