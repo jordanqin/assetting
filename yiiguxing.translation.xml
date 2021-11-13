@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="确认" />
+      <item value="本人操作" />
+      <item value="请确认是否本人操作" />
+      <item value="scan login" />
+      <item value="Code scanning login" />
+      <item value="silent" />
       <item value="大于0" />
       <item value="size" />
       <item value="must not be null" />
@@ -47,12 +53,6 @@
       <item value="Need Register" />
       <item value="No persistable permission grants found for" />
       <item value="mce bogus" />
-      <item value="账号资料" />
-      <item value="当前设备信息" />
-      <item value="下载" />
-      <item value="系统权限管理" />
-      <item value="个人信息查阅与管理" />
-      <item value="隐私说明" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636355640544" />
+    <option name="lastTrimTime" value="1636791131125" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
