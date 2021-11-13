@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="drive" />
+      <item value="网盘" />
+      <item value="Save To Net Disc" />
       <item value="Validity" />
       <item value="comment" />
       <item value="确认" />
@@ -50,9 +53,6 @@
       <item value="忽略此版本" />
       <item value="Metered" />
       <item value="Validated" />
-      <item value="Capability" />
-      <item value="Roaming" />
-      <item value="Need Register" />
     </histories>
     <option name="languageScores">
       <map>
