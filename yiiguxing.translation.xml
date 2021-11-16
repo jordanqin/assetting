@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="ONLY" />
       <item value="目录选择" />
       <item value="Root Directory" />
       <item value="list" />
@@ -52,7 +53,6 @@
       <item value="client version" />
       <item value="分辨率" />
       <item value="Lack" />
-      <item value="手动" />
     </histories>
     <option name="languageScores">
       <map>
