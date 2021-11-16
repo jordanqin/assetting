@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Root Directory" />
       <item value="list" />
       <item value="faillist" />
       <item value="fail" />
@@ -52,7 +53,6 @@
       <item value="Lack" />
       <item value="手动" />
       <item value="存在过" />
-      <item value="Invocation" />
     </histories>
     <option name="languageScores">
       <map>
