@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="英文" />
       <item value="const" />
       <item value="common" />
       <item value="Scan" />
@@ -52,7 +53,6 @@
       <item value="中文" />
       <item value="下载至" />
       <item value="dowonload" />
-      <item value="长按" />
     </histories>
     <option name="languageScores">
       <map>
