@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="同意并继续" />
+      <item value="disagree" />
+      <item value="不同意" />
       <item value="英文" />
       <item value="const" />
       <item value="common" />
@@ -50,9 +53,6 @@
       <item value="语言" />
       <item value="屏幕分辨率" />
       <item value="操作系统" />
-      <item value="中文" />
-      <item value="下载至" />
-      <item value="dowonload" />
     </histories>
     <option name="languageScores">
       <map>
