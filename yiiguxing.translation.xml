@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Circuit Breaker Denied" />
       <item value="dontwarn" />
       <item value="同意并继续" />
       <item value="disagree" />
@@ -52,7 +53,6 @@
       <item value="个人信息清单" />
       <item value="Neither user 10874 nor current process has android.permission.WRITE_EXTERNAL_STORAGE." />
       <item value="语言" />
-      <item value="屏幕分辨率" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636791131125" />
+    <option name="lastTrimTime" value="1637254257675" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
