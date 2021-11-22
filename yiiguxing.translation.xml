@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="DENIED" />
+      <item value="grant" />
+      <item value="GRANTED" />
+      <item value="Real" />
+      <item value="Launcher" />
       <item value="missing and no known rule to make it" />
       <item value="needed by" />
       <item value="IMPORTED LOCATION" />
@@ -48,11 +53,6 @@
       <item value="scan login" />
       <item value="Code scanning login" />
       <item value="silent" />
-      <item value="大于0" />
-      <item value="size" />
-      <item value="must not be null" />
-      <item value="Nj E 4 Yzg 5 Nj Zf N 2 Qx Mz Aw Yl 8 x Z Tc 0 Ml 81 Nz Ax M Tgw" />
-      <item value="colum Domain invalid" />
     </histories>
     <option name="languageScores">
       <map>
