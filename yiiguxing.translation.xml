@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Audit" />
       <item value="申请" />
       <item value="权限申请" />
       <item value="agree" />
@@ -52,7 +53,6 @@
       <item value="comment" />
       <item value="确认" />
       <item value="本人操作" />
-      <item value="请确认是否本人操作" />
     </histories>
     <option name="languageScores">
       <map>
