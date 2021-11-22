@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="archive Devops" />
+      <item value="archive" />
       <item value="Recognition" />
       <item value="Audit" />
       <item value="申请" />
@@ -51,8 +53,6 @@
       <item value="网盘" />
       <item value="Save To Net Disc" />
       <item value="Validity" />
-      <item value="comment" />
-      <item value="确认" />
     </histories>
     <option name="languageScores">
       <map>
