@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="object must be non-empty" />
       <item value="signature calculated is different from client" />
       <item value="signature calculated is different from client signature" />
       <item value="数字" />
@@ -52,7 +53,6 @@
       <item value="fail" />
       <item value="Not set processor module name option" />
       <item value="drive" />
-      <item value="needlogin" />
     </histories>
     <option name="languageScores">
       <map>
