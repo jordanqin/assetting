@@ -3,8 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
-      <item value="Proces" />
+      <item value="Operation" />
       <item value="Process" />
+      <item value="Processor" />
+      <item value="Proces" />
       <item value="媒体处理" />
       <item value="DECLARED" />
       <item value="Enclosed" />
@@ -51,8 +53,6 @@
       <item value="Scan" />
       <item value="done" />
       <item value="ONLY" />
-      <item value="目录选择" />
-      <item value="Root Directory" />
     </histories>
     <option name="languageScores">
       <map>
