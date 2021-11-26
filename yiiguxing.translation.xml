@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="In function" />
       <item value="error: macro name is a reserved identifier" />
       <item value="Use loop count stored in source data, or LOOP_ONCE if not present." />
       <item value="Loop continuously. The OnFinishedListener will never be called." />
@@ -52,7 +53,6 @@
       <item value="同意并继续" />
       <item value="disagree" />
       <item value="不同意" />
-      <item value="英文" />
     </histories>
     <option name="languageScores">
       <map>
