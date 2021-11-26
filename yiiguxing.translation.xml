@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="goto Login" />
+      <item value="goto" />
       <item value="In function" />
       <item value="error: macro name is a reserved identifier" />
       <item value="Use loop count stored in source data, or LOOP_ONCE if not present." />
@@ -51,8 +53,6 @@
       <item value="Circuit Breaker Denied" />
       <item value="dontwarn" />
       <item value="同意并继续" />
-      <item value="disagree" />
-      <item value="不同意" />
     </histories>
     <option name="languageScores">
       <map>
