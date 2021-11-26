@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Space" />
       <item value="goto Login" />
       <item value="goto" />
       <item value="In function" />
@@ -52,7 +53,6 @@
       <item value="Animation" />
       <item value="Circuit Breaker Denied" />
       <item value="dontwarn" />
-      <item value="同意并继续" />
     </histories>
     <option name="languageScores">
       <map>
