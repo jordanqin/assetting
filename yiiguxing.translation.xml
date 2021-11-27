@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="保存至此处" />
       <item value="extrac" />
       <item value="extraccode" />
       <item value="Build libyuv by providing your own copy inside the ext subdir" />
@@ -52,7 +53,6 @@
       <item value="[CXX5202] This app only has 32-bit [armeabi-v7a] native libraries. Beginning August 1, 2019 Google Play store requires that all apps that include native libraries must provide 64-bit versions. For more information, visit https:g.co64-bit-requirement" />
       <item value="权限用途" />
       <item value="Entering directory" />
-      <item value="Entering" />
     </histories>
     <option name="languageScores">
       <map>
