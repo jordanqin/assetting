@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="linker command failed with exit code 1" />
+      <item value="ON" />
       <item value="保存至此处" />
       <item value="extrac" />
       <item value="extraccode" />
@@ -51,8 +53,6 @@
       <item value="Specifies the parameter you want to define." />
       <item value="Provides the path to the library you want to import." />
       <item value="[CXX5202] This app only has 32-bit [armeabi-v7a] native libraries. Beginning August 1, 2019 Google Play store requires that all apps that include native libraries must provide 64-bit versions. For more information, visit https:g.co64-bit-requirement" />
-      <item value="权限用途" />
-      <item value="Entering directory" />
     </histories>
     <option name="languageScores">
       <map>
