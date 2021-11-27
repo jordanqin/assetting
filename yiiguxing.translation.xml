@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Build libyuv by providing your own copy inside the ext subdir" />
       <item value="error adding symbols: File in wrong format" />
       <item value="Relocations in generic ELF" />
       <item value="OFF" />
@@ -52,7 +53,6 @@
       <item value="Entering" />
       <item value="IMPORTED" />
       <item value="backtrace" />
-      <item value="PARTIAL" />
     </histories>
     <option name="languageScores">
       <map>
