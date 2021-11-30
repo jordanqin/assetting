@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="declaration" />
       <item value="exclude" />
       <item value="Blend" />
       <item value="linker command failed with exit code 1" />
@@ -52,7 +53,6 @@
       <item value="needed by" />
       <item value="IMPORTED LOCATION" />
       <item value="PROPERTIES" />
-      <item value="Specifies the parameter you want to define." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637812797734" />
+    <option name="lastTrimTime" value="1638271248957" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
