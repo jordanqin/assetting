@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="exclude" />
       <item value="Blend" />
       <item value="linker command failed with exit code 1" />
       <item value="ON" />
@@ -52,7 +53,6 @@
       <item value="IMPORTED LOCATION" />
       <item value="PROPERTIES" />
       <item value="Specifies the parameter you want to define." />
-      <item value="Provides the path to the library you want to import." />
     </histories>
     <option name="languageScores">
       <map>
