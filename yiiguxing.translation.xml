@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="修改成功" />
       <item value="Metered" />
       <item value="UNSPECIFIED" />
       <item value="PORTRAIT" />
@@ -52,7 +53,6 @@
       <item value="DENIED" />
       <item value="grant" />
       <item value="Real" />
-      <item value="Launcher" />
     </histories>
     <option name="languageScores">
       <map>
