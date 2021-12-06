@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="修改" />
+      <item value="收藏成功" />
+      <item value="取消收藏" />
+      <item value="收藏" />
       <item value="expiration" />
       <item value="过期时间" />
       <item value="Frozen" />
@@ -49,10 +53,6 @@
       <item value="archive" />
       <item value="Recognition" />
       <item value="Audit" />
-      <item value="申请" />
-      <item value="权限申请" />
-      <item value="agree" />
-      <item value="GRANTED" />
     </histories>
     <option name="languageScores">
       <map>
