@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="expiration" />
+      <item value="过期时间" />
       <item value="Frozen" />
       <item value="修改成功" />
       <item value="Metered" />
@@ -51,8 +53,6 @@
       <item value="权限申请" />
       <item value="agree" />
       <item value="GRANTED" />
-      <item value="DENIED" />
-      <item value="grant" />
     </histories>
     <option name="languageScores">
       <map>
