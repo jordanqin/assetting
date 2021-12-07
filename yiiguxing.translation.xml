@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="原始路径" />
       <item value="修改" />
       <item value="收藏成功" />
       <item value="取消收藏" />
@@ -52,7 +53,6 @@
       <item value="archive Devops" />
       <item value="archive" />
       <item value="Recognition" />
-      <item value="Audit" />
     </histories>
     <option name="languageScores">
       <map>
