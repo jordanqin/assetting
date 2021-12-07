@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Already" />
+      <item value="已经显示过" />
+      <item value="displayed" />
       <item value="PRIVACY" />
       <item value="原始路径" />
       <item value="修改" />
@@ -50,9 +53,6 @@
       <item value="signature calculated is different from client signature" />
       <item value="数字" />
       <item value="zero" />
-      <item value="illegal" />
-      <item value="archive Devops" />
-      <item value="archive" />
     </histories>
     <option name="languageScores">
       <map>
