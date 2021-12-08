@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="占位符" />
+      <item value="占位" />
       <item value="Uncertain" />
       <item value="分割线" />
       <item value="Already" />
@@ -51,8 +53,6 @@
       <item value="DECLARED" />
       <item value="Enclosed" />
       <item value="object must be non-empty" />
-      <item value="signature calculated is different from client" />
-      <item value="signature calculated is different from client signature" />
     </histories>
     <option name="languageScores">
       <map>
