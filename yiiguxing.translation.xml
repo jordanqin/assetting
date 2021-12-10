@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Visible" />
       <item value="红点" />
       <item value="Clear" />
       <item value="系统通知" />
@@ -52,7 +53,6 @@
       <item value="Loop a finite number of times, which can be set using setLoopCount. Default to loop once." />
       <item value="Sequence" />
       <item value="Operation" />
-      <item value="Process" />
     </histories>
     <option name="languageScores">
       <map>
