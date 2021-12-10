@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="bell" />
+      <item value="small" />
       <item value="Visible" />
       <item value="红点" />
       <item value="Clear" />
@@ -51,8 +53,6 @@
       <item value="Use loop count stored in source data, or LOOP_ONCE if not present." />
       <item value="Loop continuously. The OnFinishedListener will never be called." />
       <item value="Loop a finite number of times, which can be set using setLoopCount. Default to loop once." />
-      <item value="Sequence" />
-      <item value="Operation" />
     </histories>
     <option name="languageScores">
       <map>
