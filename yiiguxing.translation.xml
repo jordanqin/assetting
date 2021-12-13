@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="When specifying an out-of-tree source a binary directory must be explicitly specified." />
+      <item value="is not a subdirectory of" />
+      <item value="not given a binary directory but the given source" />
       <item value="any" />
       <item value="Drag" />
       <item value="Enabled" />
@@ -50,9 +53,6 @@
       <item value="extraccode" />
       <item value="Build libyuv by providing your own copy inside the ext subdir" />
       <item value="error adding symbols: File in wrong format" />
-      <item value="Relocations in generic ELF" />
-      <item value="OFF" />
-      <item value="Space" />
     </histories>
     <option name="languageScores">
       <map>
