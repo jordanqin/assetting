@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="any" />
       <item value="Drag" />
       <item value="Enabled" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first." />
@@ -52,7 +53,6 @@
       <item value="Relocations in generic ELF" />
       <item value="OFF" />
       <item value="Space" />
-      <item value="goto Login" />
     </histories>
     <option name="languageScores">
       <map>
