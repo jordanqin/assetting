@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="resolution" />
       <item value="you can use this String to know what caused the exception and in which Activity" />
       <item value="You can use LogCat too" />
       <item value="被回收" />
@@ -52,7 +53,6 @@
       <item value="expiration" />
       <item value="过期时间" />
       <item value="Frozen" />
-      <item value="修改成功" />
     </histories>
     <option name="languageScores">
       <map>
