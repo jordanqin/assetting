@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="采集" />
       <item value="Drive" />
       <item value="The end-user-visible name for the end product." />
       <item value="exclude" />
@@ -52,7 +53,6 @@
       <item value="原始路径" />
       <item value="修改" />
       <item value="收藏成功" />
-      <item value="取消收藏" />
     </histories>
     <option name="languageScores">
       <map>
