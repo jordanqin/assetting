@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Drive" />
+      <item value="The end-user-visible name for the end product." />
       <item value="exclude" />
       <item value="Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." />
       <item value="resolution" />
@@ -51,8 +53,6 @@
       <item value="修改" />
       <item value="收藏成功" />
       <item value="取消收藏" />
-      <item value="收藏" />
-      <item value="expiration" />
     </histories>
     <option name="languageScores">
       <map>
