@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="An error occured while requesting Smart Media Hosting service" />
       <item value="collection" />
       <item value="采集" />
       <item value="Drive" />
@@ -52,7 +53,6 @@
       <item value="displayed" />
       <item value="PRIVACY" />
       <item value="原始路径" />
-      <item value="修改" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640054206651" />
+    <option name="lastTrimTime" value="1640571534731" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
