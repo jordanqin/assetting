@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="take Picture" />
+      <item value="相册中选取" />
+      <item value="photograph" />
+      <item value="拍照" />
+      <item value="capture" />
+      <item value="choose" />
       <item value="An error occured while requesting Smart Media Hosting service" />
       <item value="collection" />
       <item value="采集" />
@@ -47,12 +53,6 @@
       <item value="占位符" />
       <item value="占位" />
       <item value="Uncertain" />
-      <item value="分割线" />
-      <item value="Already" />
-      <item value="已经显示过" />
-      <item value="displayed" />
-      <item value="PRIVACY" />
-      <item value="原始路径" />
     </histories>
     <option name="languageScores">
       <map>
