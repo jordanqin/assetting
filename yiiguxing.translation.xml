@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="ORIENTATION PORTRAIT" />
+      <item value="Only fullscreen activities can request orientation" />
       <item value="take Picture" />
       <item value="相册中选取" />
       <item value="photograph" />
@@ -51,8 +53,6 @@
       <item value="Current" />
       <item value="Run" />
       <item value="占位符" />
-      <item value="占位" />
-      <item value="Uncertain" />
     </histories>
     <option name="languageScores">
       <map>
