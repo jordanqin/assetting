@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="none" />
       <item value="enterprise" />
       <item value="退出企业" />
       <item value="注" />
@@ -52,7 +53,6 @@
       <item value="bell" />
       <item value="small" />
       <item value="Visible" />
-      <item value="红点" />
     </histories>
     <option name="languageScores">
       <map>
