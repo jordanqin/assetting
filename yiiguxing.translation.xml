@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Operation not permitted" />
+      <item value="Failed to connect or obtain data, status code: -1" />
       <item value="A {@link DataFetcher} implementation for {@link InputStream}s that loads data from thumbnail files obtained from the {@link MediaStore}." />
       <item value="Unrecognized SSL message, plaintext connection?" />
       <item value="Unit" />
@@ -51,8 +53,6 @@
       <item value="is not a subdirectory of" />
       <item value="not given a binary directory but the given source" />
       <item value="any" />
-      <item value="Drag" />
-      <item value="Enabled" />
     </histories>
     <option name="languageScores">
       <map>
