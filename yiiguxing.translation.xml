@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Parameter specified as non-null is null" />
       <item value="is External Storage Legacy" />
       <item value="PROJECTION" />
       <item value="Operation not permitted" />
@@ -52,7 +53,6 @@
       <item value="Gradle's dependency cache seems to be corrupt or out of sync." />
       <item value="When specifying an out-of-tree source a binary directory must be explicitly specified." />
       <item value="is not a subdirectory of" />
-      <item value="not given a binary directory but the given source" />
     </histories>
     <option name="languageScores">
       <map>
