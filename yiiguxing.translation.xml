@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Preview" />
       <item value="prepend" />
       <item value="Thumb" />
       <item value="sync disk" />
@@ -52,7 +53,6 @@
       <item value="integration" />
       <item value="Loop Once" />
       <item value="Once" />
-      <item value="Reformat" />
     </histories>
     <option name="languageScores">
       <map>
