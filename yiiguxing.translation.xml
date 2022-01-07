@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Desynchronize" />
+      <item value="解除同步" />
       <item value="Preview" />
       <item value="prepend" />
       <item value="Thumb" />
@@ -51,8 +53,6 @@
       <item value="Depth" />
       <item value="LOOP ONCE" />
       <item value="integration" />
-      <item value="Loop Once" />
-      <item value="Once" />
     </histories>
     <option name="languageScores">
       <map>
