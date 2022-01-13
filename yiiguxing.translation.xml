@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Current" />
+      <item value="当前" />
       <item value="Initialized" />
       <item value="Front" />
       <item value="successfully" />
@@ -51,8 +53,6 @@
       <item value="you can use this String to know what caused the exception and in which Activity" />
       <item value="You can use LogCat too" />
       <item value="被回收" />
-      <item value="peek" />
-      <item value="Limit" />
     </histories>
     <option name="languageScores">
       <map>
