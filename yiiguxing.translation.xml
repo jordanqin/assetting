@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="&quot;8&quot; was obtained experimentally" />
       <item value="Frozen" />
       <item value="non" />
       <item value="non release env" />
@@ -52,7 +53,6 @@
       <item value="photograph" />
       <item value="拍照" />
       <item value="capture" />
-      <item value="choose" />
     </histories>
     <option name="languageScores">
       <map>
