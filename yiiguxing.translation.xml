@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="non" />
+      <item value="non release env" />
+      <item value="not release env" />
       <item value="cosToolbar must not be null" />
       <item value="选择器" />
       <item value="selecter" />
@@ -50,9 +53,6 @@
       <item value="capture" />
       <item value="choose" />
       <item value="An error occured while requesting Smart Media Hosting service" />
-      <item value="collection" />
-      <item value="采集" />
-      <item value="Drive" />
     </histories>
     <option name="languageScores">
       <map>
