@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Jump" />
+      <item value="兜底" />
+      <item value="兜底跳转" />
       <item value="&quot;8&quot; was obtained experimentally" />
       <item value="Frozen" />
       <item value="non" />
@@ -50,9 +53,6 @@
       <item value="Only fullscreen activities can request orientation" />
       <item value="take Picture" />
       <item value="相册中选取" />
-      <item value="photograph" />
-      <item value="拍照" />
-      <item value="capture" />
     </histories>
     <option name="languageScores">
       <map>
