@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="已失效" />
       <item value="permanent" />
       <item value="Authorize myself not allowed" />
       <item value="ancestor" />
@@ -52,7 +53,6 @@
       <item value="退出企业" />
       <item value="注" />
       <item value="content" />
-      <item value="退出" />
     </histories>
     <option name="languageScores">
       <map>
