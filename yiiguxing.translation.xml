@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="ancestor" />
       <item value="related content not found" />
       <item value="共享空间" />
       <item value="Jump" />
@@ -52,7 +53,6 @@
       <item value="退出" />
       <item value="管理企业" />
       <item value="ORIENTATION PORTRAIT" />
-      <item value="Only fullscreen activities can request orientation" />
     </histories>
     <option name="languageScores">
       <map>
