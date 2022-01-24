@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Transaction" />
       <item value="cancelled" />
       <item value="canceled" />
       <item value="已失效" />
@@ -52,7 +53,6 @@
       <item value="exclude" />
       <item value="none" />
       <item value="enterprise" />
-      <item value="退出企业" />
     </histories>
     <option name="languageScores">
       <map>
