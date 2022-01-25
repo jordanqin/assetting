@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="iv_preview must not be null" />
       <item value="Failed to connect or obtain data" />
       <item value="Too many arguments for public final fun" />
       <item value="PERSISTABLE" />
@@ -52,7 +53,6 @@
       <item value="同步盘" />
       <item value="忽略" />
       <item value="Parameter specified as non-null is null" />
-      <item value="is External Storage Legacy" />
     </histories>
     <option name="languageScores">
       <map>
