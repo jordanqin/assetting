@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Too many arguments for public final fun" />
       <item value="PERSISTABLE" />
       <item value="Permanent" />
       <item value="multi Select Limit" />
@@ -52,7 +53,6 @@
       <item value="Parameter specified as non-null is null" />
       <item value="is External Storage Legacy" />
       <item value="PROJECTION" />
-      <item value="Operation not permitted" />
     </histories>
     <option name="languageScores">
       <map>
