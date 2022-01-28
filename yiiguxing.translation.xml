@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="preferred" />
       <item value="close leak issue already published" />
       <item value="iv_preview must not be null" />
       <item value="Failed to connect or obtain data" />
@@ -52,7 +53,6 @@
       <item value="Thumb" />
       <item value="sync disk" />
       <item value="同步盘" />
-      <item value="忽略" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642751897276" />
+    <option name="lastTrimTime" value="1643364816512" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
