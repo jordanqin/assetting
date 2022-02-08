@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Signing with the debug keys for now, so `flutter run --release` works." />
+      <item value="Add your own signing config for the release build." />
       <item value="preferred" />
       <item value="close leak issue already published" />
       <item value="iv_preview must not be null" />
@@ -51,8 +53,6 @@
       <item value="Preview" />
       <item value="prepend" />
       <item value="Thumb" />
-      <item value="sync disk" />
-      <item value="同步盘" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643364816512" />
+    <option name="lastTrimTime" value="1644302712611" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
