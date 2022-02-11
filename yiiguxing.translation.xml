@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Approve" />
       <item value="Signing with the debug keys for now, so `flutter run --release` works." />
       <item value="Add your own signing config for the release build." />
       <item value="preferred" />
@@ -52,7 +53,6 @@
       <item value="解除同步" />
       <item value="Preview" />
       <item value="prepend" />
-      <item value="Thumb" />
     </histories>
     <option name="languageScores">
       <map>
