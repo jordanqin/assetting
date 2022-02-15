@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="android:exported be defined when intent filters are present" />
       <item value="Non Null" />
       <item value="is greater than this module's compileSdkVersion" />
       <item value="sandbox" />
@@ -52,7 +53,6 @@
       <item value="提示" />
       <item value="Tip" />
       <item value="Current" />
-      <item value="当前" />
     </histories>
     <option name="languageScores">
       <map>
