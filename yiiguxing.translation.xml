@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="根目录" />
+      <item value="跳转到" />
+      <item value="跳转" />
+      <item value="goto" />
+      <item value="goto Root" />
       <item value="android:exported be defined when intent filters are present" />
       <item value="Non Null" />
       <item value="is greater than this module's compileSdkVersion" />
@@ -48,11 +53,6 @@
       <item value="not release env" />
       <item value="cosToolbar must not be null" />
       <item value="选择器" />
-      <item value="selecter" />
-      <item value="tip" />
-      <item value="提示" />
-      <item value="Tip" />
-      <item value="Current" />
     </histories>
     <option name="languageScores">
       <map>
