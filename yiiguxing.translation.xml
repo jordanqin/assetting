@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="frozen" />
       <item value="Back" />
       <item value="Back Pressed" />
       <item value="pop" />
@@ -52,7 +53,6 @@
       <item value="&quot;8&quot; was obtained experimentally" />
       <item value="Frozen" />
       <item value="non" />
-      <item value="non release env" />
     </histories>
     <option name="languageScores">
       <map>
