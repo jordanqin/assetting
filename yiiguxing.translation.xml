@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="none" />
+      <item value="nothing" />
+      <item value="无" />
       <item value="frozen" />
       <item value="Back" />
       <item value="Back Pressed" />
@@ -50,9 +53,6 @@
       <item value="Jump" />
       <item value="兜底" />
       <item value="兜底跳转" />
-      <item value="&quot;8&quot; was obtained experimentally" />
-      <item value="Frozen" />
-      <item value="non" />
     </histories>
     <option name="languageScores">
       <map>
