@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="用系统打开" />
       <item value="Speed" />
       <item value="unescaped apostrophe in string" />
       <item value="no corresponding program found" />
@@ -52,7 +53,6 @@
       <item value="已失效" />
       <item value="permanent" />
       <item value="Authorize myself not allowed" />
-      <item value="ancestor" />
     </histories>
     <option name="languageScores">
       <map>
