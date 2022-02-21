@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="singe" />
       <item value="TRANSPARENT" />
       <item value="recovery" />
       <item value="恢复" />
@@ -52,7 +53,6 @@
       <item value="禁止返回" />
       <item value="禁止" />
       <item value="Transaction" />
-      <item value="cancelled" />
     </histories>
     <option name="languageScores">
       <map>
