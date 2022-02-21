@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="TRANSPARENT" />
       <item value="recovery" />
       <item value="恢复" />
       <item value="兼容处理" />
@@ -52,7 +53,6 @@
       <item value="禁止" />
       <item value="Transaction" />
       <item value="cancelled" />
-      <item value="canceled" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644835764538" />
+    <option name="lastTrimTime" value="1645443479672" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
