@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="暂不支持该操作" />
       <item value="save to cofile" />
       <item value="singe" />
       <item value="TRANSPARENT" />
@@ -52,7 +53,6 @@
       <item value="disable" />
       <item value="disabled" />
       <item value="禁止返回" />
-      <item value="禁止" />
     </histories>
     <option name="languageScores">
       <map>
