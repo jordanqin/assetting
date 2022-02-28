@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="magical" />
+      <item value="immersive" />
       <item value="顶部" />
       <item value="compat" />
       <item value="compta" />
@@ -51,8 +53,6 @@
       <item value="PERSISTABLE" />
       <item value="Permanent" />
       <item value="multi Select Limit" />
-      <item value="限制" />
-      <item value="Multi Select" />
     </histories>
     <option name="languageScores">
       <map>
