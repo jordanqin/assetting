@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Gradual" />
       <item value="magical" />
       <item value="immersive" />
       <item value="顶部" />
@@ -52,7 +53,6 @@
       <item value="Too many arguments for public final fun" />
       <item value="PERSISTABLE" />
       <item value="Permanent" />
-      <item value="multi Select Limit" />
     </histories>
     <option name="languageScores">
       <map>
