@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Condition" />
       <item value="Get media size (maxFileSize or miniFileSize)" />
       <item value="Gets a file of the specified type" />
       <item value="Get the latest cover of an album catalog" />
@@ -52,7 +53,6 @@
       <item value="preferred" />
       <item value="close leak issue already published" />
       <item value="iv_preview must not be null" />
-      <item value="Failed to connect or obtain data" />
     </histories>
     <option name="languageScores">
       <map>
