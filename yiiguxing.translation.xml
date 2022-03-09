@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Enabled Mask" />
       <item value="Effect" />
       <item value="Internal" />
       <item value="Square" />
@@ -52,7 +53,6 @@
       <item value="is greater than this module's compileSdkVersion" />
       <item value="sandbox" />
       <item value="Check the original button to get the return value original path" />
-      <item value="The real path，But you can't get access from AndroidQ" />
     </histories>
     <option name="languageScores">
       <map>
