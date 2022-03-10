@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Today" />
       <item value="Group" />
       <item value="Constrain" />
       <item value="transfer constrain wifi" />
@@ -52,7 +53,6 @@
       <item value="根目录" />
       <item value="跳转到" />
       <item value="跳转" />
-      <item value="goto" />
     </histories>
     <option name="languageScores">
       <map>
