@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="格式" />
+      <item value="format" />
       <item value="隐私协议" />
       <item value="服务协议" />
       <item value="已阅读并同意" />
@@ -51,8 +53,6 @@
       <item value="none" />
       <item value="nothing" />
       <item value="无" />
-      <item value="frozen" />
-      <item value="Back" />
     </histories>
     <option name="languageScores">
       <map>
