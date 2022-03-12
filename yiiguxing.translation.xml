@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Sound" />
+      <item value="voice" />
+      <item value="Preview Full Screen Mode" />
       <item value="Select Upload" />
       <item value="预览" />
       <item value="Pre View" />
@@ -50,9 +53,6 @@
       <item value="singe" />
       <item value="TRANSPARENT" />
       <item value="recovery" />
-      <item value="恢复" />
-      <item value="兼容处理" />
-      <item value="用系统打开" />
     </histories>
     <option name="languageScores">
       <map>
