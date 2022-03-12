@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="上传至" />
       <item value="总数" />
       <item value="数量" />
       <item value="count" />
@@ -52,7 +53,6 @@
       <item value="compat" />
       <item value="compta" />
       <item value="分隔符" />
-      <item value="暂不支持该操作" />
     </histories>
     <option name="languageScores">
       <map>
