@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="预览" />
+      <item value="Pre View" />
       <item value="用其他应用打开" />
       <item value="下载文件" />
       <item value="下载文件后用其他应用打开" />
@@ -51,8 +53,6 @@
       <item value="兼容处理" />
       <item value="用系统打开" />
       <item value="Speed" />
-      <item value="unescaped apostrophe in string" />
-      <item value="no corresponding program found" />
     </histories>
     <option name="languageScores">
       <map>
