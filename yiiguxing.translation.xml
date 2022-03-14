@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="red" />
       <item value="abandon" />
       <item value="Direct" />
       <item value="上传至" />
@@ -52,7 +53,6 @@
       <item value="magical" />
       <item value="immersive" />
       <item value="顶部" />
-      <item value="compat" />
     </histories>
     <option name="languageScores">
       <map>
