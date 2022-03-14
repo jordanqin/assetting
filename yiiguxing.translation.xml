@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="abandon" />
       <item value="Direct" />
       <item value="上传至" />
       <item value="总数" />
@@ -52,7 +53,6 @@
       <item value="immersive" />
       <item value="顶部" />
       <item value="compat" />
-      <item value="compta" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646725194010" />
+    <option name="lastTrimTime" value="1647227053773" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
