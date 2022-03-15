@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Invalid instruction offset [256] in code with length [250]" />
       <item value="Intercept preview click events, and users can implement their own preview framework" />
       <item value="current" />
       <item value="Illegal Argument" />
@@ -52,7 +53,6 @@
       <item value="打开方式" />
       <item value="Condition" />
       <item value="Get media size (maxFileSize or miniFileSize)" />
-      <item value="Gets a file of the specified type" />
     </histories>
     <option name="languageScores">
       <map>
