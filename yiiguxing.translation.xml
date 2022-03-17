@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="缺省" />
       <item value="obtain" />
       <item value="In isPageStrategy mode, there is no data for the first time" />
       <item value="Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
@@ -52,7 +53,6 @@
       <item value="transfer constrain wifi" />
       <item value="If the selected" />
       <item value="Internal use" />
-      <item value="The media number of qq choose styles" />
     </histories>
     <option name="languageScores">
       <map>
