@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="已保存到相册" />
       <item value="exists" />
       <item value="require" />
       <item value="Open with other" />
@@ -52,7 +53,6 @@
       <item value="已阅读并同意" />
       <item value="境内" />
       <item value="readable" />
-      <item value="Today" />
     </histories>
     <option name="languageScores">
       <map>
