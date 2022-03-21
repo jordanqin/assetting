@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Organization" />
       <item value="已保存到相册" />
       <item value="exists" />
       <item value="require" />
@@ -52,7 +53,6 @@
       <item value="服务协议" />
       <item value="已阅读并同意" />
       <item value="境内" />
-      <item value="readable" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647227053773" />
+    <option name="lastTrimTime" value="1647834755446" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
