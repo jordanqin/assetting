@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Confirm" />
       <item value="is Hidden Top Bar" />
       <item value="hidde" />
       <item value="hidden" />
@@ -52,7 +53,6 @@
       <item value="预览" />
       <item value="Pre View" />
       <item value="用其他应用打开" />
-      <item value="下载文件" />
     </histories>
     <option name="languageScores">
       <map>
