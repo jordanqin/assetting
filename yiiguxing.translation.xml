@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="限制" />
+      <item value="unlimited" />
+      <item value="无限制" />
+      <item value="Constrain" />
+      <item value="无" />
+      <item value="transfer" />
       <item value="Confirm" />
       <item value="is Hidden Top Bar" />
       <item value="hidde" />
@@ -47,12 +53,6 @@
       <item value="count" />
       <item value="Fast Sliding Select" />
       <item value="Sound" />
-      <item value="voice" />
-      <item value="Preview Full Screen Mode" />
-      <item value="Select Upload" />
-      <item value="预览" />
-      <item value="Pre View" />
-      <item value="用其他应用打开" />
     </histories>
     <option name="languageScores">
       <map>
