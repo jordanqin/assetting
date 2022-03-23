@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="db-wal" type="Android Room SQL" />
       <mapping pattern="info_lines" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -20,6 +21,7 @@
       <mapping pattern="1609844927486" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
+      <mapping ext="db-shm" type="SQLite" />
       <mapping ext="ec" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
