@@ -19,6 +19,7 @@
       <mapping pattern="1609844899170" type="PLAIN_TEXT" />
       <mapping pattern="1609844927486" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
       <mapping ext="ec" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
