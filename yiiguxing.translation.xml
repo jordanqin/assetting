@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="cosPath or detectUrl must not be null" />
       <item value="Recognition" />
       <item value="previous" />
       <item value="previou" />
@@ -52,7 +53,6 @@
       <item value="Intercept preview click events, and users can implement their own preview framework" />
       <item value="current" />
       <item value="Illegal Argument" />
-      <item value="Argument" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647834755446" />
+    <option name="lastTrimTime" value="1648462264321" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
