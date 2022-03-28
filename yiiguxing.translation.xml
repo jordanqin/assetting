@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="which makes it impossible to distinguish the specific type, such as mi 8,9,10 and other models" />
+      <item value="Here, it is solved that some models obtain mimeType and return the format of image" />
       <item value="cosPath or detectUrl must not be null" />
       <item value="Recognition" />
       <item value="previous" />
@@ -51,8 +53,6 @@
       <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
       <item value="Cannot query the value of this provider because it has no value available" />
       <item value="Intercept preview click events, and users can implement their own preview framework" />
-      <item value="current" />
-      <item value="Illegal Argument" />
     </histories>
     <option name="languageScores">
       <map>
