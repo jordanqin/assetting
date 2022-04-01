@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="bean" />
       <item value="maxFrames needs to be greater than 0" />
       <item value="taken" />
       <item value="which makes it impossible to distinguish the specific type, such as mi 8,9,10 and other models" />
@@ -52,7 +53,6 @@
       <item value="there were 1 classes in incorrectly named files. You should make sure all file names correspond to their class names. The directory hierarchies must correspond to the package hierarchies." />
       <item value="Please correct the above warnings first." />
       <item value="It is too late to modify additionalParameters It has already been read to configure this project. Consider either moving this call to be during evaluation, or using the variant API." />
-      <item value="Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager." />
     </histories>
     <option name="languageScores">
       <map>
