@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Scenario" />
       <item value="Audit" />
       <item value="bean" />
       <item value="maxFrames needs to be greater than 0" />
@@ -52,7 +53,6 @@
       <item value="there were 1 classes in incorrectly named files." />
       <item value="If you don't mind the mentioned classes not being written out, you could try your luck using the '-ignorewarnings' option." />
       <item value="there were 1 classes in incorrectly named files. You should make sure all file names correspond to their class names. The directory hierarchies must correspond to the package hierarchies." />
-      <item value="Please correct the above warnings first." />
     </histories>
     <option name="languageScores">
       <map>
