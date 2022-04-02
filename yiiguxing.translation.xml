@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The auditing job provided is not found" />
       <item value="fileid and url empty" />
       <item value="Document" />
       <item value="Scenario" />
@@ -52,7 +53,6 @@
       <item value="Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
       <item value="Invalid instruction offset [256] in code with length [250]" />
       <item value="unexpectedly contains class [" />
-      <item value="there were 1 classes in incorrectly named files." />
     </histories>
     <option name="languageScores">
       <map>
