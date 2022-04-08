@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Arrival" />
+      <item value="Lost" />
       <item value="lateinit" />
       <item value="ensure" />
       <item value="Marker" />
@@ -51,8 +53,6 @@
       <item value="exists" />
       <item value="require" />
       <item value="Open with other" />
-      <item value="Fetching data failed, class java.io.InputStream, REMOTE" />
-      <item value="第三方分享" />
     </histories>
     <option name="languageScores">
       <map>
