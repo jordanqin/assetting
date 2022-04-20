@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="PERIOD" />
+      <item value="Meet" />
+      <item value="is Meet" />
+      <item value="Requirement" />
+      <item value="concurrency" />
+      <item value="CONSTRAIN" />
+      <item value="Coordinator" />
       <item value="Format" />
       <item value="Canonical" />
       <item value="invalid" />
@@ -46,13 +53,6 @@
       <item value="is Hidden Top Bar" />
       <item value="hidde" />
       <item value="hidden" />
-      <item value="METERED" />
-      <item value="Roaming" />
-      <item value="Metered" />
-      <item value="切换至该企业" />
-      <item value="XLS" />
-      <item value="portable" />
-      <item value="Organization" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649921027756" />
+    <option name="lastTrimTime" value="1650454076032" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
