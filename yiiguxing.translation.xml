@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="inconsistent" />
+      <item value="Consist" />
       <item value="wait for traffic control if necessary" />
       <item value="acquire" />
       <item value="Digest" />
@@ -51,8 +53,6 @@
       <item value="无限制" />
       <item value="Constrain" />
       <item value="无" />
-      <item value="transfer" />
-      <item value="Confirm" />
     </histories>
     <option name="languageScores">
       <map>
