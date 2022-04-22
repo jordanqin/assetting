@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="concurrency" />
       <item value="inconsistent" />
       <item value="Consist" />
       <item value="wait for traffic control if necessary" />
@@ -12,7 +13,6 @@
       <item value="Meet" />
       <item value="is Meet" />
       <item value="Requirement" />
-      <item value="concurrency" />
       <item value="CONSTRAIN" />
       <item value="Coordinator" />
       <item value="Format" />
