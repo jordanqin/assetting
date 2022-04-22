@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="invalid argument" />
       <item value="concurrency" />
       <item value="inconsistent" />
       <item value="Consist" />
@@ -52,7 +53,6 @@
       <item value="unlimited" />
       <item value="无限制" />
       <item value="Constrain" />
-      <item value="无" />
     </histories>
     <option name="languageScores">
       <map>
