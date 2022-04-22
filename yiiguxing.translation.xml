@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="wait for traffic control if necessary" />
+      <item value="acquire" />
       <item value="Digest" />
       <item value="PERIOD" />
       <item value="Meet" />
@@ -51,8 +53,6 @@
       <item value="无" />
       <item value="transfer" />
       <item value="Confirm" />
-      <item value="is Hidden Top Bar" />
-      <item value="hidde" />
     </histories>
     <option name="languageScores">
       <map>
