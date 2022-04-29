@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="fetch credentials error happens" />
       <item value="Forbidden" />
       <item value="Fix Slice Size" />
       <item value="Redeclaration" />
@@ -52,7 +53,6 @@
       <item value="上一次" />
       <item value="Forever Key" />
       <item value="注销" />
-      <item value="abandon" />
     </histories>
     <option name="languageScores">
       <map>
