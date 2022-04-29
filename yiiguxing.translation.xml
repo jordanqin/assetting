@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Forbidden" />
       <item value="Fix Slice Size" />
       <item value="Redeclaration" />
       <item value="Beginning" />
@@ -52,7 +53,6 @@
       <item value="Forever Key" />
       <item value="注销" />
       <item value="abandon" />
-      <item value="Indicator" />
     </histories>
     <option name="languageScores">
       <map>
