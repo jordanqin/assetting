@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Program type already present" />
       <item value="bytes or inputStream using simple upload method" />
       <item value="fetch credentials error happens" />
       <item value="Forbidden" />
@@ -52,7 +53,6 @@
       <item value="上一个" />
       <item value="Last" />
       <item value="上一次" />
-      <item value="Forever Key" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651047149890" />
+    <option name="lastTrimTime" value="1652083440230" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
