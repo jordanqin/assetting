@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="coerce At Most" />
       <item value="simulate" />
       <item value="replacement" />
       <item value="Program type already present" />
@@ -52,7 +53,6 @@
       <item value="Recognition" />
       <item value="previous" />
       <item value="previou" />
-      <item value="上一个" />
     </histories>
     <option name="languageScores">
       <map>
