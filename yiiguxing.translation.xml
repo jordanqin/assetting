@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="reduce Permits" />
       <item value="coerce At Most" />
       <item value="simulate" />
       <item value="replacement" />
@@ -52,7 +53,6 @@
       <item value="cosPath or detectUrl must not be null" />
       <item value="Recognition" />
       <item value="previous" />
-      <item value="previou" />
     </histories>
     <option name="languageScores">
       <map>
