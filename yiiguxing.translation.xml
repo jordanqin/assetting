@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="&gt; Project with path ':foundation' could not be found in project ':cos-android-base'." />
       <item value="wait for traffic control if necessary" />
       <item value="simple" />
       <item value="reduce Permits" />
@@ -52,7 +53,6 @@
       <item value="which makes it impossible to distinguish the specific type, such as mi 8,9,10 and other models" />
       <item value="Here, it is solved that some models obtain mimeType and return the format of image" />
       <item value="cosPath or detectUrl must not be null" />
-      <item value="Recognition" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652083440230" />
+    <option name="lastTrimTime" value="1652720711121" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
