@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="wait for traffic control if necessary" />
       <item value="simple" />
       <item value="reduce Permits" />
       <item value="coerce At Most" />
@@ -20,7 +21,6 @@
       <item value="concurrency" />
       <item value="inconsistent" />
       <item value="Consist" />
-      <item value="wait for traffic control if necessary" />
       <item value="acquire" />
       <item value="Digest" />
       <item value="PERIOD" />
