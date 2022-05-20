@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="原始" />
+      <item value="row" />
       <item value="cannot resume upload task in state COMPLETE" />
       <item value="Throw" />
       <item value="Total" />
@@ -51,8 +53,6 @@
       <item value="periodic" />
       <item value="block" />
       <item value="The auditing job provided is not found" />
-      <item value="fileid and url empty" />
-      <item value="Document" />
     </histories>
     <option name="languageScores">
       <map>
