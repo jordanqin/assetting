@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="cannot resume upload task in state COMPLETE" />
       <item value="Throw" />
       <item value="Total" />
       <item value="Transferred" />
@@ -52,7 +53,6 @@
       <item value="The auditing job provided is not found" />
       <item value="fileid and url empty" />
       <item value="Document" />
-      <item value="Scenario" />
     </histories>
     <option name="languageScores">
       <map>
