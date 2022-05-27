@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Summary" />
       <item value="Recently Used" />
       <item value="By" />
       <item value="自定义签名" />
@@ -52,7 +53,6 @@
       <item value="Canonical" />
       <item value="invalid" />
       <item value="Collection" />
-      <item value="Arrival" />
     </histories>
     <option name="languageScores">
       <map>
