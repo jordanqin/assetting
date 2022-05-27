@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="join Org" />
+      <item value="join Invite To Org" />
+      <item value="join" />
+      <item value="Invite Code" />
+      <item value="get Invite To Org" />
       <item value="get Invite Info To Org" />
       <item value="响应" />
       <item value="Request" />
@@ -48,11 +53,6 @@
       <item value="inconsistent" />
       <item value="Consist" />
       <item value="acquire" />
-      <item value="Digest" />
-      <item value="PERIOD" />
-      <item value="Meet" />
-      <item value="is Meet" />
-      <item value="Requirement" />
     </histories>
     <option name="languageScores">
       <map>
