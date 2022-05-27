@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="get Invite Info To Org" />
+      <item value="响应" />
+      <item value="Request" />
+      <item value="Build" />
       <item value="Edition" />
       <item value="compiled" />
       <item value="Summary" />
@@ -49,10 +53,6 @@
       <item value="Meet" />
       <item value="is Meet" />
       <item value="Requirement" />
-      <item value="CONSTRAIN" />
-      <item value="Coordinator" />
-      <item value="Format" />
-      <item value="Canonical" />
     </histories>
     <option name="languageScores">
       <map>
