@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="详情" />
+      <item value="Owner" />
       <item value="Update" />
       <item value="Upload" />
       <item value="创建群组" />
@@ -51,8 +53,6 @@
       <item value="fetch credentials error happens" />
       <item value="Forbidden" />
       <item value="Fix Slice Size" />
-      <item value="Redeclaration" />
-      <item value="Beginning" />
     </histories>
     <option name="languageScores">
       <map>
