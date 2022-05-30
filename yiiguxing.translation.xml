@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Update" />
+      <item value="Upload" />
       <item value="创建群组" />
       <item value="Org invitation not created" />
       <item value="已有" />
@@ -51,8 +53,6 @@
       <item value="Fix Slice Size" />
       <item value="Redeclaration" />
       <item value="Beginning" />
-      <item value="Inappropriate blocking method call" />
-      <item value="invalid argument" />
     </histories>
     <option name="languageScores">
       <map>
