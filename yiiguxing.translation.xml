@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="创建群组" />
       <item value="Org invitation not created" />
       <item value="已有" />
       <item value="Duplicate invitation" />
@@ -52,7 +53,6 @@
       <item value="Beginning" />
       <item value="Inappropriate blocking method call" />
       <item value="invalid argument" />
-      <item value="concurrency" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653291577259" />
+    <option name="lastTrimTime" value="1653898264109" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
