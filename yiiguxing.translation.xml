@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="订单详情" />
+      <item value="查询订单" />
+      <item value="Generate" />
       <item value="Detail" />
       <item value="详情" />
       <item value="Owner" />
@@ -50,9 +53,6 @@
       <item value="simulate" />
       <item value="replacement" />
       <item value="Program type already present" />
-      <item value="bytes or inputStream using simple upload method" />
-      <item value="fetch credentials error happens" />
-      <item value="Forbidden" />
     </histories>
     <option name="languageScores">
       <map>
