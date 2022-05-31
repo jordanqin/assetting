@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Total" />
       <item value="订单详情" />
       <item value="查询订单" />
       <item value="Generate" />
@@ -39,7 +40,6 @@
       <item value="row" />
       <item value="cannot resume upload task in state COMPLETE" />
       <item value="Throw" />
-      <item value="Total" />
       <item value="Transferred" />
       <item value="Counting" />
       <item value="Access token invalid, expired or not match the specified library" />
