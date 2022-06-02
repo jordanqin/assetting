@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="batch" />
+      <item value="move Authority" />
       <item value="Relation" />
       <item value="Total" />
       <item value="订单详情" />
@@ -51,8 +53,6 @@
       <item value="simple" />
       <item value="reduce Permits" />
       <item value="coerce At Most" />
-      <item value="simulate" />
-      <item value="replacement" />
     </histories>
     <option name="languageScores">
       <map>
