@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Async" />
       <item value="constraint Un Satisfied" />
       <item value="constraint Satisfied" />
       <item value="CONSTRAINT" />
@@ -52,7 +53,6 @@
       <item value="Access token invalid, expired or not match the specified library" />
       <item value="use &quot;adb shell setprop log.tag.[tag] DEBUG&quot; to enable DEBUG level for specific tag" />
       <item value="unspecified" />
-      <item value="&gt; Project with path ':foundation' could not be found in project ':cos-android-base'." />
     </histories>
     <option name="languageScores">
       <map>
