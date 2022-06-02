@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="constraint Un Satisfied" />
+      <item value="constraint Satisfied" />
+      <item value="CONSTRAINT" />
+      <item value="CONSTRAINED" />
       <item value="batch" />
       <item value="move Authority" />
       <item value="Relation" />
@@ -49,10 +53,6 @@
       <item value="use &quot;adb shell setprop log.tag.[tag] DEBUG&quot; to enable DEBUG level for specific tag" />
       <item value="unspecified" />
       <item value="&gt; Project with path ':foundation' could not be found in project ':cos-android-base'." />
-      <item value="wait for traffic control if necessary" />
-      <item value="simple" />
-      <item value="reduce Permits" />
-      <item value="coerce At Most" />
     </histories>
     <option name="languageScores">
       <map>
