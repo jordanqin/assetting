@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Workbench" />
       <item value="phonenumber" />
       <item value="phone Number" />
       <item value="phone" />
@@ -52,7 +53,6 @@
       <item value="No Close" />
       <item value="原始" />
       <item value="row" />
-      <item value="cannot resume upload task in state COMPLETE" />
     </histories>
     <option name="languageScores">
       <map>
