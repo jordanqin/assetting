@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Parameter should be on a separate line (unless all parameters can fit a single line)" />
+      <item value="MandatoryBracesIfStatements: Multi -line if statement was found that does not have braces. These should be added to improve readability." />
       <item value="Nothing" />
       <item value="Workbench" />
       <item value="phonenumber" />
@@ -51,8 +53,6 @@
       <item value="Parallel" />
       <item value="exhausted" />
       <item value="Not Close" />
-      <item value="No Close" />
-      <item value="原始" />
     </histories>
     <option name="languageScores">
       <map>
