@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="disabled" />
+      <item value="Result" />
       <item value="Parameter should be on a separate line (unless all parameters can fit a single line)" />
       <item value="MandatoryBracesIfStatements: Multi -line if statement was found that does not have braces. These should be added to improve readability." />
       <item value="Nothing" />
@@ -51,8 +53,6 @@
       <item value="自定义签名" />
       <item value="Signer" />
       <item value="Parallel" />
-      <item value="exhausted" />
-      <item value="Not Close" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654571544194" />
+    <option name="lastTrimTime" value="1655091755091" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
