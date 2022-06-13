@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="store" />
       <item value="disabled" />
       <item value="Result" />
       <item value="Parameter should be on a separate line (unless all parameters can fit a single line)" />
@@ -52,7 +53,6 @@
       <item value="By" />
       <item value="自定义签名" />
       <item value="Signer" />
-      <item value="Parallel" />
     </histories>
     <option name="languageScores">
       <map>
