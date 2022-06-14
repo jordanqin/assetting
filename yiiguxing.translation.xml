@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="IntelliJ API Decompiler stub source generated from a class file Implementation of methods is not available" />
       <item value="create" />
       <item value="创建" />
       <item value="store" />
@@ -52,7 +53,6 @@
       <item value="compiled" />
       <item value="Summary" />
       <item value="Recently Used" />
-      <item value="By" />
     </histories>
     <option name="languageScores">
       <map>
