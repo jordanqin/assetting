@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="create" />
+      <item value="创建" />
       <item value="store" />
       <item value="disabled" />
       <item value="Result" />
@@ -51,8 +53,6 @@
       <item value="Summary" />
       <item value="Recently Used" />
       <item value="By" />
-      <item value="自定义签名" />
-      <item value="Signer" />
     </histories>
     <option name="languageScores">
       <map>
