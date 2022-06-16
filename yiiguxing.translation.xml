@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="摘要" />
       <item value="Trim" />
       <item value="修剪" />
       <item value="artifacts" />
@@ -52,7 +53,6 @@
       <item value="响应" />
       <item value="Request" />
       <item value="Build" />
-      <item value="Edition" />
     </histories>
     <option name="languageScores">
       <map>
