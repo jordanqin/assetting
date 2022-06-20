@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Reject" />
       <item value="Territory" />
       <item value="Regulations" />
       <item value="摘要" />
@@ -52,7 +53,6 @@
       <item value="Invite Code" />
       <item value="get Invite To Org" />
       <item value="get Invite Info To Org" />
-      <item value="响应" />
     </histories>
     <option name="languageScores">
       <map>
