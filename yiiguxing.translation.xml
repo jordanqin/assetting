@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="invalid argument" />
       <item value="recursive" />
       <item value="related Authorization Directory" />
       <item value="related Authorization" />
@@ -52,7 +53,6 @@
       <item value="Duplicate invitation" />
       <item value="join Org" />
       <item value="join Invite To Org" />
-      <item value="join" />
     </histories>
     <option name="languageScores">
       <map>
