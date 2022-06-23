@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="recursive" />
       <item value="related Authorization Directory" />
       <item value="related Authorization" />
       <item value="Reject" />
@@ -52,7 +53,6 @@
       <item value="join Org" />
       <item value="join Invite To Org" />
       <item value="join" />
-      <item value="Invite Code" />
     </histories>
     <option name="languageScores">
       <map>
