@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="FAIL FAST" />
+      <item value="base Attempts" />
+      <item value="init Backoff" />
       <item value="not support reset" />
       <item value="not supported reset" />
       <item value="not Supported" />
@@ -50,9 +53,6 @@
       <item value="Relation" />
       <item value="Total" />
       <item value="订单详情" />
-      <item value="查询订单" />
-      <item value="Generate" />
-      <item value="Detail" />
     </histories>
     <option name="languageScores">
       <map>
