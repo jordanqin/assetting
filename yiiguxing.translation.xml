@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Abstract member cannot be accessed directly" />
       <item value="FAIL FAST" />
       <item value="base Attempts" />
       <item value="init Backoff" />
@@ -52,7 +53,6 @@
       <item value="move Authority" />
       <item value="Relation" />
       <item value="Total" />
-      <item value="订单详情" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655694289292" />
+    <option name="lastTrimTime" value="1656298601365" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
