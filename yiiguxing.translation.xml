@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Uploaded file has a different crc64 value" />
       <item value="Debuggable" />
       <item value="Inet Address" />
       <item value="recycled" />
@@ -52,7 +53,6 @@
       <item value="constraint Satisfied" />
       <item value="CONSTRAINT" />
       <item value="CONSTRAINED" />
-      <item value="batch" />
     </histories>
     <option name="languageScores">
       <map>
