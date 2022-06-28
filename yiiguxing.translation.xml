@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Debuggable" />
       <item value="Inet Address" />
       <item value="recycled" />
       <item value="inconsistent" />
@@ -52,7 +53,6 @@
       <item value="CONSTRAINT" />
       <item value="CONSTRAINED" />
       <item value="batch" />
-      <item value="move Authority" />
     </histories>
     <option name="languageScores">
       <map>
