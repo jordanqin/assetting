@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="you can use multiDex and install it in your ApplicationLifeCycle implement" />
       <item value="OTHER" />
       <item value="purpose" />
       <item value="Uploaded file has a different crc64 value" />
@@ -52,12 +53,11 @@
       <item value="Singe" />
       <item value="async" />
       <item value="constraint Un Satisfied" />
-      <item value="constraint Satisfied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1228" />
-        <entry key="ENGLISH" value="1229" />
+        <entry key="CHINESE" value="1229" />
+        <entry key="ENGLISH" value="1230" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -84,11 +84,6 @@
       <app-key>
         <option name="appId" value="20210205000691178" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
     </option>
     <option name="translator" value="BAIDU" />
   </component>
