@@ -7,24 +7,25 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="CompressionImage" type="Native" />
       <mapping pattern="1609845248302" type="Native" />
-      <mapping pattern="info_news_dp" type="PLAIN_TEXT" />
       <mapping pattern="1609844934306" type="PLAIN_TEXT" />
-      <mapping pattern="1609845062448" type="PLAIN_TEXT" />
-      <mapping pattern="1609845062686" type="PLAIN_TEXT" />
-      <mapping pattern="1609845248301" type="PLAIN_TEXT" />
-      <mapping pattern="1609844934615" type="PLAIN_TEXT" />
+      <mapping pattern="1609844915154" type="PLAIN_TEXT" />
+      <mapping pattern="info_news_dp" type="PLAIN_TEXT" />
       <mapping pattern="1609844721858" type="PLAIN_TEXT" />
+      <mapping pattern="1609844927486" type="PLAIN_TEXT" />
+      <mapping pattern="1609844934615" type="PLAIN_TEXT" />
+      <mapping pattern="1609845062686" type="PLAIN_TEXT" />
+      <mapping pattern="1609844899170" type="PLAIN_TEXT" />
+      <mapping pattern="1609845062448" type="PLAIN_TEXT" />
+      <mapping pattern="1609845248301" type="PLAIN_TEXT" />
       <mapping pattern="1609845532395" type="PLAIN_TEXT" />
       <mapping pattern="1609844927892" type="PLAIN_TEXT" />
-      <mapping pattern="1609844915154" type="PLAIN_TEXT" />
-      <mapping pattern="1609844899170" type="PLAIN_TEXT" />
-      <mapping pattern="1609844927486" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping ext="db-shm" type="SQLite" />
       <mapping ext="ec" type="XHTML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="db" type="SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
