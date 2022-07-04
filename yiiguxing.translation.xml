@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Continuation" />
+      <item value="completion" />
       <item value="Counting" />
       <item value="Test failed to run to completion. Reason: 'Instrumentation run failed due to 'java.lang.VerifyError''. Check device logcat for details" />
       <item value="you can use multiDex and install it in your ApplicationLifeCycle implement" />
@@ -51,13 +53,11 @@
       <item value="phonenumber" />
       <item value="phone Number" />
       <item value="phone" />
-      <item value="单" />
-      <item value="Singe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1231" />
-        <entry key="ENGLISH" value="1232" />
+        <entry key="CHINESE" value="1233" />
+        <entry key="ENGLISH" value="1234" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
