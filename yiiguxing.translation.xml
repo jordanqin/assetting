@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Counting" />
       <item value="Test failed to run to completion. Reason: 'Instrumentation run failed due to 'java.lang.VerifyError''. Check device logcat for details" />
       <item value="you can use multiDex and install it in your ApplicationLifeCycle implement" />
       <item value="OTHER" />
@@ -52,12 +53,11 @@
       <item value="phone" />
       <item value="单" />
       <item value="Singe" />
-      <item value="async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1230" />
-        <entry key="ENGLISH" value="1231" />
+        <entry key="CHINESE" value="1231" />
+        <entry key="ENGLISH" value="1232" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656298601365" />
+    <option name="lastTrimTime" value="1656932395216" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
