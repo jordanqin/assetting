@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Illegal Access" />
       <item value="Continuation" />
       <item value="completion" />
       <item value="Counting" />
@@ -52,12 +53,11 @@
       <item value="Workbench" />
       <item value="phonenumber" />
       <item value="phone Number" />
-      <item value="phone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1233" />
-        <entry key="ENGLISH" value="1234" />
+        <entry key="CHINESE" value="1234" />
+        <entry key="ENGLISH" value="1235" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
