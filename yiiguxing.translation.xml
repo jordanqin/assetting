@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The request signature we calculated does not match the signature you provided. Check your key and signing method" />
       <item value="The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint" />
       <item value="Filter" />
       <item value="Illegal Access" />
@@ -52,12 +53,11 @@
       <item value="Parameter should be on a separate line (unless all parameters can fit a single line)" />
       <item value="MandatoryBracesIfStatements: Multi -line if statement was found that does not have braces. These should be added to improve readability." />
       <item value="Nothing" />
-      <item value="Workbench" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1236" />
-        <entry key="ENGLISH" value="1237" />
+        <entry key="CHINESE" value="1237" />
+        <entry key="ENGLISH" value="1238" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
