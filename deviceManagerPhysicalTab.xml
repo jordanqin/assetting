@@ -12,6 +12,28 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.56.101:5555" />
+          </Key>
+        </key>
+        <name value="Genymobile Google Nexus 10" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.56.102:5555" />
+          </Key>
+        </key>
+        <name value=" Google Nexus 5" />
+        <target value="Android 4.4" />
+        <api value="19" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
