@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Returns the number of bytes that will be written to sink in a call to writeTo, or -1 if that count is unknown." />
       <item value="Cause" />
       <item value="OkHttp Connecti identical" />
       <item value="permanent" />
@@ -52,12 +53,11 @@
       <item value="创建" />
       <item value="store" />
       <item value="disabled" />
-      <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1240" />
-        <entry key="ENGLISH" value="1241" />
+        <entry key="CHINESE" value="1241" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
