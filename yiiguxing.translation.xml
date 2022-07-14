@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="cancelled during executing" />
       <item value="attempts" />
       <item value="reliable" />
       <item value="Clock Skew" />
@@ -52,12 +53,11 @@
       <item value="Reject" />
       <item value="Territory" />
       <item value="Regulations" />
-      <item value="摘要" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1250" />
-        <entry key="ENGLISH" value="1251" />
+        <entry key="CHINESE" value="1251" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
