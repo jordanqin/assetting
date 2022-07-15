@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Close" />
+      <item value="开启" />
+      <item value="Track" />
+      <item value="Securely" />
       <item value="上一次" />
       <item value="cancelled during executing" />
       <item value="attempts" />
@@ -49,15 +53,11 @@
       <item value="suspend Cancellable Coroutine" />
       <item value="invalid argument" />
       <item value="recursive" />
-      <item value="related Authorization Directory" />
-      <item value="related Authorization" />
-      <item value="Reject" />
-      <item value="Territory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1252" />
-        <entry key="ENGLISH" value="1252" />
+        <entry key="CHINESE" value="1254" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
