@@ -19,6 +19,7 @@
       <mapping pattern="1609845248301" type="PLAIN_TEXT" />
       <mapping pattern="1609845532395" type="PLAIN_TEXT" />
       <mapping pattern="1609844927892" type="PLAIN_TEXT" />
+      <mapping ext="textclipping" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
       <mapping ext="db-shm" type="SQLite" />
