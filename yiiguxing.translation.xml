@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="加密" />
+      <item value="私有" />
+      <item value="共有" />
       <item value="reduce Drag Sensitivity" />
       <item value="last Time" />
       <item value="enough Delta" />
@@ -50,14 +53,11 @@
       <item value="inconsistent" />
       <item value="Abstract member cannot be accessed directly" />
       <item value="FAIL FAST" />
-      <item value="base Attempts" />
-      <item value="init Backoff" />
-      <item value="not support reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1266" />
-        <entry key="ENGLISH" value="1267" />
+        <entry key="CHINESE" value="1270" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
