@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Tenant" />
       <item value="Stateful" />
       <item value="Stateless" />
       <item value="描述" />
@@ -52,12 +53,11 @@
       <item value="Uploaded file has a different crc64 value" />
       <item value="Debuggable" />
       <item value="Inet Address" />
-      <item value="recycled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1272" />
-        <entry key="ENGLISH" value="1273" />
+        <entry key="CHINESE" value="1273" />
+        <entry key="ENGLISH" value="1274" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
