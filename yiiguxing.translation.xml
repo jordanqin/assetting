@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Describe" />
       <item value="Deprecated" />
       <item value="Tenant" />
       <item value="Stateful" />
@@ -52,12 +53,11 @@
       <item value="OTHER" />
       <item value="purpose" />
       <item value="Uploaded file has a different crc64 value" />
-      <item value="Debuggable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1274" />
-        <entry key="ENGLISH" value="1275" />
+        <entry key="CHINESE" value="1275" />
+        <entry key="ENGLISH" value="1276" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658112253757" />
+    <option name="lastTrimTime" value="1658718664021" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
