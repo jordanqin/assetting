@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Gradle sync failed: No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
       <item value="asr processing is not active yet, please apply for asr processing service first" />
       <item value="More than one file was found with OS independent path" />
       <item value="Describe" />
@@ -52,12 +53,11 @@
       <item value="Counting" />
       <item value="Test failed to run to completion. Reason: 'Instrumentation run failed due to 'java.lang.VerifyError''. Check device logcat for details" />
       <item value="you can use multiDex and install it in your ApplicationLifeCycle implement" />
-      <item value="OTHER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1277" />
-        <entry key="ENGLISH" value="1278" />
+        <entry key="CHINESE" value="1278" />
+        <entry key="ENGLISH" value="1279" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
