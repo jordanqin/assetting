@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="sample" />
       <item value="说明" />
       <item value="Quality" />
       <item value="ExoPlayer as IMediaPlayer: optional, experimental" />
@@ -52,12 +53,11 @@
       <item value="Close" />
       <item value="开启" />
       <item value="Track" />
-      <item value="Securely" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1299" />
-        <entry key="ENGLISH" value="1299" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
