@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="dependency" />
+      <item value="You are using these overridden dependencies:" />
+      <item value="So, because flutter_deer depends on integration_test from sdk, version solving failed" />
+      <item value="Because every version of integration_test from sdk depends on crypto 3.0.1 and flutter_deer depends on crypto ^2.1.1+1, integration_test from sdk is forbidden" />
       <item value="Increase" />
       <item value="direct Upload" />
       <item value="With Login" />
@@ -49,15 +53,11 @@
       <item value="recent Report" />
       <item value="未知状态" />
       <item value="without" />
-      <item value="simple download complete without result" />
-      <item value="satisfied" />
-      <item value="please set request or config region" />
-      <item value="please set host or endpointSuffix or region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1303" />
-        <entry key="ENGLISH" value="1304" />
+        <entry key="CHINESE" value="1307" />
+        <entry key="ENGLISH" value="1308" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660203636186" />
+    <option name="lastTrimTime" value="1660641691059" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
