@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Suspended" />
       <item value="dependency" />
       <item value="You are using these overridden dependencies:" />
       <item value="So, because flutter_deer depends on integration_test from sdk, version solving failed" />
@@ -52,12 +53,11 @@
       <item value="enough Delta" />
       <item value="recent Report" />
       <item value="未知状态" />
-      <item value="without" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1307" />
-        <entry key="ENGLISH" value="1308" />
+        <entry key="CHINESE" value="1308" />
+        <entry key="ENGLISH" value="1309" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
