@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="加密" />
       <item value="list is returned by type" />
       <item value="Go back to a single instance by type" />
       <item value="generate" />
@@ -52,11 +53,10 @@
       <item value="Edition" />
       <item value="LONG" />
       <item value="Voice" />
-      <item value="Speech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1327" />
+        <entry key="CHINESE" value="1328" />
         <entry key="ENGLISH" value="1328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
