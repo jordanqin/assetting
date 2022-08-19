@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="generate" />
       <item value="digest" />
       <item value="Unique UUID value identifying the current device." />
       <item value="A build ID string meant for displaying to the user." />
@@ -52,12 +53,11 @@
       <item value="Speech" />
       <item value="signature calculated is different from client signature" />
       <item value="input must be non-empty" />
-      <item value="Gradle sync failed: No toolchains found in the NDK toolchains folder for ABI with prefix: mips64el-linux-android This version of the NDK may be incompatible with the Android Gradle plugin version 3.0 or older. Please use plugin version 3.1 or newer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1324" />
-        <entry key="ENGLISH" value="1325" />
+        <entry key="CHINESE" value="1325" />
+        <entry key="ENGLISH" value="1326" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
