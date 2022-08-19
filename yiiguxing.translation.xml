@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="list is returned by type" />
+      <item value="Go back to a single instance by type" />
       <item value="generate" />
       <item value="digest" />
       <item value="Unique UUID value identifying the current device." />
@@ -51,13 +53,11 @@
       <item value="LONG" />
       <item value="Voice" />
       <item value="Speech" />
-      <item value="signature calculated is different from client signature" />
-      <item value="input must be non-empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1327" />
+        <entry key="ENGLISH" value="1328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
