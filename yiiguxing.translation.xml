@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Large" />
+      <item value="Invalid" />
       <item value="Weight And Reliable Addition" />
       <item value="Compose" />
       <item value="加密" />
@@ -51,13 +53,11 @@
       <item value="水印" />
       <item value="封面图" />
       <item value="Previous" />
-      <item value="Failed to set access control authority for the bucket" />
-      <item value="Edition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1329" />
-        <entry key="ENGLISH" value="1330" />
+        <entry key="CHINESE" value="1331" />
+        <entry key="ENGLISH" value="1332" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
