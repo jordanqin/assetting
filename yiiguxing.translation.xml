@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="lookup" />
       <item value="An example of one we might want to retry with a different route is a problem connecting to a proxy and would manifest as a standard IOException. Unless it is one we know we should not retry, we return true and try a new route." />
       <item value="If there was an interruption don't recover, but if there was a timeout connecting to a route we should try the next route (if there is one)." />
       <item value="If there was a protocol problem, don't recover." />
@@ -52,12 +53,11 @@
       <item value="Increase" />
       <item value="direct Upload" />
       <item value="With Login" />
-      <item value="process Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1352" />
-        <entry key="ENGLISH" value="1353" />
+        <entry key="CHINESE" value="1353" />
+        <entry key="ENGLISH" value="1354" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661158212107" />
+    <option name="lastTrimTime" value="1661832965473" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
