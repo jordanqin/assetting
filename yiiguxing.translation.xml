@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="client" />
       <item value="Grab" />
       <item value="n: startup failed" />
       <item value="Multiple Compilation" />
@@ -52,12 +53,11 @@
       <item value="dependency" />
       <item value="You are using these overridden dependencies:" />
       <item value="So, because flutter_deer depends on integration_test from sdk, version solving failed" />
-      <item value="Because every version of integration_test from sdk depends on crypto 3.0.1 and flutter_deer depends on crypto ^2.1.1+1, integration_test from sdk is forbidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1356" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="CHINESE" value="1357" />
+        <entry key="ENGLISH" value="1358" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
