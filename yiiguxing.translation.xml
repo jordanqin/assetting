@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Allocation" />
       <item value="regular" />
       <item value="reliable" />
       <item value="attempts" />
@@ -52,12 +53,11 @@
       <item value="compute" />
       <item value="spec" />
       <item value="Can't toast on a thread that has not called Looper.prepare()" />
-      <item value="has" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1372" />
-        <entry key="ENGLISH" value="1373" />
+        <entry key="CHINESE" value="1373" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
