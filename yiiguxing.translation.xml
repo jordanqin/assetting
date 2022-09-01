@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="We're throwing an unchecked exception. Release any resources." />
+      <item value="recover" />
       <item value="Allocation" />
       <item value="regular" />
       <item value="reliable" />
@@ -51,13 +53,11 @@
       <item value="Warning: You are using these overridden dependencies: ! scrollable_positioned_list 0.3.2" />
       <item value="Because package_info_plus &gt;=1.4.3 depends on package_info_plus_windows ^2.0.0 which depends on ffi ^2.0.1, package_info_plus &gt;=1.4.3 requires ffi ^2.0.1. And because device_info_plus_windows 2.1.1 depends on ffi ^1.0.0, package_info_plus &gt;=1.4.3 is incompatible with device_info_plus_windows 2.1.1. Because device_info_plus 4.0.0 depends on device_info_plus_windows ^2.1.1 and no versions of device_info_plus_windows match &gt;2.1.1 &lt;3.0.0, device_info_plus 4.0.0 requires device_info_plus_windows 2.1.1. Thus, package_info_plus &gt;=1.4.3 is incompatible with device_info_plus 4.0.0. So, because flutter_deer depends on both device_info_plus 4.0.0 and package_info_plus ^1.4.3+1, version solving failed. pub get failed (1; So, because flutter_deer depends on both device_info_plus 4.0.0 and package_info_plus ^1.4.3+1, version solving failed.)" />
       <item value="compute" />
-      <item value="spec" />
-      <item value="Can't toast on a thread that has not called Looper.prepare()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1373" />
-        <entry key="ENGLISH" value="1374" />
+        <entry key="CHINESE" value="1375" />
+        <entry key="ENGLISH" value="1376" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
