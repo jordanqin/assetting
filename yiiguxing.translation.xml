@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Figures out the HTTP request to make in response to receiving {@code userResponse}. This will either add authentication headers, follow redirects or handle a client request timeout. If a follow-up is either unnecessary or not applicable, this returns null." />
+      <item value="Too many follow-up requests" />
       <item value="The attempt to connect via a route failed. The request will not have been sent." />
       <item value="Report and attempt to recover from a failure to communicate with a server. Returns true if {@code e} is recoverable, or false if the failure is permanent. Requests with a body can only be recovered if the body is buffered or if the failure occurred before the request has been sent." />
       <item value="We can't send the request body again." />
@@ -51,13 +53,11 @@
       <item value="加密" />
       <item value="list is returned by type" />
       <item value="Go back to a single instance by type" />
-      <item value="generate" />
-      <item value="digest" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1381" />
-        <entry key="ENGLISH" value="1382" />
+        <entry key="CHINESE" value="1383" />
+        <entry key="ENGLISH" value="1384" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
