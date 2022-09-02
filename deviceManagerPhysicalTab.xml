@@ -64,8 +64,8 @@
           </Key>
         </key>
         <name value="HUAWEI TAS-AL00" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
