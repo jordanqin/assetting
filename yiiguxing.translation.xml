@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Optimizing" />
       <item value="重试次数" />
       <item value="次数" />
       <item value="attempts" />
@@ -52,12 +53,11 @@
       <item value="Large" />
       <item value="Invalid" />
       <item value="Weight And Reliable Addition" />
-      <item value="Compose" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1387" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661832965473" />
+    <option name="lastTrimTime" value="1662368162323" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
