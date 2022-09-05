@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Crash when compiling null, at character offset null:" />
+      <item value="expect" />
+      <item value="Null check operator used on a null value" />
       <item value="Optimizing" />
       <item value="重试次数" />
       <item value="次数" />
@@ -50,14 +53,11 @@
       <item value="Internal" />
       <item value="内部的" />
       <item value="内部" />
-      <item value="Large" />
-      <item value="Invalid" />
-      <item value="Weight And Reliable Addition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="1390" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
