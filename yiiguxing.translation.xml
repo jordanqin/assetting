@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Minimum supported Gradle version is 7.3.3. Current version is 7.1. If using the gradle wrapper, try editing the" />
+      <item value="Minimum" />
       <item value="Caused by: Assertion failed:" />
       <item value="Crash when compiling null, at character offset null:" />
       <item value="expect" />
@@ -51,13 +53,11 @@
       <item value="Describe" />
       <item value="Speech" />
       <item value="Describe Speech" />
-      <item value="Internal" />
-      <item value="内部的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1391" />
-        <entry key="ENGLISH" value="1392" />
+        <entry key="CHINESE" value="1393" />
+        <entry key="ENGLISH" value="1394" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
