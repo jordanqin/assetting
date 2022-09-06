@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Caused by: Assertion failed:" />
       <item value="Crash when compiling null, at character offset null:" />
       <item value="expect" />
       <item value="Null check operator used on a null value" />
@@ -52,12 +53,11 @@
       <item value="Describe Speech" />
       <item value="Internal" />
       <item value="内部的" />
-      <item value="内部" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1390" />
-        <entry key="ENGLISH" value="1391" />
+        <entry key="CHINESE" value="1391" />
+        <entry key="ENGLISH" value="1392" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
