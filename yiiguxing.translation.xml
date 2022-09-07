@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
+      <item value="Failed to launch an application on all devices" />
       <item value="Show an expanation to the user asynchronously -- don't block this thread waiting for the user's response! After the user sees the explanation, try again to request the permission." />
       <item value="GRANTED" />
       <item value="Rationale" />
@@ -51,13 +53,11 @@
       <item value="cipher Suite" />
       <item value="unexpected end of stream on" />
       <item value="should Retry" />
-      <item value="e.g. a certificate pinning error." />
-      <item value="Non-body HTTP method cannot contain @Body." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1397" />
-        <entry key="ENGLISH" value="1398" />
+        <entry key="CHINESE" value="1399" />
+        <entry key="ENGLISH" value="1400" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
