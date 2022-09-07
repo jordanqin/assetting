@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Show an expanation to the user asynchronously -- don't block this thread waiting for the user's response! After the user sees the explanation, try again to request the permission." />
+      <item value="GRANTED" />
+      <item value="Rationale" />
       <item value="Signer" />
       <item value="Minimum supported Gradle version is 7.3.3. Current version is 7.1. If using the gradle wrapper, try editing the" />
       <item value="Minimum" />
@@ -50,14 +53,11 @@
       <item value="should Retry" />
       <item value="e.g. a certificate pinning error." />
       <item value="Non-body HTTP method cannot contain @Body." />
-      <item value="Category" />
-      <item value="Describe" />
-      <item value="Speech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1394" />
-        <entry key="ENGLISH" value="1395" />
+        <entry key="CHINESE" value="1397" />
+        <entry key="ENGLISH" value="1398" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
