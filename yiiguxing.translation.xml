@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Recycled" />
       <item value="required" />
       <item value="Credentials" />
       <item value="Credential" />
@@ -52,12 +53,11 @@
       <item value="n: startup failed" />
       <item value="Multiple Compilation" />
       <item value="lookup" />
-      <item value="An example of one we might want to retry with a different route is a problem connecting to a proxy and would manifest as a standard IOException. Unless it is one we know we should not retry, we return true and try a new route." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1406" />
-        <entry key="ENGLISH" value="1407" />
+        <entry key="CHINESE" value="1407" />
+        <entry key="ENGLISH" value="1408" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662368162323" />
+    <option name="lastTrimTime" value="1663040287377" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
