@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="there were 13 unresolved references to library class members. You probably need to update the library versions." />
+      <item value="there were 227 unresolved references to classes or interfaces. You may need to add missing library jars or update their versions. If your code works fine without the missing classes, you can suppress the warnings with '-dontwarn' options." />
       <item value="Please correct the above warnings first." />
       <item value="Learn how to resolve the issue at" />
       <item value="Recycled" />
@@ -51,13 +53,11 @@
       <item value="collect" />
       <item value="more than one time" />
       <item value="client" />
-      <item value="Grab" />
-      <item value="n: startup failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1409" />
-        <entry key="ENGLISH" value="1410" />
+        <entry key="CHINESE" value="1412" />
+        <entry key="ENGLISH" value="1413" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
