@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="XML document structures must start and end within the same entity." />
+      <item value="Already" />
+      <item value="exists" />
+      <item value="已存在" />
+      <item value="exits" />
+      <item value="已有" />
       <item value="追加" />
       <item value="Full Coverage" />
       <item value="Coverage" />
@@ -47,17 +53,11 @@
       <item value="Too many follow-up requests" />
       <item value="The attempt to connect via a route failed. The request will not have been sent." />
       <item value="Report and attempt to recover from a failure to communicate with a server. Returns true if {@code e} is recoverable, or false if the failure is permanent. Requests with a body can only be recovered if the body is buffered or if the failure occurred before the request has been sent." />
-      <item value="We can't send the request body again." />
-      <item value="request Send Started" />
-      <item value="handshake" />
-      <item value="pow" />
-      <item value="We're throwing an unchecked exception. Release any resources." />
-      <item value="recover" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1424" />
-        <entry key="ENGLISH" value="1424" />
+        <entry key="CHINESE" value="1428" />
+        <entry key="ENGLISH" value="1429" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
