@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="追加" />
+      <item value="Full Coverage" />
+      <item value="Coverage" />
+      <item value="全量覆盖" />
       <item value="transitive" />
       <item value="filtered" />
       <item value="invalid stored block lengths" />
@@ -49,15 +53,11 @@
       <item value="pow" />
       <item value="We're throwing an unchecked exception. Release any resources." />
       <item value="recover" />
-      <item value="Allocation" />
-      <item value="regular" />
-      <item value="reliable" />
-      <item value="addition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1421" />
-        <entry key="ENGLISH" value="1422" />
+        <entry key="CHINESE" value="1424" />
+        <entry key="ENGLISH" value="1424" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663040287377" />
+    <option name="lastTrimTime" value="1663585054363" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
