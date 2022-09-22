@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Conflict" />
       <item value="Reuse" />
       <item value="count Down" />
       <item value="mounted" />
@@ -52,12 +53,11 @@
       <item value="Show an expanation to the user asynchronously -- don't block this thread waiting for the user's response! After the user sees the explanation, try again to request the permission." />
       <item value="GRANTED" />
       <item value="Rationale" />
-      <item value="Signer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1443" />
-        <entry key="ENGLISH" value="1444" />
+        <entry key="CHINESE" value="1444" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
