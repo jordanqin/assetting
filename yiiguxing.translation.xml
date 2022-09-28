@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="MILLISECONDS" />
+      <item value="MICROSECONDS" />
       <item value="digest" />
       <item value="Some internal error occur, please try again later." />
       <item value="ai processing is not active yet, please apply for ai processing service first" />
@@ -51,13 +53,11 @@
       <item value="Access token not match the specified space." />
       <item value="Duplicate jar entry" />
       <item value="there were 13 unresolved references to library class members. You probably need to update the library versions." />
-      <item value="there were 227 unresolved references to classes or interfaces. You may need to add missing library jars or update their versions. If your code works fine without the missing classes, you can suppress the warnings with '-dontwarn' options." />
-      <item value="Please correct the above warnings first." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1456" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1458" />
+        <entry key="ENGLISH" value="1459" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
