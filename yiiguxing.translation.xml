@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="耗时" />
       <item value="Check" />
       <item value="is Check" />
       <item value="MILLISECONDS" />
@@ -52,11 +53,10 @@
       <item value="invalid stored block lengths" />
       <item value="Can't read" />
       <item value="Can't process class" />
-      <item value="Access token not match the specified space." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1460" />
+        <entry key="CHINESE" value="1461" />
         <entry key="ENGLISH" value="1461" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
