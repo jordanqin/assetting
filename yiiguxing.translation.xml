@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Threshold" />
       <item value="digest" />
       <item value="Message Digest" />
       <item value="Digest" />
@@ -52,12 +53,11 @@
       <item value="全量覆盖" />
       <item value="transitive" />
       <item value="filtered" />
-      <item value="invalid stored block lengths" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1463" />
-        <entry key="ENGLISH" value="1464" />
+        <entry key="CHINESE" value="1464" />
+        <entry key="ENGLISH" value="1465" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
