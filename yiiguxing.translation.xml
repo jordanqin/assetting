@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="expect" />
+      <item value="No tests were found." />
       <item value="简化" />
       <item value="已有进度" />
       <item value="Schema export directory is not provided to the annotation processor so we cannot export the schema. You can either" />
@@ -51,13 +53,11 @@
       <item value="Unable to establish connection on channel" />
       <item value="Handlers are invoked serially on a background thread." />
       <item value="Handlers are invoked serially on the default thread. This is the value if unspecified." />
-      <item value="register key Cannot be empty" />
-      <item value="不能为空" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1477" />
-        <entry key="ENGLISH" value="1477" />
+        <entry key="CHINESE" value="1478" />
+        <entry key="ENGLISH" value="1479" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
