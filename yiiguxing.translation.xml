@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Enabled" />
+      <item value="Suspended" />
       <item value="failing" />
       <item value="Test failed. See exception logs above. The test description was: failing test example" />
       <item value="expect" />
@@ -51,13 +53,11 @@
       <item value="The logical channel on which communication happens, not null." />
       <item value="Creates a [BasicMessageChannel] with the specified [name], [codec] and [binaryMessenger]. The [name] and [codec] arguments cannot be null. The default [ServicesBinding.defaultBinaryMessenger] instance is used if [binaryMessenger] is null." />
       <item value="Sends the specified [message] to the platform plugins on this channel. Returns a [Future] which completes to the received response, which may be null." />
-      <item value="Constructor for [CosApi]. The [binaryMessenger] named argument is available for dependency injection. If it is left null, the default BinaryMessenger will be used which routes to the host platform." />
-      <item value="Unable to establish connection on channel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1480" />
-        <entry key="ENGLISH" value="1481" />
+        <entry key="CHINESE" value="1482" />
+        <entry key="ENGLISH" value="1483" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
