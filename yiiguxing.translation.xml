@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="unexpected end of stream on Connection" />
       <item value="分钟" />
       <item value="min 5" />
       <item value="execute" />
@@ -52,12 +53,11 @@
       <item value="模板" />
       <item value="REPLICATION" />
       <item value="永久" />
-      <item value="Methods marked with @UiThread must be executed on the main thread. Current thread: QCloud-Command-1" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1491" />
-        <entry key="ENGLISH" value="1491" />
+        <entry key="ENGLISH" value="1492" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
