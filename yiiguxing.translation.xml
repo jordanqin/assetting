@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="execute" />
       <item value="是否到期" />
       <item value="expiration" />
       <item value="过期" />
@@ -52,12 +53,11 @@
       <item value="Methods marked with @UiThread must be executed on the main thread. Current thread: QCloud-Command-1" />
       <item value="Methods marked with @UiThread must be executed on the main thread. Current thread: QCloud-Command-1}" />
       <item value="Error thrown when a function is passed an unacceptable argument." />
-      <item value="Conflict" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1489" />
-        <entry key="ENGLISH" value="1489" />
+        <entry key="ENGLISH" value="1490" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
