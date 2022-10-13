@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="expired" />
+      <item value="强制" />
       <item value="替换" />
       <item value="unexpected end of stream on Connection" />
       <item value="分钟" />
@@ -51,13 +53,11 @@
       <item value="filePath or byteArr Cannot be empty" />
       <item value="traffic Limit" />
       <item value="Transfer" />
-      <item value="模板" />
-      <item value="REPLICATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1492" />
-        <entry key="ENGLISH" value="1492" />
+        <entry key="CHINESE" value="1493" />
+        <entry key="ENGLISH" value="1494" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
