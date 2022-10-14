@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Detekt - ComplexCondition: This condition is too complex (4). Defined complexity threshold for conditions is set to '4'" />
       <item value="expired" />
       <item value="过期" />
       <item value="you can access [RouteSettings] with the [context.settings] extension" />
@@ -52,12 +53,11 @@
       <item value="is Check" />
       <item value="MILLISECONDS" />
       <item value="MICROSECONDS" />
-      <item value="Some internal error occur, please try again later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1501" />
-        <entry key="ENGLISH" value="1502" />
+        <entry key="CHINESE" value="1502" />
+        <entry key="ENGLISH" value="1503" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
