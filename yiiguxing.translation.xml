@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The following adds the Cupertino Icons font to your application. Use with the CupertinoIcons class for iOS style icons." />
       <item value="The modifier 'async' can't be applied to the body of a constructor. (Documentation)" />
       <item value="Router operation requested with a context that does not include a Router. Iflutter (25522): The context used to retrieve the Router must be that of a widget that is a descendant of a Router" />
       <item value="Invalid constant value." />
@@ -52,12 +53,11 @@
       <item value="decrement And Get" />
       <item value="Priority" />
       <item value="report Speed" />
-      <item value="wait for traffic control if necessary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1511" />
-        <entry key="ENGLISH" value="1512" />
+        <entry key="CHINESE" value="1512" />
+        <entry key="ENGLISH" value="1513" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
