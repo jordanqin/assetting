@@ -3,12 +3,15 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Rather than awaiting on asynchronous work directly inside of initState, call a separate method to do Iflutter (13474): this work without awaiting it." />
+      <item value="State.initState() must be a void method without an `async` keyword." />
+      <item value="returned a Future." />
+      <item value="请先注册" />
+      <item value="未注册" />
       <item value="mounted" />
       <item value="Do not use BuildContexts across async gaps" />
       <item value="is unregistered" />
-      <item value="请先注册" />
       <item value="unregistered" />
-      <item value="未注册" />
       <item value="The method 'RaisedButton' isn't defined for the type '_BucketAddPageState'" />
       <item value="time set too long" />
       <item value="Atomic" />
@@ -50,14 +53,11 @@
       <item value="An error occurred while processing request" />
       <item value="ConnectivityService: Neither user 10149 nor current process has android.permission.ACCESS_NETWORK_STATE." />
       <item value="Triple" />
-      <item value="monitor network fetch" />
-      <item value="initial Refresh" />
-      <item value="Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1526" />
-        <entry key="ENGLISH" value="1527" />
+        <entry key="CHINESE" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
