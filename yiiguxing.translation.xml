@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="is unregistered" />
+      <item value="请先注册" />
+      <item value="unregistered" />
+      <item value="未注册" />
       <item value="The method 'RaisedButton' isn't defined for the type '_BucketAddPageState'" />
       <item value="time set too long" />
       <item value="Atomic" />
@@ -49,15 +53,11 @@
       <item value="Enabled" />
       <item value="Suspended" />
       <item value="failing" />
-      <item value="Test failed. See exception logs above. The test description was: failing test example" />
-      <item value="expect" />
-      <item value="No tests were found." />
-      <item value="简化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1522" />
-        <entry key="ENGLISH" value="1523" />
+        <entry key="CHINESE" value="1524" />
+        <entry key="ENGLISH" value="1525" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
