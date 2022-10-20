@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="mounted" />
+      <item value="Do not use BuildContexts across async gaps" />
       <item value="is unregistered" />
       <item value="请先注册" />
       <item value="unregistered" />
@@ -51,13 +53,11 @@
       <item value="monitor network fetch" />
       <item value="initial Refresh" />
       <item value="Enabled" />
-      <item value="Suspended" />
-      <item value="failing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1524" />
-        <entry key="ENGLISH" value="1525" />
+        <entry key="CHINESE" value="1526" />
+        <entry key="ENGLISH" value="1527" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
