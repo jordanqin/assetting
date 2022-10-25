@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Sequence" />
       <item value="consume" />
       <item value="内存" />
       <item value="lock timeout, no credential for sign" />
@@ -52,12 +53,11 @@
       <item value="Builds out a screen based on string path [parameters] and context." />
       <item value="May be used when building the route, e.g. in [Navigator.onGenerateRoute]." />
       <item value="The arguments passed to this route" />
-      <item value="Data that might be useful in constructing a [Route]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1542" />
-        <entry key="ENGLISH" value="1543" />
+        <entry key="CHINESE" value="1543" />
+        <entry key="ENGLISH" value="1544" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
