@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="TaskLooper exist in queue" />
+      <item value="offer" />
       <item value="Primitive" />
       <item value="Unsupported Operation" />
       <item value="disabled" />
@@ -51,13 +53,11 @@
       <item value="Credentials" />
       <item value="秘钥过期" />
       <item value="Request has expired" />
-      <item value="Request Time Too Skewed" />
-      <item value="clock Skew" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1551" />
-        <entry key="ENGLISH" value="1552" />
+        <entry key="CHINESE" value="1553" />
+        <entry key="ENGLISH" value="1554" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
