@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="INSUFFICIENT STORAGE" />
       <item value="Dependency 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-alpha03' requires libraries and applications that depend on it to compile against version 33 or later of the Android APIs." />
       <item value="Writing exception to parcel" />
       <item value="Empty" />
@@ -12,7 +13,6 @@
       <item value="Primitive" />
       <item value="Unsupported Operation" />
       <item value="disabled" />
-      <item value="INSUFFICIENT STORAGE" />
       <item value="兼容" />
       <item value="No persistable permission grants found for" />
       <item value="No persistable permission grants found for UID 10146 and Uri" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1557" />
-        <entry key="ENGLISH" value="1558" />
+        <entry key="CHINESE" value="1558" />
+        <entry key="ENGLISH" value="1559" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
