@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="&quot;Run Android instrumented tests using Gradle&quot; option was ignored because this module type is not supported yet." />
       <item value="does not have permission" />
       <item value="on Kitkat api only 0x3 is allowed (FLAG_GRANT_READ_URI_PERMISSION | FLAG_GRANT_WRITE_URI_PERMISSION)" />
       <item value="Persisted" />
@@ -52,12 +53,11 @@
       <item value="Extent" />
       <item value="trailing" />
       <item value="type 'String' is not a subtype of type 'List&lt;RouteSettings&gt;' of 'configuration'" />
-      <item value="Don't put any logic in createState" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1561" />
-        <entry key="ENGLISH" value="1562" />
+        <entry key="CHINESE" value="1562" />
+        <entry key="ENGLISH" value="1563" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666599095607" />
+    <option name="lastTrimTime" value="1667046714242" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
