@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="RUN AFTER" />
+      <item value="RUN BEFORE" />
+      <item value="RUN" />
+      <item value="RUNNING" />
+      <item value="RUNN BEFORE" />
+      <item value="RUNNING BEFORE" />
+      <item value="RUNN AFTER" />
+      <item value="RUNNING AFTER" />
+      <item value="After" />
       <item value="Checking" />
       <item value="校验" />
       <item value="计算" />
@@ -44,20 +53,11 @@
       <item value="请先注册" />
       <item value="未注册" />
       <item value="mounted" />
-      <item value="Do not use BuildContexts across async gaps" />
-      <item value="is unregistered" />
-      <item value="unregistered" />
-      <item value="The method 'RaisedButton' isn't defined for the type '_BucketAddPageState'" />
-      <item value="time set too long" />
-      <item value="Atomic" />
-      <item value="gradient" />
-      <item value="Null check operator used on a null value" />
-      <item value="Sort child properties last in widget instance creations. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1564" />
-        <entry key="ENGLISH" value="1565" />
+        <entry key="CHINESE" value="1575" />
+        <entry key="ENGLISH" value="1576" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -68,6 +68,7 @@
         <entry key="ROMANIAN" value="1" />
         <entry key="BENGALI" value="4" />
         <entry key="XHOSA" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="SWEDISH" value="1" />
         <entry key="SPANISH" value="2" />
