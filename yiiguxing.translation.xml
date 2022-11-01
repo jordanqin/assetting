@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="complete upload with default" />
+      <item value="默认" />
+      <item value="普通" />
+      <item value="complete upload with quick" />
       <item value="RUN AFTER" />
       <item value="RUN BEFORE" />
       <item value="RUN" />
@@ -49,15 +53,11 @@
       <item value="did Pop" />
       <item value="Rather than awaiting on asynchronous work directly inside of initState, call a separate method to do Iflutter (13474): this work without awaiting it." />
       <item value="State.initState() must be a void method without an `async` keyword." />
-      <item value="returned a Future." />
-      <item value="请先注册" />
-      <item value="未注册" />
-      <item value="mounted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1575" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="CHINESE" value="1578" />
+        <entry key="ENGLISH" value="1579" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
