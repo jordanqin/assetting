@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Depth" />
+      <item value="pre Multiplied" />
       <item value="return Bitmap with preMultiplied or not-preMultiplied call if AvifImage is decoded" />
       <item value="complete upload with default" />
       <item value="默认" />
@@ -51,13 +53,11 @@
       <item value="Flash" />
       <item value="Sentence" />
       <item value="italic" />
-      <item value="did Pop" />
-      <item value="Rather than awaiting on asynchronous work directly inside of initState, call a separate method to do Iflutter (13474): this work without awaiting it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1579" />
-        <entry key="ENGLISH" value="1580" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
