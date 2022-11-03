@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="return nth image duration can use without decode" />
+      <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
       <item value="Depth" />
       <item value="pre Multiplied" />
       <item value="return Bitmap with preMultiplied or not-preMultiplied call if AvifImage is decoded" />
@@ -51,13 +53,11 @@
       <item value="asr processing is not active yet, please apply for asr processing service first" />
       <item value="input must be non-empty" />
       <item value="Flash" />
-      <item value="Sentence" />
-      <item value="italic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1581" />
-        <entry key="ENGLISH" value="1582" />
+        <entry key="CHINESE" value="1583" />
+        <entry key="ENGLISH" value="1584" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
