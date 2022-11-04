@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="reserved" />
       <item value="current image idx" />
       <item value="return current image idx can use without decode" />
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code @param idx: idx for nth frame to decode" />
@@ -52,12 +53,11 @@
       <item value="small" />
       <item value="Count" />
       <item value="Sequence" />
-      <item value="consume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1591" />
-        <entry key="ENGLISH" value="1592" />
+        <entry key="CHINESE" value="1592" />
+        <entry key="ENGLISH" value="1593" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667046714242" />
+    <option name="lastTrimTime" value="1667532631959" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
