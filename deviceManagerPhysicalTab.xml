@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.56.103:5555" />
+          </Key>
+        </key>
+        <name value="Genymotion Google Nexus 5" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="e6f4aa41" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value=" Google Nexus 5" />
         <target value="Android 4.4" />
         <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.56.103:5555" />
-          </Key>
-        </key>
-        <name value="Genymotion Google Nexus 5" />
-        <target value="Android 9.0" />
-        <api value="28" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
