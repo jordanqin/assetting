@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value=": Mark has been invalidated, pos: 1275 markLimit: 5242880" />
       <item value="Excludes the support library because it's already included by Glide." />
       <item value="Calculator" />
       <item value="You cannot have more than one AppGlideModule" />
@@ -52,12 +53,11 @@
       <item value="inconsistent" />
       <item value="TaskLooper exist in queue" />
       <item value="offer" />
-      <item value="Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1599" />
-        <entry key="ENGLISH" value="1600" />
+        <entry key="CHINESE" value="1600" />
+        <entry key="ENGLISH" value="1601" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
