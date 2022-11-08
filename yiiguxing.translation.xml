@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="解码失败" />
+      <item value="Illegal State" />
       <item value="These constants are chosen to imitate common browser behavior for WebPGIF. If other decoders are added, this behavior should be moved into the WebPGIF decoders. &lt;p&gt; Note that 0 delay is undefined behavior in the GIF standard." />
       <item value="BufferQueue has been abandoned" />
       <item value="~ Channel is unrecoverably broken and will be disposed!" />
@@ -51,13 +53,11 @@
       <item value="does not have permission" />
       <item value="on Kitkat api only 0x3 is allowed (FLAG_GRANT_READ_URI_PERMISSION | FLAG_GRANT_WRITE_URI_PERMISSION)" />
       <item value="Persisted" />
-      <item value="INSUFFICIENT STORAGE" />
-      <item value="Dependency 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.0-alpha03' requires libraries and applications that depend on it to compile against version 33 or later of the Android APIs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1605" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="CHINESE" value="1607" />
+        <entry key="ENGLISH" value="1607" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
