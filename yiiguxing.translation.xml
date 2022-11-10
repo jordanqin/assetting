@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="super large image" />
+      <item value="超大" />
+      <item value="超大图" />
       <item value="Couldn't load memtrack module" />
       <item value="解码失败" />
       <item value="Illegal State" />
@@ -50,14 +53,11 @@
       <item value="Checking" />
       <item value="校验" />
       <item value="计算" />
-      <item value="&quot;Run Android instrumented tests using Gradle&quot; option was ignored because this module type is not supported yet." />
-      <item value="does not have permission" />
-      <item value="on Kitkat api only 0x3 is allowed (FLAG_GRANT_READ_URI_PERMISSION | FLAG_GRANT_WRITE_URI_PERMISSION)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1607" />
-        <entry key="ENGLISH" value="1608" />
+        <entry key="CHINESE" value="1610" />
+        <entry key="ENGLISH" value="1611" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
