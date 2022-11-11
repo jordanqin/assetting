@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="AVIF Image not decoded, error 0" />
+      <item value="rect param invaild" />
       <item value="不是" />
       <item value="Pooled" />
       <item value="Dimensions" />
@@ -51,13 +53,11 @@
       <item value="RUNNING" />
       <item value="RUNN BEFORE" />
       <item value="RUNNING BEFORE" />
-      <item value="RUNN AFTER" />
-      <item value="RUNNING AFTER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1615" />
-        <entry key="ENGLISH" value="1615" />
+        <entry key="ENGLISH" value="1616" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
