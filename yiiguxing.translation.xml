@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
       <item value="Figure" />
       <item value="URI is not absolute" />
       <item value="AVIF Image not decoded, error 0" />
@@ -52,12 +53,11 @@
       <item value="RUN AFTER" />
       <item value="RUN BEFORE" />
       <item value="RUN" />
-      <item value="RUNNING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1617" />
-        <entry key="ENGLISH" value="1618" />
+        <entry key="CHINESE" value="1618" />
+        <entry key="ENGLISH" value="1619" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
