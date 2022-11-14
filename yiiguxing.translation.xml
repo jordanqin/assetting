@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="CONSTRAINED" />
+      <item value="Too many positional arguments: 3 expected, but 6 found" />
       <item value="Clip the overflowing text to fix its container." />
       <item value="Fade the overflowing text to transparent." />
       <item value="Use an ellipsis to indicate that the text has overflowed." />
@@ -51,13 +53,11 @@
       <item value="reset and clear decoder will release all keep data and image" />
       <item value="return nth image duration can use without decode" />
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
-      <item value="Depth" />
-      <item value="pre Multiplied" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1625" />
-        <entry key="ENGLISH" value="1626" />
+        <entry key="CHINESE" value="1627" />
+        <entry key="ENGLISH" value="1628" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
