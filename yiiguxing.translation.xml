@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Failed to handle message reply" />
+      <item value="线程" />
       <item value="仅支持Android和i OS" />
       <item value="进度" />
       <item value="progress" />
@@ -51,13 +53,11 @@
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code @param idx: idx for nth frame to decode" />
       <item value="call to decode next frame decoded frame will keep in decoder using getImage to get AvifImage Object function only return error-code using getImage to get AvifImage Object" />
       <item value="return image depth can use without decode" />
-      <item value="Loop a finite number of times, which can be set using setLoopCount. Default to loop once." />
-      <item value="FINITE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1630" />
-        <entry key="ENGLISH" value="1630" />
+        <entry key="ENGLISH" value="1631" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
