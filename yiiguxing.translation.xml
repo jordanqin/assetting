@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Animation" />
       <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
       <item value="Do not place Android context classes in static fields; this is a memory leak" />
       <item value="duration" />
@@ -52,12 +53,11 @@
       <item value="Calculator" />
       <item value="You cannot have more than one AppGlideModule" />
       <item value="Disk Cache" />
-      <item value="Throwing OutOfMemoryError &quot;Failed to allocate a 1002438 byte allocation with 723792 free bytes and 706KB until OOM&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1640" />
-        <entry key="ENGLISH" value="1641" />
+        <entry key="CHINESE" value="1641" />
+        <entry key="ENGLISH" value="1642" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
