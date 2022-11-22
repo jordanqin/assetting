@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="prepare" />
+      <item value="准备" />
+      <item value="预备" />
       <item value="Couldn't get info from Bitmap or info not match AVIF Image" />
       <item value="水平方向" />
       <item value="水平" />
@@ -50,14 +53,11 @@
       <item value="subsampling" />
       <item value="super large image" />
       <item value="超大" />
-      <item value="超大图" />
-      <item value="Couldn't load memtrack module" />
-      <item value="解码失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1651" />
-        <entry key="ENGLISH" value="1652" />
+        <entry key="CHINESE" value="1653" />
+        <entry key="ENGLISH" value="1654" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
