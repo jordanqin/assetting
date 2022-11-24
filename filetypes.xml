@@ -2,12 +2,15 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="pigeon" type="AUTO_DETECTED" />
+      <mapping ext="tpg" type="AUTO_DETECTED" />
+      <mapping ext="so" type="AUTO_DETECTED" />
       <mapping ext="db-wal" type="Android Room SQL" />
       <mapping pattern="info_lines" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="CompressionImage" type="Native" />
       <mapping pattern="1609845248302" type="Native" />
+      <mapping ext="avif" type="Native" />
       <mapping pattern="1609844934306" type="PLAIN_TEXT" />
       <mapping pattern="1609844915154" type="PLAIN_TEXT" />
       <mapping pattern="info_news_dp" type="PLAIN_TEXT" />
@@ -21,7 +24,6 @@
       <mapping pattern="1609845532395" type="PLAIN_TEXT" />
       <mapping pattern="1609844927892" type="PLAIN_TEXT" />
       <mapping ext="textclipping" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
