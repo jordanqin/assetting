@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="recalculate" />
+      <item value="重新计算" />
+      <item value="不存在" />
+      <item value="已存在" />
       <item value="The metadata key to retrieve the date when the data source was created or modified." />
       <item value="rect param invaild" />
       <item value="if not call nextImage or nthImage, getImage get AvifImage Object only have the image info after calling nextImage or nthImage, getImage return AvifImage Object have real pixel data return scaled AvifImage" />
@@ -49,15 +53,11 @@
       <item value="Clip the overflowing text to fix its container." />
       <item value="Fade the overflowing text to transparent." />
       <item value="Use an ellipsis to indicate that the text has overflowed." />
-      <item value="Place the free space evenly between the children as well as half of that space before and after the first and last child." />
-      <item value="Place the free space evenly between the children as well as before and after the first and last child." />
-      <item value="Place the free space evenly between the children." />
-      <item value="infinity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1664" />
-        <entry key="ENGLISH" value="1665" />
+        <entry key="CHINESE" value="1667" />
+        <entry key="ENGLISH" value="1668" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
