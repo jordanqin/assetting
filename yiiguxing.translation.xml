@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Picker" />
       <item value="default service unregistered" />
       <item value="未注册" />
       <item value="default service unregister" />
@@ -52,12 +53,11 @@
       <item value="线程" />
       <item value="仅支持Android和i OS" />
       <item value="进度" />
-      <item value="progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1671" />
-        <entry key="ENGLISH" value="1672" />
+        <entry key="CHINESE" value="1672" />
+        <entry key="ENGLISH" value="1673" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
