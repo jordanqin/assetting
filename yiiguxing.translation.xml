@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="CONSTRAINED" />
       <item value="Exact" />
       <item value="Suspended" />
       <item value="type 'String' is not a subtype of type 'List&lt;RouteSettings&gt;' of 'configuration'" />
@@ -52,12 +53,11 @@
       <item value="包装" />
       <item value="BlockingCoroutine is cancelling and" />
       <item value="lateinit property cts has not been initialized" />
-      <item value="Batch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1676" />
-        <entry key="ENGLISH" value="1677" />
+        <entry key="CHINESE" value="1677" />
+        <entry key="ENGLISH" value="1678" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
