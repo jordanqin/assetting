@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="COMPLETED" />
       <item value="CONSTRAINED" />
       <item value="Exact" />
       <item value="Suspended" />
@@ -52,12 +53,11 @@
       <item value="Wrapper" />
       <item value="包装" />
       <item value="BlockingCoroutine is cancelling and" />
-      <item value="lateinit property cts has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1677" />
-        <entry key="ENGLISH" value="1678" />
+        <entry key="CHINESE" value="1678" />
+        <entry key="ENGLISH" value="1679" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669624246245" />
+    <option name="lastTrimTime" value="1670383758329" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
