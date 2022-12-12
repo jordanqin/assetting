@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No podspec found for `cos_plugin` in" />
       <item value="The current Dart SDK version is 2.13.1. Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed. pub get failed (1; Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed.)" />
       <item value="已下载" />
       <item value="Action Required: You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
@@ -52,12 +53,11 @@
       <item value="get deep copy image with scale(w,h) which keep in decoder if not call nextImage or nthImage, getImage get AvifImage Object only have the image info after calling nextImage or nthImage, getImage return AvifImage Object have real pixel data return scaled AvifImage" />
       <item value="Animation" />
       <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
-      <item value="Do not place Android context classes in static fields; this is a memory leak" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1683" />
-        <entry key="ENGLISH" value="1684" />
+        <entry key="CHINESE" value="1684" />
+        <entry key="ENGLISH" value="1685" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
