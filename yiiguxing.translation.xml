@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The function used is not enabled" />
       <item value="Composition" />
       <item value="No podspec found for `cos_plugin` in" />
       <item value="The current Dart SDK version is 2.13.1. Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed. pub get failed (1; Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed.)" />
@@ -52,12 +53,11 @@
       <item value="区域" />
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
       <item value="get deep copy image with scale(w,h) which keep in decoder if not call nextImage or nthImage, getImage get AvifImage Object only have the image info after calling nextImage or nthImage, getImage return AvifImage Object have real pixel data return scaled AvifImage" />
-      <item value="Animation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1685" />
-        <entry key="ENGLISH" value="1686" />
+        <entry key="CHINESE" value="1686" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
