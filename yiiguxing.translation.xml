@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
+      <item value="Please complete the ICP registration of your domain before use it in Mainland China" />
       <item value="Audit" />
       <item value="Inventory" />
       <item value="The function used is not enabled" />
@@ -51,13 +53,11 @@
       <item value="横" />
       <item value="竖" />
       <item value="param invaild" />
-      <item value="Integer" />
-      <item value="区域" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1688" />
-        <entry key="ENGLISH" value="1689" />
+        <entry key="CHINESE" value="1690" />
+        <entry key="ENGLISH" value="1691" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
