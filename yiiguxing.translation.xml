@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Audit" />
+      <item value="Inventory" />
       <item value="The function used is not enabled" />
       <item value="Composition" />
       <item value="No podspec found for `cos_plugin` in" />
@@ -51,13 +53,11 @@
       <item value="param invaild" />
       <item value="Integer" />
       <item value="区域" />
-      <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
-      <item value="get deep copy image with scale(w,h) which keep in decoder if not call nextImage or nthImage, getImage get AvifImage Object only have the image info after calling nextImage or nthImage, getImage return AvifImage Object have real pixel data return scaled AvifImage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1686" />
-        <entry key="ENGLISH" value="1687" />
+        <entry key="CHINESE" value="1688" />
+        <entry key="ENGLISH" value="1689" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670839327031" />
+    <option name="lastTrimTime" value="1671466406867" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
