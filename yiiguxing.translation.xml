@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Neither user 10176 nor current process has android.permission.ACCESS_NETWORK_STATE." />
       <item value="匿名" />
       <item value="or its super classes" />
       <item value="Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
@@ -52,12 +53,11 @@
       <item value="Couldn't get info from Bitmap or info not match AVIF Image" />
       <item value="水平方向" />
       <item value="水平" />
-      <item value="横" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1692" />
-        <entry key="ENGLISH" value="1692" />
+        <entry key="ENGLISH" value="1693" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671466406867" />
+    <option name="lastTrimTime" value="1671985231152" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
