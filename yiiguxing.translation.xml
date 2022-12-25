@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="there were 1 classes in incorrectly named files." />
+      <item value="Please correct the above warnings first." />
+      <item value="include" />
       <item value="Neither user 10176 nor current process has android.permission.ACCESS_NETWORK_STATE." />
       <item value="匿名" />
       <item value="or its super classes" />
@@ -50,14 +53,11 @@
       <item value="prepare" />
       <item value="准备" />
       <item value="预备" />
-      <item value="Couldn't get info from Bitmap or info not match AVIF Image" />
-      <item value="水平方向" />
-      <item value="水平" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1692" />
-        <entry key="ENGLISH" value="1693" />
+        <entry key="CHINESE" value="1695" />
+        <entry key="ENGLISH" value="1696" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
