@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="剩余" />
       <item value="Async" />
       <item value="Chain validation failed" />
       <item value="More than one file was found with OS independent path" />
@@ -52,11 +53,10 @@
       <item value="In Initializer" />
       <item value="Request threw uncaught throwable java.lang.ExceptionInInitializerError" />
       <item value="remaining" />
-      <item value="can use without decode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1700" />
+        <entry key="CHINESE" value="1701" />
         <entry key="ENGLISH" value="1701" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
