@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Exact" />
       <item value="protocol" />
       <item value="协议" />
       <item value="Required value was null." />
@@ -36,7 +37,6 @@
       <item value="Boolean method 'isNetworkConnected' is always inverted" />
       <item value="COMPLETED" />
       <item value="CONSTRAINED" />
-      <item value="Exact" />
       <item value="Suspended" />
       <item value="type 'String' is not a subtype of type 'List&lt;RouteSettings&gt;' of 'configuration'" />
       <item value="has" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1705" />
-        <entry key="ENGLISH" value="1706" />
+        <entry key="CHINESE" value="1706" />
+        <entry key="ENGLISH" value="1707" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
