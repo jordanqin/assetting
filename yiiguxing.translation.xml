@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Please call method initWithPlainSecret or initWithSessionCredentialCallback first" />
+      <item value="请先调用a方法" />
+      <item value="Please call a first initWithPlainSecret" />
+      <item value="请先调用a" />
+      <item value="请先调用init With Plain Secret或init With Session Credential Callback" />
       <item value="Exact" />
       <item value="protocol" />
       <item value="协议" />
@@ -48,16 +53,11 @@
       <item value="App restart successful without requiring a re-install." />
       <item value="recalculate" />
       <item value="重新计算" />
-      <item value="不存在" />
-      <item value="已存在" />
-      <item value="The metadata key to retrieve the date when the data source was created or modified." />
-      <item value="rect param invaild" />
-      <item value="if not call nextImage or nthImage, getImage get AvifImage Object only have the image info after calling nextImage or nthImage, getImage return AvifImage Object have real pixel data return scaled AvifImage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1706" />
-        <entry key="ENGLISH" value="1707" />
+        <entry key="CHINESE" value="1709" />
+        <entry key="ENGLISH" value="1710" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672728356943" />
+    <option name="lastTrimTime" value="1673267124351" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
