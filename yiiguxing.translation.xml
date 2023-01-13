@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="public" />
       <item value="Please call method initWithPlainSecret or initWithSessionCredentialCallback first" />
       <item value="请先调用a方法" />
       <item value="Please call a first initWithPlainSecret" />
@@ -52,12 +53,11 @@
       <item value="upload parts encounter exception" />
       <item value="App restart successful without requiring a re-install." />
       <item value="recalculate" />
-      <item value="重新计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1709" />
-        <entry key="ENGLISH" value="1710" />
+        <entry key="CHINESE" value="1710" />
+        <entry key="ENGLISH" value="1711" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
