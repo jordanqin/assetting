@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The project is using an incompatible version (AGP 7.3.1) of the Android Gradle plugin. Latest supported version is AGP 7.2.1" />
       <item value="public" />
       <item value="Please call method initWithPlainSecret or initWithSessionCredentialCallback first" />
       <item value="请先调用a方法" />
@@ -52,12 +53,11 @@
       <item value="default service unregister" />
       <item value="upload parts encounter exception" />
       <item value="App restart successful without requiring a re-install." />
-      <item value="recalculate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1710" />
-        <entry key="ENGLISH" value="1711" />
+        <entry key="CHINESE" value="1711" />
+        <entry key="ENGLISH" value="1712" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1673267124351" />
+    <option name="lastTrimTime" value="1674011254015" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
