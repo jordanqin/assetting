@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No space left on device" />
+      <item value="The target device is full." />
       <item value="Priority" />
       <item value="milliseconds" />
       <item value="The project is using an incompatible version (AGP 7.3.1) of the Android Gradle plugin. Latest supported version is AGP 7.2.1" />
@@ -51,13 +53,11 @@
       <item value="has" />
       <item value="Picker" />
       <item value="default service unregistered" />
-      <item value="未注册" />
-      <item value="default service unregister" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1713" />
-        <entry key="ENGLISH" value="1714" />
+        <entry key="CHINESE" value="1715" />
+        <entry key="ENGLISH" value="1716" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
