@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="&quot;name&quot; field must be a valid Dart identifier." />
       <item value="Cannot get UIManager because the context doesn't contain an active CatalystInstance." />
       <item value="Unexpected character" />
       <item value="No space left on device" />
@@ -52,12 +53,11 @@
       <item value="CONSTRAINED" />
       <item value="Suspended" />
       <item value="type 'String' is not a subtype of type 'List&lt;RouteSettings&gt;' of 'configuration'" />
-      <item value="has" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1717" />
-        <entry key="ENGLISH" value="1718" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
