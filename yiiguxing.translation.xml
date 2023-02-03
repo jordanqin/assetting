@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
       <item value="Do something to update progress..." />
       <item value="Signing with the debug keys for now, so `flutter run --release` works." />
       <item value="Add your own signing config for the release build." />
@@ -52,12 +53,11 @@
       <item value="The current Dart SDK version is 2.13.1. Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed. pub get failed (1; Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed.)" />
       <item value="已下载" />
       <item value="Action Required: You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
-      <item value="If transitive is true, local jar module and remote library's dependencies will be embed. If transitive is false, just embed first level dependency Local aar project does not support transitive, always embed first level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1727" />
-        <entry key="ENGLISH" value="1728" />
+        <entry key="CHINESE" value="1728" />
+        <entry key="ENGLISH" value="1729" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
