@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="approval" />
+      <item value="Authorized" />
+      <item value="Authority" />
       <item value="Temporary User" />
       <item value="details" />
       <item value="You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
@@ -50,14 +53,11 @@
       <item value="Audit" />
       <item value="Inventory" />
       <item value="The function used is not enabled" />
-      <item value="Composition" />
-      <item value="No podspec found for `cos_plugin` in" />
-      <item value="The current Dart SDK version is 2.13.1. Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed. pub get failed (1; Because cos_example requires SDK version &gt;=2.14.0 &lt;3.0.0, version solving failed.)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1730" />
-        <entry key="ENGLISH" value="1731" />
+        <entry key="CHINESE" value="1733" />
+        <entry key="ENGLISH" value="1734" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
