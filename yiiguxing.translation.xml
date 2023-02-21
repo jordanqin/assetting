@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Words Generalize" />
+      <item value="Speech" />
+      <item value="Audit" />
+      <item value="Sensitive Content" />
       <item value="excludes" />
       <item value="doc processing is not active yet, please apply for doc processing service first" />
       <item value="The queue provided is illegal" />
@@ -49,15 +53,11 @@
       <item value="stop here, re sign request and try again" />
       <item value="there were 1 classes in incorrectly named files." />
       <item value="Please correct the above warnings first." />
-      <item value="include" />
-      <item value="Neither user 10176 nor current process has android.permission.ACCESS_NETWORK_STATE." />
-      <item value="匿名" />
-      <item value="or its super classes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1740" />
-        <entry key="ENGLISH" value="1741" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
