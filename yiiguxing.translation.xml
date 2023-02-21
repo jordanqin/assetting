@@ -3,13 +3,13 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The queue provided is illegal" />
       <item value="Words Generalize" />
       <item value="Speech" />
       <item value="Audit" />
       <item value="Sensitive Content" />
       <item value="excludes" />
       <item value="doc processing is not active yet, please apply for doc processing service first" />
-      <item value="The queue provided is illegal" />
       <item value="Program type already present" />
       <item value="Error while merging dex archives:" />
       <item value="Cause" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
-        <entry key="ENGLISH" value="1746" />
+        <entry key="CHINESE" value="1746" />
+        <entry key="ENGLISH" value="1747" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
