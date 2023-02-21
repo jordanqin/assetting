@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="DNSRecordVerifyFailed : Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
+      <item value="Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
+      <item value="You are not allowed to set a reserved domain as the custom domain for your bucket" />
+      <item value="Please complete the ICP registration of your domain before use it in Mainland China" />
       <item value="AccountId is not consistent with owneruin" />
       <item value="The request is not valid with the current state of the bucket" />
       <item value="Replication" />
@@ -49,15 +53,11 @@
       <item value="Required value was null." />
       <item value="last" />
       <item value="Parameter specified as non-null is null" />
-      <item value="Parameter specified as non-null is null: method kotlin.jvm.internal.Intrinsics.checkNotNullParameter, parameter headers and" />
-      <item value="剩余" />
-      <item value="Async" />
-      <item value="Chain validation failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1752" />
-        <entry key="ENGLISH" value="1753" />
+        <entry key="CHINESE" value="1758" />
+        <entry key="ENGLISH" value="1759" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
