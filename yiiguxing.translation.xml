@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Replication" />
       <item value="Operation.0.Output.Region must be the same as the service using" />
       <item value="The queue provided is illegal" />
       <item value="Words Generalize" />
@@ -52,12 +53,11 @@
       <item value="Chain validation failed" />
       <item value="More than one file was found with OS independent path" />
       <item value="stop here, re sign request and try again" />
-      <item value="there were 1 classes in incorrectly named files." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1749" />
-        <entry key="ENGLISH" value="1750" />
+        <entry key="CHINESE" value="1750" />
+        <entry key="ENGLISH" value="1751" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
