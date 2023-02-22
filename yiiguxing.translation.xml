@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Before" />
+      <item value="Function Not Enabled" />
       <item value="Encountered an error parsing the JSON file. Please check the file and try again" />
       <item value="Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
       <item value="The XML you provided was not well-formed or did not validate against our published schema. refer list is empty" />
@@ -51,13 +53,11 @@
       <item value="请先调用init With Plain Secret或init With Session Credential Callback" />
       <item value="Exact" />
       <item value="protocol" />
-      <item value="协议" />
-      <item value="Required value was null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1762" />
-        <entry key="ENGLISH" value="1763" />
+        <entry key="CHINESE" value="1765" />
+        <entry key="ENGLISH" value="1766" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
