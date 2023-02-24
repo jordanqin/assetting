@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Responsive" />
+      <item value="Strip" />
       <item value="Accelerate" />
       <item value="the number of times countDown must be invoked before threads can pass through await" />
       <item value="Before" />
@@ -51,13 +53,11 @@
       <item value="Please call method initWithPlainSecret or initWithSessionCredentialCallback first" />
       <item value="请先调用a方法" />
       <item value="Please call a first initWithPlainSecret" />
-      <item value="请先调用a" />
-      <item value="请先调用init With Plain Secret或init With Session Credential Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1767" />
-        <entry key="ENGLISH" value="1768" />
+        <entry key="CHINESE" value="1769" />
+        <entry key="ENGLISH" value="1770" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
