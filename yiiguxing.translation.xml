@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Closeable" />
       <item value="extracted in memory" />
       <item value="No bitmaps registered" />
       <item value="proportional Scaling" />
@@ -52,12 +53,11 @@
       <item value="You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
       <item value="Do something to update progress..." />
       <item value="Signing with the debug keys for now, so `flutter run --release` works." />
-      <item value="Add your own signing config for the release build." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1785" />
-        <entry key="ENGLISH" value="1786" />
+        <entry key="CHINESE" value="1786" />
+        <entry key="ENGLISH" value="1787" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
