@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="has Color Gamut Mismatch" />
       <item value="in Temp Storage" />
       <item value="reconfigure" />
       <item value="HARDWARE" />
@@ -52,12 +53,11 @@
       <item value="The following line prevents the package from being accidentally published to pub.dev using `flutter pub publish`. This is preferred for private packages." />
       <item value="Tencent Cloud Flutter Plugin COS SDK." />
       <item value="&quot;name&quot; field must be a valid Dart identifier." />
-      <item value="Cannot get UIManager because the context doesn't contain an active CatalystInstance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1780" />
-        <entry key="ENGLISH" value="1781" />
+        <entry key="CHINESE" value="1781" />
+        <entry key="ENGLISH" value="1782" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
