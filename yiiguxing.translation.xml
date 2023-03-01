@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No bitmaps registered" />
       <item value="proportional Scaling" />
       <item value="等比" />
       <item value="has Color Gamut Mismatch" />
@@ -52,12 +53,11 @@
       <item value="Signing with the debug keys for now, so `flutter run --release` works." />
       <item value="Add your own signing config for the release build." />
       <item value="Remove this line if you wish to publish to pub.dev" />
-      <item value="The following line prevents the package from being accidentally published to pub.dev using `flutter pub publish`. This is preferred for private packages." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1782" />
-        <entry key="ENGLISH" value="1783" />
+        <entry key="CHINESE" value="1784" />
+        <entry key="ENGLISH" value="1785" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
