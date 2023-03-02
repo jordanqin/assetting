@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="DISPOSE TO PREVIOUS" />
+      <item value="DISPOSE TO BACKGROUND" />
+      <item value="DISPOSE DO NOT" />
+      <item value="should Dispose To Background Color" />
+      <item value="BLEND WITH PREVIOUS" />
+      <item value="is Blend With Previous Frame" />
       <item value="remaining" />
       <item value="does Render Support Scaling" />
       <item value="If a GIF image has no Netscape 2.0 loop extension, it is meant to play once and then stop. A loop count of 0 indicates an endless looping of the animation. Any loop count X&gt;0 indicates that the animation shall be repeated X times, resulting in the animation to play X+1 times." />
@@ -47,17 +53,11 @@
       <item value="The request is not valid with the current state of the bucket" />
       <item value="Replication" />
       <item value="Operation.0.Output.Region must be the same as the service using" />
-      <item value="The queue provided is illegal" />
-      <item value="Words Generalize" />
-      <item value="Speech" />
-      <item value="Audit" />
-      <item value="Sensitive Content" />
-      <item value="excludes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1798" />
-        <entry key="ENGLISH" value="1799" />
+        <entry key="CHINESE" value="1806" />
+        <entry key="ENGLISH" value="1807" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
