@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="cannot make a new request because the previous response is still open: please call response.close()" />
       <item value="NUMBER OF FRAMES TO PREPARE" />
       <item value="idx: idx for nth frame to decode" />
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
@@ -52,12 +53,11 @@
       <item value="DNSRecordVerifyFailed : Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
       <item value="You are not allowed to set a reserved domain as the custom domain for your bucket" />
       <item value="Please complete the ICP registration of your domain before use it in Mainland China" />
-      <item value="AccountId is not consistent with owneruin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1809" />
-        <entry key="ENGLISH" value="1810" />
+        <entry key="CHINESE" value="1810" />
+        <entry key="ENGLISH" value="1811" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
