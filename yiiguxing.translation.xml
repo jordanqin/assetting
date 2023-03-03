@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No bitmaps registered" />
       <item value="m Is Stateful" />
       <item value="cannot make a new request because the previous response is still open: please call response.close()" />
       <item value="NUMBER OF FRAMES TO PREPARE" />
@@ -28,7 +29,6 @@
       <item value="Capability" />
       <item value="Closeable" />
       <item value="extracted in memory" />
-      <item value="No bitmaps registered" />
       <item value="proportional Scaling" />
       <item value="等比" />
       <item value="has Color Gamut Mismatch" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1811" />
-        <entry key="ENGLISH" value="1812" />
+        <entry key="CHINESE" value="1812" />
+        <entry key="ENGLISH" value="1813" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
