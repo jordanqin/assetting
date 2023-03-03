@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="NUMBER OF FRAMES TO PREPARE" />
       <item value="idx: idx for nth frame to decode" />
       <item value="call to decode nth frame using getImage to get AvifImage Object function only return error-code" />
       <item value="DISPOSE TO PREVIOUS" />
@@ -52,12 +53,11 @@
       <item value="You are not allowed to set a reserved domain as the custom domain for your bucket" />
       <item value="Please complete the ICP registration of your domain before use it in Mainland China" />
       <item value="AccountId is not consistent with owneruin" />
-      <item value="The request is not valid with the current state of the bucket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1808" />
-        <entry key="ENGLISH" value="1809" />
+        <entry key="CHINESE" value="1809" />
+        <entry key="ENGLISH" value="1810" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
