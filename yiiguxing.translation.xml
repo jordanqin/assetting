@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Protects the fields below" />
       <item value="decrease" />
       <item value="Depth" />
       <item value="Counter" />
@@ -52,12 +53,11 @@
       <item value="Before" />
       <item value="Function Not Enabled" />
       <item value="Encountered an error parsing the JSON file. Please check the file and try again" />
-      <item value="Please add CNAMETXT record to DNS then try again later. Please allow up to 10 mins before your DNS takes effect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1816" />
-        <entry key="ENGLISH" value="1817" />
+        <entry key="CHINESE" value="1817" />
+        <entry key="ENGLISH" value="1818" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
@@ -79,7 +79,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1677499602239" />
+    <option name="lastTrimTime" value="1678087271458" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
