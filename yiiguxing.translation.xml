@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Closeable Reference" />
       <item value="Protects the fields below" />
       <item value="decrease" />
       <item value="Depth" />
@@ -52,12 +53,11 @@
       <item value="the number of times countDown must be invoked before threads can pass through await" />
       <item value="Before" />
       <item value="Function Not Enabled" />
-      <item value="Encountered an error parsing the JSON file. Please check the file and try again" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1817" />
-        <entry key="ENGLISH" value="1818" />
+        <entry key="CHINESE" value="1818" />
+        <entry key="ENGLISH" value="1819" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
