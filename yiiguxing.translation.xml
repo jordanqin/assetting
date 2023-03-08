@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Expired" />
       <item value="Weak" />
       <item value="The dependency contains Java 8 bytecode. Please enable desugaring by adding the following to build.gradle" />
       <item value="Mark has been invalidated, pos: 3503 markLimit: 65536" />
@@ -52,12 +53,11 @@
       <item value="rounded" />
       <item value="Responsive" />
       <item value="Strip" />
-      <item value="Accelerate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1821" />
-        <entry key="ENGLISH" value="1822" />
+        <entry key="CHINESE" value="1822" />
+        <entry key="ENGLISH" value="1823" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
