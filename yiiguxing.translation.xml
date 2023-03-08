@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="The dependency contains Java 8 bytecode. Please enable desugaring by adding the following to build.gradle" />
       <item value="Mark has been invalidated, pos: 3503 markLimit: 65536" />
       <item value="Closeable Reference" />
       <item value="Protects the fields below" />
@@ -52,12 +53,11 @@
       <item value="Strip" />
       <item value="Accelerate" />
       <item value="the number of times countDown must be invoked before threads can pass through await" />
-      <item value="Before" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1819" />
-        <entry key="ENGLISH" value="1820" />
+        <entry key="CHINESE" value="1820" />
+        <entry key="ENGLISH" value="1821" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
