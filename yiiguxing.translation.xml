@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="-1193" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="See Android Studio &amp; AGP compatibility options." />
+      <item value="The project is using an incompatible version (AGP 7.3.1) of the Android Gradle plugin. Latest supported version is AGP 7.2.1" />
       <item value="Exact" />
       <item value="Presigned" />
       <item value="The Signature you specified is invalid" />
@@ -51,13 +53,11 @@
       <item value="If bitmap with Bitmap.Config.HARDWARE was used, `bitmapToReuse` will be null and it's expected" />
       <item value="Performs transformation at load time to target color space." />
       <item value="bitmap To Reuse" />
-      <item value="BitmapPool.get returned null" />
-      <item value="subsampling" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1826" />
-        <entry key="ENGLISH" value="1827" />
+        <entry key="CHINESE" value="1828" />
+        <entry key="ENGLISH" value="1829" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="GERMAN" value="2" />
