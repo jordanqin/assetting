@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ENOUGH" />
+      <item value="BITSTREAM" />
       <item value="随机" />
       <item value="because it does not belong to any of the source dirs" />
       <item value="No tests found for given includes:" />
@@ -104,8 +106,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
