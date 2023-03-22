@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="批量" />
       <item value="Failed to instantiate test runner class androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner" />
       <item value="ENOUGH" />
       <item value="BITSTREAM" />
@@ -107,7 +108,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
+        <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="9" />
       </map>
     </option>
