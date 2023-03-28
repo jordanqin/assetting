@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Missing 'package' key attribute on element package at" />
       <item value="SKIPPED" />
       <item value="continue complete is 56914, but current progress is 10485760" />
       <item value="Unexpected code null" />
@@ -126,8 +127,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
