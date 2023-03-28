@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="SKIPPED" />
       <item value="continue complete is 56914, but current progress is 10485760" />
       <item value="Unexpected code null" />
       <item value="Allow calling onLoadFailed on the Target." />
@@ -125,8 +126,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
