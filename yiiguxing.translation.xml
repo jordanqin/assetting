@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Test failed to run to completion" />
       <item value="Missing 'package' key attribute on element package at" />
       <item value="SKIPPED" />
       <item value="continue complete is 56914, but current progress is 10485760" />
@@ -127,8 +128,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
