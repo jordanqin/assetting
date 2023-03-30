@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The secret key was improperly encoded. The secret key must be Base64 encoded" />
       <item value="The Signature you specified is invalid" />
       <item value="The specified multipart upload does not exist.The upload ID might be invalid, or the multipart upload might have been aborted or completed" />
       <item value="Precondition not match" />
@@ -141,8 +142,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
