@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Position not equal object length" />
       <item value="续传" />
       <item value="CONSTRAINT" />
       <item value="More than one file was found with OS independent path" />
@@ -138,7 +139,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
