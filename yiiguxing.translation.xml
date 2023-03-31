@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="compat" />
+      <item value="兼容" />
       <item value="The specified bucket does not exist" />
       <item value="The secret key was improperly encoded. The secret key must be Base64 encoded" />
       <item value="The Signature you specified is invalid" />
@@ -143,8 +145,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
