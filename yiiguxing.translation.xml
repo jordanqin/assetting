@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="the tencent cloud base image decoder android sdk" />
+      <item value="the tencent cloud base decoder image android sdk" />
       <item value="Non Null" />
       <item value="Transcode" />
       <item value="原图" />
@@ -142,13 +144,11 @@
       <item value="批量" />
       <item value="Failed to instantiate test runner class androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner" />
       <item value="ENOUGH" />
-      <item value="BITSTREAM" />
-      <item value="随机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
