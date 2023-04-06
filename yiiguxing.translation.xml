@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Foundation" />
       <item value="integration" />
       <item value="the tencent cloud base image decoder android sdk" />
       <item value="the tencent cloud base decoder image android sdk" />
@@ -143,12 +144,11 @@
       <item value="Present" />
       <item value="Expected name of the xml adapter is" />
       <item value="批量" />
-      <item value="Failed to instantiate test runner class androidx.test.internal.runner.junit4.AndroidJUnit4ClassRunner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
