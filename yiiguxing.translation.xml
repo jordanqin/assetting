@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="call may be accessed on the main thread while the object is in use on other threads. All other accesses to variables may occur on different threads, but only one at a time." />
       <item value="Constructor for a new Factory that runs requests using given client." />
       <item value="Foundation" />
       <item value="integration" />
@@ -143,12 +144,11 @@
       <item value="porn" />
       <item value="illegal" />
       <item value="Present" />
-      <item value="Expected name of the xml adapter is" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
