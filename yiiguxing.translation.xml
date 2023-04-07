@@ -94,6 +94,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The length of the http body stream is not equal to the header Content-Length" />
+      <item value="http body stream 长度不等于 header Content-Length" />
       <item value="enable Traffic" />
       <item value="Constructor for a new Factory that runs requests using given client." />
       <item value="Foundation" />
@@ -142,13 +144,11 @@
       <item value="Parameterized" />
       <item value="generate" />
       <item value="Women Chest" />
-      <item value="porn" />
-      <item value="illegal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
