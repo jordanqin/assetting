@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="getprop" />
       <item value="offline" />
       <item value="Extension" />
       <item value="Valid" />
@@ -143,12 +144,11 @@
       <item value="implemented" />
       <item value="未实现from Xml方法" />
       <item value="Illegal State" />
-      <item value="Method does not override method from its superclass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
