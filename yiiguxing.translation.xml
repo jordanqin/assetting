@@ -93,7 +93,11 @@
     <option name="lastTrimTime" value="1681197460654" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="-1428" />
+    <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="verify" />
+      <item value="校验" />
       <item value="Collecting data..." />
       <item value="The crc64 of the http body stream is not equal to the header x-cos-hash-crc64ecma" />
       <item value="getprop" />
@@ -142,13 +146,11 @@
       <item value="Allow calling onLoadFailed on the Target." />
       <item value="combine" />
       <item value="集成" />
-      <item value="接入" />
-      <item value="implemented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="66" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
