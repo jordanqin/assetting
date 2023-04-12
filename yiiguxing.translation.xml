@@ -94,6 +94,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The crc64 of the http body stream is not equal to the header x-cos-hash-crc64ecma" />
       <item value="getprop" />
       <item value="offline" />
       <item value="Extension" />
@@ -143,12 +144,11 @@
       <item value="接入" />
       <item value="implemented" />
       <item value="未实现from Xml方法" />
-      <item value="Illegal State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
