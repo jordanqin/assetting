@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="lookup" />
       <item value="Increment" />
       <item value="resolve" />
       <item value="consistency" />
@@ -145,12 +146,11 @@
       <item value="The dependency contains Java 8 bytecode. Please enable desugaring by adding the following to build.gradle" />
       <item value="Alternatively, increase the minSdkVersion to 26 or above." />
       <item value="queries was tagged at AndroidManifest.xml:27 to remove other declarations but no other declaration present" />
-      <item value="Test failed to run to completion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
