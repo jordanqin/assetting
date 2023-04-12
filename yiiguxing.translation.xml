@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="consistency" />
+      <item value="Retries" />
+      <item value="重试次数" />
+      <item value="consistency Verify" />
+      <item value="一致性校验" />
       <item value="verify" />
       <item value="校验" />
       <item value="Collecting data..." />
@@ -141,16 +146,11 @@
       <item value="Test failed to run to completion" />
       <item value="Missing 'package' key attribute on element package at" />
       <item value="SKIPPED" />
-      <item value="continue complete is 56914, but current progress is 10485760" />
-      <item value="Unexpected code null" />
-      <item value="Allow calling onLoadFailed on the Target." />
-      <item value="combine" />
-      <item value="集成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
