@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="prefetc" />
       <item value="MatchingDeclarationName: The file name 'OfficialFree' does not match the name of the single top-level declaration 'RegisterOfficialFreeRequest'." />
       <item value="official-free" />
       <item value="lookup" />
@@ -145,12 +146,11 @@
       <item value="Coverage" />
       <item value="execution" />
       <item value="The function used is not enabled" />
-      <item value="The dependency contains Java 8 bytecode. Please enable desugaring by adding the following to build.gradle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ITALIAN" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
