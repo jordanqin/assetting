@@ -90,12 +90,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681197460654" />
+    <option name="lastTrimTime" value="1681699435751" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Prefetch Host" />
+      <item value="Prefet" />
       <item value="prefetc" />
       <item value="MatchingDeclarationName: The file name 'OfficialFree' does not match the name of the single top-level declaration 'RegisterOfficialFreeRequest'." />
       <item value="official-free" />
@@ -144,14 +146,13 @@
       <item value="CONSTRAINT" />
       <item value="More than one file was found with OS independent path" />
       <item value="Coverage" />
-      <item value="execution" />
-      <item value="The function used is not enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="ITALIAN" value="1" />
+        <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
