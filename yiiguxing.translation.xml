@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="fetch" />
       <item value="Prefetch Host" />
       <item value="Prefet" />
       <item value="prefetc" />
@@ -145,12 +146,11 @@
       <item value="续传" />
       <item value="CONSTRAINT" />
       <item value="More than one file was found with OS independent path" />
-      <item value="Coverage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
