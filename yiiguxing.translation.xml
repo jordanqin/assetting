@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="After" />
       <item value="Deprecated" />
       <item value="continue" />
       <item value="Concurrent" />
@@ -145,12 +146,11 @@
       <item value="The Signature you specified is invalid" />
       <item value="The specified multipart upload does not exist.The upload ID might be invalid, or the multipart upload might have been aborted or completed" />
       <item value="Precondition not match" />
-      <item value="Position not equal object length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
