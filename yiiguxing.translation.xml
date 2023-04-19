@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="artifact" />
       <item value="After" />
       <item value="Deprecated" />
       <item value="continue" />
@@ -145,12 +146,11 @@
       <item value="The secret key was improperly encoded. The secret key must be Base64 encoded" />
       <item value="The Signature you specified is invalid" />
       <item value="The specified multipart upload does not exist.The upload ID might be invalid, or the multipart upload might have been aborted or completed" />
-      <item value="Precondition not match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
