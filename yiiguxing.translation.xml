@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Transcod success" />
       <item value="收藏成功" />
       <item value="successfully" />
       <item value="artifact" />
@@ -145,12 +146,11 @@
       <item value="is Stripping Finished" />
       <item value="compat" />
       <item value="兼容" />
-      <item value="The specified bucket does not exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
