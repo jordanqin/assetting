@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="收藏成功" />
+      <item value="successfully" />
       <item value="artifact" />
       <item value="artifacts" />
       <item value="After" />
@@ -144,13 +146,11 @@
       <item value="compat" />
       <item value="兼容" />
       <item value="The specified bucket does not exist" />
-      <item value="The secret key was improperly encoded. The secret key must be Base64 encoded" />
-      <item value="The Signature you specified is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="87" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
