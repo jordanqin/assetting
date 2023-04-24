@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681699435751" />
+    <option name="lastTrimTime" value="1682321655250" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Other" />
       <item value="verify Forever Key" />
       <item value="porn" />
       <item value="Transcod success" />
@@ -145,12 +146,11 @@
       <item value="Retriever" />
       <item value="exclude" />
       <item value="Stripping" />
-      <item value="is Stripping Finished" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
