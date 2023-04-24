@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="用其他应用打开" />
       <item value="Other" />
       <item value="verify Forever Key" />
       <item value="porn" />
@@ -145,12 +146,11 @@
       <item value="Retry" />
       <item value="Retriever" />
       <item value="exclude" />
-      <item value="Stripping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
