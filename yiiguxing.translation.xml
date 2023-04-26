@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="You must provide the Content-Length HTTP header" />
       <item value="Wed, 21 Oct" />
       <item value="Precondition not match" />
       <item value="Invalid resource directory name" />
@@ -145,12 +146,11 @@
       <item value="the tencent cloud base decoder image android sdk" />
       <item value="Non Null" />
       <item value="Transcode" />
-      <item value="原图" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
