@@ -96,8 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
-      <item value="this is small object is not exist" />
       <item value="The requested range cannot be satisfied" />
+      <item value="this is small object is not exist" />
       <item value="is Fix Slice Size" />
       <item value="空实现" />
       <item value="You must provide the Content-Length HTTP header" />
@@ -149,8 +149,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
