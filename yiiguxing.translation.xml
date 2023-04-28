@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="stream was reset" />
       <item value="Faild" />
       <item value="已存在" />
       <item value="verify DownloadRecord failed" />
@@ -145,12 +146,11 @@
       <item value="The length of the http body stream is not equal to the header Content-Length" />
       <item value="http body stream 长度不等于 header Content-Length" />
       <item value="enable Traffic" />
-      <item value="Constructor for a new Factory that runs requests using given client." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
