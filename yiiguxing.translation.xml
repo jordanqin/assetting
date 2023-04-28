@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="The requested range cannot be satisfied" />
       <item value="is Fix Slice Size" />
       <item value="空实现" />
       <item value="You must provide the Content-Length HTTP header" />
@@ -145,12 +146,11 @@
       <item value="call may be accessed on the main thread while the object is in use on other threads. All other accesses to variables may occur on different threads, but only one at a time." />
       <item value="integration" />
       <item value="the tencent cloud base image decoder android sdk" />
-      <item value="the tencent cloud base decoder image android sdk" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
