@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="已存在" />
       <item value="verify DownloadRecord failed" />
       <item value="The requested range cannot be satisfied" />
       <item value="this is small object is not exist" />
@@ -145,11 +146,10 @@
       <item value="enable Traffic" />
       <item value="Constructor for a new Factory that runs requests using given client." />
       <item value="Foundation" />
-      <item value="call may be accessed on the main thread while the object is in use on other threads. All other accesses to variables may occur on different threads, but only one at a time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
+        <entry key="CHINESE" value="104" />
         <entry key="ENGLISH" value="104" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
