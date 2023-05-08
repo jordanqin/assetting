@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="EXCEPTION CAUGHT BY SERVICES LIBRARY" />
+      <item value="Converting object to an encodable object failed: Instance of" />
       <item value="Scope Limit" />
       <item value="转换" />
       <item value="Scope" />
@@ -144,13 +146,11 @@
       <item value="The crc64 of the http body stream is not equal to the header x-cos-hash-crc64ecma" />
       <item value="getprop" />
       <item value="offline" />
-      <item value="Extension" />
-      <item value="Valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
