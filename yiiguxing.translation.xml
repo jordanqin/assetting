@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Action Required: You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
       <item value="EXCEPTION CAUGHT BY SERVICES LIBRARY" />
       <item value="Converting object to an encodable object failed: Instance of" />
       <item value="Scope Limit" />
@@ -145,12 +146,11 @@
       <item value="Collecting data..." />
       <item value="The crc64 of the http body stream is not equal to the header x-cos-hash-crc64ecma" />
       <item value="getprop" />
-      <item value="offline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
