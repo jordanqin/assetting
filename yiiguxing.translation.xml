@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="fetch credentials error" />
+      <item value="fetch credentials error happens" />
+      <item value="rethrow" />
+      <item value="cant grant other resource" />
       <item value="null Compatible" />
       <item value="兼容" />
       <item value="Neither user 10170 nor current process has android.permission.ACCESS_NETWORK_STATE" />
@@ -142,15 +146,11 @@
       <item value="resolve" />
       <item value="consistency" />
       <item value="Retries" />
-      <item value="重试次数" />
-      <item value="consistency Verify" />
-      <item value="一致性校验" />
-      <item value="verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
