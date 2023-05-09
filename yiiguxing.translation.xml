@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="you are not allowed to perform the operation" />
       <item value="fetch credentials error" />
       <item value="fetch credentials error happens" />
       <item value="rethrow" />
@@ -145,12 +146,11 @@
       <item value="Increment" />
       <item value="resolve" />
       <item value="consistency" />
-      <item value="Retries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
