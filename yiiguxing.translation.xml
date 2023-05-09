@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Neither user 10170 nor current process has android.permission.ACCESS_NETWORK_STATE" />
       <item value="Could not build the application for the simulator." />
       <item value="Action Required: You must set a build name and number in the pubspec.yaml file version field before submitting to the App Store." />
       <item value="EXCEPTION CAUGHT BY SERVICES LIBRARY" />
@@ -145,12 +146,11 @@
       <item value="verify" />
       <item value="校验" />
       <item value="Collecting data..." />
-      <item value="The crc64 of the http body stream is not equal to the header x-cos-hash-crc64ecma" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
