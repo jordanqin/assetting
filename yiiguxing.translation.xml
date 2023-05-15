@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="步骤" />
       <item value="Cannot stream a request body without chunked encoding or a known content length" />
       <item value="STATE WRITING REQUEST BODY" />
       <item value="continue With Task" />
@@ -145,11 +146,10 @@
       <item value="After" />
       <item value="Deprecated" />
       <item value="continue" />
-      <item value="Concurrent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
+        <entry key="CHINESE" value="130" />
         <entry key="ENGLISH" value="130" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
