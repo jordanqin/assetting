@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683798794344" />
+    <option name="lastTrimTime" value="1684237112284" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="last" />
       <item value="common" />
       <item value="cause" />
       <item value="decod failed" />
@@ -145,12 +146,11 @@
       <item value="Transcod success" />
       <item value="收藏成功" />
       <item value="successfully" />
-      <item value="artifact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
