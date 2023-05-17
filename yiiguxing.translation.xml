@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Original Image" />
       <item value="is defined multiple times" />
       <item value="Actual" />
       <item value="Expected" />
@@ -145,12 +146,11 @@
       <item value="用其他应用打开" />
       <item value="Other" />
       <item value="verify Forever Key" />
-      <item value="porn" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
