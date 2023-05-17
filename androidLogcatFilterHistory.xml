@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TpgOriginalImageRetry" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="TpgOriginalImageRetry" />
         <option value=" " />
         <option value="package:mineTpgOriginalImageRetry" />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="dns_ips" />
-        <option value="package:mine" />
         <option value="package:mine qqqjjjddd" />
         <option value="package:mine " />
       </list>
