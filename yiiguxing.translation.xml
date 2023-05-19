@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="maybe" />
       <item value="Intermediate" />
       <item value="Final" />
       <item value="consistency Verify" />
@@ -145,12 +146,11 @@
       <item value="The requested range cannot be satisfied" />
       <item value="this is small object is not exist" />
       <item value="is Fix Slice Size" />
-      <item value="空实现" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
