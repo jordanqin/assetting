@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="签名" />
       <item value="Traffic" />
       <item value="maybe" />
       <item value="Intermediate" />
@@ -145,12 +146,11 @@
       <item value="已存在" />
       <item value="verify DownloadRecord failed" />
       <item value="The requested range cannot be satisfied" />
-      <item value="this is small object is not exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
