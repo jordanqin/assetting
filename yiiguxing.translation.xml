@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684237112284" />
+    <option name="lastTrimTime" value="1684723519636" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Traffic" />
       <item value="maybe" />
       <item value="Intermediate" />
       <item value="Final" />
@@ -145,12 +146,11 @@
       <item value="verify DownloadRecord failed" />
       <item value="The requested range cannot be satisfied" />
       <item value="this is small object is not exist" />
-      <item value="is Fix Slice Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
