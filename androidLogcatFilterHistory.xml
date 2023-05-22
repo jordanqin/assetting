@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TpgFrescoOriginalRetry" />
+    <option name="mostRecentlyUsed" value="qqjjdd" />
     <option name="nonFavorites">
       <list>
+        <option value="qqjjdd" />
         <option value="package:mine" />
         <option value="TpgFrescoOriginalRetry" />
         <option value="TpgOriginalImageRetry" />
