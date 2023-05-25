@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="handles" />
       <item value="_internal" />
       <item value="force Invalidation Credential" />
       <item value="force Invalid Credential" />
@@ -145,12 +146,11 @@
       <item value="null Compatible" />
       <item value="兼容" />
       <item value="Neither user 10170 nor current process has android.permission.ACCESS_NETWORK_STATE" />
-      <item value="Could not build the application for the simulator." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
