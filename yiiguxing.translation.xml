@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="高级" />
+      <item value="图片压缩" />
+      <item value="高级压缩" />
       <item value="the library might be using APIs not available in 15" />
       <item value="Priority" />
       <item value="handles" />
@@ -143,14 +146,11 @@
       <item value="you are not allowed to perform the operation" />
       <item value="fetch credentials error" />
       <item value="fetch credentials error happens" />
-      <item value="rethrow" />
-      <item value="cant grant other resource" />
-      <item value="null Compatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
