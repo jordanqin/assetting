@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="the library might be using APIs not available in 15" />
       <item value="Priority" />
       <item value="handles" />
       <item value="_internal" />
@@ -145,12 +146,11 @@
       <item value="rethrow" />
       <item value="cant grant other resource" />
       <item value="null Compatible" />
-      <item value="兼容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
