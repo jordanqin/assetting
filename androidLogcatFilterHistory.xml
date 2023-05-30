@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QCloudHttp" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="QCloudHttp" />
         <option value="qqjjdd" />
-        <option value="package:mine" />
         <option value="qq" />
         <option value="TpgFrescoOriginalRetry" />
         <option value="TpgOriginalImageRetry" />
