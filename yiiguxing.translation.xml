@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="the maximum number of threads to allow in the pool" />
       <item value="default" />
       <item value="默认" />
       <item value="Semaphore" />
@@ -145,12 +146,11 @@
       <item value="步骤" />
       <item value="Cannot stream a request body without chunked encoding or a known content length" />
       <item value="STATE WRITING REQUEST BODY" />
-      <item value="continue With Task" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
