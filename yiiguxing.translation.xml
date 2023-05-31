@@ -96,6 +96,12 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="on Failure Before Retry" />
+      <item value="在重试之前的失败" />
+      <item value="在重试之前失败" />
+      <item value="on Before Retry Failed" />
+      <item value="on Retry Before Failed" />
+      <item value="重试前" />
       <item value="is Calling Callbacks" />
       <item value="what if this is a thumbnail request?" />
       <item value="available Processors" />
@@ -140,17 +146,11 @@
       <item value="Listener" />
       <item value="Original Image" />
       <item value="is defined multiple times" />
-      <item value="Actual" />
-      <item value="Expected" />
-      <item value="last" />
-      <item value="common" />
-      <item value="cause" />
-      <item value="decod failed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
