@@ -2,6 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="TpgGlideOriginalRetry" />
         <option value="qqjjdd" />
         <option value="qqqCount" />
         <option value="Traffic_" />
@@ -15,7 +17,6 @@
         <option value="package:com.tencent.cos.xml.test" />
         <option value="dns_ips" />
         <option value="package:mine qqqjjjddd" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
