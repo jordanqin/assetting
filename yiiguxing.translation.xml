@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="show local logs" />
+      <item value="查看" />
       <item value="is Same Day" />
       <item value="exhausted all logs" />
       <item value="exhausted" />
@@ -144,13 +146,11 @@
       <item value="签名" />
       <item value="maybe" />
       <item value="Intermediate" />
-      <item value="Final" />
-      <item value="consistency Verify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
