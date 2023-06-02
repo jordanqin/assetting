@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Url key and value should be splited by `=`." />
+      <item value="收藏路径需要以斜杠结束" />
+      <item value="slash" />
       <item value="only Choose Endpoint" />
       <item value="show local logs" />
       <item value="查看" />
@@ -143,14 +146,11 @@
       <item value="强制" />
       <item value="forced" />
       <item value="PERSIST" />
-      <item value="fail" />
-      <item value="签名" />
-      <item value="maybe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
