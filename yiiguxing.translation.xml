@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="is Same Day" />
       <item value="exhausted all logs" />
       <item value="exhausted" />
       <item value="Stash" />
@@ -145,12 +146,11 @@
       <item value="Intermediate" />
       <item value="Final" />
       <item value="consistency Verify" />
-      <item value="consistency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
