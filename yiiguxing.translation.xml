@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="收藏" />
       <item value="The request is missing a required parameter `AccessPath`" />
       <item value="Url key and value should be splited by `=`." />
       <item value="收藏路径需要以斜杠结束" />
@@ -145,11 +146,10 @@
       <item value="失效" />
       <item value="Valid" />
       <item value="强制" />
-      <item value="forced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
+        <entry key="CHINESE" value="197" />
         <entry key="ENGLISH" value="197" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
