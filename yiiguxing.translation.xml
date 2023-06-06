@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="斜杠" />
       <item value="FEATURE ON" />
       <item value="compare" />
       <item value="Same" />
@@ -145,11 +146,10 @@
       <item value="_internal" />
       <item value="force Invalidation Credential" />
       <item value="force Invalid Credential" />
-      <item value="Credential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
+        <entry key="CHINESE" value="203" />
         <entry key="ENGLISH" value="203" />
         <entry key="ITALIAN" value="1" />
         <entry key="MALAGASY" value="1" />
