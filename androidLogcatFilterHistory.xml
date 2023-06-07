@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="qqjjdd_" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="qqjjdd_" />
         <option value="qqjjdd_scrollToPosition" />
         <option value="QCloudHttp" />
@@ -12,7 +13,6 @@
         <option value="qqjjdd" />
         <option value="qqqCount" />
         <option value="Traffic_" />
-        <option value="package:mine" />
         <option value="qq" />
         <option value="TpgFrescoOriginalRetry" />
         <option value="TpgOriginalImageRetry" />
