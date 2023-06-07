@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="qqqjjjddd" />
+    <option name="mostRecentlyUsed" value="qqjjdd_" />
     <option name="nonFavorites">
       <list>
+        <option value="qqjjdd_" />
+        <option value="qqjjdd_scrollToPosition" />
         <option value="QCloudHttp" />
         <option value="qqqjjjddd" />
         <option value="package:mine " />
