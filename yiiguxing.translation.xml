@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Chosen" />
       <item value="transcod" />
       <item value="suffix Drawable" />
       <item value="suffix Has Thumbnail" />
@@ -145,13 +146,13 @@
       <item value="图片压缩" />
       <item value="高级压缩" />
       <item value="the library might be using APIs not available in 15" />
-      <item value="Priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
+        <entry key="CHINESE" value="206" />
         <entry key="ENGLISH" value="206" />
         <entry key="ITALIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
