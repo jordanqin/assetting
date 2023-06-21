@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Back" />
       <item value="the track" />
       <item value="the track for tencent cloud sdk" />
       <item value="the core track for tencent cloud sdk" />
@@ -145,13 +146,12 @@
       <item value="is Calling Callbacks" />
       <item value="what if this is a thumbnail request?" />
       <item value="available Processors" />
-      <item value="allow Core Thread Time Out" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
