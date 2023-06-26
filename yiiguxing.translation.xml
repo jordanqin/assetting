@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687330101182" />
+    <option name="lastTrimTime" value="1687764401690" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Due to your account is arrears, it is unavailable until you recharge" />
       <item value="Expected Android API level 21+ but was 30" />
       <item value="Diagnosis" />
       <item value="Interrupted Exception" />
@@ -145,13 +146,12 @@
       <item value="on Failure Before Retry" />
       <item value="在重试之前的失败" />
       <item value="在重试之前失败" />
-      <item value="on Before Retry Failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="225" />
-        <entry key="ENGLISH" value="226" />
+        <entry key="CHINESE" value="226" />
+        <entry key="ENGLISH" value="227" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
