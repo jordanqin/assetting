@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="cleartext Traffic Permitted" />
       <item value="本地日志列表" />
       <item value="Due to your account is arrears, it is unavailable until you recharge" />
       <item value="Expected Android API level 21+ but was 30" />
@@ -145,13 +146,12 @@
       <item value="stash All" />
       <item value="Cannot figure out how to save this field into database. You can consider adding a type converter for it." />
       <item value="on Failure Before Retry" />
-      <item value="在重试之前的失败" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
