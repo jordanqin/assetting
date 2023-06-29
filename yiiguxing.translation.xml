@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="reliable" />
+      <item value="regular" />
+      <item value="Attempts" />
       <item value="transpackage" />
       <item value="Segment" />
       <item value="Digital" />
@@ -143,15 +146,12 @@
       <item value="only Choose Endpoint" />
       <item value="show local logs" />
       <item value="查看" />
-      <item value="is Same Day" />
-      <item value="exhausted all logs" />
-      <item value="exhausted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
