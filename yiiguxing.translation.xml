@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="audit" />
       <item value="if the specified key or value is null and this map does not permit null keys or values" />
       <item value="reliable" />
       <item value="regular" />
@@ -145,13 +146,12 @@
       <item value="收藏路径需要以斜杠结束" />
       <item value="slash" />
       <item value="only Choose Endpoint" />
-      <item value="show local logs" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
