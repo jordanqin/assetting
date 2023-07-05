@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Installation did not succeed. The application could not be installed." />
       <item value="must be the same as the service using" />
       <item value="Mark has been invalidated" />
       <item value="Installed Build Tools revision 32.0.0 is corrupted. Remove and install again using the SDK Manager." />
@@ -145,13 +146,12 @@
       <item value="collect" />
       <item value="收藏" />
       <item value="The request is missing a required parameter `AccessPath`" />
-      <item value="Url key and value should be splited by `=`." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="240" />
+        <entry key="ENGLISH" value="241" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
