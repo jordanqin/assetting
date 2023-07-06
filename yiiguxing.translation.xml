@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="原始" />
       <item value="The bizType provided does not exist" />
       <item value="pic processing is not active yet, please apply for pic processing service first" />
       <item value="missing" />
@@ -145,12 +146,11 @@
       <item value="ends With" />
       <item value="斜杠" />
       <item value="FEATURE ON" />
-      <item value="compare" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="244" />
+        <entry key="CHINESE" value="245" />
         <entry key="ENGLISH" value="245" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
