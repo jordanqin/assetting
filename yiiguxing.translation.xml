@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688458226141" />
+    <option name="lastTrimTime" value="1688971183433" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="notify Summary" />
       <item value="前缀" />
       <item value="原始" />
       <item value="The bizType provided does not exist" />
@@ -145,13 +146,12 @@
       <item value="suffix Drawable" />
       <item value="suffix Has Thumbnail" />
       <item value="ends With" />
-      <item value="斜杠" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
