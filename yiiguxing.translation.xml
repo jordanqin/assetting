@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="MultipartFile cannot be used to imply a default content-type, please set a proper content-type in the request." />
+      <item value="finalize" />
       <item value="CONSTRAINT" />
       <item value="on All Constraints Met" />
       <item value="init Constraint Tracker" />
@@ -144,14 +146,12 @@
       <item value="request Legacy External Storage" />
       <item value="inserting of images should be performed using MediaStore.MediaColumns.IS_PENDING, which offers richer control over lifecycle." />
       <item value="Extension" />
-      <item value="Chosen" />
-      <item value="transcod" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
