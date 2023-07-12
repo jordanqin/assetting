@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="environment" />
       <item value="NETWORK LIB" />
       <item value="Receive" />
       <item value="The boundary of FormData, it consists of a constant prefix and a random postfix to assure the the boundary unpredictable and unique, each FormData instance will be different." />
@@ -145,13 +146,12 @@
       <item value="Append" />
       <item value="saopaulo" />
       <item value="sa-saopaulo" />
-      <item value="beginTime must be less than expiredTime." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
