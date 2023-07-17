@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="qqqjjjddd_query" />
+    <option name="mostRecentlyUsed" value="QCloudQuic" />
     <option name="nonFavorites">
       <list>
-        <option value="qqqjjjddd_query" />
+        <option value="QCloudQuic" />
         <option value="package:mine" />
+        <option value="qqqjjjddd_query" />
         <option value="package:mine " />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="qqjjdd_" />
