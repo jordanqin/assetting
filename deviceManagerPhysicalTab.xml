@@ -10,7 +10,7 @@
         </key>
         <name value="android Kindle Fire HDX" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Genymotion Google Nexus 5" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="Xiaomi MIX 2" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="Genymobile Google Nexus 10" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +54,7 @@
         </key>
         <name value=" Google Nexus 5" />
         <target value="Android 4.4" />
-        <api value="19" />
+        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +65,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +75,18 @@
         </key>
         <name value="HUAWEI TAS-AL00" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZHGUHI9LKBLBORB6" />
+          </Key>
+        </key>
+        <name value="OnePlus PGKM10" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
