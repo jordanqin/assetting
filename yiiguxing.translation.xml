@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="auditing jobId is illegal" />
       <item value="h 2_prior knowledge" />
       <item value="Validate that the list has everything we require and nothing we forbid." />
       <item value="Configure this client to follow redirects from HTTPS to HTTP and from HTTP to HTTPS. If unset, protocol redirects will be followed. This is different than the built-in HttpURLConnection's default" />
@@ -145,13 +146,12 @@
       <item value="Track" />
       <item value="illegal" />
       <item value="Basedir" />
-      <item value="A problem occurred evaluating project" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
