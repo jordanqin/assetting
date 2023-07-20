@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Deprecated member 'setContent' is still used" />
+      <item value="Deprecated" />
+      <item value="Config" />
+      <item value="Conf" />
       <item value="Content is invalid, length required between 1 and 20" />
       <item value="Unsupport Labels.Image when service is Text" />
       <item value="The url provided cannot be processed" />
@@ -142,17 +146,13 @@
       <item value="本地日志列表" />
       <item value="Due to your account is arrears, it is unavailable until you recharge" />
       <item value="Expected Android API level 21+ but was 30" />
-      <item value="Diagnosis" />
-      <item value="Interrupted Exception" />
-      <item value="Please call the init method of TrackService first" />
-      <item value="请先调用Track Service的init方法" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="273" />
+        <entry key="ENGLISH" value="274" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
