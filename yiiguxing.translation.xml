@@ -90,12 +90,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689682783973" />
+    <option name="lastTrimTime" value="1690188848703" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="supports Tls Extensions" />
+      <item value="CLEARTEXT" />
       <item value="bytes or inputStream using simple upload method" />
       <item value="Operation" />
       <item value="Media" />
@@ -144,15 +146,13 @@
       <item value="transpackage" />
       <item value="Segment" />
       <item value="Digital" />
-      <item value="post" />
-      <item value="cleartext Traffic Permitted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />

@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="com.tencent.ig" />
     <option name="nonFavorites">
       <list>
+        <option value="com.tencent.ig" />
         <option value="package:mine" />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="QCloudQuic" />
@@ -22,7 +23,6 @@
         <option value=" " />
         <option value="package:mineTpgOriginalImageRetry" />
         <option value="dns_ips" />
-        <option value="package:mine qqqjjjddd" />
       </list>
     </option>
   </component>
