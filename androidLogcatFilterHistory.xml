@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="com.tencent.ig" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="QCloudQuic" />
         <option value="qqqjjjddd_query" />
-        <option value="package:mine " />
         <option value="qqjjdd_" />
         <option value="qqjjdd_scrollToPosition" />
         <option value="QCloudHttp" />
