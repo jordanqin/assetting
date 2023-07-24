@@ -96,9 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="supports Tls Extensions" />
       <item value="follow Ssl Redirects" />
       <item value="Failure in SSL library, usually a protocol error" />
-      <item value="supports Tls Extensions" />
       <item value="CLEARTEXT" />
       <item value="bytes or inputStream using simple upload method" />
       <item value="Operation" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
