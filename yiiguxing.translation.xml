@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Error status : -1.OSS can not connect to your callbackUrl, please check it" />
       <item value="supports Tls Extensions" />
       <item value="follow Ssl Redirects" />
       <item value="Failure in SSL library, usually a protocol error" />
@@ -145,14 +146,13 @@
       <item value="reliable" />
       <item value="regular" />
       <item value="Attempts" />
-      <item value="transpackage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
