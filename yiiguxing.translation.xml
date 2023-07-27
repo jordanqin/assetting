@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="may lead to runtime failures" />
       <item value="execution" />
       <item value="SKIPPED" />
       <item value="No value has been specified for this property." />
@@ -145,14 +146,13 @@
       <item value="pic processing is not active yet, please apply for pic processing service first" />
       <item value="missing" />
       <item value="The template provided is illegal" />
-      <item value="Installation did not succeed. The application could not be installed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
