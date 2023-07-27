@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="execution" />
       <item value="SKIPPED" />
       <item value="No value has been specified for this property." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
@@ -103,7 +104,6 @@
       <item value="Could not find method getClassDirectories() for arguments []" />
       <item value="Could not find method getClassDirectories() for arguments [] on object of" />
       <item value="verification" />
-      <item value="execution" />
       <item value="Error status : -1.OSS can not connect to your callbackUrl, please check it" />
       <item value="supports Tls Extensions" />
       <item value="follow Ssl Redirects" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
