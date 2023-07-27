@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="No value has been specified for this property." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="finalized" />
       <item value="Could not find method getClassDirectories() for arguments []" />
@@ -145,14 +146,13 @@
       <item value="The template provided is illegal" />
       <item value="Installation did not succeed. The application could not be installed." />
       <item value="must be the same as the service using" />
-      <item value="Mark has been invalidated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="292" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
