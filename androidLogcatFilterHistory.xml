@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.tencent.ig" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.tencent.ci.image.test" />
         <option value="package:mine " />
         <option value="com.tencent.ig" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="TpgOriginalImageRetry" />
         <option value=" " />
         <option value="package:mineTpgOriginalImageRetry" />
-        <option value="dns_ips" />
       </list>
     </option>
   </component>
