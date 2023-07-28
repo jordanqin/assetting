@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.tencent.qcloud.image.avif.test" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.tencent.ci.image.test" />
+        <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="package:mine " />
+        <option value="package:com.tencent.ci.image.test" />
         <option value="com.tencent.ig" />
         <option value="package:mine" />
         <option value="package:com.tencent.cos.xml.test" />
@@ -22,7 +23,6 @@
         <option value="TpgFrescoOriginalRetry" />
         <option value="TpgOriginalImageRetry" />
         <option value=" " />
-        <option value="package:mineTpgOriginalImageRetry" />
       </list>
     </option>
   </component>
