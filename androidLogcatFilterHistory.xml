@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="线程数" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="qqjjdd" />
         <option value="线程数" />
         <option value="QCloudHttp" />
-        <option value="package:mine" />
         <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="package:mine " />
         <option value="package:com.tencent.ci.image.test" />
@@ -17,7 +18,6 @@
         <option value="qqjjdd_scrollToPosition" />
         <option value="qqqjjjddd" />
         <option value="TpgGlideOriginalRetry" />
-        <option value="qqjjdd" />
         <option value="qqqCount" />
         <option value="Traffic_" />
         <option value="qq" />
