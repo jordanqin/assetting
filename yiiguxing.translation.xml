@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="enable Traffic" />
+      <item value="wait for traffic control if necessary" />
       <item value="reduce Permits" />
       <item value="average Speed" />
       <item value="expect" />
@@ -144,15 +146,13 @@
       <item value="auditing jobId is illegal" />
       <item value="h 2_prior knowledge" />
       <item value="Validate that the list has everything we require and nothing we forbid." />
-      <item value="Configure this client to follow redirects from HTTPS to HTTP and from HTTP to HTTPS. If unset, protocol redirects will be followed. This is different than the built-in HttpURLConnection's default" />
-      <item value="increase this project's minSdk version to at least 21," />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
