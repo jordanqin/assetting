@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="expect" />
       <item value="concurrent" />
       <item value="max Concurrent" />
       <item value="Resizable Semaphore" />
@@ -145,14 +146,13 @@
       <item value="increase this project's minSdk version to at least 21," />
       <item value="Suggestion: use a compatible library with a minSdk of at most 16," />
       <item value="environment" />
-      <item value="NETWORK LIB" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
