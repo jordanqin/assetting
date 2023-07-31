@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Returns the approximate number of threads that are actively executing tasks. Returns: the number of threads" />
       <item value="enable Traffic" />
       <item value="wait for traffic control if necessary" />
       <item value="reduce Permits" />
@@ -145,14 +146,13 @@
       <item value="Strategie" />
       <item value="auditing jobId is illegal" />
       <item value="h 2_prior knowledge" />
-      <item value="Validate that the list has everything we require and nothing we forbid." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />

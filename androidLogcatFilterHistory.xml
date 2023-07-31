@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QCloudHttp" />
+    <option name="mostRecentlyUsed" value="线程数" />
     <option name="nonFavorites">
       <list>
+        <option value="线程数" />
         <option value="QCloudHttp" />
         <option value="package:mine" />
         <option value="package:com.tencent.qcloud.image.avif.test" />
@@ -22,7 +23,6 @@
         <option value="qq" />
         <option value="TpgFrescoOriginalRetry" />
         <option value="TpgOriginalImageRetry" />
-        <option value=" " />
       </list>
     </option>
   </component>
