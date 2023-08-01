@@ -4,10 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:com.tencent.qcloud.image.*.test" />
+        <option value="package:com.tencent.qcloud.image.tpg.test" />
+        <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="qqjjdd" />
         <option value="线程数" />
         <option value="QCloudHttp" />
-        <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="package:mine " />
         <option value="package:com.tencent.ci.image.test" />
         <option value="com.tencent.ig" />
@@ -21,8 +23,6 @@
         <option value="qqqCount" />
         <option value="Traffic_" />
         <option value="qq" />
-        <option value="TpgFrescoOriginalRetry" />
-        <option value="TpgOriginalImageRetry" />
       </list>
     </option>
   </component>
