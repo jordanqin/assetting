@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="notfound" />
       <item value="Installed Build Tools revision 33.0.0 is corrupted. Remove and install again using the SDK Manager." />
       <item value="excludes" />
       <item value="Couldn't get info from Bitmap or info not match AVIF Image" />
@@ -145,14 +146,13 @@
       <item value="bytes or inputStream using simple upload method" />
       <item value="Operation" />
       <item value="Media" />
-      <item value="Deprecated member 'setContent' is still used" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
