@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.tencent.qcloud.image.avif.test" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.tencent.qcloud.ci.imageloader.sample" />
+        <option value="package:com.tencent.qcloud.infinite.sample.test" />
+        <option value="package:mine " />
+        <option value="package:com.tencent.qcloud.image.tpg.test" />
         <option value="com.tencent.qcloud.image.avif.test" />
         <option value="package:com.tencent.qcloud.image.avif.test" />
-        <option value="package:com.tencent.qcloud.image.tpg.test" />
         <option value="qqjjdd" />
-        <option value="package:mine " />
         <option value="QCloudHttp" />
         <option value="x-cos-request-id" />
         <option value="package:com.tencent.cos.xml.test" />
@@ -21,8 +23,6 @@
         <option value="qqqjjjddd_query" />
         <option value="qqjjdd_" />
         <option value="qqjjdd_scrollToPosition" />
-        <option value="qqqjjjddd" />
-        <option value="TpgGlideOriginalRetry" />
       </list>
     </option>
   </component>
