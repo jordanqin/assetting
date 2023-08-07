@@ -90,12 +90,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690770160162" />
+    <option name="lastTrimTime" value="1691397078751" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Params: millis – the length of time to sleep in milliseconds" />
+      <item value="millis" />
       <item value="topic" />
       <item value="Empty" />
       <item value="Responsive" />
@@ -144,15 +146,13 @@
       <item value="finalized" />
       <item value="Could not find method getClassDirectories() for arguments []" />
       <item value="Could not find method getClassDirectories() for arguments [] on object of" />
-      <item value="verification" />
-      <item value="Error status : -1.OSS can not connect to your callbackUrl, please check it" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
