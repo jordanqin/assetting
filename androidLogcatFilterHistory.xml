@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QCloudHttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="QCloudHttp" />
         <option value="x-cos-request-id" />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="QCloudTest" />
-        <option value="package:mine " />
         <option value="package:com.tencent.qcloud.image.tpg.test" />
         <option value="package:mine" />
         <option value="package:com.tencent.qcloud.image.*.test" />
