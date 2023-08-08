@@ -35,6 +35,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.copilot">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.idescout.sqlite">
           <value>
             <PluginData>
@@ -86,6 +98,17 @@
                   <option value="com.intellij.modules.platform" />
                   <option value="io.flutter" />
                   <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.tencent.code.CodeCopilotJetBrainPlugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
