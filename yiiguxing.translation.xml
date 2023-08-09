@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="The test description was: tap on the floating action button, verify counter" />
       <item value="Flutter multidex handling is disabled. If you wish to let the tool configure multidex, use the │ │ --multidex flag." />
       <item value="introduction" />
       <item value="Could not find com.android.tools.build:gradle:7.0. Searched in the following locations:" />
@@ -145,14 +146,13 @@
       <item value="may lead to runtime failures" />
       <item value="execution" />
       <item value="SKIPPED" />
-      <item value="No value has been specified for this property." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
