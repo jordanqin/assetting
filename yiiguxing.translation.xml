@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="The Signature you specified is invalid." />
       <item value="CREDENTIAL" />
       <item value="Anonymous" />
       <item value="Self" />
@@ -145,14 +146,13 @@
       <item value="An error occurred while executing doInBackground()" />
       <item value="Can't create handler inside thread Thread[Instr: androidx.test.runner.AndroidJUnitRunner,5,main] that has not called Looper.prepare()" />
       <item value="After" />
-      <item value="set Progressive Rendering Enabled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
