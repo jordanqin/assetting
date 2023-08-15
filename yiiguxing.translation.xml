@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691397078751" />
+    <option name="lastTrimTime" value="1692086503204" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="The argument type 'FetchCredentials' can't be assigned to the parameter type 'IFetchCredentials'" />
       <item value="The Signature you specified is invalid." />
       <item value="CREDENTIAL" />
       <item value="Anonymous" />
@@ -145,14 +146,13 @@
       <item value="Failure" />
       <item value="An error occurred while executing doInBackground()" />
       <item value="Can't create handler inside thread Thread[Instr: androidx.test.runner.AndroidJUnitRunner,5,main] that has not called Looper.prepare()" />
-      <item value="After" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
