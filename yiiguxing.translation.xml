@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692086503204" />
+    <option name="lastTrimTime" value="1692686344680" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Test By PlainSecret" />
       <item value="avoid useless retry" />
       <item value="incorrect" />
       <item value="格式不正确" />
@@ -145,14 +146,13 @@
       <item value="More than one file was found with OS independent path 'libx86libtencent-avif.so'. If you are using jniLibs and CMake IMPORTED targets" />
       <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade" />
       <item value="Returns the approximate number of threads that are actively executing tasks. Returns: the number of threads" />
-      <item value="enable Traffic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
