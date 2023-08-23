@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="verify upload parts failed, part number" />
+    <option name="mostRecentlyUsed" value="package:com.tencent.cos.xml.test" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.tencent.cos.xml.test" />
         <option value="verify upload parts failed, part number" />
         <option value="transfer progress is" />
         <option value="MyCOSXmlSi" />
@@ -16,7 +17,6 @@
         <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="QCloudHttp" />
         <option value="x-cos-request-id" />
-        <option value="package:com.tencent.cos.xml.test" />
         <option value="QCloudTest" />
         <option value="package:mine" />
         <option value="package:com.tencent.qcloud.image.*.test" />
