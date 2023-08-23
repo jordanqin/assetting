@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QCloudHttp" />
+    <option name="mostRecentlyUsed" value="verify upload parts failed, part number" />
     <option name="nonFavorites">
       <list>
+        <option value="verify upload parts failed, part number" />
+        <option value="transfer progress is" />
         <option value="MyCOSXmlSi" />
         <option value="MyQCloudSelfSigner" />
         <option value="qqjjdd" />
@@ -21,8 +23,6 @@
         <option value="线程数" />
         <option value="package:com.tencent.ci.image.test" />
         <option value="com.tencent.ig" />
-        <option value="QCloudQuic" />
-        <option value="qqqjjjddd_query" />
       </list>
     </option>
   </component>
