@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="未注册" />
+      <item value="not register" />
+      <item value="unregister" />
       <item value="not exist" />
       <item value="Test By PlainSecret" />
       <item value="avoid useless retry" />
@@ -143,16 +146,13 @@
       <item value="有效" />
       <item value="Absolute" />
       <item value="Tile" />
-      <item value="You must call this method on a background thread" />
-      <item value="More than one file was found with OS independent path 'libx86libtencent-avif.so'. If you are using jniLibs and CMake IMPORTED targets" />
-      <item value="A failure occurred while executing com.android.build.gradle.internal.tasks.WorkersActionFacade" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="363" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
