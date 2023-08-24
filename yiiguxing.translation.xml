@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Slice" />
       <item value="remain" />
       <item value="未注册" />
       <item value="not register" />
@@ -145,14 +146,13 @@
       <item value="Ok" />
       <item value="正确" />
       <item value="有效" />
-      <item value="Absolute" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
