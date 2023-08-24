@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="QCloudHttp" />
     <option name="nonFavorites">
       <list>
+        <option value="QCloudHttp" />
         <option value="not the same" />
         <option value="x-cos-request-id" />
         <option value="transfer progress is" />
@@ -18,7 +19,6 @@
         <option value="package:com.tencent.qcloud.image.tpg.test" />
         <option value="com.tencent.qcloud.image.avif.test" />
         <option value="package:com.tencent.qcloud.image.avif.test" />
-        <option value="QCloudHttp" />
         <option value="QCloudTest" />
         <option value="package:mine" />
         <option value="package:com.tencent.qcloud.image.*.test" />
