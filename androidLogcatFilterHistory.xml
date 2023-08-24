@@ -2,9 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="not the same" />
         <option value="x-cos-request-id" />
         <option value="transfer progress is" />
-        <option value="not the same" />
         <option value="part number " />
         <option value="verify upload parts failed, part number" />
         <option value="package:com.tencent.cos.xml.test" />
