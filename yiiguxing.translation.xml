@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692686344680" />
+    <option name="lastTrimTime" value="1693205467904" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="Avoid using absolute paths in .gradle files" />
       <item value="do First" />
       <item value="NO-SOURCE" />
       <item value="signing" />
@@ -145,14 +146,13 @@
       <item value="Failed to find configured root that contains" />
       <item value="Small" />
       <item value="Fail" />
-      <item value="notfound" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
