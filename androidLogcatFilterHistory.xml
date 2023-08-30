@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="QCloudHttp" />
+    <option name="mostRecentlyUsed" value="streaming speed is" />
     <option name="nonFavorites">
       <list>
+        <option value="streaming speed is" />
+        <option value="set concurrent to" />
+        <option value="begin to execute" />
+        <option value="init concurrent is" />
+        <option value="download_Progress" />
+        <option value="download_State" />
+        <option value="download Progress" />
+        <option value="download state" />
         <option value="download 1M" />
         <option value="download 1" />
         <option value="QCloudHttp" />
@@ -15,14 +23,6 @@
         <option value="MyCOSXmlSi" />
         <option value="MyQCloudSelfSigner" />
         <option value="qqjjdd" />
-        <option value="package:com.tencent.qcloud.ci.imageloader.sample" />
-        <option value="package:com.tencent.qcloud.infinite.sample.test" />
-        <option value="package:mine " />
-        <option value="package:com.tencent.qcloud.image.tpg.test" />
-        <option value="com.tencent.qcloud.image.avif.test" />
-        <option value="package:com.tencent.qcloud.image.avif.test" />
-        <option value="QCloudTest" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>

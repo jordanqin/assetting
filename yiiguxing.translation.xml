@@ -96,6 +96,9 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="average Speed" />
+      <item value="expect" />
+      <item value="because we want to calculate the whole task duration, including downloading procedure, we put download operation here" />
       <item value="Aggressive" />
       <item value="domain" />
       <item value="Avoid using absolute paths in .gradle files" />
@@ -143,16 +146,13 @@
       <item value="millis" />
       <item value="topic" />
       <item value="Empty" />
-      <item value="Responsive" />
-      <item value="组合" />
-      <item value="Failed to find configured root that contains" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="374" />
-        <entry key="ENGLISH" value="375" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
