@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="download 1M" />
+        <option value="download 1" />
         <option value="QCloudHttp" />
         <option value="not the same" />
         <option value="x-cos-request-id" />
@@ -21,8 +23,6 @@
         <option value="package:com.tencent.qcloud.image.avif.test" />
         <option value="QCloudTest" />
         <option value="package:mine" />
-        <option value="package:com.tencent.qcloud.image.*.test" />
-        <option value="线程数" />
       </list>
     </option>
   </component>
