@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="streaming speed is" />
+    <option name="mostRecentlyUsed" value="download_Progress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.tencent.cos.xml.test" />
         <option value="streaming speed is" />
         <option value="set concurrent to" />
         <option value="begin to execute" />
@@ -19,7 +20,6 @@
         <option value="transfer progress is" />
         <option value="part number " />
         <option value="verify upload parts failed, part number" />
-        <option value="package:com.tencent.cos.xml.test" />
         <option value="MyCOSXmlSi" />
         <option value="MyQCloudSelfSigner" />
         <option value="qqjjdd" />
