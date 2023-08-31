@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="download_Progress" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="streaming speed is" />
         <option value="set concurrent to" />
@@ -22,7 +23,6 @@
         <option value="verify upload parts failed, part number" />
         <option value="MyCOSXmlSi" />
         <option value="MyQCloudSelfSigner" />
-        <option value="qqjjdd" />
       </list>
     </option>
   </component>
