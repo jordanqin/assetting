@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="缓存" />
+      <item value="Cache" />
       <item value="acquire" />
       <item value="wait for traffic control if necessary" />
       <item value="average Speed" />
@@ -144,15 +146,13 @@
       <item value="introduction" />
       <item value="Could not find com.android.tools.build:gradle:7.0. Searched in the following locations:" />
       <item value="guava" />
-      <item value="Params: millis – the length of time to sleep in milliseconds" />
-      <item value="millis" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="381" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
