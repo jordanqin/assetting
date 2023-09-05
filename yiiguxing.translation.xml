@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="set Close Report" />
+      <item value="set Is Close Report" />
+      <item value="track" />
+      <item value="report" />
+      <item value="Track Service" />
       <item value="diagnosis" />
       <item value="getaddrinfo error: nodename nor servname provided, or not known" />
       <item value="缓存" />
@@ -141,18 +146,13 @@
       <item value="Self" />
       <item value="Because cos_example depends on test &gt;=1.24.4 which requires SDK version &gt;=3.0.0 &lt;4.0.0, version solving failed." />
       <item value="Because intl_generator 0.2.1 depends on analyzer ^2.0.0 and test_core &gt;=0.4.18 &lt;0.5.4 depends on analyzer &gt;=3.3.0 &lt;6.0.0, intl_generator 0.2.1 is incompatible with test_core &gt;=0.4.18 &lt;0.5.4." />
-      <item value="Because" />
-      <item value="Because test" />
-      <item value="The test description was: tap on the floating action button, verify counter" />
-      <item value="Flutter multidex handling is disabled. If you wish to let the tool configure multidex, use the │ │ --multidex flag." />
-      <item value="introduction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
