@@ -90,12 +90,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693205467904" />
+    <option name="lastTrimTime" value="1693905256145" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="diagnosis" />
       <item value="getaddrinfo error: nodename nor servname provided, or not known" />
       <item value="缓存" />
       <item value="Cache" />
@@ -145,14 +146,13 @@
       <item value="The test description was: tap on the floating action button, verify counter" />
       <item value="Flutter multidex handling is disabled. If you wish to let the tool configure multidex, use the │ │ --multidex flag." />
       <item value="introduction" />
-      <item value="Could not find com.android.tools.build:gradle:7.0. Searched in the following locations:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
