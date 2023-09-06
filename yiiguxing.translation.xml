@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="直接" />
+      <item value="Changes the priority of this thread. First the checkAccess method of this thread is called with no arguments. This may result in throwing a SecurityException. Otherwise, the priority of this thread is set to the smaller of the specified newPriority and the maximum permitted priority of the thread's thread group. Params: newPriority – priority to set this thread to" />
+      <item value="priority to set this thread to" />
+      <item value="Creates an Executor that uses a single worker thread operating off an unbounded queue. (Note however that if this single thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks.) Tasks are guaranteed to execute sequentially, and no more than one task will be active at any given time. Unlike the otherwise equivalent newFixedThreadPool(1) the returned executor is guaranteed not to be reconfigurable to use additional threads. Returns: the newly created single-threaded Executor" />
       <item value="The value line.substring(&quot;Event code: &quot;.length()) assigned to 'eventCode' is never used" />
       <item value="控制" />
       <item value="Default constructor in android.os.AsyncTask is deprecated" />
@@ -142,17 +146,13 @@
       <item value="unregister" />
       <item value="not exist" />
       <item value="Test By PlainSecret" />
-      <item value="avoid useless retry" />
-      <item value="incorrect" />
-      <item value="格式不正确" />
-      <item value="简单" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="402" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
