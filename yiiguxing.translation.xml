@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="云控" />
       <item value="Boolean method 'isInclude' is always inverted" />
       <item value="没有引用beacon库,取消beacon初始化" />
       <item value="请先引用cls库" />
@@ -145,13 +146,12 @@
       <item value="sample" />
       <item value="不能为空" />
       <item value="超过限制" />
-      <item value="Pair" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="395" />
+        <entry key="CHINESE" value="396" />
         <entry key="ENGLISH" value="396" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
