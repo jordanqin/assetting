@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="控制" />
+      <item value="Default constructor in android.os.AsyncTask is deprecated" />
       <item value="云控" />
       <item value="Boolean method 'isInclude' is always inverted" />
       <item value="没有引用beacon库,取消beacon初始化" />
@@ -144,15 +146,13 @@
       <item value="格式不正确" />
       <item value="简单" />
       <item value="sample" />
-      <item value="不能为空" />
-      <item value="超过限制" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="398" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
