@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="metrics" />
       <item value="直接" />
       <item value="Changes the priority of this thread. First the checkAccess method of this thread is called with no arguments. This may result in throwing a SecurityException. Otherwise, the priority of this thread is set to the smaller of the specified newPriority and the maximum permitted priority of the thread's thread group. Params: newPriority – priority to set this thread to" />
       <item value="priority to set this thread to" />
@@ -145,14 +146,13 @@
       <item value="not register" />
       <item value="unregister" />
       <item value="not exist" />
-      <item value="Test By PlainSecret" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
