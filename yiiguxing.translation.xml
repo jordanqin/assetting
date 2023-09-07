@@ -96,6 +96,14 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="The number of businessParams cannot be greater than 10" />
+      <item value="businessParams 数量不能大于10" />
+      <item value="businessParams size must less than 10" />
+      <item value="businessParams size must less than 100" />
+      <item value="get Business Params" />
+      <item value="业务" />
+      <item value="自定义参数" />
+      <item value="自定义" />
       <item value="metrics" />
       <item value="直接" />
       <item value="Changes the priority of this thread. First the checkAccess method of this thread is called with no arguments. This may result in throwing a SecurityException. Otherwise, the priority of this thread is set to the smaller of the specified newPriority and the maximum permitted priority of the thread's thread group. Params: newPriority – priority to set this thread to" />
@@ -138,21 +146,13 @@
       <item value="signing" />
       <item value="capitalize" />
       <item value="Returns the socket that this connection is using. Returns an SSL socket if this connection is HTTPS. If this is an HTTP2 connection the socket may be shared by multiple concurrent calls." />
-      <item value="Real" />
-      <item value="'Socket' used without 'try'-with-resources statement Method invocation 'socket' may produce 'NullPointerException'" />
-      <item value="Slice" />
-      <item value="remain" />
-      <item value="未注册" />
-      <item value="not register" />
-      <item value="unregister" />
-      <item value="not exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
