@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="init Cls has already been called and the initialization code will not be executed again." />
+      <item value="init Cls已经被调用过，不会再次执行初始化代码" />
+      <item value="init has been called and the initialization code will not be executed again." />
+      <item value="init已经被调用过，不会再次执行初始化代码" />
+      <item value="Do not place Android context classes in static fields (static reference to QCloudTrackService which has field context pointing to Context); this is a memory leak" />
       <item value="The number of businessParams cannot be greater than 10" />
       <item value="businessParams 数量不能大于10" />
       <item value="businessParams size must less than 10" />
@@ -141,18 +146,13 @@
       <item value="Aggressive" />
       <item value="domain" />
       <item value="Avoid using absolute paths in .gradle files" />
-      <item value="do First" />
-      <item value="NO-SOURCE" />
-      <item value="signing" />
-      <item value="capitalize" />
-      <item value="Returns the socket that this connection is using. Returns an SSL socket if this connection is HTTPS. If this is an HTTP2 connection the socket may be shared by multiple concurrent calls." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
