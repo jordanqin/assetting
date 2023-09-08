@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="端" />
+      <item value="端侧" />
       <item value="init Cls has already been called and the initialization code will not be executed again." />
       <item value="init Cls已经被调用过，不会再次执行初始化代码" />
       <item value="init has been called and the initialization code will not be executed again." />
@@ -144,15 +146,13 @@
       <item value="expect" />
       <item value="because we want to calculate the whole task duration, including downloading procedure, we put download operation here" />
       <item value="Aggressive" />
-      <item value="domain" />
-      <item value="Avoid using absolute paths in .gradle files" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="413" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
