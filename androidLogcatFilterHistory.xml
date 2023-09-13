@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="download_Progress" />
+    <option name="mostRecentlyUsed" value="package:com.tencent.cos.xml.test" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:com.tencent.cos.xml.test" />
+        <option value="download_Progress" />
+        <option value="package:mine " />
         <option value="streaming speed is" />
         <option value="set concurrent to" />
         <option value="begin to execute" />
         <option value="init concurrent is" />
-        <option value="download_Progress" />
         <option value="download_State" />
         <option value="download Progress" />
         <option value="download state" />
