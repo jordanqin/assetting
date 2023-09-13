@@ -90,12 +90,17 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693905256145" />
+    <option name="lastTrimTime" value="1694597199851" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="-1428" />
     <option name="newTranslationDialogY" value="149" />
     <histories>
+      <item value="代理" />
+      <item value="是否代理" />
+      <item value="Clock Skewed Retry" />
+      <item value="is clock skewed retry" />
+      <item value="retry times" />
       <item value="端" />
       <item value="端侧" />
       <item value="init Cls has already been called and the initialization code will not be executed again." />
@@ -141,18 +146,13 @@
       <item value="缓存" />
       <item value="Cache" />
       <item value="acquire" />
-      <item value="wait for traffic control if necessary" />
-      <item value="average Speed" />
-      <item value="expect" />
-      <item value="because we want to calculate the whole task duration, including downloading procedure, we put download operation here" />
-      <item value="Aggressive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="AFRIKAANS" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="417" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="JAPANESE" value="1" />
