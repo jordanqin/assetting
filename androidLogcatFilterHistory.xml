@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.tencent.cos.xml.test" />
+    <option name="mostRecentlyUsed" value="getBeaconAppKey" />
     <option name="nonFavorites">
       <list>
+        <option value="getBeaconAppKey" />
+        <option value="BeaconTrackService" />
         <option value="package:com.tencent.cos.xml.test" />
         <option value="download_Progress" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="transfer progress is" />
         <option value="part number " />
         <option value="verify upload parts failed, part number" />
-        <option value="MyCOSXmlSi" />
-        <option value="MyQCloudSelfSigner" />
       </list>
     </option>
   </component>
